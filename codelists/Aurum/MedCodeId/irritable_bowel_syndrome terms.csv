@@ -1,0 +1,11 @@
+"searchterms","exclusionterms","searched_in_column","searchmethod"
+"Irritable bowel",,"Term","termsearch <- function(lookup, terms) {stringr::str_detect(lookup, stringr::regex(paste(terms, collapse = '|'), ignore_case = TRUE))}; initial <- dplyr::filter(DATA, termsearch(COLUMN, SEARCHTERMS)); excluded <- dplyr::filter(initial, termsearch(COLUMN, EXCLUSIONTERMS); final <- dplyr::setdiff(inital, excluded)"
+"Colon spasm",,,
+"Functional bowel disease",,,
+"IC - Irritable colon",,,
+"Irritable bowel",,,
+"Irritable colon",,,
+"Irritable colon - Irritable bowel syndrome",,,
+"Management of irritable bowel syndrome",,,
+"Mucous colitis",,,
+"Spastic colon",,,

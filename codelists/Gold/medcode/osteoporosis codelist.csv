@@ -1,0 +1,72 @@
+readcode,description,entity,list_name,upload_date,medcode
+585O.00,Quantitative ultrasound scan of heel - result osteoporotic,diagnostic,34 - Osteoporosis,24/06/2014,51891
+58E4.00,Forearm DXA scan result osteoporotic,diagnostic,34 - Osteoporosis,24/06/2014,13987
+58E8.00,Heel DXA scan T score,diagnostic,34 - Osteoporosis,07/11/2013,37972
+58EA.00,Heel DXA scan result osteoporotic,diagnostic,34 - Osteoporosis,07/11/2013,46510
+58EA.00,Heel DXA scan result osteoporotic,diagnostic,34 - Osteoporosis,24/06/2014,46510
+58EE.00,Hip DXA scan T score,diagnostic,34 - Osteoporosis,07/11/2013,40904
+58EG.00,Hip DXA scan result osteoporotic,diagnostic,34 - Osteoporosis,24/06/2014,42354
+58EG.00,Hip DXA scan result osteoporotic,diagnostic,34 - Osteoporosis,07/11/2013,42354
+58EK.00,Lumbar spine DXA scan T score,diagnostic,34 - Osteoporosis,07/11/2013,11581
+58EM.00,Lumbar DXA scan result osteoporotic,diagnostic,34 - Osteoporosis,24/06/2014,39217
+58EM.00,Lumbar DXA scan result osteoporotic,diagnostic,34 - Osteoporosis,07/11/2013,39217
+58ES.00,Femoral neck DEXA scan T score,diagnostic,34 - Osteoporosis,07/11/2013,97266
+58EV.00,Femoral neck DEXA scan result osteoporotic,diagnostic,34 - Osteoporosis,07/11/2013,96342
+7230A,OSTEOPOROSIS,diagnostic,34 - Osteoporosis,24/06/2014,74481
+7230B,OSTEOPOROSIS SENILIS,diagnostic,34 - Osteoporosis,24/06/2014,84762
+7230D,VERTEBRAL OSTEOPOROSIS,diagnostic,34 - Osteoporosis,24/06/2014,79907
+7230PM,OSTEOPOROSIS POSTMENOPAUSAL,diagnostic,34 - Osteoporosis,24/06/2014,82602
+7230PT,OSTEOPOROSIS POST-TRAUMATIC,diagnostic,34 - Osteoporosis,24/06/2014,86561
+N330.00,Osteoporosis,diagnostic,34 - Osteoporosis,24/06/2014,277
+N330.00,Osteoporosis,diagnostic,34 - Osteoporosis,07/11/2013,277
+N330000,Osteoporosis; unspecified,diagnostic,34 - Osteoporosis,07/11/2013,14967
+N330000,Osteoporosis; unspecified,diagnostic,34 - Osteoporosis,24/06/2014,14967
+N330100,Senile osteoporosis,diagnostic,34 - Osteoporosis,24/06/2014,16307
+N330100,Senile osteoporosis,diagnostic,34 - Osteoporosis,07/11/2013,16307
+N330200,Postmenopausal osteoporosis,diagnostic,34 - Osteoporosis,07/11/2013,9700
+N330200,Postmenopausal osteoporosis,diagnostic,34 - Osteoporosis,24/06/2014,9700
+N330300,Idiopathic osteoporosis,diagnostic,34 - Osteoporosis,24/06/2014,40428
+N330300,Idiopathic osteoporosis,diagnostic,34 - Osteoporosis,07/11/2013,40428
+N330400,Dissuse osteoporosis,diagnostic,34 - Osteoporosis,24/06/2014,62702
+N330400,Dissuse osteoporosis,diagnostic,34 - Osteoporosis,07/11/2013,62702
+N330500,Drug-induced osteoporosis,diagnostic,34 - Osteoporosis,24/06/2014,24093
+N330500,Drug-induced osteoporosis,diagnostic,34 - Osteoporosis,07/11/2013,24093
+N330600,Postoophorectomy osteoporosis,diagnostic,34 - Osteoporosis,07/11/2013,70349
+N330600,Postoophorectomy osteoporosis,diagnostic,34 - Osteoporosis,24/06/2014,70349
+N330700,Postsurgical malabsorption osteoporosis,diagnostic,34 - Osteoporosis,24/06/2014,93655
+N330700,Postsurgical malabsorption osteoporosis,diagnostic,34 - Osteoporosis,07/11/2013,93655
+N330800,Localized osteoporosis - Lequesne,diagnostic,34 - Osteoporosis,24/06/2014,54232
+N330800,Localized osteoporosis - Lequesne,diagnostic,34 - Osteoporosis,07/11/2013,54232
+N330900,Osteoporosis in multiple myelomatosis,diagnostic,34 - Osteoporosis,24/06/2014,60433
+N330900,Osteoporosis in multiple myelomatosis,diagnostic,34 - Osteoporosis,07/11/2013,60433
+N330A00,Osteoporosis in endocrine disorders,diagnostic,34 - Osteoporosis,07/11/2013,31580
+N330A00,Osteoporosis in endocrine disorders,diagnostic,34 - Osteoporosis,24/06/2014,31580
+N330B00,Vertebral osteoporosis,diagnostic,34 - Osteoporosis,07/11/2013,3346
+N330B00,Vertebral osteoporosis,diagnostic,34 - Osteoporosis,24/06/2014,3346
+N330C00,Osteoporosis localized to spine,diagnostic,34 - Osteoporosis,24/06/2014,16857
+N330C00,Osteoporosis localized to spine,diagnostic,34 - Osteoporosis,07/11/2013,16857
+N330D00,Osteoporosis due to corticosteroids,diagnostic,34 - Osteoporosis,07/11/2013,25650
+N330D00,Osteoporosis due to corticosteroids,diagnostic,34 - Osteoporosis,24/06/2014,25650
+N330z00,Osteoporosis NOS,diagnostic,34 - Osteoporosis,24/06/2014,34798
+N330z00,Osteoporosis NOS,diagnostic,34 - Osteoporosis,07/11/2013,34798
+N331200,Postoophorectomy osteoporosis with pathological fracture,diagnostic,34 - Osteoporosis,07/11/2013,39334
+N331200,Postoophorectomy osteoporosis with pathological fracture,diagnostic,34 - Osteoporosis,24/06/2014,39334
+N331300,Osteoporosis of disuse with pathological fracture,diagnostic,34 - Osteoporosis,24/06/2014,33526
+N331300,Osteoporosis of disuse with pathological fracture,diagnostic,34 - Osteoporosis,07/11/2013,33526
+N331400,Postsurgical malabsorption osteoporosis with path fracture,diagnostic,34 - Osteoporosis,24/06/2014,68019
+N331500,Drug-induced osteoporosis with pathological fracture,diagnostic,34 - Osteoporosis,24/06/2014,46894
+N331600,Idiopathic osteoporosis with pathological fracture,diagnostic,34 - Osteoporosis,07/11/2013,27597
+N331600,Idiopathic osteoporosis with pathological fracture,diagnostic,34 - Osteoporosis,24/06/2014,27597
+N331800,Osteoporosis + pathological fracture lumbar vertebrae,diagnostic,34 - Osteoporosis,24/06/2014,17377
+N331900,Osteoporosis + pathological fracture thoracic vertebrae,diagnostic,34 - Osteoporosis,24/06/2014,12673
+N331A00,Osteoporosis + pathological fracture cervical vertebrae,diagnostic,34 - Osteoporosis,24/06/2014,48772
+N331B00,Postmenopausal osteoporosis with pathological fracture,diagnostic,34 - Osteoporosis,24/06/2014,38395
+N331M00,Fragility fracture due to unspecified osteoporosis,diagnostic,34 - Osteoporosis,07/11/2013,11503
+N331N00,Fragility fracture,diagnostic,34 - Osteoporosis,07/11/2013,93497
+NyuB000,[X]Other osteoporosis with pathological fracture,diagnostic,34 - Osteoporosis,07/11/2013,57301
+NyuB000,[X]Other osteoporosis with pathological fracture,diagnostic,34 - Osteoporosis,24/06/2014,57301
+NyuB100,[X]Other osteoporosis,diagnostic,34 - Osteoporosis,24/06/2014,41755
+NyuB100,[X]Other osteoporosis,diagnostic,34 - Osteoporosis,07/11/2013,41755
+NyuB200,[X]Osteoporosis in other disorders classified elsewhere,diagnostic,34 - Osteoporosis,24/06/2014,102730
+NyuB800,[X]Unspecified osteoporosis with pathological fracture,diagnostic,34 - Osteoporosis,07/11/2013,18825
+NyuB800,[X]Unspecified osteoporosis with pathological fracture,diagnostic,34 - Osteoporosis,24/06/2014,18825

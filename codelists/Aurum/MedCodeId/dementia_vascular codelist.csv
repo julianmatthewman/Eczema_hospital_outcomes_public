@@ -1,0 +1,32 @@
+MedCodeId,Observations,OriginalReadCode,CleansedReadCode,Term,SnomedCTConceptId,SnomedCTDescriptionId,Release,EmisCodeCategoryId
+295680015,2000,Eu01y,Eu01y00,[X]Other vascular dementia,429998004,2770951017,,32
+295681016,20000,Eu01z,Eu01z00,"[X]Vascular dementia, unspecified",429998004,2770951017,,32
+297013012,600,F11x2,F11x200,Cerebral degeneration due to cerebrovascular disease,192813004,297013012,,32
+398571000006112,10000,Eu013,Eu01300,Mixed cortical and subcortical vascular dementia,230287006,345112018,,32
+428201000006119,6000,Eu012,Eu01200,Subcortical vascular dementia,230286002,345111013,,32
+431681000006117,600000,Eu01,Eu01.00,Vascular dementia,429998004,2770951017,,32
+431691000006119,1000,Eu010,Eu01000,Vascular dementia of acute onset,230285003,345110014,,32
+914921000006117,4000,EMISNQDV1,,[D] Vascular dementia,914921000006101,914921000006117,,32
+1972481000006114,9,EMISICD10|F0100,,"Vascular dementia of acute onset, without additional symptoms",1972481000006105,1972481000006114,,32
+1972501000006116,5,EMISICD10|F0101,,"Vascular dementia of acute onset, other symptoms, predominantly delusional",1972501000006100,1972501000006116,,32
+1972571000006110,20,EMISICD10|F0104,,"Vascular dementia of acute onset, other mixed symptoms",1972571000006106,1972571000006110,,32
+1972711000006113,4,EMISICD10|F0120,,"Subcortical vascular dementia, without additional symptoms",1972711000006109,1972711000006113,,32
+1972731000006119,1,EMISICD10|F0121,,"Subcortical vascular dementia, other symptoms, predominantly delusional",1972731000006103,1972731000006119,,32
+1972751000006114,10,EMISICD10|F0122,,"Subcortical vascular dementia, other symptoms, predominantly hallucinatory",1972751000006105,1972751000006114,,32
+1972771000006116,5,EMISICD10|F0123,,"Subcortical vascular dementia, other symptoms, predominantly depressive",1972771000006100,1972771000006116,,32
+1972791000006115,20,EMISICD10|F0124,,"Subcortical vascular dementia, other mixed symptoms",1972791000006104,1972791000006115,,32
+1972821000006112,20,EMISICD10|F0130,,"Mixed cortical and subcortical vascular dementia, without additional symptoms",1972821000006108,1972821000006112,,32
+1972831000006110,4,EMISICD10|F0131,,"Mixed cortical and subcortical vascular dementia, other symptoms, predominantly delusional",1972831000006106,1972831000006110,,32
+1972871000006113,2,EMISICD10|F0132,,"Mixed cortical and subcortical vascular dementia, other symptoms, predominantly hallucinatory",1972871000006109,1972871000006113,,32
+1972911000006111,1,EMISICD10|F0133,,"Mixed cortical and subcortical vascular dementia, other symptoms, predominantly depressive",1972911000006107,1972911000006111,,32
+1972931000006117,70,EMISICD10|F0134,,"Mixed cortical and subcortical vascular dementia, other mixed symptoms",1972931000006101,1972931000006117,,32
+1973221000006118,9,EMISICD10|F0180,,"Other vascular dementia, without additional symptoms",1973221000006102,1973221000006118,,32
+1973271000006117,1,EMISICD10|F0181,,"Other vascular dementia, other symptoms, predominantly delusional",1973271000006101,1973271000006117,,32
+1973341000006118,2,EMISICD10|F0182,,"Other vascular dementia, other symptoms, predominantly hallucinatory",1973341000006102,1973341000006118,,32
+1973381000006112,2,EMISICD10|F0183,,"Other vascular dementia, other symptoms, predominantly depressive",1973381000006108,1973381000006112,,32
+1973401000006112,300,EMISICD10|F0184,,"Other vascular dementia, other mixed symptoms",1973401000006108,1973401000006112,,32
+1973461000006113,80,EMISICD10|F0190,,"Vascular dementia, unspecified, without additional symptoms",1973461000006109,1973461000006113,,32
+1973531000006117,5,EMISICD10|F0192,,"Vascular dementia, unspecified, other symptoms, predominantly hallucinatory",1973531000006101,1973531000006117,,32
+1973551000006112,1,EMISICD10|F0193,,"Vascular dementia, unspecified, other symptoms, predominantly depressive",1973551000006108,1973551000006112,,32
+1976831000006111,700,EMISICD10|F0194,,"Vascular dementia, unspecified, other mixed symptoms",1976831000006107,1976831000006111,,32
+3414251000006112,7000,^ESCTVA341425,,VAD - Vascular dementia,56267009,497560014,,32

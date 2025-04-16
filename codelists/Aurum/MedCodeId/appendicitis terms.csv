@@ -1,0 +1,12 @@
+"searchterms","exclusionterms","searched_in_column","searchmethod"
+"appendicitis",,"Term","termsearch <- function(lookup, terms) {stringr::str_detect(lookup, stringr::regex(paste(terms, collapse = '|'), ignore_case = TRUE))}; initial <- dplyr::filter(DATA, termsearch(COLUMN, SEARCHTERMS)); excluded <- dplyr::filter(initial, termsearch(COLUMN, EXCLUSIONTERMS); final <- dplyr::setdiff(inital, excluded)"
+"Abscess of appendix",,,
+"appendic abscess",,,
+"Appendectomy",,,
+"Appendiceal abscess",,,
+"Appendicectomy",,,
+"Appendicular abscess",,,
+"Appendix abscess",,,
+"Drainage of appendix",,,
+"excision of abnormal appendix",,,
+"excision of appendix",,,

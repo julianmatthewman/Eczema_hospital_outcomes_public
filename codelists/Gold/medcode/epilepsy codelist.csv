@@ -1,0 +1,129 @@
+phenotype_name,medcode,ReadcodeDescr,Readcode
+Epilepsy,100652,Contraceptive advice for patients with epilepsy,6110.00
+Epilepsy,100920,Pre-conception advice for patients with epilepsy,67IJ000
+Epilepsy,102359,Pregnancy advice for patients with epilepsy,67AF.00
+Epilepsy,105679,Dravet syndrome,F25G.11
+Epilepsy,108409,Severe myoclonic epilepsy in infancy,F25G.00
+Epilepsy,11015,Seizure free >12 months,667F.00
+Epilepsy,11186,Generalised nonconvulsive epilepsy,F250.00
+Epilepsy,11394,Complex partial epileptic seizure,F254500
+Epilepsy,12848,Epilepsy resolved,212J.00
+Epilepsy,13073,Epilepsy drug side effects,6677.00
+Epilepsy,13219,No seizures on treatment,667P.00
+Epilepsy,13220,Epilepsy control poor,667D.00
+Epilepsy,13221,2 to 4 seizures a month,667R.00
+Epilepsy,1715,Epileptic absences,F250011
+Epilepsy,17399,Juvenile absence epilepsy,F250400
+Epilepsy,18471,Epileptic seizures - clonic,F251200
+Epilepsy,18899,Daily seizures,667T.00
+Epilepsy,19170,Benign Rolandic epilepsy,F25y400
+Epilepsy,19363,Juvenile myoclonic epilepsy,F25A.00
+Epilepsy,19549,1 to 7 seizures a week,667S.00
+Epilepsy,19550,Epilepsy control good,667C.00
+Epilepsy,19551,Epilepsy care arrangement,667E.00
+Epilepsy,19552,Epilepsy does not limit activities,667L.00
+Epilepsy,20566,Epilepsy treatment stopped,667A.00
+Epilepsy,21885,Post-ictal state,F258.00
+Epilepsy,22341,Epilepsy confirmed,1O30.00
+Epilepsy,22804,Tonic-clonic epilepsy,F251011
+Epilepsy,22991,Epilepsy severity,667N.00
+Epilepsy,23415,Salaam attacks,F256100
+Epilepsy,23634,Psychomotor epilepsy,F254100
+Epilepsy,24309,Epileptic seizures - atonic,F250200
+Epilepsy,25330,Complex partial status epilepticus,F25y300
+Epilepsy,26015,Partial epilepsy without impairment of consciousness,F255.00
+Epilepsy,26144,Generalised convulsive epilepsy,F251.00
+Epilepsy,26512,Epilepsy treatment changed,6678.00
+Epilepsy,26618,1 to 12 seizures a year,667Q.00
+Epilepsy,26619,Epilepsy limits activities,667K.00
+Epilepsy,26620,Epilepsy restricts employment,667G.00
+Epilepsy,26733,Partial epilepsy without impairment of consciousness OS,F255y00
+Epilepsy,27526,Partial epilepsy without impairment of consciousness NOS,F255z00
+Epilepsy,2907,Petit mal (minor) epilepsy,F250000
+Epilepsy,30604,Alcohol-induced epilepsy,F25B.00
+Epilepsy,30635,Photosensitive epilepsy,F25F.00
+Epilepsy,30816,Drug-induced epilepsy,F25C.00
+Epilepsy,3175,Temporal lobe epilepsy,F254000
+Epilepsy,31830,Epileptic seizures - akinetic,F250300
+Epilepsy,31877,[X]Schizophrenia-like psychosis in epilepsy,Eu05212
+Epilepsy,31920,Partial epilepsy with impairment of consciousness NOS,F254z00
+Epilepsy,32288,Partial epilepsy with impairment of consciousness,F254.00
+Epilepsy,34079,Epileptic automatism,F254400
+Epilepsy,34473,Epilepsy treatment started,6679.00
+Epilepsy,34792,Lennox-Gastaut syndrome,F250500
+Epilepsy,3607,Fit (in known epileptic) NOS,F25z.11
+Epilepsy,36203,Psychosensory epilepsy,F254200
+Epilepsy,36696,Epilepsy monitoring NOS,667Z.00
+Epilepsy,37592,Somatosensory epilepsy,F255200
+Epilepsy,37644,Progressive myoclonic epilepsy,F132100
+Epilepsy,37782,Neonatal myoclonic epilepsy,F251100
+Epilepsy,3783,H/O: epilepsy,1473.00
+Epilepsy,37906,Early infant epileptic encephalopathy wth suppression bursts,F259.00
+Epilepsy,38307,Other forms of epilepsy,F25y.00
+Epilepsy,38919,Transient epileptic amnesia,1B1W.00
+Epilepsy,39023,West syndrome,F256.12
+Epilepsy,39160,Many seizures a day,667V.00
+Epilepsy,40105,Simple partial epileptic seizure,F255600
+Epilepsy,40806,Generalised convulsive epilepsy NOS,F251z00
+Epilepsy,40863,Epilepsy impairs education,667J.00
+Epilepsy,4093,Status epilepticus,F253.11
+Epilepsy,43679,[X]Acquired aphasia with epilepsy [Landau - Kleffner],Eu80300
+Epilepsy,44252,Generalised nonconvulsive epilepsy NOS,F250z00
+Epilepsy,4478,Infantile spasms,F256.00
+Epilepsy,45602,Myoclonic encephalopathy,F132200
+Epilepsy,45757,Epilepsy monitoring verbal invite,9Of3.00
+Epilepsy,45927,Other specified generalised convulsive epilepsy,F251y00
+Epilepsy,4602,Nocturnal epilepsy,667B.00
+Epilepsy,46603,Emergency epilepsy treatment since last appointment,667W.00
+Epilepsy,4801,Epileptic seizures - myoclonic,F251300
+Epilepsy,48134,Sensory induced epilepsy,F255100
+Epilepsy,48462,[X]Limbic epilepsy personality,Eu06013
+Epilepsy,49322,Infantile spasms NOS,F256z00
+Epilepsy,49340,Otohara syndrome,F251111
+Epilepsy,49737,Dyssynergia cerebellaris myoclonica,F142200
+Epilepsy,50012,Epilepsy associated problems,6674.00
+Epilepsy,50702,Epilepsy prevents employment,667H.00
+Epilepsy,5117,Grand mal status,F253.00
+Epilepsy,5152,Epileptic seizures - tonic,F251400
+Epilepsy,51998,Ohtahara syndrome,F259.11
+Epilepsy,52632,No epilepsy drug side effects,667X.00
+Epilepsy,53483,Gelastic epilepsy,F25y100
+Epilepsy,5525,Focal epilepsy,F255011
+Epilepsy,55260,Cursive (running) epilepsy,F25y000
+Epilepsy,55665,Limbic system epilepsy,F254300
+Epilepsy,55706,Epilepsy management plan given,667M.00
+Epilepsy,55739,Visual reflex epilepsy,F255400
+Epilepsy,56359,Menstrual epilepsy,F25D.00
+Epilepsy,573,Epilepsy,F25..00
+Epilepsy,59120,[X]Other status epilepticus,Fyu5200
+Epilepsy,59185,Other specified generalised nonconvulsive epilepsy,F250y00
+Epilepsy,6271,"Status epilepticus, unspecified",F25X.00
+Epilepsy,63826,Unverricht - Lundborg disease,F132111
+Epilepsy,65673,Stress-induced epilepsy,F25E.00
+Epilepsy,65699,Motor epilepsy,F255012
+Epilepsy,6709,[X]Epileptic psychosis NOS,Eu05y11
+Epilepsy,68486,Lightning spasms,F256.11
+Epilepsy,68946,Unilateral epilepsy,F255500
+Epilepsy,6983,Epilepsy monitoring,667..00
+Epilepsy,69831,[X]Other epilepsy,Fyu5100
+Epilepsy,71719,Kojevnikov's epilepsy,F257.00
+Epilepsy,71801,"[X]Status epilepticus, unspecified",Fyu5900
+Epilepsy,72384,Epilepsy monitoring telephone invite,9Of4.00
+Epilepsy,73542,Visceral reflex epilepsy,F255300
+Epilepsy,7945,Hypsarrhythmia,F256000
+Epilepsy,8187,Tonic-clonic epilepsy,F251500
+Epilepsy,8385,Epilepsy resolved,2126000.0
+Epilepsy,9326,Epilepsy medication review,8BIF.00
+Epilepsy,9569,"Jacksonian, focal or motor epilepsy",F255000
+Epilepsy,96641,Panayiotopoulos syndrome,F25y500
+Epilepsy,9747,Epilepsy NOS,F25z.00
+Epilepsy,98442,Epilepsy monitoring call first letter,9Of5.00
+Epilepsy,98536,Epilepsy monitoring call second letter,9Of6.00
+Epilepsy,988,Grand mal (major) epilepsy,F251000
+Epilepsy,9886,Petit mal status,F252.00
+Epilepsy,9887,Locl-rlt(foc)(part)idiop epilep&epilptic syn seiz locl onset,F25y200
+Epilepsy,98870,Partial epilepsy with autonomic symptoms,F255311
+Epilepsy,98977,Epilepsy monitoring call third letter,9Of7.00
+Epilepsy,99548,Pykno-epilepsy,F250100
+Epilepsy,99731,[X]Other generalized epilepsy and epileptic syndromes,Fyu5000
+Epilepsy,9979,Other forms of epilepsy NOS,F25yz00

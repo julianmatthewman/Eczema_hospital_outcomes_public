@@ -1,0 +1,394 @@
+dmdid	DISPLAY
+35278611000001109	A-Derma Exomega cleansing oil (Pierre Fabre Dermo-Cosmetique)
+35278211000001107	A-Derma Exomega emollient cream (Pierre Fabre Dermo-Cosmetique)
+35278911000001103	A-Derma soothing foaming gel (Pierre Fabre Dermo-Cosmetique)
+34766311000001106	Adex gel (Dermal Laboratories Ltd)
+4022011000001102	Alcoderm cream (Galderma (UK) Ltd)
+24492511000001105	Alhydran cream (Espere Healthcare Ltd)
+32555711000001104	Alhydran SPF 30 cream (Espere Healthcare Ltd)
+4277611000001100	Allergenics emollient cream (Optima Consumer Health Ltd)
+17845511000001105	Almond oil + Lanolin anhydrous
+17844011000001101	Almond oil 5% / Lanolin anhydrous 1% cream
+31342311000001108	AproDerm Colloidal Oat cream (Fontus Health Ltd)
+28390111000001105	AproDerm emollient cream (Fontus Health Ltd)
+34976811000001104	AproDerm ointment (Fontus Health Ltd)
+7523411000001107	AquaBar (Strides Pharma UK Ltd)
+33532811000001107	AquaDerm Aqueous cream (Impectron Ltd)
+33533411000001101	AquaDerm Cetomacrogol cream (Formula A) (Impectron Ltd)
+33532611000001108	AquaDerm Hydrous ointment (Impectron Ltd)
+19270111000001105	Aquamax cream (Intrapharm Laboratories Ltd)
+19270411000001100	Aquamax wash (Intrapharm Laboratories Ltd)
+18005711000001104	Aquamol cream (Thornton & Ross Ltd)
+9721801000001102	Aqueous cream
+14607911000001101	Aqueous cream
+396911000001102	Aqueous cream (A A H Pharmaceuticals Ltd)
+372111000001108	Aqueous cream (Actavis UK Ltd)
+772411000001102	Aqueous cream (Alliance Healthcare (Distribution) Ltd)
+9787511000001102	Aqueous cream (Almus Pharmaceuticals Ltd)
+38565311000001103	Aqueous cream (Crescent Pharma Ltd)
+13584411000001109	Aqueous cream (DE Pharmaceuticals)
+13114111000001107	Aqueous cream (Dowelhurst Ltd)
+334111000001102	Aqueous cream (Ecolab Healthcare Division)
+172211000001107	Aqueous cream (J M Loveridge Ltd)
+260811000001103	Aqueous cream (Kent Pharmaceuticals Ltd)
+7930411000001109	Aqueous cream (Lloyds Pharmacy Ltd)
+29994711000001107	Aqueous cream (Mawdsley-Brooks & Company Ltd)
+38789311000001102	Aqueous cream (Medihealth (Northern) Ltd)
+17783111000001107	Aqueous cream (Phoenix Healthcare Distribution Ltd)
+18954011000001101	Aqueous cream (Pinewood Healthcare)
+14783911000001100	Aqueous cream (Rusco Ltd)
+49311000001101	Aqueous cream (Sandoz Ltd)
+15066511000001106	Aqueous cream (Sigma Pharmaceuticals Plc)
+17337111000001109	Aqueous cream (Strides Pharma UK Ltd)
+916011000001107	Aqueous cream (Teva UK Ltd)
+781111000001109	Aqueous cream (The Boots Company Plc)
+659311000001108	Aqueous cream (Thornton & Ross Ltd)
+19710811000001104	Aqueous cream (Vantage)
+24449811000001109	Aqueous cream 50% / Emulsifying ointment 50% cream
+24450011000001108	Aqueous cream 50% / Emulsifying ointment 50% cream (Special Order)
+19556211000001105	AriPro mousse (Meadow Laboratories Ltd)
+3774111000001107	Ashbourne Emollient Medicinal bath oil (Ashbourne Pharmaceuticals Ltd)
+3333311000001109	Aveeno baby bath additive colloidal powder 15g sachets (Johnson & Johnson Ltd)
+3334411000001104	Aveeno bath additive colloidal powder 50g sachets (Johnson & Johnson Ltd)
+13834211000001100	Aveeno bath oil (DE Pharmaceuticals)
+831211000001108	Aveeno bath oil (Johnson & Johnson Ltd)
+16273811000001103	Aveeno bath oil (Mawdsley-Brooks & Company Ltd)
+10920211000001101	Aveeno bath oil (Waymade Healthcare Plc)
+18348811000001109	Aveeno body wash (Johnson & Johnson Ltd)
+37364811000001103	Aveeno body wash (Mawdsley-Brooks & Company Ltd)
+13834611000001103	Aveeno cream (DE Pharmaceuticals)
+892711000001100	Aveeno cream (Johnson & Johnson Ltd)
+16274311000001109	Aveeno cream (Mawdsley-Brooks & Company Ltd)
+10920411000001102	Aveeno cream (Waymade Healthcare Plc)
+34156011000001106	Aveeno Daily moisturising body cleansing oil (Johnson & Johnson Ltd)
+39084911000001103	Aveeno Daily moisturising hand cream (Johnson & Johnson Ltd)
+17512511000001107	Aveeno Intense Relief hand cream (Johnson & Johnson Ltd)
+450211000001109	Aveeno lotion (Johnson & Johnson Ltd)
+16274711000001108	Aveeno lotion (Mawdsley-Brooks & Company Ltd)
+15504211000001104	Aveeno lotion (Waymade Healthcare Plc)
+18349111000001109	Aveeno moisturising creamy oil (Johnson & Johnson Ltd)
+30934211000001105	Aveeno Skin Relief Soothing shampoo (Johnson & Johnson Ltd)
+27486911000001108	Avene XeraCalm A.D Lipid-Replenishing balm (Pierre Fabre Dermo-Cosmetique)
+27484511000001107	Avene XeraCalm A.D Lipid-Replenishing Cleansing oil (Pierre Fabre Dermo-Cosmetique)
+27486211000001104	Avene XeraCalm A.D Lipid-Replenishing cream (Pierre Fabre Dermo-Cosmetique)
+34672311000001108	Balmonds Natural Shampoo & Body Wash (Balmonds Skincare Ltd)
+16327811000001103	Balneum cream (Almirall Ltd)
+14933811000001107	"Bell's Zinc and Castor oil cream (Bell,Sons & Co (Druggists) Ltd)"
+17841111000001103	Boots Cradle Cap cream from Birth (The Boots Company Plc)
+14613611000001101	Buffered cream
+4214111000001109	Buffered cream (A A H Pharmaceuticals Ltd)
+4214311000001106	Buffered cream (Alliance Healthcare (Distribution) Ltd)
+16091911000001109	CCS Foot Care cream (Lornamead UK Ltd)
+14654811000001105	Cetomacrogol cream (Formula A)
+3767111000001107	Cetomacrogol cream (Formula A) (A A H Pharmaceuticals Ltd)
+3767511000001103	Cetomacrogol cream (Formula A) (Alliance Healthcare (Distribution) Ltd)
+37165711000001104	Cetomacrogol cream (Formula A) (DE Pharmaceuticals)
+38828811000001107	Cetomacrogol cream (Formula A) (Medihealth (Northern) Ltd)
+3767311000001109	Cetomacrogol cream (Formula A) (Thornton & Ross Ltd)
+21832811000001103	Cetomacrogol cream (Formula A) (Waymade Healthcare Plc)
+14613811000001102	Cetomacrogol cream (Formula B)
+4229511000001105	Cetomacrogol cream (Formula B) (Alliance Healthcare (Distribution) Ltd)
+9722201000001106	Cetomacrogol emulsifying ointment BP
+23931911000001104	Cetraben lotion (Thornton & Ross Ltd)
+35813311000001109	Childs Farm unfragranced moisturising cream (Childs Farm)
+8012311000001108	Chymol emollient balm ointment (Herbal Concepts Ltd)
+34892911000001108	Clinisan emollient skin cleansing foam (Vernacare Ltd)
+35244611000001103	Cuderm gel wash (Synergy Biologics Ltd)
+32855111000001104	Cuderm moisturising cream (Synergy Biologics Ltd)
+32856411000001100	Cuderm moisturising hand cream (Synergy Biologics Ltd)
+32855911000001101	Cuderm moisturising lotion (Synergy Biologics Ltd)
+3966411000001107	Decubal Clinic cream (Actavis UK Ltd)
+19629711000001101	Derma Shield skin protector mousse (Benchmark Skincare Ltd)
+28421911000001102	Dermalex Repair Scalp Psoriasis gel (Omega Pharma Ltd)
+3979411000001108	Dermalo bath emollient (Dermal Laboratories Ltd)
+34561111000001101	Dermatonics Dry Skin Balm (Dermatonics Ltd)
+34976311000001108	Dermatonics Once Callus Removing Balm (Dermatonics Ltd)
+15550211000001102	Dermatonics Once Heel Balm (Dermatonics Ltd)
+38060911000001108	Dermipar ointment (Galen Ltd)
+420611000001105	Dermol 200 shower emollient (Dermal Laboratories Ltd)
+553611000001106	Dermol 500 lotion (Dermal Laboratories Ltd)
+919911000001102	Dermol 600 bath emollient (Dermal Laboratories Ltd)
+7644411000001100	Dermol cream (Dermal Laboratories Ltd)
+19172611000001103	Dermol Wash cutaneous emulsion (Dermal Laboratories Ltd)
+13822711000001100	Dexeryl cream (Pierre Fabre Dermo-Cosmetique)
+3468211000001106	Diprobase cream (Bayer Plc)
+22532111000001107	Diprobase lotion (Bayer Plc)
+545211000001106	E45 cream (Forum Health Products Ltd)
+33143211000001108	E45 Derma Protect Fast Acting 24H moisturiser spray (Reckitt Benckiser Healthcare (UK) Ltd)
+35342911000001108	E45 Eczema Repair cream (Reckitt Benckiser Healthcare (UK) Ltd)
+862311000001102	E45 emollient bath oil (Forum Health Products Ltd)
+4275411000001109	E45 emollient shower cream (Reckitt Benckiser Healthcare (UK) Ltd)
+696111000001108	E45 emollient wash cream (Forum Health Products Ltd)
+20322611000001106	E45 Intense Recovery lotion (Reckitt Benckiser Healthcare (UK) Ltd)
+8174311000001104	E45 Junior foaming bath milk (Reckitt Benckiser Healthcare (UK) Ltd)
+167211000001103	E45 lotion (Forum Health Products Ltd)
+23663411000001104	E45 Nourish & Restore lotion (Reckitt Benckiser Healthcare (UK) Ltd)
+23662911000001100	E45 Touchably Smooth lotion (Reckitt Benckiser Healthcare (UK) Ltd)
+27884611000001103	Elave body oil (Ovelle Pharmaceuticals)
+27889711000001108	Elave body wash (Ovelle Pharmaceuticals)
+34464311000001108	Elave conditioner (Ovelle Pharmaceuticals)
+34462811000001105	Elave facial cleanser (Ovelle Pharmaceuticals)
+34463711000001105	Elave hand wash (Ovelle Pharmaceuticals)
+29836311000001103	Elave Intensive cream (Ovelle Pharmaceuticals)
+27885711000001106	Elave lotion (Ovelle Pharmaceuticals)
+27887511000001105	Elave shampoo (Ovelle Pharmaceuticals)
+34464711000001107	Elave shower gel (Ovelle Pharmaceuticals)
+48279009	Emollient agent
+331534000	Emollient bath additives
+424511000001102	Emulsiderm emollient (Dermal Laboratories Ltd)
+10045911000001106	Emulsifying ointment + Phenoxyethanol
+14998211000001108	Epaderm cream (Molnlycke Health Care Ltd)
+36247011000001100	Epaderm Junior cream (Molnlycke Health Care Ltd)
+35336711000001106	Epimax oatmeal cream (Aspire Pharma Ltd)
+35097011000001100	Epimax ointment (Aspire Pharma Ltd)
+27967011000001107	Epimax original cream (Aspire Pharma Ltd)
+35623011000001107	Epimax Paraffin-Free cream (Dermato Logical Ltd)
+35623411000001103	Epimax paraffin-free ointment (Aspire Pharma Ltd)
+35648111000001102	Eucerin Acute 5% lip balm (Beiersdorf UK Ltd)
+22799811000001104	Eucerin Anti-Redness Calming Night cream (Beiersdorf UK Ltd)
+22800111000001101	Eucerin Anti-Redness Neutralising Day fluid (Beiersdorf UK Ltd)
+28421311000001103	Eucerin AntiREDNESS concealing day cream SPF25 (Beiersdorf UK Ltd)
+34028111000001100	Eucerin AntiREDNESS soothing care cream (Beiersdorf UK Ltd)
+4275811000001106	Eucerin ATOControl Bath & Shower oil (Beiersdorf UK Ltd)
+4278811000001102	Eucerin Dry Skin Relief bath therapy oil (Beiersdorf UK Ltd)
+35649011000001108	Eucerin UreaRepair Plus Replenishing 5% body wash (Beiersdorf UK Ltd)
+17084211000001100	Evolve Plus emollient spray (Intelligent Therapeutics Ltd)
+31343611000001108	ExoCream (Galen Ltd)
+35562011000001102	Flamigel RT gel (Flen Health UK Ltd)
+13131311000001104	Flexitol 25% Urea Heel Balm (Thornton & Ross Ltd)
+20563011000001100	Flexitol Hand Balm (Thornton & Ross Ltd)
+18537911000001101	Flexitol Skin Balm (Thornton & Ross Ltd)
+35299011000001100	Generic A-Derma Exomega cleansing oil
+35299111000001104	Generic A-Derma Exomega emollient cream
+35299211000001105	Generic A-Derma soothing foaming gel
+34766011000001108	Generic Adex gel
+4032611000001106	Generic Alcoderm cream
+24495711000001109	Generic Alhydran cream
+32555111000001100	Generic Alhydran SPF 30 cream
+4282311000001101	Generic Allergenics emollient cream
+31342011000001105	Generic AproDerm Colloidal Oat cream
+28389811000001106	Generic AproDerm emollient cream
+34976611000001103	Generic AproDerm ointment
+7526511000001103	Generic AquaBar
+19271811000001106	Generic Aquamax cream
+19271911000001101	Generic Aquamax wash
+18006311000001108	Generic Aquamol cream
+19626411000001100	Generic AriPro mousse
+3391811000001109	Generic Aveeno baby bath additive colloidal powder 15g sachets
+34156611000001104	Generic Aveeno Bath & Shower oil
+3391911000001104	Generic Aveeno bath additive colloidal powder 50g sachets
+3392011000001106	Generic Aveeno bath oil
+18349411000001104	Generic Aveeno body wash
+3392111000001107	Generic Aveeno cream
+39096811000001102	Generic Aveeno Daily moisturising hand cream
+17527911000001107	Generic Aveeno Intense Relief hand cream
+3392211000001101	Generic Aveeno lotion
+18349511000001100	Generic Aveeno moisturising creamy oil
+30952611000001100	Generic Aveeno Skin Relief Soothing shampoo
+27623011000001107	Generic Avene XeraCalm A.D Lipid-Replenishing balm
+27622811000001109	Generic Avene XeraCalm A.D Lipid-Replenishing Cleansing oil
+27623111000001108	Generic Avene XeraCalm A.D Lipid-Replenishing cream
+34683211000001103	Generic Balmonds Natural Shampoo & Body Wash
+16437011000001100	Generic Balneum cream
+14937411000001103	Generic Bell's Zinc and Castor oil cream
+16101211000001105	Generic CCS Foot Care cream
+23946211000001104	Generic Cetraben lotion
+35814311000001106	Generic Childs Farm unfragranced moisturising cream
+8010911000001105	Generic Chymol emollient balm ointment
+34908011000001103	Generic Clinisan emollient skin cleansing foam
+35319011000001107	Generic Cuderm gel wash
+32876511000001103	Generic Cuderm moisturising cream
+32876611000001104	Generic Cuderm moisturising hand cream
+32876711000001108	Generic Cuderm moisturising lotion
+3973711000001100	Generic Decubal Clinic cream
+19630211000001104	Generic Derma Shield skin protector mousse
+28423711000001103	Generic Dermalex Repair Scalp Psoriasis gel
+34560911000001105	Generic Dermatonics Dry Skin Balm
+34975611000001108	Generic Dermatonics Once Callus Removing Balm
+15612111000001108	Generic Dermatonics Once Heel Balm
+38060711000001106	Generic Dermipar ointment
+3395311000001103	Generic Dermol 200 shower emollient
+3395411000001105	Generic Dermol 500 lotion
+3395511000001109	Generic Dermol 600 bath emollient
+7660511000001101	Generic Dermol cream
+13844211000001101	Generic Dexeryl cream
+3542311000001102	Generic Diprobase cream
+22531811000001109	Generic Diprobase lotion
+3422211000001102	Generic E45 cream
+33150011000001105	Generic E45 Derma Protect Fast Acting 24H moisturiser spray
+35342711000001106	Generic E45 Eczema Repair cream
+3422311000001105	Generic E45 emollient bath oil
+4282411000001108	Generic E45 emollient shower cream
+3422511000001104	Generic E45 emollient wash cream
+20345011000001107	Generic E45 Intense Recovery lotion
+8175111000001102	Generic E45 Junior foaming bath milk
+3422411000001103	Generic E45 lotion
+23672411000001104	Generic E45 Nourish & Restore lotion
+23672511000001100	Generic E45 Touchably Smooth lotion
+27888211000001106	Generic Elave body oil
+27901611000001105	Generic Elave body wash
+34465211000001104	Generic Elave conditioner
+34465311000001107	Generic Elave facial cleanser
+34465411000001100	Generic Elave hand wash
+29835011000001105	Generic Elave Intensive cream
+27888311000001103	Generic Elave lotion
+27888511000001109	Generic Elave shampoo
+34465511000001101	Generic Elave shower gel
+3465711000001106	Generic Emulsiderm emollient
+15096811000001106	Generic Epaderm cream
+36246711000001101	Generic Epaderm Junior cream
+35336411000001100	Generic Epimax oatmeal cream
+35096711000001101	Generic Epimax ointment
+27966711000001106	Generic Epimax original cream
+35622811000001109	Generic Epimax Paraffin-Free cream
+35623211000001102	Generic Epimax paraffin-free ointment
+35654411000001101	Generic Eucerin Acute 5% lip balm
+22807811000001107	Generic Eucerin Anti-Redness Calming Night cream
+22807911000001102	Generic Eucerin Anti-Redness Neutralising Day fluid
+28423811000001106	Generic Eucerin AntiREDNESS concealing day cream SPF25
+34030211000001105	Generic Eucerin AntiREDNESS soothing care cream
+4282611000001106	Generic Eucerin ATOControl Bath & Shower oil
+4282511000001107	Generic Eucerin Dry Skin Relief bath therapy oil
+35654511000001102	Generic Eucerin UreaRepair Plus Replenishing 5% body wash
+17174511000001102	Generic Evolve Plus emollient spray
+31343111000001100	Generic ExoCream
+35561211000001100	Generic Flamigel RT gel
+13174111000001101	Generic Flexitol 25% Urea Heel Balm
+20594711000001104	Generic Flexitol Hand Balm
+18549311000001108	Generic Flexitol Skin Balm
+28894811000001106	Generic GlucoRx Allpresan diabetic foam cream Basic
+28895311000001103	Generic GlucoRx Allpresan diabetic foam cream Intensive
+4282911000001100	Generic Imuderm cream
+25035111000001101	Generic imuDERM emollient
+29768411000001103	Generic Lipikar Baume AP+ Lipid-Replenishing balm
+3766311000001106	Generic Lipobase cream
+29827511000001109	Generic MooGoo Irritable skin balm
+35061311000001106	Generic MooGoo Natural Milk wash
+29827611000001108	Generic MooGoo Scalp cream
+29827711000001104	Generic MooGoo Skin Milk Udder cream
+3550011000001102	Generic Oilatum Plus bath additive
+33038211000001105	Generic Pliazon cream
+3655111000001102	Generic Polytar Emollient
+18159311000001100	Generic Propolis cream
+34683111000001109	Generic Purepotions Hair & Scalp natural conditioner
+11787811000001108	Generic QV cream
+17844911000001102	Generic QV Gentle wash
+17845011000001102	Generic QV Intensive ointment
+27148611000001106	Generic R1 gel 6g sachets
+27148511000001107	Generic R2 lotion 1g sachets
+11359311000001104	Generic SensiCare emollient cream
+19698111000001100	Generic Skin Salvation bath oil
+19698211000001106	Generic Skin Salvation ointment
+34938411000001102	Generic Skin Salvation omega rich cleansing oil
+29095511000001108	Generic Skin Salvation scalp oil
+8034611000001104	Generic Snowfire Healing Tablet stick
+3556111000001103	Generic Sudocrem antiseptic healing cream
+30806711000001106	Generic Tena 3 in 1 wash cream
+34683411000001104	Generic Udderly Smooth Extra Care cream with 10% urea
+34683511000001100	Generic Udderly Smooth moisturising cream
+3655211000001108	Generic Ultrabase cream
+35337011000001107	Generic Ultraveen Intensive Balm
+35122111000001103	Generic Ultraveen Itch Relief cream
+35337411000001103	Generic Ultraveen Moisturising cream
+35668011000001109	Generic Ultraveen Very Dry Skin cream
+3557511000001109	Generic Unguentum M cream
+3826711000001102	Generic Vaseline Dermacare lotion
+18852611000001109	Generic ZeroAQS emollient cream
+17882211000001105	Generic Zeroguent cream
+34459211000001109	Generic Zeroveen cream
+28895111000001100	GlucoRx Allpresan diabetic foam cream Basic (GlucoRx Ltd)
+28895511000001109	GlucoRx Allpresan diabetic foam cream Intensive (GlucoRx Ltd)
+4005611000001108	Hewletts cream (Kestrel Healthcare Ltd)
+14609611000001102	Hydrous ointment
+3004811000001108	Hydrous ointment (A A H Pharmaceuticals Ltd)
+3303011000001100	Hydrous ointment (Alliance Healthcare (Distribution) Ltd)
+9801211000001106	Hydrous ointment (Almus Pharmaceuticals Ltd)
+24154811000001108	Hydrous ointment (DE Pharmaceuticals)
+3307011000001106	Hydrous ointment (Ecolab Healthcare Division)
+3302811000001103	Hydrous ointment (Kent Pharmaceuticals Ltd)
+17930611000001106	Hydrous ointment (Phoenix Healthcare Distribution Ltd)
+13623211000001109	Hydrous ointment (Pinewood Healthcare)
+3305611000001106	Hydrous ointment (Thornton & Ross Ltd)
+14613511000001100	Hydrous wool fat
+4211411000001101	Hydrous wool fat (A A H Pharmaceuticals Ltd)
+4211611000001103	Hydrous wool fat (J M Loveridge Ltd)
+9722601000001108	Hydrous wool fat ointment BP
+4279511000001106	Imuderm cream (Mercury Pharma Group Ltd)
+25035311000001104	imuDERM emollient (CliniSupplies Ltd)
+36737511000001101	KreaMol A cream (Essential-Healthcare Ltd)
+28793711000001103	Lan Vas Sal 3% ointment (Royal Preston Hospital formula) (Special Order)
+9387711000001106	Lansinoh Brand Lanolin ointment (Lansinoh (UK) Ltd)
+37115511000001108	Lansinoh HPA Lanolin cream (Lansinoh (UK) Ltd)
+37115711000001103	Lansinoh HPA Lanolin nipple cream (Lansinoh (UK) Ltd)
+29752011000001102	Lipikar Baume AP+ Lipid-Replenishing balm (La Roche-Posay)
+3759211000001104	Lipobase cream (Karo Pharma)
+9888211000001103	Liquid paraffin + Acetylated wool alcohols
+3776411000001105	Liquid paraffin 65% / Acetylated wool alcohols 5% bath oil
+35042811000001104	MooGoo Natural Milk wash (MooGoo EU Ltd)
+29801611000001106	MooGoo Scalp cream (MooGoo EU Ltd)
+29802511000001104	MooGoo Sensitive skin balm (MooGoo EU Ltd)
+29803011000001103	MooGoo Skin Milk Udder cream (MooGoo EU Ltd)
+154411000001101	Oilatum Junior Flare-Up bath additive (Stiefel Laboratories (UK) Ltd)
+355611000001107	Oilatum Plus bath additive (Thornton & Ross Ltd)
+35844811000001106	Ovelle aqueous cream (Ovelle Pharmaceuticals)
+37579311000001100	Ovelle Cetomacrogol cream (Formula A) (Ennogen Healthcare Ltd)
+32981311000001103	Pliazon cream (Merck Serono Ltd)
+3646411000001101	Polytar Emollient (GlaxoSmithKline Consumer Healthcare)
+18159411000001107	Propolis cream (Bee Health Ltd)
+34672811000001104	Purepotions Hair & Scalp natural conditioner (Balmonds Skincare Ltd)
+11782611000001106	QV cream (Crawford Healthcare Ltd)
+17832711000001105	QV Gentle wash (Crawford Healthcare Ltd)
+17833111000001103	QV Intensive ointment (Crawford Healthcare Ltd)
+27148011000001104	R1 gel 6g sachets (Water-Jel Europe LLP)
+27148811000001105	R2 lotion 1g sachets (Water-Jel Europe LLP)
+11349511000001108	SensiCare emollient cream (ConvaTec Ltd)
+35923811000001100	Simple eye ointment
+3153911000001104	Simple eye ointment (A A H Pharmaceuticals Ltd)
+3155211000001107	Simple eye ointment (Alliance Healthcare (Distribution) Ltd)
+17963211000001107	Simple eye ointment (Almus Pharmaceuticals Ltd)
+30097111000001106	Simple eye ointment (DE Pharmaceuticals)
+3155511000001105	Simple eye ointment (Kent Pharmaceuticals Ltd)
+3154911000001102	Simple eye ointment (Martindale Pharmaceuticals Ltd)
+17928411000001109	Simple eye ointment (Phoenix Healthcare Distribution Ltd)
+8983411000001104	Simple eye ointment (PLIVA Pharma Ltd)
+15508911000001101	Simple eye ointment (Teva UK Ltd)
+3154511000001109	Simple eye ointment (The Boots Company Plc)
+35581211000001103	Simple eye ointment (Tillomed Laboratories Ltd)
+21896611000001108	Simple eye ointment (Waymade Healthcare Plc)
+9722901000001101	Simple ointment
+14613011000001108	Simple ointment
+4164011000001109	Simple ointment (A A H Pharmaceuticals Ltd)
+19686611000001108	Skin Salvation bath oil (Balmonds Skincare Ltd)
+19686111000001100	Skin Salvation ointment (Balmonds Skincare Ltd)
+34921411000001106	Skin Salvation omega rich cleansing oil (Balmonds Skincare Ltd)
+29014111000001104	Skin Salvation scalp oil (Balmonds Skincare Ltd)
+8036211000001106	Snowfire Healing Tablet sticks (Optima Consumer Health Ltd)
+13292401000001106	Soft paraffin + Wool fat
+804511000001102	Sudocrem antiseptic healing cream (Teva UK Ltd)
+30804611000001106	Tena 3 in 1 wash cream (SCA Hygiene Products UK Ltd)
+34670911000001105	Udderly Smooth Extra Care cream with 10% urea (Glanford Ltd)
+34671411000001106	Udderly Smooth moisturising cream (Glanford Ltd)
+3641411000001107	Ultrabase cream (Derma UK Ltd)
+35337211000001102	Ultraveen Intensive Balm (Dermatonics Ltd)
+35116611000001103	Ultraveen Itch Relief cream (Dermatonics Ltd)
+35337611000001100	Ultraveen Moisturising cream (Dermatonics Ltd)
+35668211000001104	Ultraveen Very Dry Skin cream (Dermatonics Ltd)
+3488411000001108	Unguentum M cream (Almirall Ltd)
+38172011000001105	Unguentum M cream (DE Pharmaceuticals)
+3823811000001101	Vaseline Dermacare lotion (Unilever UK Home & Personal Care)
+13293301000001109	Wool fat
+37132011000001100	Wool fat cream
+9410011000001101	Wool fat ointment
+5242211000001107	Wool fat solid
+12780611000001106	Wool fat solid (Alliance Healthcare (Distribution) Ltd)
+5217411000001104	Wool fat solid (J M Loveridge Ltd)
+28793911000001101	Yellow soft paraffin + Wool fat + Salicylic acid
+28793311000001102	Yellow soft paraffin 72.75% / Wool fat 19.98% / Salicylic acid 3% ointment
+28793511000001108	Yellow soft paraffin 72.75% / Wool fat 19.98% / Salicylic acid 3% ointment (Special Order)
+18784311000001100	ZeroAQS emollient cream (Thornton & Ross Ltd)
+17881611000001101	Zeroguent cream (Thornton & Ross Ltd)
+14694211000001101	Zerolatum Emollient bath additive (Thornton & Ross Ltd)
+15421611000001103	Zerolatum Plus bath additive (Thornton & Ross Ltd)
+34459511000001107	Zeroveen cream (Thornton & Ross Ltd)
+13295401000001102	Zinc oxide + Hydrous wool fat
+4018111000001108	Zinc oxide 8.1% / Hydrous wool fat 4% cream

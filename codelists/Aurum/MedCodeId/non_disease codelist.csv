@@ -1,0 +1,5 @@
+MedCodeId,observations,originalreadcode,cleansedreadcode,term,snomedctconceptid,snomedctdescriptionid,release,emiscodecategoryid,type
+285185014,50000000,9N11,9N11.00,Seen in GP's surgery,185202000,285185014,,37,administrative
+253677014,200000000,22A,22A..00,Body weight,27113001,45352010,,2,routine
+1219389018,200000000,4,4....00,Laboratory test observable,364712009,487879019,,32,blood test
+254063019,300000000,246,246..00,O/E - blood pressure reading,163020007,254063019,,2,blood test

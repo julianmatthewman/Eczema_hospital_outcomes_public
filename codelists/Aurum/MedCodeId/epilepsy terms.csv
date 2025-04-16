@@ -1,0 +1,9 @@
+"searchterms","exclusionterms","searched_in_column","searchmethod"
+"epilep","Family history","Term","default stringr::str_detect() search method"
+,"screen",,
+,"No history of",,
+,"No FH of",,
+,"FH:",,
+,"quality indicators",,
+,"non-epileptic",,
+,"Suspected",,

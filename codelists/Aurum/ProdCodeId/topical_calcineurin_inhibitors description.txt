@@ -1,0 +1,38 @@
+# -----------------------------------------------------------------------------
+Clinical codelist for topical calcineurin inhibitors
+
+Author: Julian Matthewman
+Created on 12 July 2023
+Created by searching the 2023_03 CPRD Aurum Medical code browser
+Terminologies: CPRD MedCode, SNOMED-CT, Read	
+Short description: topical calcineurin inhibitors
+Reviwed by: Julian Matthewman
+# -----------------------------------------------------------------------------
+
+
+# Search strategy --------------------------------
+
+Terms identified descendants in Shrimp ECL builder and from previous codelist. Checked for codes with the same or descendant BNF chapter.
+
+# Checks ----------------------------------------
+
+This codelist has 730000 drug issues.
+
+Identified the following in the Shrimp ECL builder with (<< 416587008|Calcineurin inhibitor-containing product| AND << 767314005|Product manufactured as cutaneous dose form|):
+CODE	DISPLAY
+3383011000001101	Protopic 0.03% ointment (LEO Pharma)
+14347311000001100	Protopic 0.03% ointment (Sigma Pharmaceuticals Plc)
+10839211000001102	Protopic 0.03% ointment (Waymade Healthcare Plc)
+3384711000001102	Protopic 0.1% ointment (LEO Pharma)
+18194711000001108	Protopic 0.1% ointment (Mawdsley-Brooks & Company Ltd)
+14347811000001109	Protopic 0.1% ointment (Sigma Pharmaceuticals Plc)
+10839411000001103	Protopic 0.1% ointment (Waymade Healthcare Plc)
+407889001	Tacrolimus 0.03% ointment
+407890005	Tacrolimus 0.1% ointment
+36529611000001108	Tacrolimus 0.1% ointment (A A H Pharmaceuticals Ltd)
+36526411000001103	Tacrolimus 0.1% ointment (Accord Healthcare Ltd)
+36647211000001107	Tacrolimus 0.1% ointment (Alliance Healthcare (Distribution) Ltd)
+37817211000001109	Tacrolimus 0.1% ointment (DE Pharmaceuticals)
+36466111000001106	Tacrolimus 0.1% ointment (Teva UK Ltd)
+780554003	Tacrolimus only product in cutaneous dose form
+771960005	Tacrolimus-containing product in cutaneous dose form

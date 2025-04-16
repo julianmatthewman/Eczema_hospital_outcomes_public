@@ -1,0 +1,2 @@
+"searchterms","exclusionterms","searched_in_column","searchmethod"
+"metabolic syndrome",,"desc","default stringr::str_detect() search method"

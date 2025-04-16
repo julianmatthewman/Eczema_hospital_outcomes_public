@@ -1,0 +1,4 @@
+code,description,coding_system,concept_id,concept_version_id,concept_name,phenotype_id,phenotype_version_id,phenotype_name,code_attributes
+J577000,Angiodysplasia of colon,Read codes v2,C958,3055,Angiodysplasia of colon - Primary care,PH98,196,Angiodysplasia of colon,"{'Disease': 'Angiodysplasia of colon', 'Medcode': '6504.0', 'Category': 'Diagnosis of Angiodysplasia of colon'}"
+6504.0,Diagnosis of Angiodysplasia of colon,Med codes,C959,3057,Angiodysplasia of colon - Primary care,PH98,196,Angiodysplasia of colon,"{'Disease': 'Angiodysplasia of colon', 'ReadcodeDescr': 'Angiodysplasia of colon', 'Readcode': 'J577000'}"
+K55.2,Angiodysplasia of colon,ICD10 codes,C960,3059,Angiodysplasia of colon - Secondary care - Diagnoses,PH98,196,Angiodysplasia of colon,"{'Disease': 'Angiodysplasia of colon', 'Category': 'Diagnosis of Angiodysplasia of colon'}"

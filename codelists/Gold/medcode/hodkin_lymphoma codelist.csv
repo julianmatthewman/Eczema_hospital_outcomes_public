@@ -1,0 +1,74 @@
+﻿readcode,medcode,readterm,icdcode,ca_lung,ca_breast,ca_prostate,ca_pancreas,ca_melanoma,ca_non_melanoma,ca_mm,ca_leukaemia,ca_meningioma,ca_glioma,ca_CNSother,ca_cns,ca_nhl,ca_hodgkins,ca_lymphomaNonCut
+B61..00,2462,hodgkin's disease,C81,,,,,,,,,,,,,,1,1
+B61..11,104291,hodgkin lymphoma,C81,,,,,,,,,,,,,,1,1
+B610.00,65489,hodgkin's paragranuloma,C81,,,,,,,,,,,,,,1,1
+B610300,98840,hodgkin's paragranuloma of intra-abdominal lymph nodes,C81,,,,,,,,,,,,,,1,1
+B611.00,44196,hodgkin's granuloma,C81,,,,,,,,,,,,,,1,1
+B611100,98909,"hodgkin's granuloma of lymph nodes of head, face and neck",C81,,,,,,,,,,,,,,1,1
+B612.00,64036,hodgkin's sarcoma,C81,,,,,,,,,,,,,,1,1
+B612400,68039,hodgkin's sarcoma of lymph nodes of axilla and upper limb,C81,,,,,,,,,,,,,,1,1
+B613.00,38939,"hodgkin's disease, lymphocytic-histiocytic predominance",C81,,,,,,,,,,,,,,1,1
+B613000,71142,"hodgkin's, lymphocytic-histiocytic predominance unspec site",C81,,,,,,,,,,,,,,1,1
+B613100,68330,"hodgkin's, lymphocytic-histiocytic pred of head, face, neck",C81,,,,,,,,,,,,,,1,1
+B613200,92245,"hodgkin's, lymphocytic-histiocytic pred intrathoracic nodes",C81,,,,,,,,,,,,,,1,1
+B613300,73532,"hodgkin's, lymphocytic-histiocytic pred intra-abdominal node",C81,,,,,,,,,,,,,,1,1
+B613500,93951,"hodgkin's, lymphocytic-histiocytic pred inguinal and leg",C81,,,,,,,,,,,,,,1,1
+B613600,95338,"hodgkin's, lymphocytic-histiocytic pred intrapelvic nodes",C81,,,,,,,,,,,,,,1,1
+B613700,106911,"hodgkin's, lymphocytic-histiocytic predominance of spleen",C81,,,,,,,,,,,,,,1,1
+B613800,104743,"hodgkin's, lymphocytic-histiocytic pred of multiple sites",C81,,,,,,,,,,,,,,1,1
+B613z00,29876,"hodgkin's, lymphocytic-histiocytic predominance nos",C81,,,,,,,,,,,,,,1,1
+B614.00,29178,"hodgkin's disease, nodular sclerosis",C81,,,,,,,,,,,,,,1,1
+B614000,57225,"hodgkin's disease, nodular sclerosis of unspecified site",C81,,,,,,,,,,,,,,1,1
+B614100,55303,"hodgkin's nodular sclerosis of head, face and neck",C81,,,,,,,,,,,,,,1,1
+B614200,67506,hodgkin's nodular sclerosis of intrathoracic lymph nodes,C81,,,,,,,,,,,,,,1,1
+B614300,61149,hodgkin's nodular sclerosis of intra-abdominal lymph nodes,C81,,,,,,,,,,,,,,1,1
+B614400,65483,hodgkin's nodular sclerosis of lymph nodes of axilla and arm,C81,,,,,,,,,,,,,,1,1
+B614700,105472,"hodgkin's disease, nodular sclerosis of spleen",C81,,,,,,,,,,,,,,1,1
+B614800,19140,hodgkin's nodular sclerosis of lymph nodes of multiple sites,C81,,,,,,,,,,,,,,1,1
+B614z00,63054,"hodgkin's disease, nodular sclerosis nos",C81,,,,,,,,,,,,,,1,1
+B615.00,49605,"hodgkin's disease, mixed cellularity",C81,,,,,,,,,,,,,,1,1
+B615000,97863,"hodgkin's disease, mixed cellularity of unspecified site",C81,,,,,,,,,,,,,,1,1
+B615100,94407,"hodgkin's mixed cellularity of lymph nodes head, face, neck",C81,,,,,,,,,,,,,,1,1
+B615200,58684,hodgkin's mixed cellularity of intrathoracic lymph nodes,C81,,,,,,,,,,,,,,1,1
+B615500,108886,hodgkin's mixed cellularity of lymph nodes inguinal and leg,C81,,,,,,,,,,,,,,1,1
+B615z00,94005,"hodgkin's disease, mixed cellularity nos",C81,,,,,,,,,,,,,,1,1
+B616.00,67703,"hodgkin's disease, lymphocytic depletion",C81,,,,,,,,,,,,,,1,1
+B616000,95049,hodgkin's lymphocytic depletion of unspecified site,C81,,,,,,,,,,,,,,1,1
+B616400,63625,hodgkin's lymphocytic depletion lymph nodes axilla and arm,C81,,,,,,,,,,,,,,1,1
+B616500,110563,hodgkin's lymphocytic depletion lymph nodes inguinal and leg,C81,,,,,,,,,,,,,,1,1
+B616700,101715,"hodgkin's disease, lymphocytic depletion of spleen",C81,,,,,,,,,,,,,,1,1
+B616800,107032,hodgkin's lymphocytic depletion lymph nodes multiple sites,C81,,,,,,,,,,,,,,1,1
+B616z00,101530,"hodgkin's disease, lymphocytic depletion nos",C81,,,,,,,,,,,,,,1,1
+B617.00,104895,nodular lymphocyte predominant hodgkin lymphoma,C81,,,,,,,,,,,,,,1,1
+B618.00,105841,nodular sclerosis classical hodgkin lymphoma,C81,,,,,,,,,,,,,,1,1
+B619.00,108775,mixed cellularity classical hodgkin lymphoma,C81,,,,,,,,,,,,,,1,1
+B61B.00,106597,lymphocyte-rich classical hodgkin lymphoma,C81,,,,,,,,,,,,,,1,1
+B61C.00,104484,other classical hodgkin lymphoma,C81,,,,,,,,,,,,,,1,1
+B61z.00,53397,hodgkin's disease nos,C81,,,,,,,,,,,,,,1,1
+B61z.11,106349,hodgkin lymphoma nos,C81,,,,,,,,,,,,,,1,1
+B61z000,61662,"hodgkin's disease nos, unspecified site",C81,,,,,,,,,,,,,,1,1
+B61z100,59778,"hodgkin's disease nos of lymph nodes of head, face and neck",C81,,,,,,,,,,,,,,1,1
+B61z200,59755,hodgkin's disease nos of intrathoracic lymph nodes,C81,,,,,,,,,,,,,,1,1
+B61z300,107804,hodgkin's disease nos of intra-abdominal lymph nodes,C81,,,,,,,,,,,,,,1,1
+B61z400,91900,hodgkin's disease nos of lymph nodes of axilla and arm,C81,,,,,,,,,,,,,,1,1
+B61z500,99012,hodgkin's disease nos of lymph nodes inguinal region and leg,C81,,,,,,,,,,,,,,1,1
+B61z700,94279,hodgkin's disease nos of spleen,C81,,,,,,,,,,,,,,1,1
+B61z800,97746,hodgkin's disease nos of lymph nodes of multiple sites,C81,,,,,,,,,,,,,,1,1
+B61zz00,42461,hodgkin's disease nos,C81,,,,,,,,,,,,,,1,1
+BBj..00,20710,[m]hodgkin's disease,C81,,,,,,,,,,,,,,1,1
+BBj0.00,61997,[m]hodgkin's disease nos,C81,,,,,,,,,,,,,,1,1
+BBj0.11,101429,"[m]lymphogranuloma, malignant",C81,,,,,,,,,,,,,,1,1
+BBj1.00,56041,"[m]hodgkin's disease, lymphocytic predominance",C81,,,,,,,,,,,,,,1,1
+BBj1000,65584,"[m]hodgkin,s disease, lymphocytic predominance, diffuse",C81,,,,,,,,,,,,,,1,1
+BBj1100,31537,"[m]hodgkin,s disease, lymphocytic predominance, nodular",C81,,,,,,,,,,,,,,1,1
+BBj2.00,51285,"[m]hodgkin's disease, mixed cellularity",C81,,,,,,,,,,,,,,1,1
+BBj3.00,111113,"[m]hodgkin's disease, lymphocytic depletion nos",C81,,,,,,,,,,,,,,1,1
+BBj4.00,96183,"[m]hodgkin's disease,lymphocytic depletion,diffuse fibrosis",C81,,,,,,,,,,,,,,1,1
+BBj6.00,42198,"[m]hodgkin's disease, nodular sclerosis nos",C81,,,,,,,,,,,,,,1,1
+BBj6000,40508,"[m]hodgkin,s disease, nodular sclerosis, lymphocytic predom",C81,,,,,,,,,,,,,,1,1
+BBj6100,64343,"[m]hodgkin,s disease, nodular sclerosis, mixed cellularity",C81,,,,,,,,,,,,,,1,1
+BBj6200,31741,"[m]hodgkin,s disease, nodular sclerosis, lymphocytic deplet",C81,,,,,,,,,,,,,,1,1
+BBj7.00,99200,"[m]hodgkin's disease, nodular sclerosis, cellular phase",C81,,,,,,,,,,,,,,1,1
+BBj9.00,89230,[m]hodgkin's granuloma,C81,,,,,,,,,,,,,,1,1
+BBjz.00,42769,[m]hodgkin's disease nos,C81,,,,,,,,,,,,,,1,1
+ByuD000,43415,[x]other hodgkin's disease,C81,,,,,,,,,,,,,,1,1

@@ -1,0 +1,266 @@
+code,alt_code,description_lc
+S02,S02,fracture of skull and facial bones
+S02.0,S020,fracture of vault of skull
+S02.00,S0200,fracture of vault of skull
+S02.01,S0201,fracture of vault of skull
+S02.1,S021,fracture of base of skull
+S02.10,S0210,fracture of base of skull
+S02.11,S0211,fracture of base of skull
+S02.2,S022,fracture of nasal bones
+S02.20,S0220,fracture of nasal bones
+S02.21,S0221,fracture of nasal bones
+S02.3,S023,fracture of orbital floor
+S02.30,S0230,fracture of orbital floor
+S02.31,S0231,fracture of orbital floor
+S02.4,S024,fracture of malar and maxillary bones
+S02.40,S0240,fracture of malar and maxillary bones
+S02.41,S0241,fracture of malar and maxillary bones
+S02.5,S025,fracture of tooth
+S02.50,S0250,fracture of tooth
+S02.51,S0251,fracture of tooth
+S02.6,S026,fracture of mandible
+S02.60,S0260,fracture of mandible
+S02.61,S0261,fracture of mandible
+S02.7,S027,multiple fractures involving skull and facial bones
+S02.70,S0270,multiple fractures involving skull and facial bones
+S02.71,S0271,multiple fractures involving skull and facial bones
+S02.8,S028,fractures of other skull and facial bones
+S02.80,S0280,fractures of other skull and facial bones
+S02.81,S0281,fractures of other skull and facial bones
+S02.9,S029,"fracture of skull and facial bones, part unspecified"
+S02.90,S0290,"fracture of skull and facial bones, part unspecified"
+S02.91,S0291,"fracture of skull and facial bones, part unspecified"
+S12,S12,fracture of neck
+S12.0,S120,fracture of first cervical vertebra
+S12.00,S1200,fracture of first cervical vertebra
+S12.01,S1201,fracture of first cervical vertebra
+S12.1,S121,fracture of second cervical vertebra
+S12.10,S1210,fracture of second cervical vertebra
+S12.11,S1211,fracture of second cervical vertebra
+S12.2,S122,fracture of other specified cervical vertebra
+S12.20,S1220,fracture of other specified cervical vertebra
+S12.21,S1221,fracture of other specified cervical vertebra
+S12.7,S127,multiple fractures of cervical spine
+S12.70,S1270,multiple fractures of cervical spine
+S12.71,S1271,multiple fractures of cervical spine
+S12.8,S128,fracture of other parts of neck
+S12.80,S1280,fracture of other parts of neck
+S12.81,S1281,fracture of other parts of neck
+S12.9,S129,"fracture of neck, part unspecified"
+S12.90,S1290,"fracture of neck, part unspecified"
+S12.91,S1291,"fracture of neck, part unspecified"
+S22,S22,"fracture of rib(s), sternum and thoracic spine"
+S22.0,S220,fracture of thoracic vertebra
+S22.00,S2200,fracture of thoracic vertebra
+S22.01,S2201,fracture of thoracic vertebra
+S22.1,S221,multiple fractures of thoracic spine
+S22.10,S2210,multiple fractures of thoracic spine
+S22.11,S2211,multiple fractures of thoracic spine
+S22.2,S222,fracture of sternum
+S22.20,S2220,fracture of sternum
+S22.21,S2221,fracture of sternum
+S22.3,S223,fracture of rib
+S22.30,S2230,fracture of rib
+S22.31,S2231,fracture of rib
+S22.4,S224,multiple fractures of ribs
+S22.40,S2240,multiple fractures of ribs
+S22.41,S2241,multiple fractures of ribs
+S22.5,S225,flail chest
+S22.50,S2250,flail chest
+S22.51,S2251,flail chest
+S22.8,S228,fracture of other parts of bony thorax
+S22.80,S2280,fracture of other parts of bony thorax
+S22.81,S2281,fracture of other parts of bony thorax
+S22.9,S229,"fracture of bony thorax, part unspecified"
+S22.90,S2290,"fracture of bony thorax, part unspecified"
+S22.91,S2291,"fracture of bony thorax, part unspecified"
+S32,S32,fracture of lumbar spine and pelvis
+S32.0,S320,fracture of lumbar vertebra
+S32.00,S3200,fracture of lumbar vertebra
+S32.01,S3201,fracture of lumbar vertebra
+S32.1,S321,fracture of sacrum
+S32.10,S3210,fracture of sacrum
+S32.11,S3211,fracture of sacrum
+S32.2,S322,fracture of coccyx
+S32.20,S3220,fracture of coccyx
+S32.21,S3221,fracture of coccyx
+S32.3,S323,fracture of ilium
+S32.30,S3230,fracture of ilium
+S32.31,S3231,fracture of ilium
+S32.4,S324,fracture of acetabulum
+S32.40,S3240,fracture of acetabulum
+S32.41,S3241,fracture of acetabulum
+S32.5,S325,fracture of pubis
+S32.50,S3250,fracture of pubis
+S32.51,S3251,fracture of pubis
+S32.7,S327,multiple fractures of lumbar spine and pelvis
+S32.70,S3270,multiple fractures of lumbar spine and pelvis
+S32.71,S3271,multiple fractures of lumbar spine and pelvis
+S32.8,S328,fracture of other and unspecified parts of lumbar spine and pelvis
+S32.80,S3280,fracture of other and unspecified parts of lumbar spine and pelvis
+S32.81,S3281,fracture of other and unspecified parts of lumbar spine and pelvis
+S42,S42,fracture of shoulder and upper arm
+S42.0,S420,fracture of clavicle
+S42.00,S4200,fracture of clavicle
+S42.01,S4201,fracture of clavicle
+S42.1,S421,fracture of scapula
+S42.10,S4210,fracture of scapula
+S42.11,S4211,fracture of scapula
+S42.2,S422,fracture of upper end of humerus
+S42.20,S4220,fracture of upper end of humerus
+S42.21,S4221,fracture of upper end of humerus
+S42.3,S423,fracture of shaft of humerus
+S42.30,S4230,fracture of shaft of humerus
+S42.31,S4231,fracture of shaft of humerus
+S42.4,S424,fracture of lower end of humerus
+S42.40,S4240,fracture of lower end of humerus
+S42.41,S4241,fracture of lower end of humerus
+S42.7,S427,"multiple fractures of clavicle, scapula and humerus"
+S42.70,S4270,"multiple fractures of clavicle, scapula and humerus"
+S42.71,S4271,"multiple fractures of clavicle, scapula and humerus"
+S42.8,S428,fracture of other parts of shoulder and upper arm
+S42.80,S4280,fracture of other parts of shoulder and upper arm
+S42.81,S4281,fracture of other parts of shoulder and upper arm
+S42.9,S429,"fracture of shoulder girdle, part unspecified"
+S42.90,S4290,"fracture of shoulder girdle, part unspecified"
+S42.91,S4291,"fracture of shoulder girdle, part unspecified"
+S52,S52,fracture of forearm
+S52.0,S520,fracture of upper end of ulna
+S52.00,S5200,fracture of upper end of ulna
+S52.01,S5201,fracture of upper end of ulna
+S52.1,S521,fracture of upper end of radius
+S52.10,S5210,fracture of upper end of radius
+S52.11,S5211,fracture of upper end of radius
+S52.2,S522,fracture of shaft of ulna
+S52.20,S5220,fracture of shaft of ulna
+S52.21,S5221,fracture of shaft of ulna
+S52.3,S523,fracture of shaft of radius
+S52.30,S5230,fracture of shaft of radius
+S52.31,S5231,fracture of shaft of radius
+S52.4,S524,fracture of shafts of both ulna and radius
+S52.40,S5240,fracture of shafts of both ulna and radius
+S52.41,S5241,fracture of shafts of both ulna and radius
+S52.5,S525,fracture of lower end of radius
+S52.50,S5250,fracture of lower end of radius
+S52.51,S5251,fracture of lower end of radius
+S52.6,S526,fracture of lower end of both ulna and radius
+S52.60,S5260,fracture of lower end of both ulna and radius
+S52.61,S5261,fracture of lower end of both ulna and radius
+S52.7,S527,multiple fractures of forearm
+S52.70,S5270,multiple fractures of forearm
+S52.71,S5271,multiple fractures of forearm
+S52.8,S528,fracture of other parts of forearm
+S52.80,S5280,fracture of other parts of forearm
+S52.81,S5281,fracture of other parts of forearm
+S52.9,S529,"fracture of forearm, part unspecified"
+S52.90,S5290,"fracture of forearm, part unspecified"
+S52.91,S5291,"fracture of forearm, part unspecified"
+S62,S62,fracture at wrist and hand level
+S62.0,S620,fracture of navicular [scaphoid] bone of hand
+S62.00,S6200,fracture of navicular [scaphoid] bone of hand
+S62.01,S6201,fracture of navicular [scaphoid] bone of hand
+S62.1,S621,fracture of other carpal bone(s)
+S62.10,S6210,fracture of other carpal bone(s)
+S62.11,S6211,fracture of other carpal bone(s)
+S62.2,S622,fracture of first metacarpal bone
+S62.20,S6220,fracture of first metacarpal bone
+S62.21,S6221,fracture of first metacarpal bone
+S62.3,S623,fracture of other metacarpal bone
+S62.30,S6230,fracture of other metacarpal bone
+S62.31,S6231,fracture of other metacarpal bone
+S62.4,S624,multiple fractures of metacarpal bones
+S62.40,S6240,multiple fractures of metacarpal bones
+S62.41,S6241,multiple fractures of metacarpal bones
+S62.5,S625,fracture of thumb
+S62.50,S6250,fracture of thumb
+S62.51,S6251,fracture of thumb
+S62.6,S626,fracture of other finger
+S62.60,S6260,fracture of other finger
+S62.61,S6261,fracture of other finger
+S62.7,S627,multiple fractures of fingers
+S62.70,S6270,multiple fractures of fingers
+S62.71,S6271,multiple fractures of fingers
+S62.8,S628,fracture of other and unspecified parts of wrist and hand
+S62.80,S6280,fracture of other and unspecified parts of wrist and hand
+S62.81,S6281,fracture of other and unspecified parts of wrist and hand
+S72,S72,fracture of femur
+S72.0,S720,fracture of neck of femur
+S72.00,S7200,fracture of neck of femur
+S72.01,S7201,fracture of neck of femur
+S72.1,S721,pertrochanteric fracture
+S72.10,S7210,pertrochanteric fracture
+S72.11,S7211,pertrochanteric fracture
+S72.2,S722,subtrochanteric fracture
+S72.20,S7220,subtrochanteric fracture
+S72.21,S7221,subtrochanteric fracture
+S72.3,S723,fracture of shaft of femur
+S72.30,S7230,fracture of shaft of femur
+S72.31,S7231,fracture of shaft of femur
+S72.4,S724,fracture of lower end of femur
+S72.40,S7240,fracture of lower end of femur
+S72.41,S7241,fracture of lower end of femur
+S72.7,S727,multiple fractures of femur
+S72.70,S7270,multiple fractures of femur
+S72.71,S7271,multiple fractures of femur
+S72.8,S728,fractures of other parts of femur
+S72.80,S7280,fractures of other parts of femur
+S72.81,S7281,fractures of other parts of femur
+S72.9,S729,"fracture of femur, part unspecified"
+S72.90,S7290,"fracture of femur, part unspecified"
+S72.91,S7291,"fracture of femur, part unspecified"
+S82,S82,"fracture of lower leg, including ankle"
+S82.0,S820,fracture of patella
+S82.00,S8200,fracture of patella
+S82.01,S8201,fracture of patella
+S82.1,S821,fracture of upper end of tibia
+S82.10,S8210,fracture of upper end of tibia
+S82.11,S8211,fracture of upper end of tibia
+S82.2,S822,fracture of shaft of tibia
+S82.20,S8220,fracture of shaft of tibia
+S82.21,S8221,fracture of shaft of tibia
+S82.3,S823,fracture of lower end of tibia
+S82.30,S8230,fracture of lower end of tibia
+S82.31,S8231,fracture of lower end of tibia
+S82.4,S824,fracture of fibula alone
+S82.40,S8240,fracture of fibula alone
+S82.41,S8241,fracture of fibula alone
+S82.5,S825,fracture of medial malleolus
+S82.50,S8250,fracture of medial malleolus
+S82.51,S8251,fracture of medial malleolus
+S82.6,S826,fracture of lateral malleolus
+S82.60,S8260,fracture of lateral malleolus
+S82.61,S8261,fracture of lateral malleolus
+S82.7,S827,multiple fractures of lower leg
+S82.70,S8270,multiple fractures of lower leg
+S82.71,S8271,multiple fractures of lower leg
+S82.8,S828,fractures of other parts of lower leg
+S82.80,S8280,fractures of other parts of lower leg
+S82.81,S8281,fractures of other parts of lower leg
+S82.9,S829,"fracture of lower leg, part unspecified"
+S82.90,S8290,"fracture of lower leg, part unspecified"
+S82.91,S8291,"fracture of lower leg, part unspecified"
+S92,S92,"fracture of foot, except ankle"
+S92.0,S920,fracture of calcaneus
+S92.00,S9200,fracture of calcaneus
+S92.01,S9201,fracture of calcaneus
+S92.1,S921,fracture of talus
+S92.10,S9210,fracture of talus
+S92.11,S9211,fracture of talus
+S92.2,S922,fracture of other tarsal bone(s)
+S92.20,S9220,fracture of other tarsal bone(s)
+S92.21,S9221,fracture of other tarsal bone(s)
+S92.3,S923,fracture of metatarsal bone
+S92.30,S9230,fracture of metatarsal bone
+S92.31,S9231,fracture of metatarsal bone
+S92.4,S924,fracture of great toe
+S92.40,S9240,fracture of great toe
+S92.41,S9241,fracture of great toe
+S92.5,S925,fracture of other toe
+S92.50,S9250,fracture of other toe
+S92.51,S9251,fracture of other toe
+S92.7,S927,multiple fractures of foot
+S92.70,S9270,multiple fractures of foot
+S92.71,S9271,multiple fractures of foot
+S92.9,S929,"fracture of foot, unspecified"
+S92.90,S9290,"fracture of foot, unspecified"
+S92.91,S9291,"fracture of foot, unspecified"

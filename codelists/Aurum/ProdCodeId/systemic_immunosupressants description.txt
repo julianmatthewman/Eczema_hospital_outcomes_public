@@ -1,0 +1,30 @@
+# -----------------------------------------------------------------------------
+Clinical codelist for Systemic immunosuppressants for atopic eczema
+
+Author: Julian Matthewman
+Created on 12 July 2023
+Created by searching the 2023_03 CPRD Aurum Medical code browser
+Terminologies: CPRD MedCode, SNOMED-CT, Read	
+Short description: Systemic immunosuppressants, including cyclosporine, azathioprine, methotrexate, mycophenolate
+Reviewed by: Julian Matthewman
+# -----------------------------------------------------------------------------
+
+
+# Search strategy --------------------------------
+
+Traditional systemic treatments for eczema as per https://eczema.org/information-and-advice/treatments-for-eczema/. Identified products containing cyclosporine, azathioprine, methotrexate, mycophenolate and checked for products in the same or descendant BNF chapters.
+
+
+# Includes --------------------------------------
+
+Oral and parenteral products.
+
+
+# Excludes --------------------------------------
+
+Does not include tacrolimus
+
+
+# Checks ----------------------------------------
+
+This codelist has 18 million drug issues.

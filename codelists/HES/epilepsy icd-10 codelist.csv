@@ -1,0 +1,3 @@
+code,description,coding_system,concept_id,concept_version_id,concept_name,phenotype_id,phenotype_version_id,phenotype_name,code_attributes
+G40,Epilepsy,ICD10 codes,C1156,3451,Epilepsy - Secondary care - Diagnoses,PH165,330,Epilepsy,"{'Disease': 'Epilepsy', 'Category': 'History of Epilepsy'}"
+G41,Status epilepticus,ICD10 codes,C1156,3451,Epilepsy - Secondary care - Diagnoses,PH165,330,Epilepsy,"{'Disease': 'Epilepsy', 'Category': 'History of Epilepsy'}"

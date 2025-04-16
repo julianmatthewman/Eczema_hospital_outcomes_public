@@ -1,0 +1,17 @@
+"searchterms","exclusionterms","searched_in_column","searchmethod"
+"Acute alcoholic hepatitis","Non-alcoholic","Term","termsearch <- function(lookup, terms) {stringr::str_detect(lookup, stringr::regex(paste(terms, collapse = '|'), ignore_case = TRUE))}; initial <- dplyr::filter(DATA, termsearch(COLUMN, SEARCHTERMS)); excluded <- dplyr::filter(initial, termsearch(COLUMN, EXCLUSIONTERMS); final <- dplyr::setdiff(inital, excluded)"
+"Acute alcoholic liver disease","Nonalcoholic",,
+"Alcoholic cirrhosis",,,
+"Alcoholic cirrhosis of liver",,,
+"Alcoholic fatty liver",,,
+"Alcoholic fatty liver disease",,,
+"Alcoholic fibrosis and sclerosis of liver",,,
+"Alcoholic hepatic failure",,,
+"Alcoholic hepatitis",,,
+"Alcoholic liver cirrhosis",,,
+"Alcoholic liver damage",,,
+"Alcoholic liver disease",,,
+"Alcoholic steatosis",,,
+"Chronic alcoholic hepatitis",,,
+"Laennec's cirrhosis",,,
+"Oesophageal varices in alcoholic cirrhosis of the liver",,,

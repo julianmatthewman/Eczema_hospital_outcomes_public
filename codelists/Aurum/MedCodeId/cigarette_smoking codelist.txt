@@ -1,0 +1,280 @@
+medcodeid	term
+1009271000006118	Non Smoker - Nos
+102921000006112	Tobacco smoking consumption
+102951000006115	Tobacco dependence
+103051000006114	Tobacco usage screen
+103061000006111	Tobacco usage screening
+1059701000000119	Ex roll-up cigarette smoker
+108938018	Cigarette smoker
+1123541000000118	Stop smoking face to face follow-up
+1123751000000113	Non-smoker annual review - enhanced services administration
+1123951000000110	Ex-smoker annual review - enhanced services administration
+1125741000000111	Brief intervention for smoking cessation
+1151791000000117	Recently stopped smoking
+1152111000000118	Current smoker annual review
+1154431000000112	Non-smoker annual review
+1154471000000114	Ex-smoker annual review
+1175011000000112	Smoking cessation programme declined
+1176421000000118	Smoking cessation advice declined
+128130017	Smoker
+128311000006112	Stop smoking monitoring first letter
+128321000006116	Stop smoking monitoring second letter
+128331000006118	Stop smoking monitoring third letter
+128361000006110	Stop smoking monitoring telephone invite
+128371000006115	Stop smoking monitoring verbal invite
+128381000006117	Stop smoking monitoring check done
+136515019	Pipe smoker
+137711000006111	Smoker (Read codes)
+137721000006115	Smoker - amount smoked
+137761000006114	Smoking Age Ceased
+137771000006119	Smoking Age Started
+137791000006118	Smoking restarted
+1484932017	Smoking cessation milestones
+1484933010	Negotiated date for cessation of smoking
+1484937011	Nicotine replacement therapy provided free
+14866014	Non-smoker
+1488576014	Thinking about stopping smoking
+1488577017	Ready to stop smoking
+1488578010	Not interested in stopping smoking
+1488666019	No smokers in the household
+1488870013	Nicotine replacement therapy contraindicated
+1488871012	Bupropion contraindicated
+1488872017	Bupropion refused
+1488873010	Smoking free weeks
+1488922018	Adverse reaction to bupropion
+1489355012	Referral to smoking cessation advisor
+150398019	Nicotine withdrawal
+1563081000000115	Practice based smoking cessation programme start date
+1591651000006110	Smoking cessation referral declined
+1592611000000110	Failed attempt to stop smoking
+16261000000110	Stop smoking monitoring administration
+1626121000006116	Smoking cessation drug therapy - varenicline
+1651711000000113	Consent given for smoking cessation data sharing
+1653781000000119	Declined consent for smoking cessation data sharing
+16588018	Tobacco deposit on teeth
+1662911000000114	Consent given for follow-up by smoking cessation team
+1662951000000113	Declined consent for follow-up by smoking cessation team
+1676351000006110	Nicotine replacement therapy using nicotine sublingual tablets
+1694421000006112	Stop smoking monitoring admin.
+1697731000006111	Nicotine replacement therapy not tolerated
+1704491000006115	Smoking cessation enhanced services administration monitoring template completed
+1704551000006110	Referred for COPD structured smoking assessment
+1704561000006112	Referred for chronic obstructive pulmonary disease structured smoking assessment
+1704571000006117	Chronic obstructive pulmonary disease structured smoking assessment declined
+1704581000006119	COPD structured smoking assessment declined
+1709641000000115	Referral for smoking cessation service offered
+1714541000006110	Current smoker annual review - enhanced services admin
+1715591000006117	Referral to National Health Service stop smoking service
+1716141000000117	Lost to smoking cessation follow-up
+1739161000000118	Asthma trigger - tobacco smoke
+1741641000006117	Smoking cessation ESA monitoring template completed
+1750931000000118	Stop smoking service opportunity signposted
+1751721000000113	Stop smoking invitation short message service text message
+1754091000000110	Issue of nicotine replacement therapy voucher
+1755201000006117	Consent given for follow-up evaluation after smoking cessation intervention
+1755231000006113	Declined consent for follow-up evaluation after smoking cessation intervention
+1771191000006119	Attends smoking cessation clinic not at practice
+1773560017	Smoking cessation programme start date
+1777011000006118	Reason for referral: Smoking Cessation
+1778181000006110	Group session: Stop smoking education programme
+1780273014	Seen by smoking cessation advisor
+1780360012	Reason for restarting smoking
+1780396011	Cigarette pack-years
+1785671000006116	Stop smoking invitation first short message service text message
+1785681000006118	Stop smoking invitation second short message service text message
+1785691000006115	Stop smoking invitation third short message service text message
+1809121000006113	Waterpipe tobacco consumption
+1809131000006111	Total time smoked
+1819411000006114	Smoking increased
+1823811000006115	Smoking cessation 12 week follow up
+1825071000006116	Smoking cessation 12 week F/U not completed
+1825081000006118	Smoking cessation 12 week F/U completed
+1833971000006116	Stop Smoking satisfaction questionnaire given
+1873511000006118	Care contact service: Smoking/substance cessation/interven prog.
+1879431000006110	User of electronic cigarette
+1889671000006116	Child 27-30 mth exam.- smoking cessation support provided
+1889681000006118	Child 27-30 mth exam.- signpost to smoking cessation
+1889691000006115	Child 27-30 mth exam. - discuss with smoking cessation service
+1889701000006115	Child 27-30 mth exam. - requ. assist. from smoking cessation
+1889711000006117	Child 27-30 mth exam. - refused smoking cessation service
+1925121000006113	Issue of nicotine replacement therapy voucher
+1973821000006117	Mental & behav dis due to use tobacco: acute intoxication, uncomplicated
+1973841000006112	Mental & behav dis due to use tobacco: acute intoxication, with trauma or other bodily injury
+1973851000006114	Mental & behav dis due to use tobacco: acute intoxication, with other medical complications
+1973921000006114	Mental & behav dis due to use tobacco: acute intoxication, with delirium
+1973951000006117	Mental & behav dis due to use tobacco: acute intoxication, with perceptual distortions
+1973981000006113	Mental & behav dis due to use tobacco: acute intoxication, with coma
+1974031000006110	Mental & behav dis due to use tobacco: acute intoxication, with convulsions
+1974281000006116	Mental and behav dis due to use tobacco: dependence syndr, currently abstinent
+1974311000006119	Mental and behav dis due to use tobacco: dependence syndr, currently abstinent, but in a protected environment
+1974341000006115	Mental and behav dis due to use tobacco: dependence syndr, currently on a clinically supervised maintenance or replacement regime [controlled dependence]
+1974371000006111	Mental and behav dis due to use tobacco: dependence syndr, currently abstinent, but receiving treatment with aversive or blocking drugs
+1974401000006114	Mental and behav dis due to use tobacco: dependence syndr, currently using the substance [active dependence]
+1974421000006116	Mental and behav dis due to use tobacco: dependence syndr, continuous use
+1974461000006110	Mental and behav dis due to use tobacco: dependence syndr, episodic use [dipsomania]
+1974501000006110	Mental and behav dis due to use tobacco: withdrawal state, uncomplicated
+1974531000006119	Mental and behav dis due to use tobacco: withdrawal state, with convulsions
+1974571000006116	Mental & behav dis due to tobacco: withdrawl state wth delirium, without convulsions
+1974581000006118	Mental & behav dis due to tobacco: withdrawl state wth delirium, with convulsions
+1974651000006110	Mental & behav dis due to use tobacco: psychotic disorder, schizophrenia-like
+1974681000006119	Mental & behav dis due to use tobacco: psychotic disorder, predominantly delusional
+1974711000006118	Mental & behav dis due to use tobacco: psychotic disorder, predominantly hallucinatory
+1974741000006119	Mental & behav dis due to use tobacco: psychotic disorder, predominantly polymorphic
+1974761000006115	Mental & behav dis due to use tobacco: psychotic disorder, predominantly depressive symptoms
+1974791000006111	Mental & behav dis due to use tobacco: psychotic disorder, predominantly manic symptoms
+1974811000006110	Mental & behav dis due to use tobacco: psychotic disorder, mixed
+1974841000006114	Mental & behav dis due to tobacco: resid & late-onset psychot dis, flashbacks
+1974871000006118	Mental & behav dis due to tobacco: resid & late-onset psychot dis, personality or behaviour disorder
+1974911000006115	Mental & behav dis due to tobacco: resid & late-onset psychot dis, residual affective disorder
+1974931000006114	Mental & behav dis due to tobacco: resid & late-onset psychot dis, dementia
+1974961000006117	Mental & behav dis due to tobacco: resid & late-onset psychot dis, other persisting cognitive impairment
+1974981000006110	Mental & behav dis due to tobacco: resid & late-onset psychot dis, late-onset psychotic disorder
+1979471000006116	Nicotine replacement therapy using nicotine nasal spray
+1979481000006118	Nicotine replacement therapy using nicotine mouth spray
+1979491000006115	Smoking cessation follow-up
+2141561000000115	Smoking cessation drug therapy declined
+216212011	Smoking reduced
+21681000000118	Anti-smoking monitoring admin.
+21691000000116	Anti-smoking monitoring administration
+2170961000000116	Waterpipe tobacco consumption
+2203381000000113	Smoking cessation 12 week follow-up
+2251871000000112	Referral to smoking cessation service declined
+2251911000000114	Referral to smoking cessation service
+2265711000000117	Electronic cigarette user
+2336091000000117	Ex user of electronic cigarette
+2462391000000119	Varenicline smoking cessation therapy declined
+2462431000000110	Varenicline smoking cessation therapy offered
+2474719011	Minutes from waking to first tobacco consumption
+250363016	Ex-trivial cigarette smoker (<1/day)
+250364010	Ex-light cigarette smoker (1-9/day)
+250365011	Ex-moderate cigarette smoker (10-19/day)
+250366012	Ex-heavy cigarette smoker (20-39/day)
+250367015	Ex-very heavy cigarette smoker (40+/day)
+250368013	Keeps trying to stop smoking
+250370016	Tobacco consumption unknown
+250371017	Ex-smoker - amount unknown
+250372012	Trying to give up smoking
+250373019	Stopped smoking
+250374013	Current non-smoker
+250375014	Rolls own cigarettes
+250385010	Date ceased smoking
+250387019	Tobacco consumption NOS
+25281000000119	Stop smoking clinic administration
+263570019	Maternal tobacco abuse
+265092010	Pregnancy smoking advice
+2669652019	Smoking started
+2670126018	Smoking restarted
+285792013	Monitoring of smoking cessation therapy refused
+285793015	Stop smoking monitor default
+285805010	Stop smoking monitoring delete
+295256013	Tobacco dependence, unspecified
+295257016	Tobacco dependence, continuous
+295258014	Tobacco dependence, episodic
+295259018	Tobacco dependence in remission
+295260011	Tobacco dependence NOS
+295951010	Nicotine-induced organic mental disorder
+2982426011	Provision of smoking cessation leaflet
+298701000000114	History of tobacco use
+303501000000115	Smoking cessation advice provided by community pharmacist
+324597019	Toxic effect of tobacco and nicotine
+338608011	Smoking cessation advice
+342443012	Smokes drugs
+342444018	Smokes drugs in cigarette form
+342445017	Smokes drugs through a pipe
+342574011	Total time smoked
+344793011	Cigarette consumption
+344794017	Cigar consumption
+344795016	Pipe tobacco consumption
+37311000006117	Other anti-smoking drug given
+397181000006117	[X]Mental and behavioural disorders due to use of tobacco: residual and late-onset psychotic disorder
+397271000006110	[X]Mental and behavioural disorders due to use of tobacco: other mental and behavioural disorders
+397281000006113	[X]Mental and behavioural disorders due to use of tobacco: withdrawal state with delirium
+397461000006119	[X]Mental and behavioural disorders due to use of tobacco: unspecified mental and behavioural disorder
+397671000006112	[X]Mental and behavioural disorders due to use of tobacco: acute intoxication
+397681000006110	[X]Mental and behavioural disorders due to use of tobacco: psychotic disorder
+397732011	Never smoked tobacco
+397733018	Occasional smoker
+397911000006114	[X]Mental and behavioural disorders due to use of tobacco: harmful use
+397971000006117	[X]Mental and behav dis due to use tobacco: amnesic syndrome
+397981000006119	[X]Mental and behav dis due to use tobacco: dependence syndr
+397991000006116	[X]Mental and behavioural disorders due to use of tobacco: withdrawal state
+408878014	Fagerstrom Test for Nicotine Dependence total score
+418914010	Ex-cigarette smoker
+457286014	Nicotine replacement therapy
+459484017	Nicotine replacement therapy refused
+459524018	Over the counter nicotine replacement therapy
+459722017	Referral to stop-smoking clinic
+460127014	Pack years
+460828018	Tobacco user
+461114016	Counselling about tobacco use
+482771000000118	Smoking cessation drug therapy
+482791000000119	Nicotine replacement therapy using nicotine patch
+482811000000118	Nicotine replacement therapy using nicotine gum
+482831000000114	Nicotine replacement therapy using nicotine inhalator
+482851000000119	Nicotine replacement therapy using nicotine lozenge
+482871000000111	Other specified smoking cessation therapy
+489931000000114	Smoking cessation therapy NOS
+492511000000117	Smoking cessation therapy
+498831000006118	Attends stop smoking monitoring
+503483019	Current smoker
+604961000006114	Current Smoker NOS
+62881000000117	DNA - Did not attend smoking cessation clinic
+649821000006115	Ex-cigar smoker
+649831000006117	Ex-pipe smoker
+649841000006110	Ex-smoker
+649851000006112	Ex- Rolled Tobacco Smoker
+649861000006114	Ex-Cigarette Smoker
+67621000006112	Very heavy cigarette smoker (40+ cigs/day)
+700121000006118	Moderate cigarette smoker (10-19 cigs/day)
+72373013	Passive smoker
+736241000000116	Smoking cessation enhanced services administration
+743331000006116	Light cigarette smoker (1-9 cigs/day)
+78013015	Smokers' cough
+818061000006111	Smoking cessation education
+819331000006110	Heavy cigarette smoker (20-39 cigs/day)
+852111000006118	Gradual smoking reduction
+852121000006114	Smoking cessation-maintain abstinence
+852131000006112	Smoking cessation-practice nurse support
+852981000006111	Rolls own cigarettes
+853001000006110	Ex-smoker NOS
+854021000006115	Cigarette smoker
+854051000006112	Ex-pipe smoker
+854071000006119	Current smoker
+854111000006110	Past smoker
+854151000006111	Date stopped smoking
+854951000006113	Grade A non-smoker
+854961000006110	Grade B light smoker (1-10/day)
+854981000006117	Grade C moderate smoker (11-20/day)
+855001000006114	Grade D heavy smoker (>20 Day)
+88471000006112	Trivial cigarette smoker (less than one cigarette/day)
+903041000006110	EX-Smoker NOS
+903051000006112	Tobacco Consumption Nil
+903981000006117	Not interested in stopping smoking
+904001000006111	Ready to stop smoking
+904021000006118	Previous smoking quit attempts
+904031000006115	Thinking about stopping smoking
+904041000006113	Waking time to first cigarette
+904071000006117	Smoking cessation 4 week follow up
+904081000006119	Smoking cessation 52 week follow up
+904091000006116	Date of last cigarette
+904111000006113	Carbon monoxide validation confirms non-smoker
+904121000006117	Carbon monoxide validation confirms smoker
+904141000006112	Smoking cessation 4 week F/U not completed
+904151000006114	Smoking cessation 4 week F/U completed
+904161000006111	Smoking cessation 52 week F/U completed
+904171000006116	Smoking cessation 52 week F/U not completed
+904181000006118	Smoking cessation counselling
+904191000006115	Smoking cessation motivation score
+904201000006117	Smoking cessation confidence score
+904211000006119	Smoking cessation service patient satisfaction score
+904221000006110	Smoking cessation bupropion therapy
+904231000006113	Smoking cessation counselling by telephone
+904241000006115	Smoking cessation counselling in person
+909391000006117	[RFC] Smoking cessation
+923201000006112	Pregnancy smoking advice
+923611000006113	Health ed. - smoking
+936011000006114	Advice on effects of smoking on health
+961581000006114	Smokes/uses tobacco products
+983101000006113	Misuse of Nicotine
+99639019	Cigar smoker
+998861000006112	Nicotine replacement therapy provided by community pharmacist

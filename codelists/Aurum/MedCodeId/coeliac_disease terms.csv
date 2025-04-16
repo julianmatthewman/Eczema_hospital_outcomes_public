@@ -1,0 +1,9 @@
+searchterms,exclusionterms,searched_in_column,searchmethod
+Celiac disease,Family history,Term,"termsearch <- function(lookup, terms) {stringr::str_detect(lookup, stringr::regex(paste(terms, collapse = '|'), ignore_case = TRUE))}; initial <- dplyr::filter(DATA, termsearch(COLUMN, SEARCHTERMS)); excluded <- dplyr::filter(initial, termsearch(COLUMN, EXCLUSIONTERMS); final <- dplyr::setdiff(inital, excluded)"
+Coeliac disease,Investigation for,,
+Gee - Herter disease,screening,,
+Gee-Herter disease,autoantibody profile,,
+Gluten enteropathy,FH:,,
+Gluten-sensitive enteropathy,test,,
+Coeliac syndrome,Non-coeliac,,
+Gluten intolerance,screen,,

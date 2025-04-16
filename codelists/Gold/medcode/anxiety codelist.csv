@@ -1,0 +1,160 @@
+readcode,medcode,readterm,Category
+E200.00,636,anxiety states,Core
+E200000,6939,anxiety state unspecified,Core
+E200100,4069,panic disorder,Core
+E200111,462,panic attack,Core
+E200200,4659,generalised anxiety disorder,Core
+E200300,655,anxiety with depression,Core
+E200400,1758,chronic anxiety,Core
+E200500,4634,recurrent anxiety,Core
+E200z00,4534,anxiety state nos,Core
+E202100,3076,agoraphobia with panic attacks,Core
+Eu41.00,5385,[x]other anxiety disorders,Core
+Eu41000,8205,[x]panic disorder [episodic paroxysmal anxiety],Core
+Eu41011,6408,[x]panic attack,Core
+Eu41012,4081,[x]panic state,Core
+Eu41100,10344,[x]generalized anxiety disorder,Core
+Eu41111,962,[x]anxiety neurosis,Core
+Eu41112,35825,[x]anxiety reaction,Core
+Eu41113,50191,[x]anxiety state,Core
+Eu41200,11913,[x]mixed anxiety and depressive disorder,Core
+Eu41211,7749,[x]mild anxiety depression,Core
+Eu41300,44321,[x]other mixed anxiety disorders,Core
+Eu41y00,24066,[x]other specified anxiety disorders,Core
+Eu41y11,28167,[x]anxiety hysteria,Core
+Eu41z00,23838,"[x]anxiety disorder, unspecified",Core
+Eu41z11,25638,[x]anxiety nos,Core
+1466,3407,h/o: anxiety state,History
+Eu43111,32182,[x]traumatic neurosis,History 
+Eu62000,48232,[x]enduring personality change after catastrophic experience,History 
+Eu93000,18032,[x]separation anxiety disorder of childhood,History 
+Eu93100,24351,[x]phobic anxiety disorder of childhood,History 
+Eu93200,29907,[x]social anxiety disorder of childhood,History 
+Eu93y12,61430,[x]childhood overanxious disorder,History 
+ZV11200,51613,[v]personal history of neurosis,History 
+E203.11,47365,anancastic neurosis,Not Anxiety - alternative diagnosis
+E203000,5678,compulsive neurosis,Not Anxiety - alternative diagnosis
+E203100,2030,obsessional neurosis,Not Anxiety - alternative diagnosis
+Eu05400,20773,[x]organic anxiety disorder,Not Anxiety - alternative diagnosis
+Eu21.16,49852,[x]pseudoneurotic schizophrenia,Not Anxiety - alternative diagnosis
+Eu42.11,24251,[x]anankastic neurosis,Not Anxiety - alternative diagnosis
+Eu42.12,21836,[x]obsessive-compulsive neurosis,Not Anxiety - alternative diagnosis
+2J4..00,28408,Worried well ,Non-definitive: Transient/ambiguous/administrative
+8CAZ000,108107,patient given advice about management of anxiety,Non-definitive: Transient/ambiguous/administrative
+8G94.00,9125,anxiety management training,Non-definitive: Transient/ambiguous/administrative
+8HHp.00,28925,referral for guided self-help for anxiety,Non-definitive: Transient/ambiguous/administrative
+E2...00,9686,"neurotic, personality and other nonpsychotic disorders",Non-definitive: Transient/ambiguous/administrative
+E20..00,5249,neurotic disorders,Non-definitive: Transient/ambiguous/administrative
+E202.00,1907,Phobic disorders ,Non-definitive: Transient/ambiguous/administrative
+E202.11,16638,Social phobic disorders ,Non-definitive: Transient/ambiguous/administrative
+E202.12,9944,phobic anxiety,Non-definitive: Transient/ambiguous/administrative
+E202000,2300,Phobia unspecified ,Non-definitive: Transient/ambiguous/administrative
+E202200,12838,agoraphobia without mention of panic attacks,Non-definitive: Transient/ambiguous/administrative
+E202300,16199,"social phobia, fear of eating in public",Non-definitive: Transient/ambiguous/administrative
+E202400,31957,"social phobia, fear of public speaking",Non-definitive: Transient/ambiguous/administrative
+E202500,18603,"social phobia, fear of public washing",Non-definitive: Transient/ambiguous/administrative
+E202600,28106,Acrophobia ,Non-definitive: Transient/ambiguous/administrative
+E202700,28938,Animal phobia ,Non-definitive: Transient/ambiguous/administrative
+E202800,1723,Claustrophobia ,Non-definitive: Transient/ambiguous/administrative
+E202900,31672,fear of crowds,Non-definitive: Transient/ambiguous/administrative
+E202A00,4167,fear of flying,Non-definitive: Transient/ambiguous/administrative
+E202B00,1510,Cancer phobia ,Non-definitive: Transient/ambiguous/administrative
+E202C00,2366,Dental phobia ,Non-definitive: Transient/ambiguous/administrative
+E202D00,10390,fear of death,Non-definitive: Transient/ambiguous/administrative
+E202E00,6071,fear of pregnancy,Non-definitive: Transient/ambiguous/administrative
+E202z00,14729,Phobic disorder NOS ,Non-definitive: Transient/ambiguous/administrative
+E205.11,1582,nervous exhaustion,Non-definitive: Transient/ambiguous/administrative
+E207.00,966,hypochondriasis,Non-definitive: Transient/ambiguous/administrative
+E20y.00,42000,other neurotic disorders,Non-definitive: Transient/ambiguous/administrative
+E20y000,15321,somatization disorder,Non-definitive: Transient/ambiguous/administrative
+E20y100,3685,writer's cramp neurosis,Non-definitive: Transient/ambiguous/administrative
+E20y200,39518,other occupational neurosis,Non-definitive: Transient/ambiguous/administrative
+E20y300,72171,psychasthenic neurosis,Non-definitive: Transient/ambiguous/administrative
+E20yz00,43050,other neurotic disorder nos,Non-definitive: Transient/ambiguous/administrative
+E20z.00,14780,neurotic disorder nos,Non-definitive: Transient/ambiguous/administrative
+E20z.11,791,nervous breakdown,Non-definitive: Transient/ambiguous/administrative
+E21..11,28227,neurotic personality disorder,Non-definitive: Transient/ambiguous/administrative
+E21y700,21077,psychoneurotic personality disorder,Non-definitive: Transient/ambiguous/administrative
+E21y711,2729,neurotic personality,Non-definitive: Transient/ambiguous/administrative
+E227z11,24448,fear of ejaculation,Non-definitive: Transient/ambiguous/administrative
+E262000,15292,cardiac neurosis,Non-definitive: Transient/ambiguous/administrative
+E280.00,11940,acute panic state due to acute stress reaction,Non-definitive: Transient/ambiguous/administrative
+E28z.11,28129,examination fear,Non-definitive: Transient/ambiguous/administrative
+E292000,6221,separation anxiety disorder,Non-definitive: Transient/ambiguous/administrative
+E292400,56924,adjustment reaction with anxious mood,Non-definitive: Transient/ambiguous/administrative
+E2D0.00,31522,disturbance of anxiety and fearfulness childhood/adolescent,Non-definitive: Transient/ambiguous/administrative
+E2D0000,35619,childhood and adolescent overanxiousness disturbance,Non-definitive: Transient/ambiguous/administrative
+E2D0100,56026,childhood and adolescent fearfulness disturbance,Non-definitive: Transient/ambiguous/administrative
+E2D0z00,35594,disturbance anxiety and fearfulness childhood/adolescent nos,Non-definitive: Transient/ambiguous/administrative
+E2y..00,50106,other specified neuroses or other mental disorders,Non-definitive: Transient/ambiguous/administrative
+E2z..00,42410,neuroses or other mental disorder nos,Non-definitive: Transient/ambiguous/administrative
+Eu34114,15220,[x]persistant anxiety depression,Non-definitive: Transient/ambiguous/administrative
+Eu4..00,23808,"[x]neurotic, stress - related and somoform disorders",Non-definitive: Transient/ambiguous/administrative
+Eu40.00,9386,[x]phobic anxiety disorders,Non-definitive: Transient/ambiguous/administrative
+Eu40000,2571,[X]Agoraphobia ,Non-definitive: Transient/ambiguous/administrative
+Eu40011,16729,[x]agoraphobia without history of panic disorder,Non-definitive: Transient/ambiguous/administrative
+Eu40012,14890,[x]panic disorder with agoraphobia,Non-definitive: Transient/ambiguous/administrative
+Eu40100,11602,[x]social phobias,Non-definitive: Transient/ambiguous/administrative
+Eu40112,42788,[x]social neurosis,Non-definitive: Transient/ambiguous/administrative
+Eu40200,9785,[X]Specific (isolated) phobias ,Non-definitive: Transient/ambiguous/administrative
+Eu40211,67965,[X]Acrophobia ,Non-definitive: Transient/ambiguous/administrative
+Eu40212,18248,[X]Animal phobias ,Non-definitive: Transient/ambiguous/administrative
+Eu40213,11280,[X]Claustrophobia ,Non-definitive: Transient/ambiguous/administrative
+Eu40214,12635,[X]Simple phobia ,Non-definitive: Transient/ambiguous/administrative
+Eu40300,12508,[X]Needle phobia ,Non-definitive: Transient/ambiguous/administrative
+Eu40y00,27685,[x]other phobic anxiety disorders,Non-definitive: Transient/ambiguous/administrative
+Eu40z00,34064,"[x]phobic anxiety disorder, unspecified",Non-definitive: Transient/ambiguous/administrative
+Eu40z11,7222,[X]Phobia NOS ,Non-definitive: Transient/ambiguous/administrative
+Eu40z12,67898,[X]Phobic state NOS ,Non-definitive: Transient/ambiguous/administrative
+Eu45000,24439,[x]somatization disorder,Non-definitive: Transient/ambiguous/administrative
+Eu45213,24264,[x]hypochondriacal neurosis,Non-definitive: Transient/ambiguous/administrative
+Eu45214,10870,[x]hypochondriasis,Non-definitive: Transient/ambiguous/administrative
+Eu45311,44269,[x]cardiac neurosis,Non-definitive: Transient/ambiguous/administrative
+Eu45313,63259,[x]gastric neurosis,Non-definitive: Transient/ambiguous/administrative
+Eu46.00,28090,[x]other neurotic disorders,Non-definitive: Transient/ambiguous/administrative
+Eu46y00,44331,[x]other specified neurotic disorders,Non-definitive: Transient/ambiguous/administrative
+Eu46y13,11339,"[x]occupational neurosis, including writer's cramp",Non-definitive: Transient/ambiguous/administrative
+Eu46y15,90597,[x]psychasthenia neurosis,Non-definitive: Transient/ambiguous/administrative
+Eu46z00,49628,"[x]neurotic disorder, unspecified",Non-definitive: Transient/ambiguous/administrative
+Eu46z11,21431,[x]neurosis nos,Non-definitive: Transient/ambiguous/administrative
+Eu51511,17687,[x]dream anxiety disorder,Non-definitive: Transient/ambiguous/administrative
+Eu60600,8424,[x]anxious [avoidant] personality disorder,Non-definitive: Transient/ambiguous/administrative
+Eu60y16,50348,[x]psychoneurotic personality disorder,Non-definitive: Transient/ambiguous/administrative
+Eu60z11,57567,[x]character neurosis nos,Non-definitive: Transient/ambiguous/administrative
+R2y2.00,2509,[D]Nervousness ,Non-definitive: Transient/ambiguous/administrative
+R2y2.12,10723,[D]Nervous tension ,Non-definitive: Transient/ambiguous/administrative
+Z4I7.00,22159,acknowledging anxiety,Non-definitive: Transient/ambiguous/administrative
+Z4I7100,62935,recognising anxiety,Non-definitive: Transient/ambiguous/administrative
+Z4I7200,28381,alleviating anxiety,Non-definitive: Transient/ambiguous/administrative
+Z4I7211,26295,reducing anxiety,Non-definitive: Transient/ambiguous/administrative
+Z4L1.00,7999,anxiety counselling,Non-definitive: Transient/ambiguous/administrative
+ZV65511,20375,"[V]""Worried well"" ",Non-definitive: Transient/ambiguous/administrative
+16ZB100,101422,Feeling low or worried,Symptoms
+173f.00,107410,anxiety about breathlessness,Symptoms
+1B1..00,3328,general nervous symptoms,Symptoms
+1B12.00,29608,'nerves' - nervousness,Symptoms
+1B12.11,3586,nerves ,Symptoms
+1B12.12,514,tension - nervous,Symptoms
+1B13.00,131,anxiousness,Symptoms
+1B13.11,5902,anxiousness - symptom,Symptoms
+1B13.12,93401,anxious,Symptoms
+1B14.00,29569,tenseness,Symptoms
+1B14.11,2585,tenseness - symptom,Symptoms
+1B1H.11,5347,fear,Symptoms
+1B1H.12,20163,Apprehension ,Symptoms
+1B1P000,40431,Cries easily,Symptoms
+1B1V.00,11890,c/o - panic attack,Symptoms
+1B1Z.00,20089,general nervous symptom nos,Symptoms
+1BK..00,2524,Worried ,Symptoms
+1Bb..00,18672,specific fear,Symptoms
+1Bb1.00,18967,fear of getting cancer,Symptoms
+1M61.00,109887,fearful with pain,Symptoms
+2255,38155,O/E - afraid,Symptoms
+2258,13124,o/e - anxious,Symptoms
+2259,8725,o/e - nervous,Symptoms
+225J.00,19000,o/e - panic attack,Symptoms
+225K.00,26331,o/e - fearful mood,Symptoms
+285..00,15811,"neurotic condition, insight present",Symptoms
+286..00,5274,poor insight into neurotic condition,Symptoms
+28Z..00,25213,nervous syst/mental state nos,Symptoms
+9N54.00,53067,encounter for fear,Symptoms

@@ -1,0 +1,1 @@
+Broad codelist for epilepsy, containing only codes specifically referring to epilepsy (so does not contain codes for seizures that are likely epilepsy related).

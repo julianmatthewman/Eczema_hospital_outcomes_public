@@ -1,0 +1,2 @@
+code,description,coding_system,concept_id,concept_version_id,concept_name,phenotype_id,phenotype_version_id,phenotype_name,code_attributes
+K56.2,Volvulus,ICD10 codes,C1655,4449,Volvulus - Secondary care - Diagnoses,PH337,674,Volvulus,"{'Disease': 'Volvulus', 'Category': 'Diagnosis of Volvulus'}"

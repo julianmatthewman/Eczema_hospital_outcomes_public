@@ -1,0 +1,18 @@
+"searchterms","exclusionterms","searched_in_column","searchmethod"
+"Herpes Simplex","test","Term","termsearch <- function(lookup, terms) {stringr::str_detect(lookup, stringr::regex(paste(terms, collapse = '|'), ignore_case = TRUE))}; initial <- dplyr::filter(DATA, termsearch(COLUMN, SEARCHTERMS)); excluded <- dplyr::filter(initial, termsearch(COLUMN, EXCLUSIONTERMS); final <- dplyr::setdiff(inital, excluded)"
+"Herpes Genitalis","IgM level",,
+"Herpes Labialis","IgG level",,
+"Kaposi Varicelliform Eruption","virus isolation",,
+"Keratitis, Herpetic","detection",,
+"Keratitis, Dendritic","polymerase chain reaction",,
+"Stomatitis, Herpetic","immunoassay",,
+"(?=.*herp)(?=.*genital)","screening",,
+"(?=.*herp)(?=.*labial)","Adverse reaction",,
+"(?=.*herp)(?=.*stomat)","Exposure to",,
+"(?=.*herp)(?=.*oral)","PCR",,
+"Fever Blister",,,
+"Cold Sore",,,
+"(?=.* kaposi)(?=.*varicell)",,,
+"Eczema Herpeticum",,,
+"Herpetic Keratit",,,
+"Dendritic Keratit",,,

@@ -1,0 +1,20 @@
+readcode,description,medcode
+SN58.00,Food allergy,489
+SN58C00,Allergy to tomato,110403
+SN58B00,Allergy to banana,109017
+SN58A00,Allergy to soya,106668
+SN58900,Allergy to strawberries,104326
+SN58911,Strawberry allergy,104300
+SN58800,Mushroom allergy,102590
+SN58700,Shellfish allergy,98281
+SN58600,Seafood allergy,98106
+SN58500,Fish allergy,98127
+SN58400,Wheat allergy,95867
+SN58300,Nut allergy,10182
+SN58200,Peanut allergy,4882
+SN58100,Egg protein allergy,26729
+SN58000,Egg allergy,4425
+8CA4S11,Dietary advice for food allergy,110242
+8CA4S00,Dietary education for food allergy,107565
+14M1.00,H/O: food allergy,7418
+13A7.00,Egg free diet - allergy,19615

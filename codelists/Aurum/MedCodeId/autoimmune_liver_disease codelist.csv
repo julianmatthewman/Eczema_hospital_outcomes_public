@@ -1,0 +1,9 @@
+MedCodeId,Observations,OriginalReadCode,CleansedReadCode,Term,SnomedCTConceptId,SnomedCTDescriptionId,Release,EmisCodeCategoryId
+52980015,60000,J6160,J616000,Primary biliary cirrhosis,31712002,52980015,,32
+303404016,8000,J6141-1,J614111,Autoimmune chronic active hepatitis,197284004,303404016,,32
+303614019,20000,J6617,J661700,Primary sclerosing cholangitis,197441003,303614019,,32
+2159899016,50000,J63B,J63B.00,Autoimmune hepatitis,408335007,2159899016,,32
+3515305014,1,^ESCT1165905,,Cirrhosis of liver with primary sclerosing cholangitis,735733008,3515305014,,31
+3010811000006111,300,^ESCTPR301081,,Primary biliary cholangitis,31712002,3322805017,,32
+4787861000006113,20,^ESCTPS478786,,PSC - Primary sclerosing cholangitis,197441003,303615018,,32
+7821651000006119,9,^ESCTAU782165,,Autoimmune hepatitis type 1,721711009,3325825014,,31

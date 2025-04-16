@@ -1,0 +1,35 @@
+medcodeid	term	originalreadcode	cleansedreadcode	snomedctconceptid	snomedctdescriptionid	dementia
+1972481000006114	"vascular dementia of acute onset, without additional symptoms"	EMISICD10|F0100		1972481000006105	1972481000006114	1
+1972501000006116	"vascular dementia of acute onset, other symptoms, predominantly delusional"	EMISICD10|F0101		1972501000006100	1972501000006116	1
+1972521000006114	"vascular dementia of acute onset, other symptoms, predominantly hallucinatory"	EMISICD10|F0102		1972521000006105	1972521000006114	1
+1972541000006119	"vascular dementia of acute onset, other symptoms, predominantly depressive"	EMISICD10|F0103		1972541000006103	1972541000006119	1
+1972571000006110	"vascular dementia of acute onset, other mixed symptoms"	EMISICD10|F0104		1972571000006106	1972571000006110	1
+1972711000006113	"subcortical vascular dementia, without additional symptoms"	EMISICD10|F0120		1972711000006109	1972711000006113	1
+1972731000006119	"subcortical vascular dementia, other symptoms, predominantly delusional"	EMISICD10|F0121		1972731000006103	1972731000006119	1
+1972751000006114	"subcortical vascular dementia, other symptoms, predominantly hallucinatory"	EMISICD10|F0122		1972751000006105	1972751000006114	1
+1972771000006116	"subcortical vascular dementia, other symptoms, predominantly depressive"	EMISICD10|F0123		1972771000006100	1972771000006116	1
+1972791000006115	"subcortical vascular dementia, other mixed symptoms"	EMISICD10|F0124		1972791000006104	1972791000006115	1
+1972821000006112	"mixed cortical and subcortical vascular dementia, without additional symptoms"	EMISICD10|F0130		1972821000006108	1972821000006112	1
+1972831000006110	"mixed cortical and subcortical vascular dementia, other symptoms, predominantly delusional"	EMISICD10|F0131		1972831000006106	1972831000006110	1
+1972871000006113	"mixed cortical and subcortical vascular dementia, other symptoms, predominantly hallucinatory"	EMISICD10|F0132		1972871000006109	1972871000006113	1
+1972911000006111	"mixed cortical and subcortical vascular dementia, other symptoms, predominantly depressive"	EMISICD10|F0133		1972911000006107	1972911000006111	1
+1972931000006117	"mixed cortical and subcortical vascular dementia, other mixed symptoms"	EMISICD10|F0134		1972931000006101	1972931000006117	1
+1973221000006118	"other vascular dementia, without additional symptoms"	EMISICD10|F0180		1973221000006102	1973221000006118	1
+1973271000006117	"other vascular dementia, other symptoms, predominantly delusional"	EMISICD10|F0181		1973271000006101	1973271000006117	1
+1973341000006118	"other vascular dementia, other symptoms, predominantly hallucinatory"	EMISICD10|F0182		1973341000006102	1973341000006118	1
+1973381000006112	"other vascular dementia, other symptoms, predominantly depressive"	EMISICD10|F0183		1973381000006108	1973381000006112	1
+1973401000006112	"other vascular dementia, other mixed symptoms"	EMISICD10|F0184		1973401000006108	1973401000006112	1
+1973461000006113	"vascular dementia, unspecified, without additional symptoms"	EMISICD10|F0190		1973461000006109	1973461000006113	1
+1973501000006113	"vascular dementia, unspecified, other symptoms, predominantly delusional"	EMISICD10|F0191		1973501000006109	1973501000006113	1
+1973531000006117	"vascular dementia, unspecified, other symptoms, predominantly hallucinatory"	EMISICD10|F0192		1973531000006101	1973531000006117	1
+1973551000006112	"vascular dementia, unspecified, other symptoms, predominantly depressive"	EMISICD10|F0193		1973551000006108	1973551000006112	1
+1976831000006111	"vascular dementia, unspecified, other mixed symptoms"	EMISICD10|F0194		1976831000006107	1976831000006111	1
+295680015	[x]other vascular dementia	Eu01y	Eu01y00	429998004	2770951017	1
+295681016	"[x]vascular dementia, unspecified"	Eu01z	Eu01z00	429998004	2770951017	1
+297013012	cerebral degeneration due to cerebrovascular disease	F11x2	F11x200	192813004	297013012	1
+3414251000006112	vad - vascular dementia	^ESCTVA341425		56267009	497560014	1
+398571000006112	[x]mixed cortical and subcortical vascular dementia	Eu013	Eu01300	230287006	345112018	1
+428201000006119	[x]subcortical vascular dementia	Eu012	Eu01200	230286002	345111013	1
+431681000006117	[x]vascular dementia	Eu01	Eu01.00	429998004	2770951017	1
+431691000006119	[x]vascular dementia of acute onset	Eu010	Eu01000	230285003	345110014	1
+914921000006117	[d] vascular dementia	EMISNQDV1		914921000006101	914921000006117	1

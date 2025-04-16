@@ -1,0 +1,25 @@
+phenotype_name,medcode,ReadcodeDescr,Readcode
+Pancreatitis,104385,Biliary acute pancreatitis,J670700
+Pancreatitis,104611,Alcohol-induced acute pancreatitis,J670800
+Pancreatitis,105066,Other acute pancreatitis,J670y00
+Pancreatitis,105194,Idiopathic acute pancreatitis,J670600
+Pancreatitis,105910,Drug-induced acute pancreatitis,J670900
+Pancreatitis,1113,Acute pancreatitis,J670.00
+Pancreatitis,12316,Gallstone acute pancreatitis,J670500
+Pancreatitis,1419,Chronic pancreatitis,J671.00
+Pancreatitis,14905,Acute pancreatitis NOS,J670z00
+Pancreatitis,1506,Acute recurrent pancreatitis,J670100
+Pancreatitis,18544,Mumps pancreatitis,A723.00
+Pancreatitis,24984,Alcohol-induced chronic pancreatitis,J671000
+Pancreatitis,31395,Acute haemorrhagic pancreatitis,J670200
+Pancreatitis,32954,History of acute pancreatitis,14CG.00
+Pancreatitis,42278,Gallstone chronic pancreatitis,J671100
+Pancreatitis,44278,Cytomegaloviral pancreatitis,A785100
+Pancreatitis,44571,Acute suppurative pancreatitis,J670300
+Pancreatitis,4650,Pseudocyst of pancreas,J672100
+Pancreatitis,48685,Subacute pancreatitis,J670400
+Pancreatitis,49353,[X]Other chronic pancreatitis,Jyu8400
+Pancreatitis,49499,Acute pancreatitis unspecified,J670000
+Pancreatitis,61326,Pancytopenia with pancreatitis,D201612
+Pancreatitis,656,Pancreatitis,J670z11
+Pancreatitis,71633,History of chronic pancreatitis,14CH.00

@@ -1,0 +1,284 @@
+readcode,medcode,readterm,Category
+E112.00,10610,single major depressive episode,Core
+E112.11,5879,agitated depression,Core
+E112.12,6546,endogenous depression first episode,Core
+E112.13,6950,endogenous depression first episode,Core
+E112.14,595,endogenous depression,Core
+E112000,34390,"single major depressive episode, unspecified",Core
+E112100,16506,"single major depressive episode, mild",Core
+E112200,15155,"single major depressive episode, moderate",Core
+E112300,15219,"single major depressive episode, severe, without psychosis",Core
+E112400,32159,"single major depressive episode, severe, with psychosis",Core
+E112500,43324,"single major depressive episode, partial or unspec remission",Core
+E112600,57409,"single major depressive episode, in full remission",Core
+E112z00,7011,single major depressive episode nos,Core
+E113.00,15099,recurrent major depressive episode,Core
+E113.11,6932,endogenous depression - recurrent,Core
+E113000,35671,"recurrent major depressive episodes, unspecified",Core
+E113100,29342,"recurrent major depressive episodes, mild",Core
+E113200,14709,"recurrent major depressive episodes, moderate",Core
+E113300,25697,"recurrent major depressive episodes, severe, no psychosis",Core
+E113400,24171,"recurrent major depressive episodes, severe, with psychosis",Core
+E113700,6482,recurrent depression,Core
+E113z00,25563,recurrent major depressive episode nos,Core
+E118.00,10825,seasonal affective disorder,Core
+E11y200,27491,atypical depressive disorder,Core
+E11z200,9183,masked depression,Core
+E130.00,8478,reactive depressive psychosis,Core
+E130.11,17770,psychotic reactive depression,Core
+E135.00,1055,agitated depression,Core
+E200300,655,anxiety with depression,Core
+E291.00,16632,prolonged depressive reaction,Core
+E2B..00,324,depressive disorder nec,Core
+E2B1.00,4323,chronic depression,Core
+Eu32.00,4639,[x]depressive episode,Core
+Eu32.11,9055,[x]single episode of depressive reaction,Core
+Eu32.12,18510,[x]single episode of psychogenic depression,Core
+Eu32.13,7604,[x]single episode of reactive depression,Core
+Eu32000,11717,[x]mild depressive episode,Core
+Eu32100,9211,[x]moderate depressive episode,Core
+Eu32200,9667,[x]severe depressive episode without psychotic symptoms,Core
+Eu32211,41989,[X]Single episode agitated depressn w'out psychotic symptoms,Core
+Eu32212,22806,[x]single episode major depression w'out psychotic symptoms,Core
+Eu32213,59386,[x]single episode vital depression w'out psychotic symptoms,Core
+Eu32300,12099,[x]severe depressive episode with psychotic symptoms,Core
+Eu32311,24117,[x]single episode of major depression and psychotic symptoms,Core
+Eu32312,52678,[x]single episode of psychogenic depressive psychosis,Core
+Eu32313,24112,[x]single episode of psychotic depression,Core
+Eu32314,28863,[x]single episode of reactive depressive psychosis,Core
+Eu32400,10667,[x]mild depression,Core
+Eu32500,98346,"[x]major depression, mild",Core
+Eu32600,98252,"[x]major depression, moderately severe",Core
+Eu32700,98414,"[x]major depression, severe without psychotic symptoms",Core
+Eu32800,98417,"[x]major depression, severe with psychotic symptoms",Core
+Eu32900,101054,"[X]Single major depr ep, severe with psych, psych in remiss",Core
+Eu32A00,101153,"[X]Recurr major depr ep, severe with psych, psych in remiss",Core
+Eu32B00,103677,[x]antenatal depression,Core
+Eu32y00,6854,[x]other depressive episodes,Core
+Eu32y11,10720,[x]atypical depression,Core
+Eu32y12,56609,[x]single episode of masked depression nos,Core
+Eu32z00,2970,"[x]depressive episode, unspecified",Core
+Eu32z11,543,[x]depression nos,Core
+Eu32z12,3291,[x]depressive disorder nos,Core
+Eu32z13,28248,[x]prolonged single episode of reactive depression,Core
+Eu32z14,5987,[x] reactive depression nos,Core
+Eu33.00,3292,[x]recurrent depressive disorder,Core
+Eu33.11,8851,[x]recurrent episodes of depressive reaction,Core
+Eu33.12,19696,[x]recurrent episodes of psychogenic depression,Core
+Eu33.13,8902,[x]recurrent episodes of reactive depression,Core
+Eu33.14,28756,[x]seasonal depressive disorder,Core
+Eu33.15,8826,[x]sad - seasonal affective disorder,Core
+Eu33000,29784,"[x]recurrent depressive disorder, current episode mild",Core
+Eu33100,29520,"[x]recurrent depressive disorder, current episode moderate",Core
+Eu33200,33469,[X]Recurr depress disorder cur epi severe without psyc sympt,Core
+Eu33211,11329,[x]endogenous depression without psychotic symptoms,Core
+Eu33212,11252,"[x]major depression, recurrent without psychotic symptoms",Core
+Eu33214,73991,"[x]vital depression, recurrent without psychotic symptoms",Core
+Eu33300,47009,[X]Recurrent depress disorder cur epi severe with psyc symp,Core
+Eu33311,23731,[x]endogenous depression with psychotic symptoms,Core
+Eu33313,32941,[x]recurr severe episodes/major depression+psychotic symptom,Core
+Eu33314,31757,[x]recurr severe episodes/psychogenic depressive psychosis,Core
+Eu33315,16861,[x]recurrent severe episodes of psychotic depression,Core
+Eu33316,37764,[x]recurrent severe episodes/reactive depressive psychosis,Core
+Eu33y00,47731,[x]other recurrent depressive disorders,Core
+Eu33z00,44300,"[x]recurrent depressive disorder, unspecified",Core
+Eu33z11,36616,[x]monopolar depression nos,Core
+Eu34100,7953,[x]dysthymia,Core
+Eu34111,8584,[x]depressive neurosis,Core
+Eu34113,7737,[x]neurotic depression,Core
+Eu34114,15220,[x]persistant anxiety depression,Core
+Eu3y111,19054,[x]recurrent brief depressive episodes,Core
+Eu41200,11913,[x]mixed anxiety and depressive disorder,Core
+Eu41211,7749,[x]mild anxiety depression,Core
+1465,2716,h/o: depression,History
+146D.00,11548,h/o: manic depressive disorder,History
+212S.00,19439,depression resolved,History
+212V.00,85102,bipolar affective disorder resolved,History
+E113500,56273,"recurrent major depressive episodes,partial/unspec remission",History
+E113600,55384,"recurrent major depressive episodes, in full remission",History
+Eu33400,22116,"[x]recurrent depressive disorder, currently in remission",History
+13Y3.00,56260,manic-depression association member,Not Depression - alternative diagnosis
+1S42.00,22713,manic mood,Not Depression - alternative diagnosis
+212T.00,19345,"psychosis, schizophrenia + bipolar affective disord resolved",Not Depression - alternative diagnosis
+E001300,27677,presenile dementia with depression,Not Depression - alternative diagnosis
+E002.00,44674,senile dementia with depressive or paranoid features,Not Depression - alternative diagnosis
+E002100,21887,senile dementia with depression,Not Depression - alternative diagnosis
+E002z00,41089,senile dementia with depressive or paranoid features nos,Not Depression - alternative diagnosis
+E004300,43292,arteriosclerotic dementia with depression,Not Depression - alternative diagnosis
+E03y200,24510,organic affective syndrome,Not Depression - alternative diagnosis
+E107.00,2117,schizo-affective schizophrenia,Not Depression - alternative diagnosis
+E107000,58862,unspecified schizo-affective schizophrenia,Not Depression - alternative diagnosis
+E107100,61098,subchronic schizo-affective schizophrenia,Not Depression - alternative diagnosis
+E107200,43800,chronic schizo-affective schizophrenia,Not Depression - alternative diagnosis
+E107300,58866,acute exacerbation subchronic schizo-affective schizophrenia,Not Depression - alternative diagnosis
+E107400,63478,acute exacerbation of chronic schizo-affective schizophrenia,Not Depression - alternative diagnosis
+E107500,56438,schizo-affective schizophrenia in remission,Not Depression - alternative diagnosis
+E107z00,10575,schizo-affective schizophrenia nos,Not Depression - alternative diagnosis
+E11..00,14656,affective psychoses,Not Depression - alternative diagnosis
+E11..12,2560,depressive psychoses,Not Depression - alternative diagnosis
+E114.00,3702,"bipolar affective disorder, currently manic",Not Depression - alternative diagnosis
+E114.11,17385,manic-depressive - now manic,Not Depression - alternative diagnosis
+E114000,35738,"bipolar affective disorder, currently manic, unspecified",Not Depression - alternative diagnosis
+E114100,36126,"bipolar affective disorder, currently manic, mild",Not Depression - alternative diagnosis
+E114200,46434,"bipolar affective disorder, currently manic, moderate",Not Depression - alternative diagnosis
+E114600,63784,"bipolar affective disorder, currently manic, full remission",Not Depression - alternative diagnosis
+E114z00,57605,"bipolar affective disorder, currently manic, nos",Not Depression - alternative diagnosis
+E115.00,4677,"bipolar affective disorder, currently depressed",Not Depression - alternative diagnosis
+E115.11,12831,manic-depressive - now depressed,Not Depression - alternative diagnosis
+E115000,15923,"bipolar affective disorder, currently depressed, unspecified",Not Depression - alternative diagnosis
+E115100,35734,"bipolar affective disorder, currently depressed, mild",Not Depression - alternative diagnosis
+E115200,27890,"bipolar affective disorder, currently depressed, moderate",Not Depression - alternative diagnosis
+E115300,35607,"Bipolar affect disord, now depressed, severe, no psychosis",Not Depression - alternative diagnosis
+E115400,63701,"Bipolar affect disord, now depressed, severe with psychosis",Not Depression - alternative diagnosis
+E115500,72026,"Bipolar affect disord, now depressed, part/unspec remission",Not Depression - alternative diagnosis
+E115600,57465,"bipolar affective disorder, now depressed, in full remission",Not Depression - alternative diagnosis
+E115z00,37296,"bipolar affective disorder, currently depressed, nos",Not Depression - alternative diagnosis
+E116.00,31316,mixed bipolar affective disorder,Not Depression - alternative diagnosis
+E116000,31535,"mixed bipolar affective disorder, unspecified",Not Depression - alternative diagnosis
+E116100,24689,"mixed bipolar affective disorder, mild",Not Depression - alternative diagnosis
+E116200,63150,"mixed bipolar affective disorder, moderate",Not Depression - alternative diagnosis
+E116300,63284,"mixed bipolar affective disorder, severe, without psychosis",Not Depression - alternative diagnosis
+E116400,54195,"mixed bipolar affective disorder, severe, with psychosis",Not Depression - alternative diagnosis
+E116500,63651,"mixed bipolar affective disorder, partial/unspec remission",Not Depression - alternative diagnosis
+E116600,55064,"mixed bipolar affective disorder, in full remission",Not Depression - alternative diagnosis
+E116z00,63583,"mixed bipolar affective disorder, nos",Not Depression - alternative diagnosis
+E117.00,14784,unspecified bipolar affective disorder,Not Depression - alternative diagnosis
+E117000,49763,"unspecified bipolar affective disorder, unspecified",Not Depression - alternative diagnosis
+E117100,63698,"unspecified bipolar affective disorder, mild",Not Depression - alternative diagnosis
+E117200,68647,"unspecified bipolar affective disorder, moderate",Not Depression - alternative diagnosis
+E117300,73423,"unspecified bipolar affective disorder, severe, no psychosis",Not Depression - alternative diagnosis
+E117400,68326,"unspecified bipolar affective disorder,severe with psychosis",Not Depression - alternative diagnosis
+E117600,24230,"unspecified bipolar affective disorder, in full remission",Not Depression - alternative diagnosis
+E117z00,27986,"unspecified bipolar affective disorder, nos",Not Depression - alternative diagnosis
+E11y.00,60178,other and unspecified manic-depressive psychoses,Not Depression - alternative diagnosis
+E11y000,11596,unspecified manic-depressive psychoses,Not Depression - alternative diagnosis
+E11y300,70399,other mixed manic-depressive psychoses,Not Depression - alternative diagnosis
+E11yz00,33426,other and unspecified manic-depressive psychoses nos,Not Depression - alternative diagnosis
+E11z.00,41992,other and unspecified affective psychoses,Not Depression - alternative diagnosis
+E11z000,54607,unspecified affective psychoses nos,Not Depression - alternative diagnosis
+E11z100,3489,rebound mood swings,Not Depression - alternative diagnosis
+E11zz00,33425,other affective psychosis nos,Not Depression - alternative diagnosis
+E211.00,14979,affective personality disorder,Not Depression - alternative diagnosis
+E211000,16178,unspecified affective personality disorder,Not Depression - alternative diagnosis
+E211200,10455,unspecified affective personality disorder,Not Depression - alternative diagnosis
+E211300,12707,Cyclothymic personality disorder,Not Depression - alternative diagnosis
+E211z00,51497,affective personality disorder nos,Not Depression - alternative diagnosis
+Eu02z16,27759,"[X] Senile dementia, depressed or paranoid type",Not Depression - alternative diagnosis
+Eu05300,24000,[x]organic mood [affective] disorders,Not Depression - alternative diagnosis
+Eu06y11,45419,[x]right hemispheric organic affective disorder,Not Depression - alternative diagnosis
+Eu20400,20785,[x]post-schizophrenic depression,Not Depression - alternative diagnosis
+Eu25.00,9422,[x]schizoaffective disorders,Not Depression - alternative diagnosis
+Eu25000,33847,"[x]schizoaffective disorder, manic type",Not Depression - alternative diagnosis
+Eu25011,16905,"[x]schizoaffective psychosis, manic type",Not Depression - alternative diagnosis
+Eu25100,11055,"[x]schizoaffective disorder, depressive type",Not Depression - alternative diagnosis
+Eu25111,35274,"[x]schizoaffective psychosis, depressive type",Not Depression - alternative diagnosis
+Eu25112,41022,"[x]schizophreniform psychosis, depressive type",Not Depression - alternative diagnosis
+Eu25200,33693,"[x]schizoaffective disorder, mixed type",Not Depression - alternative diagnosis
+Eu25212,37580,[x]mixed schizophrenic and affective psychosis,Not Depression - alternative diagnosis
+Eu25y00,58532,[x]other schizoaffective disorders,Not Depression - alternative diagnosis
+Eu25z00,37681,"[x]schizoaffective disorder, unspecified",Not Depression - alternative diagnosis
+Eu25z11,33410,[x]schizoaffective psychosis nos,Not Depression - alternative diagnosis
+Eu3..00,5726,[x]mood - affective disorders,Not Depression - alternative diagnosis
+Eu30211,37102,[x]mania with mood-congruent psychotic symptoms,Not Depression - alternative diagnosis
+Eu30212,48632,[x]mania with mood-incongruent psychotic symptoms,Not Depression - alternative diagnosis
+Eu31.00,6874,[x]bipolar affective disorder,Not Depression - alternative diagnosis
+Eu31.11,1531,[x]manic-depressive illness,Not Depression - alternative diagnosis
+Eu31.12,6710,[x]manic-depressive psychosis,Not Depression - alternative diagnosis
+Eu31.13,66153,[x]manic-depressive reaction,Not Depression - alternative diagnosis
+Eu31000,16808,"[x]bipolar affective disorder, current episode hypomanic",Not Depression - alternative diagnosis
+Eu31300,16562,[X]Bipolar affect disorder cur epi mild or moderate depressn,Not Depression - alternative diagnosis
+Eu31400,23713,"[X]Bipol aff disord, curr epis sev depress, no psychot symp",Not Depression - alternative diagnosis
+Eu31500,4732,[X]Bipolar affect dis cur epi severe depres with psyc symp,Not Depression - alternative diagnosis
+Eu31600,44693,"[x]bipolar affective disorder, current episode mixed",Not Depression - alternative diagnosis
+Eu31700,27584,"[x]bipolar affective disorder, currently in remission",Not Depression - alternative diagnosis
+Eu31800,104065,[x]bipolar affective disorder type i,Not Depression - alternative diagnosis
+Eu31900,103915,[x]bipolar affective disorder type ii,Not Depression - alternative diagnosis
+Eu31y00,53840,[x]other bipolar affective disorders,Not Depression - alternative diagnosis
+Eu31y11,73924,[X]Bipolar II disorder,Not Depression - alternative diagnosis
+Eu31z00,33751,"[x]bipolar affective disorder, unspecified",Not Depression - alternative diagnosis
+Eu33213,29451,"[X]Manic-depress psychosis,depressd,no psychotic symptoms",Not Depression - alternative diagnosis
+Eu33312,28677,"[X]Manic-depress psychosis,depressed type+psychotic symptoms",Not Depression - alternative diagnosis
+Eu34.00,42857,[x]persistent mood affective disorders,Not Depression - alternative diagnosis
+Eu34000,21540,[X]Cyclothymia,Not Depression - alternative diagnosis
+Eu34011,26839,[x]affective personality disorder,Not Depression - alternative diagnosis
+Eu34012,54848,[X]Cycloid personality,Not Depression - alternative diagnosis
+Eu34013,23854,[X]Cyclothymic personality,Not Depression - alternative diagnosis
+Eu34y00,50243,[x]other persistent mood affective disorders,Not Depression - alternative diagnosis
+Eu34z00,39767,"[x]persistent mood affective disorder, unspecified",Not Depression - alternative diagnosis
+Eu3y.00,28008,[x]other mood affective disorders,Not Depression - alternative diagnosis
+Eu3y000,50998,[x]other single mood affective disorders,Not Depression - alternative diagnosis
+Eu3y011,30688,[x]mixed affective episode,Not Depression - alternative diagnosis
+Eu3y100,29921,[x]other recurrent mood affective disorders,Not Depression - alternative diagnosis
+Eu3yy00,29579,[x]other specified mood affective disorders,Not Depression - alternative diagnosis
+Eu3z.00,37090,[x]unspecified mood affective disorder,Not Depression - alternative diagnosis
+Eu3z.11,31633,[x]affective psychosis nos,Not Depression - alternative diagnosis
+ZV11100,15117,[v]personal history of affective disorder,Not Depression - alternative diagnosis
+ZV11111,23963,[v]personal history of manic-depressive psychosis,Not Depression - alternative diagnosis
+ZV11112,22080,[v]personal history of manic-depressive psychosis,Not Depression - alternative diagnosis
+62T1.00,2923,puerperal depression,Non-definitive: Transient/ambiguous/administrative
+6G00.00,18702,postnatal depression counselling,Non-definitive: Transient/ambiguous/administrative
+8BK0.00,44848,depression management programme,Non-definitive: Transient/ambiguous/administrative
+8CAa.00,30483,patient given advice about management of depression,Non-definitive: Transient/ambiguous/administrative
+8HHq.00,32841,referral for guided self-help for depression,Non-definitive: Transient/ambiguous/administrative
+9H90.00,12399,depression annual review,Non-definitive: Transient/ambiguous/administrative
+9H91.00,12122,depression medication review,Non-definitive: Transient/ambiguous/administrative
+9H92.00,30405,depression interim review,Non-definitive: Transient/ambiguous/administrative
+9HA0.00,42931,on depression register,Non-definitive: Transient/ambiguous/administrative
+9hC..00,48970,exception reporting: depression quality indicators,Non-definitive: Transient/ambiguous/administrative
+9hC0.00,28970,excepted from depression quality indicators: patient unsuita,Non-definitive: Transient/ambiguous/administrative
+9hC1.00,43239,excepted from depression quality indicators: informed dissen,Non-definitive: Transient/ambiguous/administrative
+9k4..00,30583,depression - enhanced services administration,Non-definitive: Transient/ambiguous/administrative
+9k40.00,65435,depression - enhanced service completed,Non-definitive: Transient/ambiguous/administrative
+9kQ..00,96995,on full dose long term treatment depression - enh serv admin,Non-definitive: Transient/ambiguous/administrative
+9Ov..00,51258,depression monitoring administration,Non-definitive: Transient/ambiguous/administrative
+9Ov0.00,71009,depression monitoring first letter,Non-definitive: Transient/ambiguous/administrative
+9Ov1.00,72966,depression monitoring second letter,Non-definitive: Transient/ambiguous/administrative
+9Ov2.00,91105,depression monitoring third letter,Non-definitive: Transient/ambiguous/administrative
+9Ov3.00,88644,depression monitoring verbal invite,Non-definitive: Transient/ambiguous/administrative
+9Ov4.00,85852,depression monitoring telephone invite,Non-definitive: Transient/ambiguous/administrative
+E02y300,46244,drug-induced depressive state,Non-definitive: Transient/ambiguous/administrative
+E204.00,1131,neurotic depression reactive type,Non-definitive: Transient/ambiguous/administrative
+E204.11,2639,postnatal depression,Non-definitive: Transient/ambiguous/administrative
+E290.00,1533,brief depressive reaction,Non-definitive: Transient/ambiguous/administrative
+E290z00,36246,brief depressive reaction nos,Non-definitive: Transient/ambiguous/administrative
+E292.00,24212,"Adjustment reaction, predominant disturbance other emotions",Non-definitive: Transient/ambiguous/administrative
+E292400,56924,adjustment reaction with anxious mood,Non-definitive: Transient/ambiguous/administrative
+E292y00,48588,Adjustment reaction with mixed disturbance of emotion,Non-definitive: Transient/ambiguous/administrative
+E292z00,15665,Adjustment reaction with disturbance of other emotion NOS,Non-definitive: Transient/ambiguous/administrative
+E294.00,45603,Adjustment reaction with disturbance emotion and conduct,Non-definitive: Transient/ambiguous/administrative
+E2B0.00,2972,postviral depression,Non-definitive: Transient/ambiguous/administrative
+E2C4.00,41599,Mixed disturbance of conduct and emotion,Non-definitive: Transient/ambiguous/administrative
+E2C4z00,6121,Mixed disturbance of conduct and emotion NOS,Non-definitive: Transient/ambiguous/administrative
+Eu34112,10290,[x]depressive personality disorder,Non-definitive: Transient/ambiguous/administrative
+Eu3y200,100211,[x]premenstrual dysphoric disorder,Non-definitive: Transient/ambiguous/administrative
+Eu43.00,11098,"[x]reaction to severe stress, and adjustment disorders",Non-definitive: Transient/ambiguous/administrative
+Eu43000,11607,[X]Acute stress reaction,Non-definitive: Transient/ambiguous/administrative
+Eu43012,10535,[X]Acute reaction to stress,Non-definitive: Transient/ambiguous/administrative
+Eu43200,11336,[x]adjustment disorders,Non-definitive: Transient/ambiguous/administrative
+Eu43y00,21753,[X]Other reactions to severe stress,Non-definitive: Transient/ambiguous/administrative
+Eu43z00,31515,"[X]Reaction to severe stress, unspecified",Non-definitive: Transient/ambiguous/administrative
+Eu53011,13307,[x]postnatal depression nos,Non-definitive: Transient/ambiguous/administrative
+Eu53012,4979,[x]postpartum depression nos,Non-definitive: Transient/ambiguous/administrative
+Eu92000,32845,[x]depressive conduct disorder,Non-definitive: Transient/ambiguous/administrative
+R007z13,29527,[d]postoperative depression,Non-definitive: Transient/ambiguous/administrative
+2257,1908,O/E - depressed,Symptom
+1B17.00,1996,Depressed,Symptom
+1B17.11,4824,C/O - feeling depressed,Symptom
+1B17.12,2930,C/O - feeling unhappy,Symptom
+1B1J.00,1449,Emotional problem,Symptom
+1B1J.11,3502,Emotional upset,Symptom
+1B1N.00,2147,Poor self esteem,Symptom
+1B1U.00,9796,symptoms of depression,Symptom
+1B1U.11,10438,depressive symptoms,Symptom
+1BI..00,21124,Blunted affect,Symptom
+1BJ..00,7412,Loss of confidence,Symptom
+1BO..00,6021,mood swings,Symptom
+1BP..00,30740,Loss of interest,Symptom
+1BP0.00,59869,Loss of interest in previously enjoyable activity,Symptom
+1BQ..00,25435,Loss of capacity for enjoyment,Symptom
+1BT..00,10015,depressed mood,Symptom
+1BT..11,8928,low mood,Symptom
+1BT..12,26028,sad mood,Symptom
+1BU..00,53148,Loss of hope for the future,Symptom
+1JJ..00,100977,suspected depression,Symptom
+1S40.00,48349,dysphoric mood,Symptom

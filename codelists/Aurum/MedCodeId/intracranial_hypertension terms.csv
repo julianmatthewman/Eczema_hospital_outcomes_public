@@ -1,0 +1,3 @@
+"searchterms","exclusionterms","searched_in_column","searchmethod"
+"intracranial hyperten.","Adverse reaction","Term","default stringr::str_detect() search method"
+"pseudotumour cerebri",,,

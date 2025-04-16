@@ -1,0 +1,35 @@
+medcodeid,observations,originalreadcode,cleansedreadcode,term,snomedctconceptid,snomedctdescriptionid,release,emiscodecategoryid
+82584011,10000,G400,G400.00,Acute cor pulmonale,49584005,82584011,,32
+98484016,800000,G401,G401.00,Pulmonary embolism,59282003,98484016,,32
+251693011,10000,14AC,14AC.00,H/O: pulmonary embolus,161512007,251693011,,32
+271392011,200,7A093-1,7A09311,Trendelenburg pulmonary embolectomy,175262009,271392011,,32
+305585018,20,L0964,L096400,Pulmonary embolism following abortive pregnancy,609480009,2966835018,,32
+307826010,3,L4310,L431000,Amniotic fluid pulmonary embolism unspecified,17263003,29186013,,32
+307827018,3,L4311,L431100,Amniotic fluid pulmonary embolism - delivered,200294005,307827018,,32
+307831012,8,L431z,L431z00,Amniotic fluid pulmonary embolism NOS,17263003,29186013,,32
+451479013,2000,ZV129,ZV12900,[V] Personal history of pulmonary embolism,161512007,251693011,,32
+499917019,2000,G402,G402.00,Pulmonary infarct,64662007,499917019,,32
+2549664019,10000,1JC,1JC..00,Suspected pulmonary embolism,417113001,2549664019,,27
+193601000006115,70000,G401-2,G401.12,Pulmonary embolus,59282003,98484016,,32
+216591000006115,10000,G4010,G401000,Postoperative pulmonary embolus,194883006,299847015,,32
+261021000006119,300,7A093,7A09300,Open pulmonary embolectomy,175262009,271393018,,32
+479841000006113,8,L4312,L431200,Amniotic fluid pulmonary embolism - delivered with postnatal complication,200295006,307828011,,32
+479891000006116,2,L4313,L431300,Amniotic fluid pulmonary embolism with antenatal complication,200296007,307829015,,32
+479901000006117,5,L4314,L431400,Amniotic fluid pulmonary embolism with postnatal complication,200297003,307830013,,32
+632111000000118,6000,G4011,G401100,Recurrent pulmonary embolism,438773007,2793990014,,32
+728841000006111,800,G401-1,G401.11,Pulmonary infarction,64662007,107459015,,32
+905451000006118,300,HNG0019,,[RFC] Pulmonary embolism/pulmonary hypertension,905451000006102,905451000006118,,12
+3462921000006119,40,^ESCTPE346292,,PE - Pulmonary embolism,59282003,1231937012,,32
+3551761000006115,4,^ESCTIN355176,,Infarct of lung,64662007,107460013,,32
+4540611000006119,3,^ESCTHI454061,,History of pulmonary embolus,161512007,2986421016,,32
+5057621000006119,20,^ESCTAC505762,,Acute massive pulmonary embolism,233936003,350502011,,31
+5057651000006111,3,^ESCTSU505765,,Subacute massive pulmonary embolism,233937007,350504012,,31
+5057661000006113,1,^ESCTSA505766,,SAMPE - Subacute massive pulmonary embolism,233937007,350505013,,31
+6452821000006114,20,^ESCTPU645282,,Pulmonary embolus care,386280004,1480446016,,31
+7609581000006110,40,^ESCTAC760958,,Acute pulmonary embolism,706870000,3027244010,,31
+7699481000006113,2,^ESCTPU769948,,Pulmonary embolism on long-term anticoagulation therapy,713078005,3288022019,,31
+7848521000006117,1,^ESCTPU784852,,Pulmonary embolism as current complication following acute myocardial infarction,723859005,3427206017,,32
+7967281000006119,10,^ESCTPU796728,,Pulmonary embolism with pulmonary infarction,1001000119102,2967075019,,31
+7967291000006116,1,^ESCTPU796729,,Pulmonary embolism with infarction,1001000119102,2967197019,,31
+8042101000006112,3,^ESCTCH804210,,Chronic pulmonary embolism,133971000119108,2968248015,,31
+9326661000006117,1,^ESCTHI932666,,History of pulmonary embolism on long-term anticoagulation therapy,10761511000119101,3287786013,,31

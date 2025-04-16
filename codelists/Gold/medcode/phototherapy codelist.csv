@@ -1,0 +1,30 @@
+medcode,readcode,clinicalevents,immunisationevents,referralevents,testevents,readterm,version,lc_readterm,lc_readcode,marker
+5092,8632.11,2207,0,69,0,PUVA phototherapy,February 2009,puva phototherapy,8632.11,9
+12214,863..11,2413,0,30,0,Phototherapy,February 2009,phototherapy,863..11,9
+18465,8631.00,2004,0,11,0,Phototherapy,February 2009,phototherapy,8631.00,9
+22313,Z6E1211,823,0,0,0,UVB phototherapy,February 2009,uvb phototherapy,z6e1211,9
+27906,8632.14,627,0,7,0,UVB phototherapy,February 2009,uvb phototherapy,8632.14,9
+40628,Z6E1411,49,0,1,0,PUVA phototherapy,February 2009,puva phototherapy,z6e1411,9
+42854,Z6E2.00,93,0,0,0,Photochemotherapy,February 2009,photochemotherapy,z6e2.00,9
+45349,8632.15,59,0,0,0,Ultraviolet light phototherapy,February 2009,ultraviolet light phototherapy,8632.15,9
+48690,863Z.00,45,0,1,0,Radiation/phototherapy NOS,February 2009,radiation/phototherapy nos,863z.00,9
+49464,863..00,276,0,48,0,Phototherapy/radiation therapy,February 2009,phototherapy/radiation therapy,863..00,9
+49749,8632.13,23,0,1,0,UVA phototherapy,February 2009,uva phototherapy,8632.13,9
+63352,8638.00,645,0,2,0,Photodynamic therapy,February 2009,photodynamic therapy,8638.00,8
+64522,Z6E5.00,1,0,0,0,Intermittent phototherapy,February 2009,intermittent phototherapy,z6e5.00,9
+65403,Z6E1111,27,0,0,0,UVA phototherapy,February 2009,uva phototherapy,z6e1111,9
+67048,727B100,111,0,0,0,Photodynamic therapy to subretinal lesion,February 2009,photodynamic therapy to subretinal lesion,727b100,8
+68035,Z6E1.12,14,0,1,0,Ultraviolet light phototherapy,February 2009,ultraviolet light phototherapy,z6e1.12,9
+72225,SN02.00,8,0,2,0,Phototherapy complication,February 2009,phototherapy complication,sn02.00,9
+73300,5922.00,0,0,0,1,Betatron photon therapy,February 2009,betatron photon therapy,5922.00,8
+83490,7G0Dy00,2,0,0,0,Other specified photodynamic therapy of skin,February 2009,other specified photodynamic therapy of skin,7g0dy00,8
+84373,7G0D.00,440,0,1,0,Photodynamic therapy of skin,February 2009,photodynamic therapy of skin,7g0d.00,8
+88202,7G0E.00,387,0,2,0,Phototherapy to skin,February 2009,phototherapy to skin,7g0e.00,9
+89704,7M0B600,8,0,0,0,Photodynamic therapy of lesion of organ NOC,February 2009,photodynamic therapy of lesion of organ noc,7m0b600,8
+93602,7G0E200,18,0,1,0,Combined photochemotherapy and UVA light therapy to skin,February 2009,combined photochemotherapy and uva light therapy to skin,7g0e200,9
+93707,7G0Ez00,26,0,0,0,Phototherapy to skin NOS,February 2009,phototherapy to skin nos,7g0ez00,9
+94831,7G0Dz00,17,0,0,0,Photodynamic therapy of skin NOS,February 2009,photodynamic therapy of skin nos,7g0dz00,8
+96073,7G0D000,5,0,0,0,Photodynamic therapy of skin of whole body,February 2009,photodynamic therapy of skin of whole body,7g0d000,8
+97063,760C700,2,0,0,0,Fibreoptic endoscopic photodynamic therapy lesion oesophagus,July 2009,fibreoptic endoscopic photodynamic therapy lesion oesophagus,760c700,8
+98504,727B200,40,0,1,0,Photodynamic therapy to choroidal neovascular membrane,February 2010,photodynamic therapy to choroidal neovascular membrane,727b200,8
+100865,7G0E300,4,0,0,0,Combined photochemotherapy and UVB light therapy to skin,November 2010,combined photochemotherapy and uvb light therapy to skin,7g0e300,9

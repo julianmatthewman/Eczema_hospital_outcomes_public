@@ -1,0 +1,3 @@
+Mapped GOLD codelist from https://phenotypes.healthdatagateway.org/phenotypes/PH617/version/1234/detail/ to Aurum.
+
+Heart failure (other terms include cardiac failure, myocardial failure, heart decompensation from MeSH ID D006333), including cardiogenic forms of pulmonary edema, but excluding non-cardiogenic forms of pulmonary edema (e.g. chemical, postoperative)

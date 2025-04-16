@@ -1,0 +1,2 @@
+code,description,coding_system,concept_id,concept_version_id,concept_name,phenotype_id,phenotype_version_id,phenotype_name,code_attributes
+K44,Diaphragmatic hernia,ICD10 codes,C1204,3547,Diaphragmatic hernia - Secondary care - Diagnoses,PH181,362,Diaphragmatic hernia,"{'Disease': 'Diaphragmatic hernia', 'Category': 'Diagnosis of Diaphragmatic hernia'}"

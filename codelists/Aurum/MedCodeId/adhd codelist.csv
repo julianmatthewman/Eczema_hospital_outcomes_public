@@ -1,0 +1,57 @@
+MedCodeId,Observations,OriginalReadCode,CleansedReadCode,Term,SnomedCTConceptId,SnomedCTDescriptionId,Release,EmisCodeCategoryId
+295618015,60000,E2E0,E2E0.00,Child attention deficit disorder,192127007,295618015,,32
+295621018,8000,E2E0z,E2E0z00,Child attention deficit disorder NOS,192127007,295618015,,32
+295622013,200,E2E1,E2E1.00,Hyperkinesis with developmental delay,192131001,295622013,,32
+295623015,1000,E2E2,E2E2.00,Hyperkinetic conduct disorder,192132008,295623015,,32
+295624014,40,E2Ey,E2Ey.00,Other hyperkinetic manifestation,406506008,2158158016,,32
+295625010,300,E2Ez,E2Ez.00,Hyperkinetic syndrome NOS,406506008,2158158016,,32
+296689012,90,Eu90y,Eu90y00,[X]Other hyperkinetic disorders,406506008,2158158016,,32
+296690015,900,Eu90z,Eu90z00,"[X]Hyperkinetic disorder, unspecified",406506008,2158158016,,32
+486106015,40000,Eu9y7,Eu9y700,Attention deficit disorder,35253001,486108019,,32
+486109010,3000,E2E00,E2E0000,Attention deficit without hyperactivity,35253001,486109010,,32
+493917012,40000,1P00,1P00.00,Hyperactive behaviour,44548000,493917012,,27
+2163264017,3000,E2E-1,E2E..11,Overactive child syndrome,406506008,2163264017,,32
+366481000006113,700000,Eu900-1,Eu90011,Attention deficit hyperactivity disorder,406506008,2158158016,,32
+389251000006114,1000,Eu901,Eu90100,[X]Hyperkinetic conduct disorder,192132008,295623015,,32
+389261000006111,40,Eu901-1,Eu90111,[X]Hyperkinetic disorder associated with conduct disorder,192132008,295623015,,32
+389281000006118,3000,Eu90,Eu90.00,[X]Hyperkinetic disorders,406506008,2158158016,,32
+389301000006119,80,Eu90z-2,Eu90z12,[X]Hyperkinetic syndrome NOS,406506008,2158158016,,32
+498881000006117,70000,E2E01,E2E0100,Attention deficit with hyperactivity,406506008,2158158016,,32
+550441000006114,20000,E2E,E2E..00,Childhood hyperkinetic syndrome,406506008,2158158016,,32
+914491000006114,800,Eu902,Eu90200,Deficits in attention motor control and perception,229715008,344343014,,32
+1551611000000112,10000,6A61,6A61.00,Attention deficit hyperactivity disorder annual review,710071000000106,1551611000000112,,1
+1742541000006113,2000,9Ol8,9Ol8.00,Attention deficit hyperactivity disorder monitoring invitation first letter,516401000000106,1149891000000114,,37
+1742551000006110,300,9Ol9,9Ol9.00,Attention deficit hyperactivity disorder monitoring invitation second letter,516891000000101,1151111000000113,,37
+1742561000006112,100,9OlA,9OlA.00,Attention deficit hyperactivity disorder monitoring invitation third letter,516911000000103,1151151000000112,,37
+1885221000006117,3000,8BPT,8BPT.00,Drug therapy for ADHD (attention deficit hyperactivity disorder),702538008,3004359016,,32
+1885231000006119,500,8BPT0,8BPT000,Stimulant drug therapy for ADHD (attention deficit hyperactivity disorder),702536007,3004379012,,32
+1885241000006112,90,8BPT1,8BPT100,Non-stimulant drug therapy for ADHD (attention deficit hyperactivity disorder),703314001,3008276010,,32
+1886751000006113,3000,9Ngp,9Ngp.00,On drug therapy for ADHD (attention deficit hyperactivity disorder),886371000000105,2284251000000114,,37
+1886761000006110,300,9Ngp0,9Ngp000,On stimulant drug therapy for ADHD (attention deficit hyperactivity disorder),886391000000109,2284291000000118,,37
+1886771000006115,60,9Ngp1,9Ngp100,On non-stimulant drug therapy for ADHD (attention deficit hyperactivity disorder),886411000000109,2284331000000113,,37
+1927811000006115,900,EMISNQAT45,,Attention deficit hyperactivity disorder review,1927811000006104,1927811000006115,,1
+2618641000006110,10,^ESCTAT261864,,"Attention deficit hyperactivity disorder, predominantly hyperactive impulsive type",7461003,13310014,,32
+2618651000006112,7,^ESCTAT261865,,"Attention deficit hyperactivity disorder, hyperactive impulsive type",7461003,2921125014,,32
+3002681000006116,50,^ESCTAT300268,,"Attention deficit hyperactivity disorder, combined type",31177006,52170015,,31
+3002691000006118,10,^ESCTAT300269,,Attention deficit hyperactivity disorder combined type,31177006,2920939015,,31
+3002701000006118,10,^ESCTAT300270,,Attention deficit hyperactivity disorder combined,31177006,2951738010,,31
+3068151000006115,300,^ESCTAT306815,,"Attention deficit hyperactivity disorder, predominantly inattentive type",35253001,58824018,,32
+3068161000006118,6,^ESCTAD306816,,ADD - Attention deficit disorder,35253001,486104017,,32
+3068171000006113,20,^ESCTAD306817,,ADD - Attention deficit disorder without hyperactivity,35253001,486105016,,32
+3068181000006111,1,^ESCTAT306818,,Attention deficit disorder without hyperactivity,35253001,486107012,,32
+3217781000006115,5,^ESCTHY321778,,Hyperactive behavior,44548000,493918019,,27
+3217791000006117,30,^ESCTHA321779,,HA - Hyperactivity,44548000,493919010,,27
+4998391000006118,10,^ESCTDA499839,,DAMP - Deficits in attention motor control and perception,229715008,344342016,,32
+6728571000006115,800,^ESCTAD672857,,ADHD - Attention deficit disorder with hyperactivity,406506008,2163260014,,32
+6728581000006117,200,^ESCTHY672858,,Hyperkinetic disorder,406506008,2163261013,,32
+6728621000006117,9,^ESCTAT672862,,Attention deficit hyperkinetic disorder,406506008,2163265016,,32
+7295231000006113,30,^ESCTAD729523,,Adult attention deficit hyperactivity disorder,444613000,2872273010,,31
+7295241000006115,20,^ESCTAD729524,,Adult attention deficit disorder,444613000,2872272017,,31
+7562641000006117,100,^ESCTST756264,,Stimulant drug therapy for attention deficit hyperactivity disorder,702536007,3004339015,,32
+7562671000006113,200,^ESCTDR756267,,Drug therapy for attention deficit hyperactivity disorder,702538008,3004376017,,32
+7566971000006119,7,^ESCTAT756697,,"Attention deficit hyperactivity disorder, inattentive presentation (restrictive)",702815001,3006254010,,31
+7573831000006114,3,^ESCTNO757383,,Non-stimulant drug therapy for attention deficit hyperactivity disorder,703314001,3008318015,,32
+8036831000006111,30,^ESCTLO803683,,Long term ADHD medication therapy,117431000119101,3437554019,,31
+8213881000006116,60,^ESCTAD821388,,ADHD (attention deficit hyperactivity disorder) annual review,710071000000106,1551761000000116,,1
+12088381000006116,80,^ESCT1208838,,Adult ADHD (attention deficit hyperactivity disorder) Self-Report Scale,769390009,3694460017,,32
+12088391000006118,400,^ESCT1208839,,ASRS - Adult ADHD Self-Report Scale,769390009,3694461018,,32

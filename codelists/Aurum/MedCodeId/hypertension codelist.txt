@@ -1,0 +1,162 @@
+medcodeid,term,hypertens
+1011861000006110,adverse reaction to antihypertensive drugs,1
+1011871000006115,adverse reaction to vasodilator antihypertensive drugs,1
+1011881000006117,adverse reaction to centrally acting antihypertensive drugs,1
+108730018,malignant hypertensive renal disease,1
+11777411000006113,renal disease due to hypertension,1
+12487991000006113,hypertensive treatm.changed,1
+12488211000006112,hypertension treatm. started,1
+12488221000006116,hypertension treatm.stopped,1
+12496011,hypertensive retinopathy,1
+12726231000006115,adverse reaction to other antihypertensives,1
+12726241000006113,adverse reaction to antihypertensives nos,1
+131046010,malignant essential hypertension,1
+1409014,benign hypertensive renal disease,1
+146259010,secondary pulmonary hypertension,1
+151161000006115,secondary malignant hypertension,1
+1529013,blind hypertensive eye,1
+158241000006117,secondary hypertension nos,1
+1706551000000114,hypertension 9 month review,1
+1749291000006113,thromboembolic pulmonary hypertension,1
+1780252014,hypertension treatment refused,1
+1780253016,hypertension six month review,1
+1780318013,moderate hypertension control,1
+1780319017,hypertension annual review,1
+1806071000006118,stage 1 hypertension,1
+1806081000006115,stage 2 hypertension,1
+1806141000006113,severe hypertension,1
+1823901000006112,hypertension confirmed,1
+1846941000006119,stage 1 hypertension (nice - nat ins for hth clin excl 2011),1
+1846961000006115,severe hypertension (nat inst for health clinical ex 2011),1
+1846991000006111,stage 2 hypertension (nice - nat ins for hth clin excl 2011),1
+1908711000006115,stage 1 hyperten (nice 2011) without evidnce end organ damge,1
+1908721000006111,stage 1 hyperten (nice 2011) with evidnce end organ damge,1
+19411000006110,other pre-exist hypertension in preg/childb/puerp + p/n comp,1
+19421000006119,other pre-exist hypertension in preg/childb/puerp-not deliv,1
+19431000006116,other pre-existing hypertension in preg/childb/puerp - deliv,1
+19441000006114,other pre-existing hypertension in preg/childb/puerp nos,1
+19451000006111,other pre-existing hypertension in preg/childb/puerp unspec,1
+1992471000006116,vte risk assessment - uncontrolled systolic hypertension,1
+2011000033113,antihypertensive drugs,1
+2115801000000110,hypertension self-management plan review,1
+2117971000000119,hypertension self-management plan agreed,1
+212961000006118,pre-eclampsia or eclampsia + pre-existing hypertension nos,1
+213081000006118,pre-exist 2ndry hypertens comp preg childbth and puerperium,1
+213111000006112,pre-exist hypertension compl preg childbirth and puerperium,1
+2159168015,patient on maximal tolerated antihypertensive therapy,1
+2193021000000110,severe hypertension,1
+2193031000000112,stage 1 hypertension,1
+2193971000000110,hypertension resistant to drug therapy,1
+2297871000000111,pulmonary arterial hypertension drugs band 1,1
+2297911000000113,pulmonary arterial hypertension drugs band 2,1
+2297951000000112,pulmonary arterial hypertension drugs band 3,1
+2297991000000116,pulmonary arterial hypertension drugs band 4,1
+2474335018,hypertension clinical management plan,1
+2478822013,secondary benign renovascular hypertension,1
+251674014,h/o: hypertension,1
+264471012,good hypertension control,1
+264472017,poor hypertension control,1
+264473010,hypertension:follow-up default,1
+264485019,hypertension treatm. started,1
+264486018,hypertensive treatm.changed,1
+264487010,hypertension treatm.stopped,1
+2645973019,chronic peripheral venous hypertension,1
+2681651000006116,pulmonary hypertensive arterial disease,1
+2681661000006119,hypertensive pulmonary arterial disease,1
+28311000033116,vasodilator antihypertensive drugs,1
+28411000033112,centrally acting antihypertensive drugs,1
+299676019,secondary malignant renovascular hypertension,1
+299677011,secondary malignant hypertension nos,1
+299678018,secondary benign hypertension,1
+299680012,secondary benign hypertension nos,1
+299681011,hypertension secondary to endocrine disorders,1
+299682016,secondary hypertension nos,1
+299683014,secondary renovascular hypertension nos,1
+299684015,hypertension secondary to drug,1
+299686018,other specified hypertensive disease,1
+299687010,hypertensive disease nos,1
+300869017,[x]hypertensive diseases,1
+300870016,[x]other secondary hypertension,1
+300871017,[x]hypertension secondary to other renal disorders,1
+305764016,other pre-existing hypertension in preg/childbirth/puerp,1
+305818015,pre-eclampsia or eclampsia with pre-existing hypertension,1
+3117411000006118,high blood pressure,1
+3117421000006114,hypertensive vascular disease,1
+3117431000006112,hypertensive vascular degeneration,1
+3117451000006117,bp - high blood pressure,1
+3117461000006115,systemic arterial hypertension,1
+3117471000006110,hbp - high blood pressure,1
+3117481000006113,ht - hypertension,1
+3117491000006111,high blood pressure disorder,1
+3117501000006115,bp+ - hypertension,1
+3117511000006117,htn - hypertension,1
+3117521000006113,"hypertensive disorder, systemic arterial",1
+3119661000006114,hypertensive nephropathy,1
+3135013,benign essential hypertension,1
+324338010,other hypertensive agent poisoning,1
+324342013,hypertensive agent poisoning nos,1
+331291010,adverse reaction to other antihypertensives,1
+331302012,adverse reaction to antihypertensives nos,1
+3468501000006117,systemic primary arterial hypertension,1
+350517010,thromboembolic pulmonary hypertension,1
+350601000000116,high cost hypertension drugs,1
+351341000000118,high cost hypertension drugs nos,1
+351361000000117,other specified high cost hypertension drugs,1
+351381000000114,primary pulmonary hypertension drugs band 1,1
+351401000000114,primary pulmonary hypertension drugs band 2,1
+351421000000117,primary pulmonary hypertension drugs band 3,1
+351441000000112,primary pulmonary hypertension drugs band 4,1
+351481000006111,[x] adverse reaction to antihypertensives nos,1
+356121000006111,[x] adverse reaction to other antihypertensives,1
+3642801000006112,malignant hypertension,1
+3654631000006113,pulmonary hypertension,1
+3654641000006115,pht - pulmonary hypertension,1
+3693711000006119,benign secondary renovascular hypertension,1
+3784371000006115,accelerated essential hypertension,1
+3898601000006112,pre-existing hypertension in obstetric context,1
+3898611000006110,pre-existing hypertension complicating pregnancy,1
+3950631000006119,accelerated secondary hypertension,1
+395751018,essential hypertension nos,1
+395753015,hypertensive renal disease nos,1
+39871000006113,oth pre-exist hypert in preg/childb/puerp -del with p/n comp,1
+404471000006113,"[x]oth antihyperten drug caus advers eff in therap use, nec",1
+4199551000006110,antihypertensive poisoning,1
+4199561000006112,poisoning caused by antihypertensive agent,1
+422681000006111,"[x]poisoning by other antihypertensive drugs, nec",1
+4356081000006115,hypertension due to renovascular disease,1
+43850011,primary pulmonary hypertension,1
+443764015,on treatment for hypertension,1
+451424017,antihypertensive therapy,1
+4540441000006117,history of hypertension,1
+4634851000006119,treatment for hypertension started,1
+4634871000006112,hypertensive treatment changed,1
+4634891000006113,treatment for hypertension stopped,1
+47076011,renal hypertension,1
+4775791000006113,malignant secondary renovascular hypertension,1
+4775831000006118,hypertension secondary to endocrine disorder,1
+4775861000006110,hypertension caused by drug,1
+5057801000006113,chronic thromboembolic pulmonary hypertension,1
+523801000006119,bp - hypertensive disease,1
+530161000000111,trial reduction of antihypertensive therapy,1
+530221000000112,trial withdrawal of antihypertensive therapy,1
+53452019,secondary hypertension,1
+535591000000118,trial withdrawal of antihypertensive therapy declined,1
+535651000000113,trial reduction of antihypertensive therapy declined,1
+64168014,hypertensive disease,1
+64172013,high blood pressure,1
+64282015,hypertensive renal disease,1
+790031000006119,hypertension annual review,1
+790121000006116,hypertension nos,1
+80224019,diastolic hypertension,1
+8286321000006117,resistant hypertension,1
+8286581000006114,stage 2 hypertension,1
+84111015,hypertensive encephalopathy,1
+84112010,hypertensive crisis,1
+884121000006111,malignant hypertension,1
+887811000006117,preg.+ pre-existing hypertensn,1
+905451000006118,[rfc] pulmonary embolism/pulmonary hypertension,1
+909441000006118,[rfc] hypertension,1
+93494011,systolic hypertension,1
+940001000006110,hypertension medication review,1
+99042012,essential hypertension,1
+99047018,primary hypertension,1

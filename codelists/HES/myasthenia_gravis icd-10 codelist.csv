@@ -1,0 +1,2 @@
+code,description,coding_system,concept_id,concept_version_id,concept_name,phenotype_id,phenotype_version_id,phenotype_name,code_attributes
+G70.0,Myasthenia gravis,ICD10 codes,C1294,3727,Myasthenia gravis - Secondary care - Diagnoses,PH213,426,Myasthenia gravis,"{'Disease': 'Myasthenia gravis', 'Category': 'Diagnosis of Myasthenia gravis'}"

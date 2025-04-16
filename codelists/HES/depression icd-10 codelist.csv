@@ -1,0 +1,48 @@
+code,ICD10codealternative,Description,Categories
+F32,F32,depressive episode,Core
+F32.0,F320,mild depressive episode,Core
+F32.1,F321,moderate depressive episode,Core
+F32.2,F322,severe depressive episode without psychotic symptoms,Core
+F32.3,F323,severe depressive episode with psychotic symptoms,Core
+F32.8,F328,other depressive episodes,Core
+F32.9,F329,"depressive episode, unspecified",Core
+F33,F33,recurrent depressive disorder,Core
+F33.0,F330,"recurrent depressive disorder, current episode mild",Core
+F33.1,F331,"recurrent depressive disorder, current episode moderate",Core
+F33.2,F332,"recurrent depressive disorder, current episode severe without psychotic symptoms",Core
+F33.3,F333,"recurrent depressive disorder, current episode severe with psychotic symptoms",Core
+F33.8,F338,other recurrent depressive disorders,Core
+F33.9,F339,"recurrent depressive disorder, unspecified",Core
+F34.1,F341,dysthymia,Core
+,F334,"Recurrent depressive disorder, currently in remission ",History
+F06.3,F063,organic mood [affective] disorders,Not Depression - alternative diagnosis
+F20.4,F204,post-schizophrenic depression,Not Depression - alternative diagnosis
+F25,F25,schizoaffective disorders,Not Depression - alternative diagnosis
+F25.0,F250,"schizoaffective disorder, manic type",Not Depression - alternative diagnosis
+F25.1,F251,"schizoaffective disorder, depressive type",Not Depression - alternative diagnosis
+F25.2,F252,"schizoaffective disorder, mixed type",Not Depression - alternative diagnosis
+F25.8,F258,other schizoaffective disorders,Not Depression - alternative diagnosis
+F25.9,F259,"schizoaffective disorder, unspecified",Not Depression - alternative diagnosis
+F31,F31,bipolar affective disorder,Not Depression - alternative diagnosis
+F31.0,F310,"bipolar affective disorder, current episode hypomanic",Not Depression - alternative diagnosis
+F31.1,F311,"bipolar affective disorder, current episode manic without psychotic symptoms",Not Depression - alternative diagnosis
+F31.2,F312,"bipolar affective disorder, current episode manic with psychotic symptoms",Not Depression - alternative diagnosis
+F31.3,F313,"bipolar affective disorder, current episode mild or moderate depression",Not Depression - alternative diagnosis
+F31.4,F314,"bipolar affective disorder, current episode severe depression without psychotic symptoms",Not Depression - alternative diagnosis
+F31.5,F315,"bipolar affective disorder, current episode severe depression with psychotic symptoms",Not Depression - alternative diagnosis
+F31.6,F316,"bipolar affective disorder, current episode mixed",Not Depression - alternative diagnosis
+F31.7,F317,"bipolar affective disorder, currently in remission",Not Depression - alternative diagnosis
+F31.8,F318,other bipolar affective disorders,Not Depression - alternative diagnosis
+F31.9,F319,"bipolar affective disorder, unspecified",Not Depression - alternative diagnosis
+F34,F34,persistent mood [affective] disorders,Not Depression - alternative diagnosis
+F34.8,F348,other persistent mood [affective] disorders,Not Depression - alternative diagnosis
+F34.9,F349,"persistent mood [affective] disorder, unspecified",Not Depression - alternative diagnosis
+F38,F38,other mood [affective] disorders,Not Depression - alternative diagnosis
+F38.0,F380,other single mood [affective] disorders,Not Depression - alternative diagnosis
+F38.1,F381,other recurrent mood [affective] disorders,Not Depression - alternative diagnosis
+F38.8,F388,other specified mood [affective] disorders,Not Depression - alternative diagnosis
+F39,F39X,unspecified mood [affective] disorder,Not Depression - alternative diagnosis
+F41.2,F412,mixed anxiety and depressive disorder,Not Depression - alternative diagnosis
+F43,F43,"reaction to severe stress, and adjustment disorders",Non-definitive: Transient/ambiguous/administrative
+F43.2,F432,adjustment disorders,Non-definitive: Transient/ambiguous/administrative
+F92.0,F920,depressive conduct disorder,Non-definitive: Transient/ambiguous/administrative

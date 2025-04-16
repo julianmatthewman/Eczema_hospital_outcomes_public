@@ -1,0 +1,4 @@
+code,description,coding_system,concept_id,concept_version_id,concept_name,phenotype_id,phenotype_version_id,phenotype_name,code_attributes
+K35,Acute appendicitis,ICD10 codes,C984,3107,Appendicitis - Secondary care - Diagnoses,PH106,212,Appendicitis,"{'Disease': 'Appendicitis', 'Category': 'Diagnosis of Appendicitis'}"
+K36,Other appendicitis,ICD10 codes,C984,3107,Appendicitis - Secondary care - Diagnoses,PH106,212,Appendicitis,"{'Disease': 'Appendicitis', 'Category': 'Diagnosis of Appendicitis'}"
+K37,Unspecified appendicitis,ICD10 codes,C984,3107,Appendicitis - Secondary care - Diagnoses,PH106,212,Appendicitis,"{'Disease': 'Appendicitis', 'Category': 'Diagnosis of Appendicitis'}"

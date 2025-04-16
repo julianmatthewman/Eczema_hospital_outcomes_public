@@ -1,0 +1,15 @@
+"searchterms","exclusionterms","searched_in_column","searchmethod"
+"melanoma","family history","Term","termsearch <- function(lookup, terms) {stringr::str_detect(lookup, stringr::regex(paste(terms, collapse = '|'), ignore_case = TRUE))}; initial <- dplyr::filter(DATA, termsearch(COLUMN, SEARCHTERMS)); excluded <- dplyr::filter(initial, termsearch(COLUMN, EXCLUSIONTERMS); final <- dplyr::setdiff(inital, excluded)"
+"melanocarcinoma","FH:",,
+"melanosarcoma","Benign",,
+"Naevocarcinoma","Naevi and melanomas",,
+"malignant neoplasm of skin","Naevi or melanoma",,
+"cancer of skin","suspected",,
+"skin cancer","Provision of written information",,
+"Lentigo maligna","Naevus AND/OR melanoma",,
+"Malignant neoplasm of other specified skin sites",,,
+"Malignant neoplasm of skin",,,
+"Hutchinson's melanotic freckle",,,
+"Malignant neoplasm of perianal skin",,,
+"Malignant neoplasm of scalp and skin of neck",,,
+"Malignant neoplasm of scalp",,,

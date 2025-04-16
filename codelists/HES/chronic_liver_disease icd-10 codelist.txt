@@ -1,0 +1,38 @@
+alt_code,liver,code,description
+B180,1,B18.0,Chronic viral hepatitis B with delta-agent
+B181,1,B18.1,Chronic viral hepatitis B without delta-agent
+B182,1,B18.2,Chronic viral hepatitis C
+B188,1,B18.8,Other chronic viral hepatitis
+B189,1,B18.9,"Chronic viral hepatitis, unspecified"
+I850,1,I85.0,Oesophageal varices with bleeding
+I859,1,I85.9,Oesophageal varices without bleeding
+I982,1,I98.2,Oesophageal varices without bleeding in diseases classified elsewhere
+K702,1,K70.2,Alcoholic fibrosis and sclerosis of liver
+K703,1,K70.3,Alcoholic cirrhosis of liver
+K704,1,K70.4,Alcoholic hepatic failure
+K709,1,K70.9,"Alcoholic liver disease, unspecified"
+K711,1,K71.1,Toxic liver disease with hepatic necrosis
+K713,1,K71.3,Toxic liver disease with chronic persistent hepatitis
+K714,1,K71.4,Toxic liver disease with chronic lobular hepatitis
+K715,1,K71.5,Toxic liver disease with chronic active hepatitis
+K717,1,K71.7,Toxic liver disease with fibrosis and cirrhosis of liver
+K721,1,K72.1,Chronic hepatic failure
+K729,1,K72.9,"Hepatic failure, unspecified"
+K730,1,K73.0,"Chronic persistent hepatitis, not elsewhere classified"
+K731,1,K73.1,"Chronic lobular hepatitis, not elsewhere classified"
+K732,1,K73.2,"Chronic active hepatitis, not elsewhere classified"
+K738,1,K73.8,"Other chronic hepatitis, not elsewhere classified"
+K739,1,K73.9,"Chronic hepatitis, unspecified"
+K740,1,K74.0,Hepatic fibrosis
+K741,1,K74.1,Hepatic sclerosis
+K742,1,K74.2,Hepatic fibrosis with hepatic sclerosis
+K743,1,K74.3,Primary biliary cirrhosis
+K744,1,K74.4,Secondary biliary cirrhosis
+K745,1,K74.5,"Biliary cirrhosis, unspecified"
+K746,1,K74.6,Other and unspecified cirrhosis of liver
+K754,1,K75.4,Autoimmune hepatitis
+K765,1,K76.5,Hepatic veno-occlusive disease
+K766,1,K76.6,Portal hypertension
+K767,1,K76.7,Hepatorenal syndrome
+T864,1,T86.4,Liver transplant failure and rejection
+Z944,1,Z94.4,Liver transplant status

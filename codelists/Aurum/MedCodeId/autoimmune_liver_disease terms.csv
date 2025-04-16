@@ -1,0 +1,6 @@
+"searchterms","exclusionterms","searched_in_column","searchmethod"
+"Autoimmune chronic active hepatitis",,"Term","termsearch <- function(lookup, terms) {stringr::str_detect(lookup, stringr::regex(paste(terms, collapse = '|'), ignore_case = TRUE))}; initial <- dplyr::filter(DATA, termsearch(COLUMN, SEARCHTERMS)); excluded <- dplyr::filter(initial, termsearch(COLUMN, EXCLUSIONTERMS); final <- dplyr::setdiff(inital, excluded)"
+"Autoimmune hepatitis",,,
+"Primary biliary cholangitis",,,
+"Primary biliary cirrhosis",,,
+"Primary sclerosing cholangitis",,,

@@ -1,0 +1,2 @@
+code,description,coding_system,concept_id,concept_version_id,concept_name,phenotype_id,phenotype_version_id,phenotype_name,code_attributes
+K29,Gastritis and duodenitis,ICD10 codes,C1186,3511,Gastritis and duodenitis - Secondary care - Diagnoses,PH175,350,Gastritis and duodenitis,"{'Disease': 'Gastritis and duodenitis', 'Category': 'Diagnosis of Gastritis and duodenitis'}"

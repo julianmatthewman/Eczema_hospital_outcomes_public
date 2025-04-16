@@ -1,0 +1,13 @@
+"searchterms","exclusionterms","searched_in_column","searchmethod"
+"Barrett esophagus",,"Term","termsearch <- function(lookup, terms) {stringr::str_detect(lookup, stringr::regex(paste(terms, collapse = '|'), ignore_case = TRUE))}; initial <- dplyr::filter(DATA, termsearch(COLUMN, SEARCHTERMS)); excluded <- dplyr::filter(initial, termsearch(COLUMN, EXCLUSIONTERMS); final <- dplyr::setdiff(inital, excluded)"
+"Barretts oesophagus",,,
+"Barrett ulcer of esophagus",,,
+"Barrett's esophagus",,,
+"Barrett's oesophagus",,,
+"Barrett's syndrome",,,
+"Barrett's ulcer",,,
+"Barrett's ulcer of oesophagus",,,
+"Barretts esophagus",,,
+"Columnar-lined esophagus",,,
+"Columnar-lined oesophagus",,,
+"Gastric metaplasia of oesophagus",,,

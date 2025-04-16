@@ -1,0 +1,10 @@
+"searchterms","exclusionterms","searched_in_column","searchmethod"
+"diverticular disease","Bladder","Term","termsearch <- function(lookup, terms) {stringr::str_detect(lookup, stringr::regex(paste(terms, collapse = '|'), ignore_case = TRUE))}; initial <- dplyr::filter(DATA, termsearch(COLUMN, SEARCHTERMS)); excluded <- dplyr::filter(initial, termsearch(COLUMN, EXCLUSIONTERMS); final <- dplyr::setdiff(inital, excluded)"
+"diverticulosis","Tracheal",,
+"diverticular abscess","Meckel",,
+"Diverticulitis",,,
+"Diverticula of intestine",,,
+"Diverticula of the intestine",,,
+"Perforated diverticulum of colon",,,
+"Diverticula of jejunum",,,
+"Perforated diverticulum",,,

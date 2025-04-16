@@ -1,0 +1,6 @@
+"code","ALT_CODE","USAGE","USAGE_UK","DESCRIPTION","MODIFIER_4","MODIFIER_5","QUALIFIERS","GENDER_MASK","MIN_AGE","MAX_AGE","TREE_DESCRIPTION"
+"C90","C90","DEFAULT","3","Multiple myeloma and malignant plasma cell neoplasms","","","",,,,""
+"C90.0","C900","DEFAULT","3","Multiple myeloma","","","",,,,""
+"C90.1","C901","DEFAULT","3","Plasma cell leukaemia","","","",,,,""
+"C90.2","C902","DEFAULT","3","Extramedullary plasmacytoma","","","",,,,""
+"C90.3","C903","DEFAULT","3","Solitary plasmacytoma","","","",,,,""

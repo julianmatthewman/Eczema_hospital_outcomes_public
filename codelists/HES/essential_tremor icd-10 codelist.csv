@@ -1,0 +1,2 @@
+code,description,coding_system,concept_id,concept_version_id,concept_name,phenotype_id,phenotype_version_id,phenotype_name,code_attributes
+G25.0,Essential tremor,ICD10 codes,C1159,3457,Essential tremor - Secondary care - Diagnoses,PH166,332,Essential tremor,"{'Disease': 'Essential tremor', 'Category': 'Diagnosis of Essential tremor'}"

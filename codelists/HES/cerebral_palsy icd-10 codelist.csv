@@ -1,0 +1,2 @@
+code,description,coding_system,concept_id,concept_version_id,concept_name,phenotype_id,phenotype_version_id,phenotype_name,code_attributes
+G80,Cerebral palsy,ICD10 codes,C1060,3259,Cerebral Palsy - Secondary care - Diagnoses,PH132,264,Cerebral Palsy,"{'Disease': 'Cerebral Palsy', 'Category': 'Diagnosis of Cerebral palsy'}"

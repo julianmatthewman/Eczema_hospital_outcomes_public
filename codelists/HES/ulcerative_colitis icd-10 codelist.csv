@@ -1,0 +1,2 @@
+code,description,coding_system,concept_id,concept_version_id,concept_name,phenotype_id,phenotype_version_id,phenotype_name,code_attributes
+K51,Ulcerative colitis,ICD10 codes,C1623,4385,Ulcerative colitis - Secondary care - Diagnoses,PH326,652,Ulcerative colitis,"{'Disease': 'Ulcerative colitis', 'Category': 'Diagnosis of Ulcerative colitis'}"

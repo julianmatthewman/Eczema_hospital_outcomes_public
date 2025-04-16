@@ -1,0 +1,4 @@
+code,description,coding_system,concept_id,concept_version_id,concept_name,phenotype_id,phenotype_version_id,phenotype_name,code_attributes
+K70.0,Alcoholic fatty liver,ICD10 codes,C1163,3465,Fatty Liver - Secondary care - Diagnoses,PH168,336,Fatty Liver,"{'Disease': 'Fatty Liver', 'Category': 'Diagnosis of Fatty Liver'}"
+K75.8,Other specified inflammatory liver diseases,ICD10 codes,C1163,3465,Fatty Liver - Secondary care - Diagnoses,PH168,336,Fatty Liver,"{'Disease': 'Fatty Liver', 'Category': 'Diagnosis of Fatty Liver'}"
+K76.0,"Fatty (change of) liver, not elsewhere classified",ICD10 codes,C1163,3465,Fatty Liver - Secondary care - Diagnoses,PH168,336,Fatty Liver,"{'Disease': 'Fatty Liver', 'Category': 'Diagnosis of Fatty Liver'}"

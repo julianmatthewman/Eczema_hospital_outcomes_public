@@ -1,0 +1,8 @@
+"code","ALT_CODE","USAGE","USAGE_UK","DESCRIPTION","MODIFIER_4","MODIFIER_5","QUALIFIERS","GENDER_MASK","MIN_AGE","MAX_AGE","TREE_DESCRIPTION"
+"C34","C34","DEFAULT","3","Malignant neoplasm of bronchus and lung","","","",,,,""
+"C34.0","C340","DEFAULT","3","Malignant neoplasm: Main bronchus","","","",,,,"Main bronchus"
+"C34.1","C341","DEFAULT","3","Malignant neoplasm: Upper lobe, bronchus or lung","","","",,,,"Upper lobe, bronchus or lung"
+"C34.2","C342","DEFAULT","3","Malignant neoplasm: Middle lobe, bronchus or lung","","","",,,,"Middle lobe, bronchus or lung"
+"C34.3","C343","DEFAULT","3","Malignant neoplasm: Lower lobe, bronchus or lung","","","",,,,"Lower lobe, bronchus or lung"
+"C34.8","C348","DEFAULT","3","Malignant neoplasm: Overlapping lesion of bronchus and lung","","","",,,,"Overlapping lesion of bronchus and lung"
+"C34.9","C349","DEFAULT","3","Malignant neoplasm: Bronchus or lung, unspecified","","","",,,,"Bronchus or lung, unspecified"

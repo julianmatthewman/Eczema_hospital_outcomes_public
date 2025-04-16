@@ -1,0 +1,142 @@
+MedCodeId,Observations,OriginalReadCode,CleansedReadCode,Term,SnomedCTConceptId,SnomedCTDescriptionId,Release,EmisCodeCategoryId
+13705013,2000,S10B3,S10B300,Fracture of ilium,7687006,13705013,,32
+60285012,20000,S10B5,S10B500,Fracture of pubis,36127009,60285012,,32
+107139013,20000,S10B4,S10B400,Fracture of acetabulum,64455005,107139013,,32
+118266012,100,S133,S133.00,Open fracture of pubis,71220005,118266012,,32
+194542018,9000,S10B1,S10B100,Fracture of sacrum,125872003,194542018,,32
+194543011,20000,S10B2,S10B200,Fracture of coccyx,125871005,194543011,,32
+318473019,7000,S106,S106.00,Closed fracture sacrum,207974008,318473019,,32
+318474013,2000,S1060,S106000,Closed compression fracture sacrum,207975009,318474013,,32
+318475014,200,S1061,S106100,Closed vertical fracture of sacrum,207976005,318475014,,32
+318476010,20,S107,S107.00,Open fracture sacrum,207977001,318476010,,32
+318477018,60,S1070,S107000,Open compression fracture sacrum,207978006,318477018,,32
+318478011,3,S1071,S107100,Open vertical fracture of sacrum,207979003,318478011,,32
+318479015,3000,S108,S108.00,Closed fracture of coccyx,766775007,3662587011,,32
+318480017,10,S109,S109.00,"Open fracture pelvis, coccyx",767262002,3670115011,,32
+318485010,2000,S10B,S10B.00,Fracture of lumbar spine and pelvis,207986006,318485010,,32
+318492017,1000,S10B6,S10B600,Multiple fractures of lumbar spine and pelvis,207993005,318492017,,32
+318571019,100,S116,S116.00,Closed fracture of sacrum with spinal cord lesion,208069000,318571019,,32
+318573016,2,S1161,S116100,Closed fracture of sacrum with complete cauda equina lesion,208071000,318573016,,32
+318574010,30,S1162,S116200,Closed fracture of sacrum with other cauda equina injury,208069000,318571019,,32
+318575011,9,S1163,S116300,Closed fracture of sacrum with other spinal cord injury,208069000,318571019,,32
+318580019,10,S116z,S116z00,Closed fracture of sacrum with spinal cord lesion NOS,208069000,318571019,,32
+318581015,20,S117,S117.00,Open fracture of sacrum with spinal cord lesion,208076005,318581015,,32
+318582010,1,S1170,S117000,Open fracture of sacrum with unspecified spinal cord lesion,208076005,318581015,,32
+318583017,1,S1171,S117100,Open fracture of sacrum with complete cauda equina lesion,208078006,318583017,,32
+318584011,1,S1172,S117200,Open fracture of sacrum with other cauda equina injury,208076005,318581015,,32
+318586013,1,S117z,S117z00,Open fracture of sacrum with spinal cord lesion NOS,208076005,318581015,,32
+318587016,20,S118,S118.00,Closed fracture of coccyx with spinal cord lesion,208082008,318587016,,32
+318589018,6,S1181,S118100,Closed fracture of coccyx with complete cauda equina lesion,208084009,318589018,,32
+318590010,7,S1182,S118200,Closed fracture of coccyx with other cauda equina injury,208082008,318587016,,32
+318591014,3,S1183,S118300,Closed fracture of coccyx with other spinal cord injury,208082008,318587016,,32
+318592019,9,S118z,S118z00,Closed fracture of coccyx with spinal cord lesion NOS,208082008,318587016,,32
+318593012,1,S119,S119.00,Open fracture of coccyx with spinal cord lesion,208088007,318593012,,32
+318594018,3,S1190,S119000,Open fracture of coccyx with unspecified spinal cord lesion,208088007,318593012,,32
+318595017,2,S1191,S119100,Open fracture of coccyx with complete cauda equina lesion,208090008,318595017,,32
+318654011,40000,S13,S13..00,Fracture or disruption of pelvis,208145002,318654011,,32
+318655012,50,S1300,S130000,"Closed fracture acetabulum, anterior lip alone",208146001,318655012,,32
+318656013,50,S1301,S130100,"Closed fracture acetabulum, posterior lip alone",208147005,318656013,,32
+318657016,300,S1302,S130200,"Closed fracture acetabulum, anterior column",208148000,318657016,,32
+318658014,100,S1303,S130300,"Closed fracture acetabulum, posterior column",208149008,318658014,,32
+318659018,100,S1304,S130400,"Closed fracture acetabulum, floor",208150008,318659018,,32
+318660011,20,S1305,S130500,"Closed fracture acetabulum, double column transverse",208151007,318660011,,32
+318661010,40,S1306,S130600,"Closed fracture acetabulum, double column unspecified",33118001,55266013,,32
+318662015,60,S130y,S130y00,Other specified closed fracture acetabulum,33118001,55266013,,32
+318663013,800,S130z,S130z00,Closed fracture acetabulum NOS,33118001,55266013,,32
+318664019,2,S1310,S131000,"Open fracture acetabulum, anterior lip alone",208155003,318664019,,32
+318665018,2,S1311,S131100,"Open fracture acetabulum, posterior lip alone",208156002,318665018,,32
+318666017,5,S1312,S131200,"Open fracture acetabulum, anterior column",208157006,318666017,,32
+318667014,9,S1313,S131300,"Open fracture acetabulum, posterior column",208158001,318667014,,32
+318668016,4,S1314,S131400,"Open fracture acetabulum, floor",208159009,318668016,,32
+318669012,2,S1315,S131500,"Open fracture acetabulum, double column transverse",208160004,318669012,,32
+318670013,5,S1316,S131600,"Open fracture acetabulum, double column unspecified",77598002,128798015,,32
+318671012,6,S131y,S131y00,Other specified open fracture acetabulum,77598002,128798015,,32
+318672017,40,S131z,S131z00,Open fracture acetabulum NOS,77598002,128798015,,32
+318673010,20000,S132,S132.00,Closed fracture pubis,208164008,318673010,,32
+318674016,60000,S1320,S132000,"Closed fracture pelvis, single pubic ramus",208165009,318674016,,32
+318675015,20000,S1321,S132100,"Closed fracture pelvis, multiple pubic rami - stable",208166005,318675015,,32
+318678018,500,S1322,S132200,"Closed fracture pelvis, multiple pubic rami - unstable",208168006,318678018,,32
+318679014,500,S132y,S132y00,Other specified closed fracture pubis,208164008,318673010,,32
+318680012,3000,S132z,S132z00,Closed fracture pubis NOS,208164008,318673010,,32
+318682016,500,S1330,S133000,"Open fracture pelvis, single pubic ramus",208172005,318682016,,32
+318683014,300,S1331,S133100,"Open fracture pelvis, multiple pubic rami - stable",208173000,318683014,,32
+318684015,60,S1332,S133200,"Open fracture pelvis, multiple pubic rami - unstable",208174006,318684015,,32
+318685019,20,S133y,S133y00,Other specified open fracture of pubis,36127009,60285012,,32
+318686018,20,S133z,S133z00,Open fracture of pubis NOS,36127009,60285012,,32
+318687010,1000,S134,S134.00,Other or multiple closed fracture of pelvis,77493009,128645011,,32
+318688017,800,S1340,S134000,"Closed fracture of ilium, unspecified",7687006,13705013,,32
+318690016,200,S1342,S134200,Multiple closed fractures of pelvis with disruption of pelvic circle,59962009,99613017,,32
+318691017,500,S1343,S134300,"Closed fracture pelvis, ischial tuberosity",208181004,318691017,,32
+318692012,800,S1344,S134400,"Closed fracture pelvis, anterior superior iliac spine",208182006,318692012,,32
+318693019,1000,S1345,S134500,"Closed fracture pelvis, anterior inferior iliac spine",208183001,318693019,,32
+318694013,2000,S1346,S134600,"Closed fracture pelvis, iliac wing",208184007,318694013,,32
+318695014,30,S1347,S134700,Closed vertical fracture of ilium,208185008,318695014,,32
+318697018,300,S134z,S134z00,Other or multiple closed fracture of pelvis NOS,263222005,391380015,,32
+318698011,200,S135,S135.00,Other or multiple open fracture of pelvis,263222005,391380015,,32
+318699015,20,S1350,S135000,"Open fracture of ilium, unspecified",7687006,13705013,,32
+318701015,10,S1352,S135200,Multiple open fractures of pelvis with disruption of pelvic circle,86731008,143833013,,32
+318702010,8,S1353,S135300,"Open fracture pelvis, ischial tuberosity",208192003,318702010,,32
+318703017,40,S1354,S135400,"Open fracture pelvis, anterior superior iliac spine",208193008,318703017,,32
+318704011,30,S1355,S135500,"Open fracture pelvis, anterior inferior iliac spine",208194002,318704011,,32
+318705012,90,S1356,S135600,"Open fracture pelvis, iliac wing",208195001,318705012,,32
+318707016,2,S1357,S135700,Open vertical fracture of ilium,208197009,318707016,,32
+318709018,60,S135y,S135y00,Other open fracture of pelvis,77493009,128645011,,32
+318718016,30000,S13y,S13y.00,Closed fracture of pelvis,91037003,150859016,,32
+318719012,300,S13z,S13z.00,Open fracture of pelvis NOS,77493009,128645011,,32
+325247012,300,SR11,SR11.00,Fractures involving thorax with lower back and pelvis,213350006,325247012,,32
+325688019,9,SyuL1,SyuL100,[X]Sequelae of other fracture of thorax and pelvis,285235009,424186012,,32
+1228040014,7000,S130,S130.00,Closed fracture acetabulum,33118001,1228040014,,32
+1234136017,80,S131,S131.00,Open fracture acetabulum,77598002,1234136017,,32
+1495445016,20,S1351,S135100,"Open fracture pelvis, ischium",76911006,1495445016,,32
+2551528018,1000,S1341,S134100,"Closed fracture pelvis, ischium",36417005,2551528018,,32
+3525245015,10,^ESCT1173374,,Bilateral sacral insufficiency fracture,31580001000004106,3525245015,,31
+149541000006114,400,SC0X,SC0X.00,Sequelae of other fracture of thorax and pelvis,285235009,424186012,,32
+253131000006110,9,S135z,S135z00,Other/multiple open fracture of pelvis NOS,77493009,128645011,,32
+256311000006114,10,S4J31,S4J3100,Open fracture-subluxation of pelvis,209405008,320106016,,32
+256761000006113,60,S4J11,S4J1100,Open fracture-dislocation of pelvis,209395004,320096014,,32
+259481000006119,1,SR161,SR16100,Open fracture involving thorax wth lower back and pelvis and limbs,311864009,455503019,,32
+259761000006117,20,S1358,S135800,Open fracture dislocation of sacro-iliac joint,208198004,318708014,,32
+387541000006118,800,Syu34,Syu3400,[X]Fract of other and unspec parts of lumbar spine & pelvis,213350006,325247012,,32
+561821000006117,300,S1348,S134800,Closed fracture dislocation of sacro-iliac joint,208186009,318696010,,32
+562351000006114,40,SR160,SR16000,Closed fracture involving thorax wth lower back and pelvis and limbs,311862008,455501017,,32
+562841000006118,5,S1180,S118000,Closed fracture of coccyx with unspec spinal cord lesion,208082008,318587016,,32
+563691000006115,10,S1160,S116000,Closed fracture of sacrum with unspec spinal cord lesion,208069000,318571019,,32
+565331000006113,1000,S4J01,S4J0100,Closed fracture dislocation of pelvis,209390009,320091016,,32
+565651000006110,400,S4J21,S4J2100,Closed fracture-subluxation of pelvis,209400003,320101014,,32
+792411000006118,20,SR16,SR16.00,Fractures involving thorax with lower back and pelvis with limb(s),213361003,325258015,,32
+892431000006110,200,N331-94,N331.94,Path.fracture - pelvis/thigh,287068009,892431000006110,,32
+2717261000006119,10000,^ESCTFR271726,,Fracture of pubic rami,13695006,23369015,,32
+2745361000006113,30,^ESCTOP274536,,Open fracture of pelvis,15474008,26231015,,32
+3032981000006117,70,^ESCTCL303298,,Closed fracture of acetabulum,33118001,55266013,,32
+3082271000006117,50,^ESCTFR308227,,Fracture of pubic bone,36127009,486372012,,32
+3760841000006113,3000,^ESCTFR376084,,Fracture of pelvis,77493009,128645011,,32
+3762541000006110,8,^ESCTOP376254,,Open fracture of acetabulum,77598002,128798015,,32
+4840551000006115,10,^ESCTFR484055,,Fracture of lumbar spine and/or pelvis,207986006,1489804010,,32
+4840571000006113,20,^ESCTMU484057,,Multiple fractures of lumbar spine and/or pelvis,207993005,1489805011,,32
+4841521000006118,40,^ESCTCL484152,,Closed fracture dislocation of sacroiliac joint,208186009,318696010,,32
+4850221000006112,3,^ESCTOP485022,,Open fracture dislocation of pelvis,209395004,320096014,,32
+4850261000006118,1,^ESCTCL485026,,Closed fracture subluxation of pelvis,209400003,320101014,,32
+4850301000006110,2,^ESCTOP485030,,Open fracture subluxation of pelvis,209405008,320106016,,32
+5460451000006114,1,^ESCTFR546045,,Fracture dislocation of symphysis pubis,263067005,391183012,,31
+5460761000006116,1,^ESCTFR546076,,Fracture subluxation of symphysis pubis,263096006,391213014,,31
+5462191000006110,200,^ESCTFR546219,,Fracture of single pubic ramus,263218000,391376013,,31
+5462201000006113,100,^ESCTFR546220,,Fracture of multiple pubic rami,263219008,391377016,,31
+5462211000006111,2,^ESCTFR546221,,Fracture of ischium,263220002,391378014,,31
+5462221000006115,2,^ESCTFR546222,,Fracture of ischial tuberosity,263221003,391379018,,31
+5462231000006117,30,^ESCTMU546223,,Multiple pelvic fractures,263222005,391380015,,32
+5658411000006118,50,^ESCTAC565841,,Acetabular fracture types,281971005,420140015,,31
+5722071000006111,4,^ESCTPA572207,,Pathological fracture - pelvis and/or thigh,287068009,1489974012,,32
+5731201000006117,2,^ESCTFR573120,,Fracture sacrum/coccyx - no cord lesion,288280006,427896010,,31
+5888181000006118,100,^ESCTFR588818,,Fracture of superior pubic ramus,301032005,442262012,,31
+5888191000006115,100,^ESCTFR588819,,Fracture of inferior pubic ramus,301033000,442263019,,31
+5898361000006113,2,^ESCTCE589836,,Central fracture dislocation acetabulum,301757009,443201010,,31
+7062761000006113,1,^ESCTCL706276,,Closed avulsion fracture of anterior inferior iliac spine of pelvis,426679004,2676027019,,31
+7062771000006118,1,^ESCTCL706277,,"Closed avulsion fracture pelvis, anterior inferior iliac spine",426679004,2676026011,,31
+7081901000006115,1,^ESCTMU708190,,Multiple unstable closed lateral compression fractures of pelvis,428000009,2694116012,,31
+7236831000006111,4,^ESCTCL723683,,Closed reduction of fracture of acetabulum,440417002,2792967014,,32
+7489261000006117,1,^ESCTOP748926,,Open reduction of fracture of bone of anterior ring of pelvis with internal fixation,608815006,2959192015,,31
+7585851000006112,1,^ESCTST758585,,Stress fracture of pubic rami,704060003,3011040017,,31
+7598611000006115,1,^ESCTCL759861,,Closed fracture of anterior wall of acetabulum,705104001,3023305015,,31
+7834771000006119,1,^ESCTFR783477,,Fracture of pelvic bone without disruption of posterior arch of pelvic ring,722646006,3332978013,,31
+13718251000006111,1,^ESCT1371825,,Closed fracture of anterior column of left acetabulum,16769891000119103,3774040012,,31
+14198701000006111,2,^ESCT1419870,,Closed fracture involving thorax with lower back and pelvis and limbs,311862008,3987900016,,32

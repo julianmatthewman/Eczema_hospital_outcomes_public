@@ -1,0 +1,2 @@
+"searchterms","exclusionterms","searched_in_column","searchmethod"
+"essential tremor","Adverse reaction","Term","default stringr::str_detect() search method"

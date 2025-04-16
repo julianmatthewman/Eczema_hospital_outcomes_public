@@ -1,0 +1,71 @@
+MedCodeId,Observations,OriginalReadCode,CleansedReadCode,Term,SnomedCTConceptId,SnomedCTDescriptionId,Release,EmisCodeCategoryId
+124598014,3000,F1370,F137000,Athetoid cerebral palsy,75019001,124598014,,32
+206411014,20000,F2B,F2B..00,Cerebral palsy,128188000,206411014,,32
+297233015,300,F23y,F23y.00,Other congenital cerebral palsy,128188000,206411014,,32
+297234014,800,F23y0,F23y000,Ataxic infantile cerebral palsy,278512001,2995485017,,32
+297238012,2000,F23yz,F23yz00,Other infantile cerebral palsy NOS,128188000,206411014,,32
+297239016,10000,F23z,F23z.00,Congenital cerebral palsy NOS,128188000,2995060017,,32
+299393011,2000,Fyu9,Fyu9.00,[X]Cerebral palsy and other paralytic syndromes,408371000000100,897791000000110,,32
+299394017,400,Fyu90,Fyu9000,[X]Other infantile cerebral palsy,128188000,206411014,,32
+345771011,10000,F23-2,F23..12,Infantile cerebral palsy,128188000,2995381013,,32
+345773014,10000,F23y2,F23y200,Spastic cerebral palsy,230773005,345773014,,32
+345780011,1000,F23y3,F23y300,Dyskinetic cerebral palsy,230780007,345780011,,32
+411453017,100000,F23,F23..00,Congenital cerebral palsy,128188000,2995060017,,32
+411454011,2000,F23-1,F23..11,Congenital spastic cerebral palsy,230773005,2995835018,,32
+451123015,2000,G669,G669.00,"Cerebral palsy, not congenital or infantile, acute",307756005,451123015,,32
+2475877015,900,F23y4,F23y400,Ataxic diplegic cerebral palsy,58193001,96715019,,32
+3509879014,1,^ESCT1170883,,Neuromuscular scoliosis due to cerebral palsy,330471000119101,3509879014,,31
+497021000006113,2000,F137-1,F137.11,Athetoid cerebral palsy,75019001,124598014,,32
+542541000006112,20,F23-4,F23..14,Cerebral atonia,128188000,206411014,,32
+543071000006115,10000,F2301,F230100,Cerebral palsy with spastic diplegia,230773005,345773014,,32
+761411000006111,10,F23y1,F23y100,Flaccid infantile cerebral palsy,192958009,297235010,,32
+907241000006111,3000,HNG0180,,[RFC] Cerebral palsy,907241000006107,907241000006111,,12
+907411000006113,400,HNG0197,,[RFC] Cerebral palsy,907411000006109,907411000006113,,12
+1776511000006112,6,EMISNQRE209,,Reason for referral: Cerebral Palsy,1776511000006108,1776511000006112,,40
+1815931000006114,800,F2301-1,F230111,Spastic diplegic cerebral palsy,58193001,2168501000000119,,32
+1815951000006119,2000,F2B0,F2B0.00,Spastic quadriplegic cerebral palsy,48721008,3010116017,,32
+1815971000006112,500,F2By,F2By.00,Other cerebral palsy,128188000,206411014,,32
+1815981000006110,1000,F2Bz,F2Bz.00,Cerebral palsy NOS,128188000,206411014,,32
+1882951000006110,10,13Cd,13Cd.00,Gross Motor Function Classification System for Cerebral Palsy level finding,881501000000104,2273711000000111,,17
+1882961000006112,60,13Cd0,13Cd000,Gross Motor Function Classification System for Cerebral Palsy level I,881521000000108,2273761000000113,,17
+1882971000006117,60,13Cd1,13Cd100,Gross Motor Function Classification System for Cerebral Palsy level II,881541000000101,2273811000000118,,17
+1882981000006119,40,13Cd2,13Cd200,Gross Motor Function Classification System for Cerebral Palsy level III,882021000000108,2274841000000119,,17
+1882991000006116,50,13Cd3,13Cd300,Gross Motor Function Classification System for Cerebral Palsy level IV,882041000000101,2274891000000112,,17
+1883001000006115,50,13Cd4,13Cd400,Gross Motor Function Classification System for Cerebral Palsy level V,882061000000100,2274951000000114,,17
+1883621000006119,30,38Gw,38Gw.00,Gross motor function classification system for cerebral palsy,707621005,3030870013,,32
+1900521000006117,6,2Ba,2Ba..00,Finding of Surveillance of Cerebral Palsy in Europe classification for neonatal neuroimaging results for children with cerebral palsy,914391000000107,2349501000000113,,27
+1900531000006119,1,2Ba0,2Ba0.00,Surveillance of Cerebral Palsy in Europe classification - predominant pattern A - maldevelopment,914411000000107,2349551000000114,,27
+1900541000006112,1,2Ba00,2Ba0000,Surveillance of Cerebral Palsy in Europe classification - predominant pattern A.1.1 - disorder of proliferation,914661000000107,2350091000000115,,27
+1900551000006114,1,2Ba01,2Ba0100,Surveillance of Cerebral Palsy in Europe classification - predominant pattern A.1.2 - disorder of migration,914681000000103,2350141000000114,,27
+1900561000006111,3,2Ba02,2Ba0200,Surveillance of Cerebral Palsy in Europe classification - predominant pattern A.1.3 - disorder of organisation,914701000000101,2350191000000116,,27
+1900571000006116,1,2Ba03,2Ba0300,Surveillance of Cerebral Palsy in Europe classification - predominant pattern A.2 - unspecified maldevelopment,914751000000100,2350301000000113,,27
+1900581000006118,1,2Ba1,2Ba1.00,Surveillance of Cerebral Palsy in Europe classification - predominant pattern B - predominant white matter injury,914431000000104,2349601000000112,,27
+1900591000006115,20,2Ba10,2Ba1000,Surveillance of Cerebral Palsy in Europe classification - predominant pattern B.1 - periventricular leucomalacia,914871000000104,2350661000000118,,27
+1900601000006111,3,2Ba11,2Ba1100,Surveillance of Cerebral Palsy in Europe classification - predominant pattern B.2 - sequelae of intraventricular haemorrhage or periventricular infarction,914891000000100,2350711000000114,,27
+1900611000006114,5,2Ba12,2Ba1200,Surveillance of Cerebral Palsy in Europe classification - predominant pattern B.3 - combination of periventricular leucomalacia and intraventricular haemorrhage sequelae,914911000000102,2350761000000111,,27
+1900621000006118,1,2Ba2,2Ba2.00,Surveillance of Cerebral Palsy in Europe classification - predominant pattern C - predominant grey matter injury,914451000000106,2349651000000113,,27
+1900631000006115,7,2Ba20,2Ba2000,Surveillance of Cerebral Palsy in Europe classification - predominant pattern C.1 - basal ganglia and thalamus lesions,914951000000103,2350861000000119,,27
+1900641000006113,2,2Ba21,2Ba2100,Surveillance of Cerebral Palsy in Europe classification - predominant pattern C.2 - parasagittal lesions,914971000000107,2350911000000111,,27
+1900651000006110,200,2Ba22,2Ba2200,Surveillance of Cerebral Palsy in Europe classification - predominant pattern C.3 - infarct of the middle cerebral artery,914991000000106,2350961000000113,,27
+1900661000006112,1,2Ba3,2Ba3.00,Surveillance of Cerebral Palsy in Europe classification - predominant pattern D - unspecified,914491000000103,2349741000000119,,27
+1900671000006117,1,2Ba4,2Ba4.00,Surveillance of Cerebral Palsy in Europe classification - predominant pattern E - normal,914931000000105,2350811000000116,,27
+2122001000000116,700,F2B1,F2B1.00,Spastic hemiplegic cerebral palsy,813921000000104,2122001000000116,,32
+2283041000000116,10,F23y6-1,F23y611,Choreo-athetotic cerebral palsy,885831000000109,2283041000000116,,32
+2283831000000117,80,F23y6,F23y600,Choreoathetoid cerebral palsy,885831000000109,2283831000000117,,32
+2326271000000114,200,F2B2,F2B2.00,Bilateral spastic cerebral palsy,904531000000100,2326271000000114,,32
+3200341000006112,9,^ESCTHE320034,,Hemiplegic cerebral palsy,43486001,72530015,,31
+3288331000006116,30,^ESCTQU328833,,Quadriplegic cerebral palsy,48721008,81177014,,32
+3416421000006111,2,^ESCTMO341642,,Monoplegic cerebral palsy,56409008,93804012,,32
+3445431000006112,700,^ESCTDI344543,,Diplegic cerebral palsy,58193001,96715019,,32
+3445451000006117,40,^ESCTSP344545,,Spastic diplegic cerebral palsy,58193001,3010096015,,32
+4769391000006119,30,^ESCTHY476939,,Hypotonic cerebral palsy,192958009,297235010,,32
+5012421000006114,5,^ESCTDY501242,,Dystonic/rigid cerebral palsy,230781006,345781010,,31
+5614181000006116,2,^ESCTAT561418,,Ataxic cerebral palsy,278512001,415444017,,32
+7557921000006113,50,^ESCTDY755792,,Dystonic cerebral palsy,702315006,2995761014,,32
+7557961000006119,3,^ESCTBI755796,,Bilateral cerebral palsy,702319000,2995254011,,31
+7557971000006114,3,^ESCTBI755797,,Bilateral spastic cerebral palsy,702319000,2995435014,,31
+8307611000006113,3,^ESCTGM830761,,GMFCS (Gross Motor Function Classification System) for Cerebral Palsy level II,881541000000101,2273821000000112,,17
+8308141000006118,1,^ESCTGM830814,,GMFCS (Gross Motor Function Classification System) for Cerebral Palsy level III,882021000000108,2274871000000113,,17
+8308171000006114,1,^ESCTGM830817,,GMFCS (Gross Motor Function Classification System) for Cerebral Palsy level IV,882041000000101,2274901000000113,,17
+8308201000006113,3,^ESCTGM830820,,GMFCS (Gross Motor Function Classification System) for Cerebral Palsy level V,882061000000100,2274961000000112,,17
+12465281000006112,30,^ESCT1246528,,[X]Cerebral palsy and other paralytic syndromes,408371000000100,897791000000110,,32

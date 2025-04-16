@@ -1,0 +1,46 @@
+MedCodeId,Observations,OriginalReadCode,CleansedReadCode,Term,SnomedCTConceptId,SnomedCTDescriptionId,Release,EmisCodeCategoryId
+24192017,3000,G851,G851.00,Oesophageal varices without bleeding,14223005,24192017,,32
+48003016,50000,G85-1,G85..11,Oesophageal varices,28670008,48003016,,32
+268812014,200,7609,7609.00,Open operations on oesophageal varices,173617001,268812014,,32
+268819017,700,76094,7609400,Open injection sclerotherapy to oesophageal varices,173621008,268819017,,32
+268827014,100,7609z,7609z00,Open operation on oesophageal varices NOS,173617001,268812014,,32
+268885015,6000,760C5,760C500,Fibreoptic endoscopic banding of oesophageal varices,173641003,268885015,,32
+268957016,600,760F4,760F400,Rigid oesophagoscopic banding of oesophageal varices,173661009,268957016,,32
+300775019,90,G852,G852.00,Oesophageal varices in diseases EC,195474004,300775019,,32
+300776018,40,G8520,G852000,Oesophageal varices with bleeding in diseases EC,195475003,300776018,,32
+300779013,30,G8521,G852100,Oesophageal varices without bleeding in diseases EC,195476002,300779013,,32
+300784019,50,G852z,G852z00,Oesophageal varices in diseases EC NOS,195474004,300774015,,32
+300993011,300,Gyu94,Gyu9400,[X]Oesophageal varices in diseases classified elsewhere,28670008,48000018,,32
+394102015,10,7609y,7609y00,Other specified open operation on oesophageal varices,173617001,268812014,,32
+451442010,1000,G8522,G852200,Oesophageal varices in cirrhosis of the liver,308129003,451442010,,32
+453265010,2000,G8523,G852300,Oesophageal varices in alcoholic cirrhosis of the liver,309783001,453265010,,32
+456800015,8000,G858,G858.00,Oesophageal varices NOS,28670008,48003016,,32
+1216060010,10000,G850,G850.00,Oesophageal varices with bleeding,17709002,1216060010,,32
+114801000006118,6,7609y-1,7609y11,Tanner devascularisation for bleeding varices,173617001,268812014,,32
+114811000006115,2,761A4-1,761A411,Tanner devascularisation of stomach,53150004,496569016,,32
+163571000006112,80,760F3,760F300,Endoscopic injection sclerotherapy to varices of oesophagus using rigid oesophagoscope,173660005,268950019,,32
+708811000006119,600,760C3,760C300,Fibreoptic endoscopic injection sclerotherapy to oesophageal varices,173639004,268880013,,32
+737961000006116,600,76093,7609300,Ligation of oesophageal varices,67364009,199882015,,32
+862761000006111,20,76093-99,7609399,Oesophageal vessels ligated,67364009,862761000006111,,32
+862771000006116,100,76094-99,7609499,Oesophageal varices injected,173621008,862771000006116,,32
+987751000006119,5,760F3-99,760F399,Oesophageal varices injected,173660005,987751000006119,,32
+990631000006117,20,G858-99,G858.99,Oesophageal varices,675401000000103,990631000006117,,32
+2781011000006119,700,^ESCTBL278101,,Bleeding oesophageal varices,17709002,478405010,,32
+2781021000006110,2,^ESCTBL278102,,Bleeding esophageal varices,17709002,29937010,,32
+2960621000006118,4,^ESCTES296062,,Esophageal varices,28670008,48000018,,32
+2960641000006113,40,^ESCTOE296064,,Oesophageal varix,28670008,1216263019,,32
+2960651000006110,1,^ESCTES296065,,Esophageal varix,28670008,1217762019,,32
+3691701000006116,1,^ESCTEN369170,,Endoscopic injection of oesophageal varices,73282006,502391015,,31
+4656741000006118,8,^ESCTFI465674,,Fibreoptic oesophagoscopy and injection sclerotherapy of varices,173639004,268877012,,32
+4656781000006112,400,^ESCTFI465678,,Fibreoptic oesophagoscopy and banding of oesophageal varices,173641003,268883010,,32
+4656791000006110,1,^ESCTFI465679,,Fiberoptic endoscopic banding of esophageal varices,173641003,268884016,,32
+4657131000006113,2,^ESCTRI465713,,Rigid oesophagoscopy and injection sclerotherapy of varices,173660005,268953017,,32
+4657171000006111,100,^ESCTRI465717,,Rigid oesophagoscopy and banding of oesophageal varices,173661009,268954011,,32
+4657181000006114,1,^ESCTRI465718,,Rigid esophagoscopic banding of esophageal varices,173661009,268955012,,32
+4779691000006115,4,^ESCTOE477969,,Oesophageal varices associated with another disorder,195474004,2575713012,,32
+4779721000006113,2,^ESCTOE477972,,"Oesophageal varices with bleeding, associated with another disorder",195475003,2575715017,,32
+5076631000006115,1,^ESCTOP507663,,Operation on oesophageal varices,235184005,352498013,,31
+7329191000006118,2,^ESCTEN732919,,Endoscopy of upper gastrointestinal tract and banding of varix of oesophagus,446739005,2882524012,,31
+7329201000006115,1,^ESCTEN732920,,Endoscopy of upper gastrointestinal tract and banding of oesophageal varices,446739005,2882444016,,31
+14146411000006112,7,^ESCT1414641,,Oesophageal varices due to cirrhosis of liver,897004000,4030029017,,32
+14146421000006116,5,^ESCT1414642,,Oesophageal varices due to cirrhosis of liver caused by alcohol,897005004,4030032019,,32

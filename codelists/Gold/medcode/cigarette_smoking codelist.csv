@@ -1,0 +1,28 @@
+code,description,coding_system,concept_id,concept_version_id,concept_name,phenotype_id,phenotype_version_id,phenotype_name,Entity type,Category,Coding System (Read),medcode,desc
+137..11,Smoker - amount smoked,Read codes v2,C2096,5330,Current Smoker (P18) - Primary Care,PH676,1352,Current Smoker (P18),res25: P18_current_smoker,diagnostic,Read,12942,Smoker - amount smoked
+1372,Trivial smoker - < 1 cig/day,Read codes v2,C2096,5330,Current Smoker (P18) - Primary Care,PH676,1352,Current Smoker (P18),res25: P18_current_smoker,diagnostic,Read,NA,NA
+1372.11,Occasional smoker,Read codes v2,C2096,5330,Current Smoker (P18) - Primary Care,PH676,1352,Current Smoker (P18),res25: P18_current_smoker,diagnostic,Read,12941,Occasional smoker
+1373,Light smoker - 1-9 cigs/day,Read codes v2,C2096,5330,Current Smoker (P18) - Primary Care,PH676,1352,Current Smoker (P18),res25: P18_current_smoker,diagnostic,Read,NA,NA
+1374,Moderate smoker - 10-19 cigs/d,Read codes v2,C2096,5330,Current Smoker (P18) - Primary Care,PH676,1352,Current Smoker (P18),res25: P18_current_smoker,diagnostic,Read,NA,NA
+1375,Heavy smoker - 20-39 cigs/day,Read codes v2,C2096,5330,Current Smoker (P18) - Primary Care,PH676,1352,Current Smoker (P18),res25: P18_current_smoker,diagnostic,Read,NA,NA
+1376,Very heavy smoker - 40+cigs/d,Read codes v2,C2096,5330,Current Smoker (P18) - Primary Care,PH676,1352,Current Smoker (P18),res25: P18_current_smoker,diagnostic,Read,NA,NA
+137C.00,Keeps trying to stop smoking,Read codes v2,C2096,5330,Current Smoker (P18) - Primary Care,PH676,1352,Current Smoker (P18),res25: P18_current_smoker,diagnostic,Read,12964,Keeps trying to stop smoking
+137D.00,Admitted tobacco cons untrue ?,Read codes v2,C2096,5330,Current Smoker (P18) - Primary Care,PH676,1352,Current Smoker (P18),res25: P18_current_smoker,diagnostic,Read,46654,Admitted tobacco cons untrue ?
+137G.00,Trying to give up smoking,Read codes v2,C2096,5330,Current Smoker (P18) - Primary Care,PH676,1352,Current Smoker (P18),res25: P18_current_smoker,diagnostic,Read,12240,Trying to give up smoking
+137H.00,Pipe smoker,Read codes v2,C2096,5330,Current Smoker (P18) - Primary Care,PH676,1352,Current Smoker (P18),res25: P18_current_smoker,diagnostic,Read,12947,Pipe smoker
+137J.00,Cigar smoker,Read codes v2,C2096,5330,Current Smoker (P18) - Primary Care,PH676,1352,Current Smoker (P18),res25: P18_current_smoker,diagnostic,Read,12943,Cigar smoker
+137M.00,Rolls own cigarettes,Read codes v2,C2096,5330,Current Smoker (P18) - Primary Care,PH676,1352,Current Smoker (P18),res25: P18_current_smoker,diagnostic,Read,12945,Rolls own cigarettes
+137P.00,Cigarette smoker,Read codes v2,C2096,5330,Current Smoker (P18) - Primary Care,PH676,1352,Current Smoker (P18),res25: P18_current_smoker,diagnostic,Read,93,Cigarette smoker
+137P.11,Smoker,Read codes v2,C2096,5330,Current Smoker (P18) - Primary Care,PH676,1352,Current Smoker (P18),res25: P18_current_smoker,diagnostic,Read,1823,Smoker
+137Q.00,Smoking started,Read codes v2,C2096,5330,Current Smoker (P18) - Primary Care,PH676,1352,Current Smoker (P18),res25: P18_current_smoker,diagnostic,Read,12952,Smoking started
+137Q.11,Smoking restarted,Read codes v2,C2096,5330,Current Smoker (P18) - Primary Care,PH676,1352,Current Smoker (P18),res25: P18_current_smoker,diagnostic,Read,12951,Smoking restarted
+137R.00,Current smoker,Read codes v2,C2096,5330,Current Smoker (P18) - Primary Care,PH676,1352,Current Smoker (P18),res25: P18_current_smoker,diagnostic,Read,10558,Current smoker
+137V.00,Smoking reduced,Read codes v2,C2096,5330,Current Smoker (P18) - Primary Care,PH676,1352,Current Smoker (P18),res25: P18_current_smoker,diagnostic,Read,12966,Smoking reduced
+137X.00,Cigarette consumption,Read codes v2,C2096,5330,Current Smoker (P18) - Primary Care,PH676,1352,Current Smoker (P18),res25: P18_current_smoker,diagnostic,Read,12965,Cigarette consumption
+137Y.00,Cigar consumption,Read codes v2,C2096,5330,Current Smoker (P18) - Primary Care,PH676,1352,Current Smoker (P18),res25: P18_current_smoker,diagnostic,Read,12963,Cigar consumption
+137Z.00,Tobacco consumption NOS,Read codes v2,C2096,5330,Current Smoker (P18) - Primary Care,PH676,1352,Current Smoker (P18),res25: P18_current_smoker,diagnostic,Read,12960,Tobacco consumption NOS
+137b.00,Ready to stop smoking,Read codes v2,C2096,5330,Current Smoker (P18) - Primary Care,PH676,1352,Current Smoker (P18),res25: P18_current_smoker,diagnostic,Read,31114,Ready to stop smoking
+137c.00,Thinking about stopping smoking,Read codes v2,C2096,5330,Current Smoker (P18) - Primary Care,PH676,1352,Current Smoker (P18),res25: P18_current_smoker,diagnostic,Read,30423,Thinking about stopping smoking
+137e.00,Smoking restarted,Read codes v2,C2096,5330,Current Smoker (P18) - Primary Care,PH676,1352,Current Smoker (P18),res25: P18_current_smoker,diagnostic,Read,41979,Smoking restarted
+137h.00,Minutes from waking to first tobacco consumption,Read codes v2,C2096,5330,Current Smoker (P18) - Primary Care,PH676,1352,Current Smoker (P18),res25: P18_current_smoker,diagnostic,Read,62686,Minutes from waking to first tobacco consumption
+137m.00,Failed attempt to stop smoking,Read codes v2,C2096,5330,Current Smoker (P18) - Primary Care,PH676,1352,Current Smoker (P18),res25: P18_current_smoker,diagnostic,Read,101338,Failed attempt to stop smoking

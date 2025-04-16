@@ -1,0 +1,15 @@
+"searchterms","exclusionterms","searched_in_column","searchmethod"
+"gastric ulc","FH:","Term","default stringr::str_detect() search method"
+"duodenal ulc","family history",,
+"peptic ulc",,,
+"gastrojejunal ulc",,,
+"anastomotic ulc",,,
+"duodenal erosion",,,
+"gastric erosion",,,
+"gastrocolic ulc",,,
+"gastroduodenal ulc",,,
+"jejunal ulc",,,
+"marginal ulc",,,
+"pyloric ulc",,,
+"stomach ulc",,,
+"ulcer of duodenum",,,

@@ -1,0 +1,4 @@
+code,description,coding_system,concept_id,concept_version_id,concept_name,phenotype_id,phenotype_version_id,phenotype_name,code_attributes
+F84.0,Childhood autism,ICD10 codes,C997,3133,Autism and Asperger's syndrome - Secondary care - Diagnoses,PH110,220,Autism and Asperger's syndrome,"{'Disease': ""Autism and Asperger's syndrome"", 'Category': ""Diagnosis of Autism and Asperger's syndrome""}"
+F84.1,Atypical autism,ICD10 codes,C997,3133,Autism and Asperger's syndrome - Secondary care - Diagnoses,PH110,220,Autism and Asperger's syndrome,"{'Disease': ""Autism and Asperger's syndrome"", 'Category': ""Diagnosis of Autism and Asperger's syndrome""}"
+F84.5,Asperger's syndrome,ICD10 codes,C997,3133,Autism and Asperger's syndrome - Secondary care - Diagnoses,PH110,220,Autism and Asperger's syndrome,"{'Disease': ""Autism and Asperger's syndrome"", 'Category': ""Diagnosis of Autism and Asperger's syndrome""}"

@@ -1,0 +1,2 @@
+Mapped GOLD codelist from https://datacompass.lshtm.ac.uk/id/eprint/834/ to Aurum.
+Includes primary (familial) and secondary (acquired) forms.

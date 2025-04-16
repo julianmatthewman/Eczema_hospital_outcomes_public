@@ -1,0 +1,70 @@
+# -----------------------------------------------------------------------------
+Clinical codelist for atopic eczema/atopic dermatitis
+
+Author: Julian Matthewman
+Created on 12 July 2023
+Created by searching the 2023_03 CPRD Aurum Medical code browser
+Terminologies: CPRD MedCode, SNOMED-CT, Read	
+Short description: Codes for atopic dermatitis/atopic eczema, also including codes for unspecified forms of eczema that may be atopic
+Subcategories: Symptom and diagnosis codes only (i.e., no codes for referrals, drugs, hsitory of, etc..), definite atopic eczema
+Revised by: Julian Matthewman
+# -----------------------------------------------------------------------------
+
+# Search strategy -------------------------------
+
+Iteratively modified terms used to search and exclude codes, while checking for codes with the same SnomedCTConceptId and codes with a descendant Read code
+
+# Excludes --------------------------------------
+From the websites of the US (https://nationaleczema.org/eczema/types-of-eczema/) and UK (https://eczema.org/information-and-advice/types-of-eczema/) eczema societies, identified forms of eczema that are not considered atopic:
+Contact Dermatitis
+Dyshidrotic Eczema
+Neurodermatitis
+Nummular (discoid) Eczema
+Seborrheic Dermatitis
+Stasis Dermatitis
+Asteatotic eczema (craquele)
+Ear eczema
+Eczema around the eyes
+Facial eczema (Eczema of face)
+Female genital eczema
+Hand eczema (likely also referred to as Hyperkeratotic fissured eczema of palms or soles [doi: 10.1111/cod.13572])
+Male genital eczema
+Pompholyx (dyshidrotic) eczema (also likely referred to as Pustular eczema and Vesicular eczema)
+Scalp eczema
+Seborrhoeic dermatitis & cradle cap in infants
+Seborrhoeic dermatitis in adults
+Varicose eczema (also known as gravitational eczema, and likely also referred to as Venous eczema [https://www.nhs.uk/conditions/varicose-eczema/])
+
+Also identified other terms labelled with "eczema" that are not atopic eczema: 
+erythrodermic eczema (which is erythroderma https://en.wikipedia.org/wiki/Erythroderma)
+Infectious eczematoid dermatitis (which is likely non-atopic https://pubmed.ncbi.nlm.nih.gov/25209074/), but infected eczema is included
+psoriasis
+immunodeficiency syndromes
+Friction eczema
+Lip licking eczema
+Desiccation eczema
+Papular eczema
+drug eruptions
+
+The following terms that contain the word "atopic" were excluded from the codelist:
+Atopic dermatitis of hands (200 observations)
+Atopic eczema of hands (<20 observations)
+Discoid atopic dermatitis (<20 observations)
+Discoid pattern atopic eczema (<20 observations)
+Erythrodermic atopic dermatitis (<20 observations)
+Atopic dermatitis of scalp (<20 observations)
+Atopic eczema of scalp (<20 observations)
+
+
+# Includes --------------------------------------
+The codelist includes:
+eczema herpeticum, as this develops in patients with atopic dermatitis [PMID: 32809616]
+Thrombocytopenic eczema (is likely atopic, and there are very few cases)
+Also includes history of eczema, referrals to eczema clinics, measures, adverse reactions to eczema drugs
+
+
+# Checks ----------------------------------------
+Number of observations by subcategory:
+full codelist: 17.4 million
+diagnosis and symptom codes: 16.8 million
+definite atopic eczema: 6.4 million

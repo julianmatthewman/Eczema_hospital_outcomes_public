@@ -1,0 +1,365 @@
+MedCodeId,Observations,OriginalReadCode,CleansedReadCode,Term,SnomedCTConceptId,SnomedCTDescriptionId,Release,EmisCodeCategoryId
+276467013,2000,7J41,7J41.00,Decompression of fracture of spine,178674000,276467013,,32
+276468015,70,7J410,7J41000,Complex decompression of fracture of spine,178675004,276468015,,32
+276469011,200,7J411,7J41100,Anterior decompression of fracture of spine,178676003,276469011,,32
+276470012,70,7J412,7J41200,Posterior decompression of fracture of spine,178677007,276470012,,32
+276471011,100,7J41y,7J41y00,Other specified decompression of fracture of spine,178674000,276467013,,32
+276474015,200,7J41z,7J41z00,Decompression of fracture of spine NOS,178674000,276467013,,32
+276481010,100,7J421,7J42100,Open reduction of fracture of spine NEC,19688005,33145016,,32
+276483013,70,7J423,7J42300,Spinal extension traction for fracture of spine,178685003,276483013,,32
+276484019,500,7J424,7J42400,Halo skull traction for fracture of spine,178686002,276484019,,32
+276485018,80,7J425,7J42500,Spinal traction for fracture of spine NEC,239550006,358969013,,32
+276487014,10,7J426,7J42600,Primary bedrest stabilisation of spinal fracture,178688001,276487014,,32
+276488016,40,7J427,7J42700,Primary collar stabilisation of cervical spine fracture,178689009,2668738016,,32
+276491016,7,7J428,7J42800,Primary skull traction stabilisation of spinal fracture,178690000,276491016,,32
+276492011,20,7J429,7J42900,Primary cast stabilisation of spinal fracture,178691001,276492011,,32
+276495013,60,7J42A,7J42A00,Primary external fixation stabilisation of spinal fracture,178692008,276495013,,32
+276496014,40,7J42B,7J42B00,Primary other external stabilisation of spinal fracture,239548003,358967010,,32
+276498010,1,7J42C,7J42C00,Revision to bedrest stabilisation of spinal fracture,178694009,276498010,,32
+276501010,8,7J42D,7J42D00,Revision to collar stabilisation of cervical spine fracture,178695005,2668725012,,32
+276502015,3,7J42E,7J42E00,Revision to skull traction stabilisation of spinal fracture,178696006,276502015,,32
+276505018,2,7J42F,7J42F00,Revision to cast stabilisation of spinal fracture,178697002,276505018,,32
+276508016,2,7J42H,7J42H00,Revision to other external stabilisation of spinal fracture,239548003,358967010,,32
+276510019,20,7J42J,7J42J00,Primary closed reduction spinal fracture alone,311488002,455069010,,32
+276522016,1,7J42R,7J42R00,Revision to closed reduction spinal fracture alone,311489005,455070011,,32
+276534012,8,7J42Y,7J42Y00,Primary open reduction spinal fracture alone,311490001,455071010,,32
+276543015,10,7J42d,7J42d00,Primary open reduction spinal fracture and external fixation,178719008,276543015,,32
+276546011,3,7J42f,7J42f00,Revision to open reduction spinal fracture alone,311491002,455072015,,32
+276559015,30,7J42y,7J42y00,Other specified other reduction of fracture of spine,239548003,358967010,,32
+276560013,70,7J42z,7J42z00,Other reduction of fracture of spine NOS,239548003,358967010,,32
+276566019,400,7J431,7J43100,Fixation of fracture of spine using Harrington rod,178734002,276566019,,32
+276582018,200,7J43y,7J43y00,Other specified fixation of fracture of spine,265721002,394587017,,32
+276583011,500,7J43z,7J43z00,Fixation of fracture of spine NOS,265721002,394587017,,32
+311305016,2000,N1y1,N1y1.00,Fatigue fracture of vertebra,202831001,311305016,,32
+312617013,2000,Nyu67,Nyu6700,Fracture of vertebral column,50448004,84047017,,32
+318353013,1000,S1000,S100000,Closed fracture of unspecified cervical vertebra,269062008,402833017,,32
+318375010,60,S1008,S100800,"Closed fracture atlas, isolated arch or articular process",207895002,318375010,,32
+318376011,80,S1009,S100900,"Closed fracture atlas, comminuted",207896001,318376011,,32
+318377019,5000,S100A,S100A00,"Closed fracture axis, odontoid process",207897005,318377019,,32
+318378012,3,S100B,S100B00,"Closed fracture axis, spondylolysis",207898000,318378012,,32
+318379016,200,S100C,S100C00,"Closed fracture axis, spinous process",207899008,318379016,,32
+318380018,200,S100D,S100D00,"Closed fracture axis, transverse process",207900003,318380018,,32
+318381019,20,S100E,S100E00,"Closed fracture axis, posterior arch",207901004,318381019,,32
+318382014,10,S100F,S100F00,"Closed fracture axis, tricolumnar",207902006,318382014,,32
+318383016,400,S100G,S100G00,"Closed fracture cervical vertebra, burst",207903001,318383016,,32
+318384010,800,S100H,S100H00,"Closed fracture cervical vertebra, wedge",207904007,318384010,,32
+318385011,30,S100J,S100J00,"Closed fracture cervical vertebra, spondylolysis",207905008,318385011,,32
+318386012,1000,S100K,S100K00,"Closed fracture cervical vertebra, spinous process",207906009,318386012,,32
+318387015,500,S100L,S100L00,"Closed fracture cervical vertebra, transverse process",207907000,318387015,,32
+318388013,90,S100M,S100M00,"Closed fracture cervical vertebra, posterior arch",207908005,318388013,,32
+318389017,3,S100N,S100N00,"Closed fracture cervical vertebra, tricolumnar",207909002,318389017,,32
+318390014,500,S100x,S100x00,Multiple closed fractures of cervical vertebrae,207910007,318390014,,32
+318391013,1000,S100z,S100z00,Closed fracture of cervical spine not otherwise specified,269062008,402833017,,32
+318396015,30,S1010,S101000,Open fracture of unspecified cervical vertebra,269070003,402841017,,32
+318419013,10,S1019,S101900,"Open fracture atlas, comminuted",207922005,318419013,,32
+318420019,50,S101A,S101A00,"Open fracture axis, odontoid process",207923000,318420019,,32
+318422010,9,S101C,S101C00,"Open fracture axis, spinous process",207925007,318422010,,32
+318423017,9,S101D,S101D00,"Open fracture axis, transverse process",207926008,318423017,,32
+318426013,5,S101G,S101G00,"Open fracture cervical vertebra, burst",207929001,318426013,,32
+318427016,20,S101H,S101H00,"Open fracture cervical vertebra, wedge",207930006,318427016,,32
+318428014,1,S101J,S101J00,"Open fracture cervical vertebra, spondylolysis",207931005,318428014,,32
+318429018,20,S101K,S101K00,"Open fracture cervical vertebra, spinous process",207932003,318429018,,32
+318430011,2,S101L,S101L00,"Open fracture cervical vertebra, transverse process",207933008,318430011,,32
+318433013,30,S101x,S101x00,Multiple open fractures of cervical vertebrae,207936000,318433013,,32
+318434019,30,S101z,S101z00,Open fracture of cervical spine not otherwise specified,269070003,402841017,,32
+318435018,20000,S102,S102.00,Closed fracture thoracic vertebra,207938004,318435018,,32
+318436017,800,S1020,S102000,"Closed fracture thoracic vertebra, burst",207939007,318436017,,32
+318437014,40000,S1021,S102100,"Closed fracture thoracic vertebra, wedge",207940009,318437014,,32
+318438016,40,S1022,S102200,"Closed fracture thoracic vertebra, spondylolysis",207941008,318438016,,32
+318439012,500,S1023,S102300,"Closed fracture thoracic vertebra, spinous process",207942001,318439012,,32
+318440014,500,S1024,S102400,"Closed fracture thoracic vertebra, transverse process",207943006,318440014,,32
+318441013,3,S1025,S102500,"Closed fracture thoracic vertebra, posterior arch",207944000,318441013,,32
+318442018,6,S1026,S102600,"Closed fracture thoracic vertebra, tricolumnar",207945004,318442018,,32
+318443011,300,S102y,S102y00,Other specified closed fracture thoracic vertebra,207938004,318435018,,32
+318445016,1000,S102z,S102z00,Closed fracture thoracic vertebra not otherwise specified,207938004,318435018,,32
+318446015,100,S103,S103.00,Open fracture thoracic vertebra,207949005,318446015,,32
+318447012,30,S1030,S103000,"Open fracture thoracic vertebra, burst",207950005,318447012,,32
+318448019,200,S1031,S103100,"Open fracture thoracic vertebra, wedge",207951009,318448019,,32
+318449010,4,S1032,S103200,"Open fracture thoracic vertebra, spondylolysis",207952002,318449010,,32
+318450010,6,S1033,S103300,"Open fracture thoracic vertebra, spinous process",207953007,318450010,,32
+318451014,7,S1034,S103400,"Open fracture thoracic vertebra, transverse process",207954001,318451014,,32
+318454018,40000,S104,S104.00,Closed fracture lumbar vertebra,207957008,318454018,,32
+318455017,2000,S1040,S104000,"Closed fracture lumbar vertebra, burst",207958003,318455017,,32
+318456016,40000,S1041,S104100,"Closed fracture lumbar vertebra, wedge",207959006,318456016,,32
+318457013,100,S1042,S104200,"Closed fracture lumbar vertebra, spondylolysis",207960001,318457013,,32
+318458015,400,S1043,S104300,"Closed fracture lumbar vertebra, spinous process",207961002,318458015,,32
+318459011,4000,S1044,S104400,"Closed fracture lumbar vertebra, transverse process",207962009,318459011,,32
+318460018,20,S1045,S104500,"Closed fracture lumbar vertebra, posterior arch",207963004,318460018,,32
+318461019,10,S1046,S104600,"Closed fracture lumbar vertebra, tricolumnar",207964005,318461019,,32
+318462014,200,S105,S105.00,Open fracture lumbar vertebra,207965006,318462014,,32
+318463016,100,S1050,S105000,"Open fracture lumbar vertebra, burst",207966007,318463016,,32
+318464010,200,S1051,S105100,"Open fracture lumbar vertebra, wedge",207967003,318464010,,32
+318465011,4,S1052,S105200,"Open fracture lumbar vertebra, spondylolysis",207968008,318465011,,32
+318466012,8,S1053,S105300,"Open fracture lumbar vertebra, spinous process",207969000,318466012,,32
+318467015,60,S1054,S105400,"Open fracture lumbar vertebra, transverse process",207970004,318467015,,32
+318482013,1000,S10A0,S10A000,Fracture of first cervical vertebra,207983003,318482013,,32
+318483015,3000,S10A1,S10A100,Fracture of second cervical vertebra,207984009,318483015,,32
+318484014,2000,S10A2,S10A200,Multiple fractures of cervical spine,207985005,318484014,,32
+318485010,2000,S10B,S10B.00,Fracture of lumbar spine and pelvis,207986006,318485010,,32
+318492017,1000,S10B6,S10B600,Multiple fractures of lumbar spine and pelvis,207993005,318492017,,32
+318493010,10000,S10x,S10x.00,Closed fracture of vertebral column,42157000,70347013,,32
+318494016,70,S10y,S10y.00,Open fracture of vertebral column,82419009,136707019,,32
+318495015,3000,S10z,S10z.00,Fracture of spine without mention of spinal cord lesion NOS,269061001,402831015,,32
+318500017,2000,S110,S110.00,Closed fracture of cervical spine with cord lesion,207998001,318500017,,32
+318514017,10,S111,S111.00,Open fracture of cervical spine with spinal cord lesion,208012004,318514017,,32
+318518019,1,S1113,S111300,"Open spinal fracture with central cervical cord lesion, C1-4",208016001,318518019,,32
+318524013,1,S1119,S111900,"Open spinal fracture with central cervical cord lesion, C5-7",208022005,318524013,,32
+318527018,1,S111z,S111z00,Open fracture of cervical spine with spinal cord lesion NOS,208012004,318514017,,32
+318528011,500,S112,S112.00,Closed fracture of thoracic spine with spinal cord lesion,208026008,318528011,,32
+318542015,9,S113,S113.00,Open fracture of thoracic spine with spinal cord lesion,208040009,318542015,,32
+318546017,1,S1133,S113300,"Open spinal fracture with central thoracic cord lesion, T1-6",208044000,318546017,,32
+318556018,1000,S114,S114.00,Closed fracture of lumbar spine with spinal cord lesion,208054001,318556018,,32
+318557010,100,S1140,S114000,Closed spinal fracture with unspecified lumbar cord lesion,274158004,409926015,,32
+318558017,20,S1141,S114100,Closed spinal fracture with complete lumbar cord lesion,208056004,318558017,,32
+318559013,8,S1142,S114200,Closed spinal fracture with anterior lumbar cord lesion,208057008,318559013,,32
+318560015,10,S1143,S114300,Closed spinal fracture with central lumbar cord lesion,208058003,318560015,,32
+318561016,3,S1144,S114400,Closed spinal fracture with posterior lumbar cord lesion,208059006,318561016,,32
+318562011,40,S1145,S114500,Closed spinal fracture with cauda equina lesion,208060001,318562011,,32
+318569019,1,S1155,S115500,Open spinal fracture with cauda equina lesion,208067003,318569019,,32
+318571019,100,S116,S116.00,Closed fracture of sacrum with spinal cord lesion,208069000,318571019,,32
+318575011,9,S1163,S116300,Closed fracture of sacrum with other spinal cord injury,208069000,318571019,,32
+318580019,10,S116z,S116z00,Closed fracture of sacrum with spinal cord lesion NOS,208069000,318571019,,32
+318581015,20,S117,S117.00,Open fracture of sacrum with spinal cord lesion,208076005,318581015,,32
+318582010,1,S1170,S117000,Open fracture of sacrum with unspecified spinal cord lesion,208076005,318581015,,32
+318586013,1,S117z,S117z00,Open fracture of sacrum with spinal cord lesion NOS,208076005,318581015,,32
+318587016,20,S118,S118.00,Closed fracture of coccyx with spinal cord lesion,208082008,318587016,,32
+318591014,3,S1183,S118300,Closed fracture of coccyx with other spinal cord injury,208082008,318587016,,32
+318592019,9,S118z,S118z00,Closed fracture of coccyx with spinal cord lesion NOS,208082008,318587016,,32
+318593012,1,S119,S119.00,Open fracture of coccyx with spinal cord lesion,208088007,318593012,,32
+318594018,3,S1190,S119000,Open fracture of coccyx with unspecified spinal cord lesion,208088007,318593012,,32
+318599011,100,S11x,S11x.00,Closed fracture of spine with spinal cord lesion unspecified,1734006,4003019,,32
+318600014,1,S11y,S11y.00,Open fracture of spine with spinal cord lesion unspecified,1734006,4003019,,32
+318601013,200,S11z,S11z.00,Fracture of vertebral column with spinal cord injury,1734006,4003019,,32
+318692012,800,S1344,S134400,"Closed fracture pelvis, anterior superior iliac spine",208182006,318692012,,32
+318693019,1000,S1345,S134500,"Closed fracture pelvis, anterior inferior iliac spine",208183001,318693019,,32
+318703017,40,S1354,S135400,"Open fracture pelvis, anterior superior iliac spine",208193008,318703017,,32
+318704011,30,S1355,S135500,"Open fracture pelvis, anterior inferior iliac spine",208194002,318704011,,32
+318725011,6000,S150,S150.00,Multiple fractures of thoracic spine,208215006,318725011,,32
+318739011,300,S2105,S210500,"Closed fracture scapula, spine",208228004,318739011,,32
+318746019,4,S2115,S211500,"Open fracture scapula, spine",208235007,318746019,,32
+319203012,2000,S3306,S330600,"Closed fracture spine, tibia",208613008,3698576018,,32
+319215011,80,S3316,S331600,"Open fracture spine, tibia",208622009,3698581010,,32
+325323015,6000,Syu15,Syu1500,Fracture of cervical spine,125606003,194094010,,32
+391329016,40,S100-1,S100.11,Closed fracture of atlas without spinal cord injury,28753006,48141014,,32
+391330014,30,S100-2,S100.12,Closed fracture of axis without spinal cord lesion,11782000,20339011,,32
+394586014,700,7J42,7J42.00,Other reduction of fracture of spine,239548003,358967010,,32
+402831015,9000,S10-2,S10..12,Fracture of vertebra without spinal cord lesion,269061001,402831015,,32
+402832010,20000,S10,S10..00,Fracture of spine without mention of spinal cord injury,269061001,402832010,,32
+402833017,20000,S100,S100.00,Closed fracture of cervical spine,269062008,402833017,,32
+402834011,500,S1001,S100100,Closed fracture atlas,269063003,402834011,,32
+402835012,900,S1002,S100200,Closed fracture axis,269064009,402835012,,32
+402836013,1000,S1003,S100300,Closed fracture of third cervical vertebra,269065005,402836013,,32
+402837016,500,S1004,S100400,Closed fracture of fourth cervical vertebra,269066006,402837016,,32
+402838014,1000,S1005,S100500,Closed fracture of fifth cervical vertebra,269067002,402838014,,32
+402839018,1000,S1006,S100600,Closed fracture of sixth cervical vertebra,269068007,402839018,,32
+402840016,2000,S1007,S100700,Closed fracture of seventh cervical vertebra,269069004,402840016,,32
+402841017,100,S101,S101.00,Open fracture of cervical spine,269070003,402841017,,32
+402842012,2,S1011,S101100,Open fracture atlas,269071004,402842012,,32
+402843019,4,S1012,S101200,Open fracture axis,269072006,402843019,,32
+402844013,6,S1013,S101300,Open fracture of third cervical vertebra,269073001,402844013,,32
+402845014,4,S1014,S101400,Open fracture of fourth cervical vertebra,269074007,402845014,,32
+402846010,8,S1015,S101500,Open fracture of fifth cervical vertebra,269075008,402846010,,32
+402847018,10,S1016,S101600,Open fracture of sixth cervical vertebra,269076009,402847018,,32
+402848011,10,S1017,S101700,Open fracture of seventh cervical vertebra,269077000,402848011,,32
+402849015,200,S11-2,S11..12,Fracture of vertebra with spinal cord lesion,1734006,4003019,,32
+402850015,2000,S11,S11..00,Fracture of spine with spinal cord lesion,1734006,4003019,,32
+405143010,1000,N3310,N331000,Pathological fracture of thoracic vertebra,270507001,405143010,,32
+405144016,1000,N3311,N331100,Pathological fracture of lumbar vertebra,270508006,405144016,,32
+411017011,200,7J42-1,7J42.11,Other reduction of fracture of spine and stabilisation,239548003,358967010,,32
+411019014,200,7J43-1,7J43.11,Internal fixation of fracture of spine,275093002,411019014,,32
+451463012,100,N331C,N331C00,Pathological fracture of cervical vertebra,308145001,451463012,,32
+455444016,2000,S1500,S150000,Closed multiple fractures of thoracic spine,311814002,455444016,,32
+455445015,20,S1501,S150100,Open multiple fracture of thoracic spine,311815001,455445015,,32
+456414012,20,SC010,SC01000,Late effect of fracture of cervical vertebra,312660000,456414012,,32
+456415013,20,SC011,SC01100,Late effect of fracture of thoracic vertebra,312661001,456415013,,32
+456416014,80,SC012,SC01200,Late effect of fracture of lumbar vertebra,312662008,456416014,,32
+1220723013,50000,S15,S15..00,Fracture of thoracic vertebra,125607007,1220723013,,32
+1220724019,60000,S10B0,S10B000,Fracture of lumbar vertebra,125608002,1220724019,,32
+1485121013,30000,14G8,14G8.00,H/O: vertebral fracture,391094005,1485121013,,32
+2674037014,2000,7J415,7J41500,Balloon kyphoplasty of fracture of spine,426243004,2674037014,,32
+40871000006119,200,N331A,N331A00,Osteoporosis with pathological fracture of cervical vertebrae,203452006,312164012,,32
+40881000006116,10000,N3318,N331800,Osteoporosis with pathological fracture of lumbar vertebrae,203450003,312162011,,32
+40891000006118,10000,N3319,N331900,Osteoporosis with pathological fracture of thoracic vertebrae,203451004,312163018,,32
+43041000006111,20,7J420,7J42000,Open reduction of fracture of spine and excision of facet of spine,178682000,276480011,,32
+43141000006110,1,S1131,S113100,"Open spinal fracture with complete thoracic cord lesion, T1-6",208042001,318544019,,32
+43221000006113,1,S1130,S113000,"Opn spinal fracture with unspec thoracic cord lesion, T1-6",274157009,409925016,,32
+43231000006111,2,S1136,S113600,"Opn spinal fracture with unspec thoracic cord lesion, T7-12",274157009,409925016,,32
+44421000006110,1,S1118,S111800,"Open spinal fracture with anterior cervical cord lesion, C5-7",208021003,318523019,,32
+44441000006115,20,S1138,S113800,"Open spinal fracture with anterior thoracic cord lesion, T7-12",208049005,318551011,,32
+44451000006118,5,S1111,S111100,"Open spinal fracture with complete cervical cord lesion, C1-4",208014003,318516015,,32
+135381000006113,3,Q2041,Q204100,Fracture of spine due to birth trauma,64728002,107570013,,32
+159361000006116,30,7J43B,7J43B00,Revision to open reduction spinal fracture and internal fixation with segmental wire system,178744000,276579011,,32
+159371000006111,2,7J42h,7J42h00,Revision to open reduction spinal fracture and bedrest stabilisation,178723000,276549016,,32
+159381000006114,1,7J42k,7J42k00,Revision to open reduction spinal fracture and cast stabilisation,178725007,276553019,,32
+159391000006112,1,7J42g,7J42g00,Revision to open reduction of cervical spine fracture and collar stabilisation,178722005,2668649015,,32
+159401000006114,1,7J42l,7J42l00,Revision to open reduction spinal fracture and external fixation,178726008,276555014,,32
+159411000006112,40,7J43C,7J43C00,Revision to open reduction spinal fracture and internal fixation with internal fixator,178745004,276580014,,32
+159421000006116,10,7J439,7J43900,Revision to open reduction spinal fracture and internal fixation with plate,178742001,276577013,,32
+159431000006118,20,7J43A,7J43A00,Revision to open reduction spinal fracture and internal fixation with rod system,178743006,276578015,,32
+159441000006111,4,7J438,7J43800,Revision to open reduction spinal fracture and internal fixation with wire,178741008,276576016,,32
+159451000006113,1,7J42m,7J42m00,Rvsn open reduc spinal fracture+other external stabilisation,311491002,455072015,,32
+159461000006110,2,7J43D,7J43D00,Rvsn open reduc spinal fracture+other internal fix,265721002,394587017,,32
+159471000006115,1,7J42j,7J42j00,Revision to open reduction spinal fracture and skull traction stabilisation,178724006,276552012,,32
+166841000006113,20,7J42G,7J42G00,Revision to external fixation stabilisation of spinal fracture,178698007,276506017,,32
+171401000006113,1,7J42T,7J42T00,Revision to closed reduction spinal fracture and bedrest stabilisation,178709002,276525019,,32
+171411000006111,1,7J42V,7J42V00,Revision to closed reduction spinal fracture and cast stabilisation,178711006,276529013,,32
+171421000006115,10,7J42W,7J42W00,Revision to closed reduction spinal fracture and external fixation,178712004,276531016,,32
+171431000006117,1,7J42X,7J42X00,Revision cls reduc spinal fracture+other external stabilistn,311489005,455070011,,32
+171441000006110,1,7J42U,7J42U00,Revision to closed reduction spinal fracture and skull traction stabilisation,178710007,276528017,,32
+171491000006118,1,7J42S,7J42S00,Revision to closed reduction of cervical spine fracture and collar stabilisation,178708005,2668760018,,32
+204941000006113,20,7J435,7J43500,Primary open reduction spinal fracture and internal fixation with segmental wire system,178738004,276573012,,32
+204951000006110,100,7J436,7J43600,Primary open reduction spinal fracture and internal fixation with internal fixator,178739007,276574018,,32
+204961000006112,100,7J430,7J43000,Primary open reduction spinal fracture and internal fixation with plate,178733008,276565015,,32
+204971000006117,60,7J434,7J43400,Primary open reduction spinal fracture and internal fixation with rod system,178737009,276572019,,32
+204981000006119,100,7J433,7J43300,Primary open reduction spinal fracture and internal fixation with wire,178736000,276571014,,32
+204991000006116,50,7J437,7J43700,Primary open reduc spinal fracture+other internal fix,265721002,394587017,,32
+205441000006119,8,7J42e,7J42e00,Primary opn reduc spinal fracture+other external stabilisatn,311490001,455071010,,32
+205451000006117,3,7J42b,7J42b00,Primary open reduction spinal fracture and skull traction stabilisation,178717005,276540017,,32
+205471000006110,5,7J42a,7J42a00,Primary open reduction spinal fracture and bedrest stabilisation,178716001,276537017,,32
+205481000006113,2,7J42c,7J42c00,Primary open reduction spinal fracture and cast stabilisation,178718000,276541018,,32
+205491000006111,1,7J42Z,7J42Z00,Primary open reduction of cervical spine fracture and collar stabilisation,178715002,2668763016,,32
+210051000006117,30,7J42M,7J42M00,Primary closed reduction spinal fracture and skull traction stabilisation,178703001,276516013,,32
+210061000006115,3,7J42Q,7J42Q00,Primary cls reduct spinal fracture+oth external stabilisatn,311488002,455069010,,32
+210111000006119,2,7J42L,7J42L00,Primary closed reduction spinal fracture and bedrest stabilisation,178702006,276513017,,32
+210121000006110,1,7J42N,7J42N00,Primary closed reduction spinal fracture and cast stabilisation,178704007,276517016,,32
+210131000006113,3,7J42K,7J42K00,Primary closed reduction cervical spine fracture and collar stabilisation,178701004,2668657017,,32
+210141000006115,10,7J42P,7J42P00,Primary closed reduction spinal fracture and external fixation,178705008,276519018,,32
+370001000000111,2000,7J413,7J41300,Vertebroplasty of fracture of spine,230411000000106,370001000000111,,32
+375761000000118,50,7J414,7J41400,Posterior decompression of fracture of spine NEC,178677007,276470012,,32
+387541000006118,800,Syu34,Syu3400,[X]Fract of other and unspec parts of lumbar spine & pelvis,213350006,325247012,,32
+503551000006112,3,7J432-1,7J43211,Barr skull traction for fracture of spine,265721002,394587017,,32
+531571000006114,600,S1001-1,S100111,Closed fracture of first cervical vertebra without spinal cord injury,28753006,48140010,,32
+531581000006112,7,S1011-1,S101111,Open fracture of first cervical vertebra without mention of spinal cord lesion,263188003,391338019,,32
+531601000006119,1000,S1002-1,S100211,Closed fracture of second cervical vertebra without spinal cord injury,11782000,20339011,,32
+531611000006116,60,S1012-1,S101211,Open fracture of second cervical vertebra without mention of spinal cord lesion,263189006,391339010,,32
+531621000006112,100,S1003-1,S100311,Closed fracture of third cervical vertebra without spinal cord injury,111622009,178861013,,32
+531631000006110,2,S1013-1,S101311,C3 vertebra open fracture without spinal cord lesion,269073001,402844013,,32
+531641000006117,300,S1004-1,S100411,Closed fracture of fourth cervical vertebra without spinal cord injury,52622006,87580011,,32
+531651000006115,1,S1014-1,S101411,C4 vertebra open fracture without spinal cord lesion,269074007,402845014,,32
+531661000006118,400,S1005-1,S100511,Closed fracture of fifth cervical vertebra without spinal cord injury,87804006,145572015,,32
+531671000006113,20,S1015-1,S101511,C5 vertebra open fracture without spinal cord lesion,269075008,402846010,,32
+531681000006111,600,S1006-1,S100611,Closed fracture of sixth cervical vertebra without spinal cord injury,8303001,14689016,,32
+531691000006114,10,S1016-1,S101611,C6 vertebra open fracture without spinal cord lesion,269076009,402847018,,32
+531701000006114,600,S1007-1,S100711,Closed fracture of seventh cervical vertebra without spinal cord injury,21573009,36188017,,32
+531711000006112,10,S1017-1,S101711,C7 vertebra open fracture without spinal cord lesion,269077000,402848011,,32
+562751000006110,60,S110z,S110z00,Closed fracture of cervical spine with cord lesion NOS,207998001,318500017,,32
+562841000006118,5,S1180,S118000,Closed fracture of coccyx with unspec spinal cord lesion,208082008,318587016,,32
+563691000006115,10,S1160,S116000,Closed fracture of sacrum with unspec spinal cord lesion,208069000,318571019,,32
+563961000006116,100,S112z,S112z00,Closed fracture of thoracic spine with cord lesion NOS,208026008,318528011,,32
+570671000006117,10,S1102,S110200,"Closed spinal fracture with anterior cervical cord lesion, C1-4",208001004,318503015,,32
+570681000006119,9,S1108,S110800,"Closed spinal fracture with anterior cervical cord lesion, C5-7",208007000,318509016,,32
+570691000006116,30,S1128,S112800,"Closed spinal fracture with anterior thoracic cord lesion,T7-12",208035001,318537011,,32
+570701000006116,20,S1103,S110300,"Closed spinal fracture with central cervical cord lesion , C1-4",208002006,318504014,,32
+570711000006118,20,S1109,S110900,"Closed spinal fracture with central cervical cord lesion, C5-7",208008005,318510014,,32
+570721000006114,20,S1123,S112300,"Closed spinal fracture with central thoracic cord lesion, T1-6",208030006,318532017,,32
+570731000006112,10,S1129,S112900,"Closed spinal fracture with central thoracic cord lesion, T7-12",208036000,318538018,,32
+570741000006119,5,S1101,S110100,"Closed spinal fracture with complete cervical cord lesion, C1-4",208000003,318502013,,32
+570751000006117,200,S1107,S110700,"Closed spinal fracture with complete cervical cord lesion, C5-7",208006009,318508012,,32
+570761000006115,40,S1127,S112700,"Closed spinal fracture with complete thoracic cord lesion,T7-12",208034002,318536019,,32
+570771000006110,2,S1104,S110400,"Closed spinal fracture with posterior cervical cord lesion, C1-4",208003001,318505010,,32
+570781000006113,6,S110A,S110A00,"Closed spinal fracture with posterior cervical cord lesion, C5-7",208009002,318511013,,32
+570791000006111,3,S1124,S112400,"Closed spinal fracture with posterior thoracic cord lesion, T1-6",208031005,318533010,,32
+570801000006112,4,S112A,S112A00,"Closed spinal fracture with posterior thoracic cord lesion, T7-12",208037009,318539014,,32
+570811000006110,100,S1100,S110000,Closed fracture of C1-C4 level with spinal cord injury,8840000,15592018,,32
+570821000006119,200,S1106,S110600,Closed fracture of C5-C7 level with spinal cord injury,46995009,78317012,,32
+570831000006116,100,S1126,S112600,"Cls spinal fracture with unspec thoracic cord lesion, T7-12",274157009,409925016,,32
+570841000006114,70,S1120,S112000,"Cls spinal fracture with unspec thoracic cord lesion,T1-6",274157009,409925016,,32
+570851000006111,3,S1122,S112200,"Closed spinal fracture with anterior thoracic cord lesion, T1-6",208029001,318531012,,32
+570861000006113,90,S1121,S112100,"Closed spinal fracture with complete thoracic cord lesion, T1-6",208028009,318530013,,32
+602751000006117,8,7J432-2,7J43212,Crutchfield skull traction for fracture of spine,265721002,394587017,,32
+698931000006114,10,7J422,7J42200,Manipulative reduction of fracture of spine,178684004,276482015,,32
+750591000006119,80,SC01,SC01.00,Late effect of fracture of spine and trunk without mention of cord lesion,9341001,510311016,,32
+761191000006114,2000,7J43,7J43.00,Fixation of spinal fracture,265721002,394587017,,32
+761201000006112,20,7J432,7J43200,Fixation of fracture of spine and skull traction HFQ,265721002,394587017,,32
+793671000006119,40,S11-1,S11..11,Fracture of transverse process of spine with spinal cord lesion,263179007,391325010,,32
+793681000006116,1000,S10-1,S10..11,Fracture of transverse process of spine without spinal cord lesion,263178004,391324014,,32
+1682801000000118,30,7J43E,7J43E00,Removal of fracture fixation device from spine,760471000000101,1682801000000118,,32
+2554051000006114,1,^ESCTOP255405,,Open fracture of T7-T12 level with spinal cord injury,3446000,6820019,,31
+2649011000006118,3,^ESCTSE264901,,Sequelae of fracture of spine,9341001,510310015,,32
+3192371000006117,30,^ESCTCO319237,,Compression fracture of vertebral column,42942008,71655019,,31
+3192381000006119,20,^ESCTCO319238,,Compression fracture of spine,42942008,71658017,,31
+3215821000006117,5,^ESCTCL321582,,Closed fracture of thoracic region with spinal cord injury,44434003,74098017,,32
+3305281000006114,6,^ESCTCL330528,,Closed fracture of lumbar vertebra with spinal cord injury,49747005,82856011,,32
+3316961000006117,20,^ESCTFR331696,,Fracture of spine,50448004,84049019,,32
+3316981000006110,1,^ESCTFR331698,,Fracture of spinal vertebra,50448004,1230871013,,32
+3316991000006113,70,^ESCTFR331699,,Fracture of vertebra,50448004,1230872018,,32
+3317001000006117,10,^ESCTFR331700,,Fractured spine,50448004,1230873011,,32
+3546051000006112,5,^ESCTFR354605,,Fracture of spinous process of vertebra,64306000,106894010,,31
+3770291000006112,4,^ESCTOP377029,,Open fracture of T7-T12 level with incomplete spinal cord lesion,78085003,129590016,,32
+3860841000006110,100,^ESCTFR386084,,Fracture of transverse process of vertebra,83635002,138708018,,32
+4378851000006119,7,^ESCTFR437885,,Fracture of cervical vertebra,125606003,205203010,,32
+4378871000006112,10000,^ESCTFR437887,,Fracture of thoracic spine,125607007,194095011,,32
+4378891000006113,10000,^ESCTFR437889,,Fracture of lumbar spine,125608002,194096012,,32
+4424191000006115,5,^ESCTCL442419,,Closed reduction of fracture of vertebral body,129240003,207970015,,31
+4684881000006117,4,^ESCTMA468488,,Manipulation of spinal fracture,178684004,276482015,,32
+4840551000006115,10,^ESCTFR484055,,Fracture of lumbar spine and/or pelvis,207986006,1489804010,,32
+4840571000006113,20,^ESCTMU484057,,Multiple fractures of lumbar spine and/or pelvis,207993005,1489805011,,32
+4840621000006111,3,^ESCTCL484062,,"Closed spinal fracture with central cervical cord lesion, C1-4",208002006,1775504014,,32
+4841671000006118,10,^ESCTMU484167,,Multiple fracture of thoracic vertebrae,208215006,318726012,,32
+5460461000006111,6,^ESCTFR546046,,Fracture dislocation of spine,263068000,391184018,,31
+5460481000006118,3,^ESCTFR546048,,Fracture dislocation of cervical spine,263069008,391186016,,31
+5509811000006110,10,^ESCTCL550981,,Closed fracture of first cervical vertebra,269063003,2882275011,,32
+5509831000006116,20,^ESCTCL550983,,Closed fracture of second cervical vertebra,269064009,2882815012,,32
+5560641000006117,2,^ESCTFR556064,,Fracture of cervical spine - no cord lesion,274153008,409921013,,31
+5560651000006115,7,^ESCTFR556065,,Fracture of thoracic spine without spinal cord lesion,274154002,2156069013,,31
+5560661000006118,8,^ESCTFR556066,,Fracture of lumbar spine - no cord lesion,274155001,409923011,,31
+5560671000006113,6,^ESCTFR556067,,Fracture of cervical spine with cord lesion,274156000,409924017,,32
+5560691000006114,7,^ESCTFR556069,,Fracture of lumbar spine with cord lesion,274158004,409926015,,32
+5656601000006118,70,^ESCTFR565660,,Fracture of tibial spine,281843000,419959012,,31
+5657731000006119,2,^ESCTTE565773,,Teardrop fracture of cervical vertebra,281911004,420072015,,31
+5657741000006112,5,^ESCTWE565774,,Wedge fracture of cervical vertebra,281912006,420073013,,31
+5657751000006114,2,^ESCTCO565775,,Collapse wedge fracture of cervical vertebra,281912006,420074019,,31
+5657761000006111,2,^ESCTCR565776,,Crush fracture of cervical vertebra,281913001,420075018,,31
+5657771000006116,1,^ESCTBU565777,,Burst fracture of cervical vertebra,281914007,420076017,,31
+5657781000006118,2,^ESCTFR565778,,Fracture of pedicle of cervical vertebra,281915008,420077014,,31
+5657791000006115,3,^ESCTFR565779,,Fracture of transverse process of cervical vertebra,281916009,420078016,,31
+5657801000006119,8,^ESCTFR565780,,Fracture of lamina of cervical vertebra,281917000,420079012,,31
+5657811000006116,8,^ESCTFR565781,,Fracture of spinous process of cervical vertebra,281918005,420080010,,31
+5657851000006115,3000,^ESCTWE565785,,Wedge fracture of thoracic vertebra,281922000,420084018,,32
+5657861000006118,20,^ESCTCO565786,,Collapse wedge fracture of thoracic vertebra,281922000,420085017,,32
+5657871000006113,40,^ESCTCR565787,,Crush fracture of thoracic vertebra,281923005,420086016,,31
+5657881000006111,3,^ESCTBU565788,,Burst fracture of thoracic vertebra,281924004,420087013,,31
+5657901000006113,4,^ESCTFR565790,,Fracture of transverse process of thoracic vertebra,281926002,420089011,,31
+5657921000006115,6,^ESCTFR565792,,Fracture of spinous process of thoracic vertebra,281928001,420091015,,31
+5657961000006114,2000,^ESCTWE565796,,Wedge fracture of lumbar vertebra,281932007,420095012,,32
+5657971000006119,20,^ESCTCO565797,,Collapse wedge fracture of lumbar vertebra,281932007,420096013,,32
+5657981000006116,50,^ESCTCR565798,,Crush fracture of lumbar vertebra,281933002,420097016,,31
+5657991000006118,30,^ESCTBU565799,,Burst fracture of lumbar vertebra,281934008,420098014,,31
+5658001000006111,2,^ESCTFR565800,,Fracture of pedicle of lumbar vertebra,281935009,420099018,,31
+5658011000006114,40,^ESCTFR565801,,Fracture of transverse process of lumbar vertebra,281936005,420100014,,31
+5658031000006115,1,^ESCTFR565803,,Fracture of spinous process of lumbar vertebra,281938006,420102018,,31
+5888341000006110,2,^ESCTRE588834,,Revision fixation of fracture of vertebra with plate,301048006,3005641019,,31
+5964821000006114,30,^ESCTAN596482,,Anterior wedge fracture of vertebra,307137009,450319011,,31
+6048931000006112,20,^ESCTBU604893,,Burst fracture of vertebra,314667001,459056019,,31
+6048941000006119,200,^ESCTWE604894,,Wedge fracture of vertebra,314668006,459057011,,31
+6518851000006116,2,^ESCTHI651885,,History of vertebral fracture,391094005,2986399011,,32
+7062291000006110,30,^ESCTCO706229,,Compression fracture of lumbar spine,426646004,2676040012,,31
+7062761000006113,1,^ESCTCL706276,,Closed avulsion fracture of anterior inferior iliac spine of pelvis,426679004,2676027019,,31
+7062771000006118,1,^ESCTCL706277,,"Closed avulsion fracture pelvis, anterior inferior iliac spine",426679004,2676026011,,31
+7312801000006116,7,^ESCTFR731280,,Fracture of body of vertebra,445734009,2883888013,,31
+7504191000006113,30,^ESCTCO750419,,Compression fracture of thoracic spine,698077007,2970033018,,31
+7815941000006119,1,^ESCTTY781594,,Type III fracture of odontoid process of axis,721346003,3326794016,,31
+7816001000006112,1,^ESCTFR781600,,Fracture of sixth cervical vertebra,721350005,3325025013,,31
+7817151000006112,1,^ESCTFR781715,,Fracture of second thoracic vertebra,721416000,3325166011,,31
+7817191000006118,1,^ESCTFR781719,,Fracture of sixth thoracic vertebra,721420001,3325174012,,31
+7817201000006115,1,^ESCTFR781720,,Fracture of seventh thoracic vertebra,721421002,3325176014,,31
+7817211000006117,1,^ESCTFR781721,,Fracture of eighth thoracic vertebra,721422009,3325178010,,31
+7817231000006111,1,^ESCTFR781723,,Fracture of tenth thoracic vertebra,721424005,3325182012,,31
+7818521000006110,10,^ESCTFR781852,,Fracture of first lumbar vertebra,721494003,3325322018,,31
+7818541000006115,2,^ESCTFR781854,,Fracture of L2 vertebra,721495002,3330156014,,31
+7818551000006118,10,^ESCTFR781855,,Fracture of third lumbar vertebra,721496001,3325326015,,31
+7818561000006116,3,^ESCTFR781856,,Fracture of L3 vertebra,721496001,3330157017,,31
+7818581000006114,3,^ESCTFR781858,,Fracture of L4 vertebra,721497005,3330155013,,31
+7818591000006112,1,^ESCTFR781859,,Fracture of fifth lumbar vertebra,721498000,3325330017,,31
+7818601000006116,1,^ESCTFR781860,,Fracture of L5 vertebra,721498000,3330154012,,31
+9383551000006115,1,^ESCTCL938355,,Closed fracture of first lumbar vertebra,11310841000119101,3012594019,,31
+9383571000006113,1,^ESCTCL938357,,Closed fracture of second lumbar vertebra,11310881000119106,3012601014,,31
+9383601000006118,1,^ESCTCL938360,,Closed fracture of third lumbar vertebra,11310921000119104,3012560016,,31
+9383621000006111,1,^ESCTCL938362,,Closed fracture of fourth lumbar vertebra,11310961000119109,3012624019,,31
+9383961000006112,2,^ESCTOS938396,,Osteoporotic fracture of vertebra,11311601000119109,3012921012,,31
+11049601000006116,2,^ESCTCO1104960,,Compression fracture of second lumbar vertebra,28490001000004108,3047570015,,31
+12107641000006111,1,^ESCT1210764,,History of traumatic vertebral fracture,137731000119104,3647857010,,31
+12220961000006113,200,^ESCT1222096,,Closed fracture intercondylar spine of tibia,208613008,3698588016,,32
+12220971000006118,6,^ESCT1222097,,Closed fracture of tibial spine,208613008,3698576018,,32
+12220991000006117,6,^ESCT1222099,,Open fracture intercondylar spine of tibia,208622009,3698582015,,32
+12221011000006118,1,^ESCT1222101,,Open fracture tibial spine,208622009,3698583013,,32

@@ -1,0 +1,5 @@
+"searchterms","exclusionterms","searched_in_column","searchmethod"
+"migraine","Adverse reaction","Term","default stringr::str_detect() search method"
+"migrainosus","FH:",,
+,"No history of",,
+,"Family history",,

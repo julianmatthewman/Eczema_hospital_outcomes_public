@@ -1,0 +1,16 @@
+"searchterms","exclusionterms","searched_in_column","searchmethod"
+"Acid reflux","No gastric reflux","Term","termsearch <- function(lookup, terms) {stringr::str_detect(lookup, stringr::regex(paste(terms, collapse = '|'), ignore_case = TRUE))}; initial <- dplyr::filter(DATA, termsearch(COLUMN, SEARCHTERMS)); excluded <- dplyr::filter(initial, termsearch(COLUMN, EXCLUSIONTERMS); final <- dplyr::setdiff(inital, excluded)"
+"Anti-reflux",,,
+"Antireflux",,,
+"Esophageal reflux",,,
+"Gastric reflux",,,
+"Gastro-esophageal reflux",,,
+"Gastro-oesophageal reflux",,,
+"GERD ",,,
+"GORD ",,,
+"Oesophageal reflux",,,
+"Peptic oesophagitis",,,
+"Reflux esophagitis",,,
+"Reflux oesophagitis",,,
+"Nissen fundoplication",,,
+"Oesophagogastric fundoplasty",,,

@@ -1,0 +1,9 @@
+# -----------------------------------------------------------------------------
+Clinical codelist for conjunctivitis
+
+Author: Julian Matthewman
+Created on 1 April 2025
+Created by searching the 2023_03 CPRD Aurum Medical code browser
+Terminologies: CPRD MedCode, SNOMED-CT, Read	
+Short description: Codes for conjunctivitis excluding bacterial conjunctivitis screening codes
+# -----------------------------------------------------------------------------

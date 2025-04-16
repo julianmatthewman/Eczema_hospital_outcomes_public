@@ -1,0 +1,2 @@
+All descendants of the SNOMED CT concept 302226006 "Peripheral nerve disease"
+Created with opencodelists codelist builder with SNOMED CT Coding system release 36.2.0 and then mapped to the Aurum code browser

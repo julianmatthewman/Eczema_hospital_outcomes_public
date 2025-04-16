@@ -1,0 +1,2 @@
+code,description,coding_system,concept_id,concept_version_id,concept_name,phenotype_id,phenotype_version_id,phenotype_name,code_attributes
+G12.2,Motor neuron disease,ICD10 codes,C854,2847,Motor neuron disease - Secondary care - Diagnoses,PH62,124,Motor neuron disease,"{'Disease': 'Motor neuron disease', 'Category': 'Diagnosis of Motor neuron disease'}"

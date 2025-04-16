@@ -1,0 +1,23 @@
+code,alt_code,description_lc
+S32,S32,fracture of lumbar spine and pelvis
+S32.1,S321,fracture of sacrum
+S32.10,S3210,fracture of sacrum
+S32.11,S3211,fracture of sacrum
+S32.2,S322,fracture of coccyx
+S32.20,S3220,fracture of coccyx
+S32.21,S3221,fracture of coccyx
+S32.3,S323,fracture of ilium
+S32.30,S3230,fracture of ilium
+S32.31,S3231,fracture of ilium
+S32.4,S324,fracture of acetabulum
+S32.40,S3240,fracture of acetabulum
+S32.41,S3241,fracture of acetabulum
+S32.5,S325,fracture of pubis
+S32.50,S3250,fracture of pubis
+S32.51,S3251,fracture of pubis
+S32.7,S327,multiple fractures of lumbar spine and pelvis
+S32.70,S3270,multiple fractures of lumbar spine and pelvis
+S32.71,S3271,multiple fractures of lumbar spine and pelvis
+S32.8,S328,fracture of other and unspecified parts of lumbar spine and pelvis
+S32.80,S3280,fracture of other and unspecified parts of lumbar spine and pelvis
+S32.81,S3281,fracture of other and unspecified parts of lumbar spine and pelvis

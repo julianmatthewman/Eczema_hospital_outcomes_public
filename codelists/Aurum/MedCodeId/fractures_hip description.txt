@@ -1,0 +1,1 @@
+Identified search terms from entry terms of Hip Fractures (MeSH Unique ID: D006620) and all descendents. Added subcaptial and head of femur fractures.

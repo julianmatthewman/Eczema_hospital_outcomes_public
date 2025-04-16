@@ -1,0 +1,2 @@
+code,description,coding_system,concept_id,concept_version_id,concept_name,phenotype_id,phenotype_version_id,phenotype_name,code_attributes
+G51.0,Bell's palsy,ICD10 codes,C1022,3183,Bell's palsy - Secondary care - Diagnoses,PH119,238,Bell's palsy,"{'Disease': ""Bell's palsy"", 'Category': ""Diagnosis of Bell's (facial) palsy""}"

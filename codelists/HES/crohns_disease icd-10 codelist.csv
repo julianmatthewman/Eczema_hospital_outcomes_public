@@ -1,0 +1,2 @@
+code,description,coding_system,concept_id,concept_version_id,concept_name,phenotype_id,phenotype_version_id,phenotype_name,code_attributes
+K50,Crohn's disease [regional enteritis],ICD10 codes,C1098,3335,Crohn's disease - Secondary care - Diagnoses,PH144,288,Crohn's disease,"{'Disease': ""Crohn's disease"", 'Category': ""Diagnosis of Crohn's disease""}"

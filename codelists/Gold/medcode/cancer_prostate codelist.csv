@@ -1,0 +1,6 @@
+﻿readcode,medcode,readterm,icdcode,ca_lung,ca_breast,ca_prostate,ca_pancreas,ca_melanoma,ca_non_melanoma,ca_mm,ca_leukaemia,ca_meningioma,ca_glioma,ca_CNSother,ca_cns,ca_nhl,ca_hodgkins,ca_lymphomaNonCut
+4M0..00,10178,gleason grading of prostate cancer,C61,,,1,,,,,,,,,,,,
+4M00.00,18503,gleason prostate grade 2-4 (low),C61,,,1,,,,,,,,,,,,
+4M01.00,18612,gleason prostate grade 5-7 (medium),C61,,,1,,,,,,,,,,,,
+4M02.00,26081,gleason prostate grade 8-10 (high),C61,,,1,,,,,,,,,,,,
+B46..00,780,malignant neoplasm of prostate,C61,,,1,,,,,,,,,,,,

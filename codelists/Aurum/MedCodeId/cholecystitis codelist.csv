@@ -1,0 +1,57 @@
+MedCodeId,Observations,OriginalReadCode,CleansedReadCode,Term,SnomedCTConceptId,SnomedCTDescriptionId,Release,EmisCodeCategoryId
+35027015,40000,J6510,J651000,Chronic cholecystitis,20824003,35027015,,32
+53540011,400,J650-1,J650.11,Abscess of gallbladder,32038009,53540011,,32
+53589018,200,J6502,J650200,Acute emphysematous cholecystitis,32067005,53589018,,32
+108454010,200000,J650,J650.00,Acute cholecystitis,65275009,108454010,,32
+120482010,500,J6504,J650400,Acute gangrenous cholecystitis,72533002,120482010,,32
+121449018,4000,J650-2,J650.12,Empyema of gallbladder,73125001,121449018,,32
+148601017,100,J6503,J650300,Acute suppurative cholecystitis,89628003,148601017,,32
+303544014,2000,J641,J641.00,Calculus of gallbladder with cholecystitis,25924004,43438012,,32
+303553019,700,J643,J643.00,Bile duct calculus with acute cholecystitis,197389006,303553019,,32
+303557018,200,J644,J644.00,Bile duct calculus with other cholecystitis,30093007,50351011,,32
+303578015,3000,J6500,J650000,Acute cholecystitis unspecified,65275009,108454010,,32
+303579011,40,J6501,J650100,Acute angiocholecystitis,197410004,303579011,,32
+303580014,5000,J650z,J650z00,Acute cholecystitis NOS,65275009,108454010,,32
+303581013,3000,J651,J651.00,Other cholecystitis,76581006,127173011,,32
+303582018,100,J651y,J651y00,Other cholecystitis OS,76581006,127173011,,32
+303583011,100000,J651z,J651z00,Cholecystitis,76581006,127173011,,32
+303790016,1000,Jyu81,Jyu8100,[X]Other cholecystitis,76581006,127173011,,32
+1231999012,9000,J640,J640.00,Gallbladder calculus with acute cholecystitis,59771005,1231999012,,32
+3531543012,1,^ESCT1170543,,Cholelithiasis and choledocholithiasis with acute on chronic cholecystitis,38871000119104,3531543012,,31
+3531544018,4,^ESCT1170542,,Gallstone and bile duct stone with cholecystitis,38871000119104,3531544018,,31
+511631000006119,60,J643z,J643z00,Bile duct calculus + acute cholecystitis - obstruct NOS,197389006,303553019,,32
+511641000006112,60,J6430,J643000,Bile duct calculus with acute cholecystitis and no obstruction,197390002,303554013,,32
+511651000006114,200,J6431,J643100,Bile duct calculus + acute cholecystitis and obstruction,197391003,303555014,,32
+511661000006111,10,J644z,J644z00,Bile duct calculus + other cholecystitis - obstruction NOS,30093007,50351011,,32
+511671000006116,30,J6440,J644000,Bile duct calculus + other cholecystitis and no obstruction,30093007,50351011,,32
+511681000006118,40,J6441,J644100,Bile duct calculus + other cholecystitis and obstruction,30093007,50351011,,32
+797951000006114,300,J6401,J640100,Gallbladder calculus with acute cholecystitis and obstruction,197378004,303542013,,32
+797961000006111,700,J6400,J640000,Gallbladder calculus with acute cholecystitis and no obstruction,197377009,303541018,,32
+797971000006116,200,J640z,J640z00,Gallbladder calculus with acute cholecystitis - obst NOS,59771005,99287019,,32
+797991000006115,70,J6411,J641100,Gallbladder calculus with other cholecystitis + obstruct,235919008,353656010,,32
+798001000006113,400,J6410,J641000,Gallbladder calculus with other cholecystitis +no obstruct,235919008,353656010,,32
+798011000006111,60,J641z,J641z00,Gallbladder calculus with other cholecystitis - obstruct NOS,235919008,353656010,,32
+798041000006110,1000,J6420,J642000,Gallbladder calculus without mention cholecystitis +no obstr,70342003,116838015,,32
+905971000006119,40,HNG0082,,[RFC] Cholecystitis/ectomy,905971000006103,905971000006119,,12
+2817191000006116,20,^ESCTAC281719,,Acalculous cholecystitis,19968009,33617011,,31
+2914881000006114,3,^ESCTBI291488,,Biliary calculus with cholecystitis,25924004,43442010,,32
+2914891000006112,5,^ESCTCH291489,,Cholelithiasis with cholecystitis,25924004,43443017,,32
+3053061000006116,6,^ESCTAC305306,,Acute acalculous cholecystitis,34346002,57336017,,31
+3088071000006114,3,^ESCTCA308807,,Calculus of bile duct with cholecystitis,36483003,60898013,,31
+3088081000006112,6,^ESCTCH308808,,Choledocolithiasis with cholecystitis,36483003,2989913019,,31
+3317031000006113,2,^ESCTGA331703,,Gallstone AND cholecystitis with obstruction,50450007,3028139014,,31
+3470731000006110,100,^ESCTCA347073,,Calculus of gallbladder with acute cholecystitis,59771005,99287019,,32
+3470741000006117,2,^ESCTCH347074,,Cholelithiasis with acute cholecystitis,59771005,99289016,,32
+3476471000006116,1,^ESCTCA347647,,Calculus of bile duct with acute cholecystitis without obstruction,60127009,99891017,,32
+3612481000006111,6,^ESCTCH361248,,Choledocholithiasis with chronic cholecystitis,68368005,113563018,,31
+3612491000006114,1,^ESCTCO361249,,Common bile duct stone with chronic cholecystitis,68368005,3028044016,,31
+3745521000006115,1,^ESCTIN374552,,Inflamed gallbladder,76581006,3028695018,,32
+3950781000006112,30,^ESCTCH395078,,Choledocholithiasis with acute cholecystitis,89251007,148000017,,31
+4058571000006110,3,^ESCTEM405857,,Emphysematous cholecystitis,95558008,158278010,,31
+4058601000006115,6,^ESCTCH405860,,Chronic cholecystitis with calculus,95559000,158279019,,31
+4787721000006114,30,^ESCTBI478772,,Bile duct calculus with acute cholecystitis and obstruction,197391003,303555014,,32
+6051821000006112,3,^ESCTPE605182,,Perforated calculous chronic cholecystitis,314949006,459367010,,31
+6567981000006117,1,^ESCTAC656798,,Acute and chronic cholecystitis,396335001,1776287011,,31
+6567991000006119,7,^ESCTAC656799,,Acute on chronic cholecystitis,396335001,1785554014,,31
+7516401000006118,1,^ESCTCH751640,,Cholelithiasis with acute and chronic cholecystitis,699050007,2982530011,,31
+8016471000006118,4,^ESCTAC801647,,Acute cholecystitis due to biliary calculus,40331000119107,3289989019,,31

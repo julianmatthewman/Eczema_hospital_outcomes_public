@@ -1,0 +1,247 @@
+phenotype_name,medcode,ReadcodeDescr,Readcode
+Abdominal Hernia,100575,Ventral hernia with gangrene NOS,J330z00
+Abdominal Hernia,10139,Primary mesh repair of inguinal hernia,7H11111
+Abdominal Hernia,101576,Removal prosthet material fr previous repair ventral hernia,7H18300
+Abdominal Hernia,102024,Paraumbilical hernia with gangrene,J320100
+Abdominal Hernia,102624,Repair recurrent ventral hernia insert prosthetic material,7H1E100
+Abdominal Hernia,102649,Repair of recurrent other hernia of abdominal wall,7H1E.00
+Abdominal Hernia,102732,Unspecified Spigelian hernia,J3Cy.00
+Abdominal Hernia,10301,Femoral hernia repair NEC,7H13.11
+Abdominal Hernia,103310,Repair recur ventral hernia using insert natural material,7H1E000
+Abdominal Hernia,103974,Repair of recurrent ventral hernia using sutures,7H1E200
+Abdominal Hernia,104452,Obturator hernia with obstruction,J381.00
+Abdominal Hernia,105280,Umbilical hernia with gangrene NOS,J320z00
+Abdominal Hernia,10544,Lumbar hernia,J37..00
+Abdominal Hernia,105998,Repair of recurrent other hernia of abdominal wall NOS,7H1Ez00
+Abdominal Hernia,1071,Hernia of abdominal cavity,J3...00
+Abdominal Hernia,107386,Perineal hernia,J3D..00
+Abdominal Hernia,108492,Simple obturator hernia,J383.00
+Abdominal Hernia,108531,Spigelian hernia with gangrene,J3C0.00
+Abdominal Hernia,108628,Other specified repair recurrent other hernia abdominal wall,7H1Ey00
+Abdominal Hernia,10926,Indirect inguinal hernia,J30..13
+Abdominal Hernia,11206,Primary mesh repair of incisional hernia,7H16111
+Abdominal Hernia,12246,"Repair of epigastric hernia, unspecified",7H18400
+Abdominal Hernia,1225,Umbilical hernia,J32..00
+Abdominal Hernia,12842,Repair of other hernia of abdominal wall,7H18.00
+Abdominal Hernia,1406,Right inguinal hernia,J303012
+Abdominal Hernia,14670,Primary repair of inguinal hernia using sutures,7H11200
+Abdominal Hernia,1484,Epigastric hernia,J333211
+Abdominal Hernia,15050,Repair of umbilical hernia NOS,7H15z00
+Abdominal Hernia,15486,Abdominal cavity hernia NOS,J3z..00
+Abdominal Hernia,1559,O/E - hernia,25P..12
+Abdominal Hernia,15595,Other specified abdominal cavity hernia NOS,J3yz.00
+Abdominal Hernia,15608,Ischiorectal hernia,J36..00
+Abdominal Hernia,15680,Repair of recurrent femoral hernia NOS,7H14z00
+Abdominal Hernia,15681,Inguinal hernia with obstruction NOS,J301z00
+Abdominal Hernia,16913,Inguinal hernia - irreducible,J302.00
+Abdominal Hernia,17191,Repair of other ventral hernia,7H18.11
+Abdominal Hernia,17898,Simple excision of inguinal hernial sac,7H10.00
+Abdominal Hernia,19219,Primary repair inguinal hernia & reduction of sliding hernia,7H11300
+Abdominal Hernia,19397,Primary laparoscopic repair of inguinal hernia,7H11600
+Abdominal Hernia,20056,Femoral hernia with obstruction,J311.00
+Abdominal Hernia,20259,Richter's hernia,J3yz.11
+Abdominal Hernia,20280,Unspecified abdominal cavity hernia with obstruction,J3z1.00
+Abdominal Hernia,20603,Inguinal hernia NOS,J30z.00
+Abdominal Hernia,21284,Repair of recurrent incisional hernia,7H17.00
+Abdominal Hernia,21516,Bilateral inguinal hernia - simple,J303200
+Abdominal Hernia,21569,Simple ventral hernia,J333.00
+Abdominal Hernia,2230,Inguinal hernia with gangrene NOS,J300z00
+Abdominal Hernia,22315,Unilateral recurrent inguinal hernia - simple,J303100
+Abdominal Hernia,23543,Inguinal hernia unspecified,J30y.00
+Abdominal Hernia,23925,Simple paraumbilical hernia,J323100
+Abdominal Hernia,244,Repair of other hernia of abdominal wall NOS,7H18z00
+Abdominal Hernia,24628,Repair of ventral hernia using sutures,7H18200
+Abdominal Hernia,24982,Repair of recurrent inguinal hernia using sutures,7H12200
+Abdominal Hernia,25257,Bilateral recurrent inguinal hernia - simple,J303300
+Abdominal Hernia,25413,Simple epigastric hernia,J333200
+Abdominal Hernia,268,Primary repair of femoral hernia NOS,7H13z00
+Abdominal Hernia,26890,Obturator hernia,J38..00
+Abdominal Hernia,27469,Sciatic hernia,J3A..00
+Abdominal Hernia,27524,Simple umbilical hernia,J323.00
+Abdominal Hernia,27607,Unilateral inguinal hernia with obstruction,J301000
+Abdominal Hernia,27684,Unilateral inguinal hernia - irreducible,J302000
+Abdominal Hernia,27850,Indirect inguinal hernia,J305.00
+Abdominal Hernia,28060,Umbilical hernia with obstruction,J321.00
+Abdominal Hernia,28117,Umbilical hernia - irreducible,J322.00
+Abdominal Hernia,28558,Herniorrhaphy for recurrent inguinal hernia,7H12.11
+Abdominal Hernia,2863,Left inguinal hernia,J303011
+Abdominal Hernia,28944,Repair of recurrent femoral hernia,7H14.00
+Abdominal Hernia,29088,Unilateral recurrent inguinal hernia with obstruction,J301100
+Abdominal Hernia,29341,O/E - reducible hernia,25P2.00
+Abdominal Hernia,29442,Other specified primary repair of inguinal hernia,7H11y00
+Abdominal Hernia,29693,O/E-hernia-cough impulse shown,25P5.00
+Abdominal Hernia,29847,O/E - irreducible hernia,25P3.00
+Abdominal Hernia,2987,Unspecified abdominal cavity hernia with gangrene,J3z0.00
+Abdominal Hernia,30056,Incisional hernia with obstruction,J331100
+Abdominal Hernia,31216,O/E - strangulated hernia,25P4.00
+Abdominal Hernia,31396,Repair of umbilical hernia using sutures,7H15200
+Abdominal Hernia,31694,Ventral hernia unspecified - irreducible,J332000
+Abdominal Hernia,3174,Incisional hernia,J33..12
+Abdominal Hernia,3200,Repair of recurrent inguinal hernia,7H12.00
+Abdominal Hernia,3261,Scrotal hernia,J30..14
+Abdominal Hernia,33485,Prim repair inguinal hernia using insert prosthet material,7H11100
+Abdominal Hernia,33531,Simple inguinal hernia NOS,J303z00
+Abdominal Hernia,3367,Repair of recurrent inguinal hernia NOS,7H12z00
+Abdominal Hernia,33696,Repair umbilical hernia using insert of prosthetic material,7H15100
+Abdominal Hernia,33743,Endoscopic primary repair of inguinal hernia,7H11400
+Abdominal Hernia,33753,Epigastric hernia NOS,J33z200
+Abdominal Hernia,34784,Inguinal hernia with obstruction,J301.00
+Abdominal Hernia,34915,Bassini repair of inguinal hernia,7H11211
+Abdominal Hernia,34987,Other specified primary repair of femoral hernia,7H13y00
+Abdominal Hernia,35236,Simple excision of inguinal hernial sac NOS,7H10z00
+Abdominal Hernia,35259,Femoral hernia - irreducible,J312.00
+Abdominal Hernia,3534,Primary repair of incisional hernia NOS,7H16z00
+Abdominal Hernia,35442,Simple inguinal hernia,J303.00
+Abdominal Hernia,36265,Ventral hernia - irreducible NOS,J332z00
+Abdominal Hernia,36482,Other specified hernias of abdominal cavity,J3y..00
+Abdominal Hernia,3651,Bilateral inguinal hernia unspecified,J30y200
+Abdominal Hernia,36963,Shouldice repair of inguinal hernia,7H11214
+Abdominal Hernia,3742,Primary repair of inguinal hernia,7H11.00
+Abdominal Hernia,37796,Other specified repair of other hernia of abdominal wall,7H18y00
+Abdominal Hernia,37837,Epigastric hernia with obstruction,J331200
+Abdominal Hernia,38101,Herniorrhaphy for recurrent incisional hernia,7H17.11
+Abdominal Hernia,3901,Paraumbilical hernia,J32..12
+Abdominal Hernia,3952,Ventral hernia,J33..00
+Abdominal Hernia,3953,Unspecified paraumbilical hernia,J32y100
+Abdominal Hernia,39795,Other specified abdominal cavity hernia - simple,J3y3.00
+Abdominal Hernia,40679,Other specified repair of umbilical hernia,7H15y00
+Abdominal Hernia,40757,Bubonocele,J30..11
+Abdominal Hernia,408,Inguinal hernia,J30..00
+Abdominal Hernia,41509,Prim repair incisional hernia using insert prosthet material,7H16100
+Abdominal Hernia,41524,Repair recurr inguinal hernia using insert prosthet material,7H12100
+Abdominal Hernia,41557,Incisional hernia NOS,J33z100
+Abdominal Hernia,41624,Simple Spigelian hernia,J3C3.00
+Abdominal Hernia,41671,Paraumbilical hernia with obstruction,J321100
+Abdominal Hernia,41790,Primary repair of incisional hernia using sutures,7H16200
+Abdominal Hernia,41798,Ventral hernia - irreducible,J332.00
+Abdominal Hernia,41808,Paraumbilical hernia - irreducible,J322100
+Abdominal Hernia,41837,Ventral hernia with obstruction NOS,J331z00
+Abdominal Hernia,42143,Other specified primary repair of incisional hernia,7H16y00
+Abdominal Hernia,4249,Unspecified abdominal cavity hernia - irreducible,J3z2.00
+Abdominal Hernia,42716,Other specified repair of recurrent inguinal hernia,7H12y00
+Abdominal Hernia,42741,Herniorrhaphy for recurrent femoral hernia,7H14.11
+Abdominal Hernia,43118,Other specified abdominal cavity hernia with obstruction,J3y1.00
+Abdominal Hernia,43120,Unilateral femoral hernia with obstruction,J311000
+Abdominal Hernia,44246,Repair of ventral hernia using insert of prosthetic material,7H18100
+Abdominal Hernia,44415,Retroperitoneal hernia,J3B..00
+Abdominal Hernia,44501,Simple incisional hernia,J333100
+Abdominal Hernia,44603,Unilateral femoral hernia - simple,J313000
+Abdominal Hernia,44672,Inguinal hernia - irreducible and NOS,J302z00
+Abdominal Hernia,45085,Simple umbilical hernia NOS,J323z00
+Abdominal Hernia,45371,Unspecified ventral hernia NOS,J33z000
+Abdominal Hernia,45432,Simple ventral hernia unspecified,J333000
+Abdominal Hernia,45461,Ventral hernia NOS,J33z.00
+Abdominal Hernia,45678,Repair of umbilical hernia using insert of natural material,7H15000
+Abdominal Hernia,45687,Primary repair inguinal hernia using insert natural material,7H11000
+Abdominal Hernia,45772,Repair of recurrent umbilical hernia,7H1D.00
+Abdominal Hernia,47125,Primary repair of umbilical hernia,7H1C.00
+Abdominal Hernia,48101,Repair of recurrent incisional hernia NOS,7H17z00
+Abdominal Hernia,48103,"Other specified abdominal cavity hernia, unspecified",J3yy.00
+Abdominal Hernia,48246,Unspecified umbilical hernia,J32y.00
+Abdominal Hernia,48277,Bilateral recurrent inguinal hernia unspecified,J30y300
+Abdominal Hernia,48823,Removal prosthetic material fr prev repair incisional hernia,7H17300
+Abdominal Hernia,50434,Umbilical hernia with obstruction NOS,J321z00
+Abdominal Hernia,50547,Primary repair of umbilical hernia NOS,7H1Cz00
+Abdominal Hernia,50684,Unspecified abdominal cavity hernia - simple,J3z3.00
+Abdominal Hernia,50775,Femoral hernia - irreducible and NOS,J312z00
+Abdominal Hernia,51564,Obturator hernia NOS,J38z.00
+Abdominal Hernia,51611,Femoral hernia with obstruction NOS,J311z00
+Abdominal Hernia,52472,Repair of ventral hernia using insert of natural material,7H18000
+Abdominal Hernia,52623,Other specified abdominal cavity hernia - irreducible,J3y2.00
+Abdominal Hernia,52713,Incisional hernia - irreducible,J332100
+Abdominal Hernia,5275,H/O: abdominal hernia,14C3.00
+Abdominal Hernia,52808,O/E-hernia descends to scrotum,25P6.00
+Abdominal Hernia,53447,Cheadle repair of femoral hernia,7H13211
+Abdominal Hernia,53645,Unilateral femoral hernia - irreducible,J312000
+Abdominal Hernia,53662,Unilateral recurrent inguinal hernia - irreducible,J302100
+Abdominal Hernia,53733,[X]Hernia,Jyu3.00
+Abdominal Hernia,53794,Lockwood repair of femoral hernia,7H13213
+Abdominal Hernia,53798,[X]Oth spcfd abdominal hernia without obstructn or gangrene,Jyu3200
+Abdominal Hernia,53966,Unspecified umbilical hernia NOS,J32yz00
+Abdominal Hernia,54363,Simple ventral hernia NOS,J333z00
+Abdominal Hernia,54857,Unspecified inguinal hernia NOS,J30yz00
+Abdominal Hernia,5531,Unilateral recurrent inguinal hernia unspecified,J30y100
+Abdominal Hernia,56174,Ventral hernia with obstruction,J331.00
+Abdominal Hernia,56506,Primary repair of femoral hernia using sutures,7H13200
+Abdominal Hernia,56519,Endoscopic primary repair of femoral hernia,7H13300
+Abdominal Hernia,56522,Primary repair femoral hernia using insert prosthet material,7H13100
+Abdominal Hernia,5653,Unilateral inguinal hernia unspecified,J30y000
+Abdominal Hernia,57046,Epigastric hernia - irreducible,J332200
+Abdominal Hernia,57074,Simple lumbar hernia,J373.00
+Abdominal Hernia,57593,Spigelian hernia NOS,J3Cz.00
+Abdominal Hernia,57942,Primary repair femoral hernia using insert natural material,7H13000
+Abdominal Hernia,5870,Primary repair of femoral hernia,7H13.00
+Abdominal Hernia,58874,Simple retroperitoneal hernia,J3B3.00
+Abdominal Hernia,59850,Lotheissen repair of femoral hernia,7H13214
+Abdominal Hernia,59925,Other specified simple excision of inguinal hernial sac,7H10y00
+Abdominal Hernia,60614,Repair recurr incision hernia using insert prosthet material,7H17100
+Abdominal Hernia,60858,Unilateral recurrent femoral hernia - irreducible,J312100
+Abdominal Hernia,61003,Spigelian hernia with obstruction,J3C1.00
+Abdominal Hernia,611,Repair of umbilical hernia,7H15.00
+Abdominal Hernia,61539,Femoral hernia NOS,J31z.00
+Abdominal Hernia,62486,Removal prosthet material fr previous repair inguinal hernia,7H12300
+Abdominal Hernia,62839,Bilateral inguinal hernia - irreducible,J302200
+Abdominal Hernia,63166,Unilateral inguinal hernia with gangrene,J300000
+Abdominal Hernia,63168,Unilateral femoral hernia - unspecified,J31y000
+Abdominal Hernia,63481,Bilateral inguinal hernia with obstruction,J301200
+Abdominal Hernia,63506,Other specified repair of recurrent incisional hernia,7H17y00
+Abdominal Hernia,64067,Other specified primary repair of umbilical hernia,7H1Cy00
+Abdominal Hernia,64119,Unilateral recurrent femoral hernia - unspecified,J31y100
+Abdominal Hernia,64171,Simple femoral hernia,J313.00
+Abdominal Hernia,64521,Inguinal hernia with gangrene,J300.00
+Abdominal Hernia,64823,Bilateral femoral hernia - unspecified,J31y200
+Abdominal Hernia,64956,Unspecified lumbar hernia,J37y.00
+Abdominal Hernia,64977,Repair recurr inguinal hernia using insert natural material,7H12000
+Abdominal Hernia,65112,Umbilical hernia - irreducible and NOS,J322z00
+Abdominal Hernia,65147,Incisional hernia with gangrene,J330100
+Abdominal Hernia,652,Primary repair of inguinal hernia NOS,7H11z00
+Abdominal Hernia,6537,Epigastric hernia,J33..11
+Abdominal Hernia,65383,Gluteal hernia,J35..00
+Abdominal Hernia,65608,Other specified abdominal cavity hernia with gangrene,J3y0.00
+Abdominal Hernia,66751,Unspecified femoral hernia,J31y.00
+Abdominal Hernia,67143,Lumbar hernia NOS,J37z.00
+Abdominal Hernia,67276,Removal prosthet material fr previous repair femoral hernia,7H14300
+Abdominal Hernia,67309,Remov prosthet material fr previous repair umbilical hernia,7H15300
+Abdominal Hernia,68045,McEvedy repair of femoral hernia,7H13215
+Abdominal Hernia,68086,Henry repair of femoral hernia,7H13212
+Abdominal Hernia,68494,Simple femoral hernia NOS,J313z00
+Abdominal Hernia,69455,Halsted repair of inguinal hernia,7H11y11
+Abdominal Hernia,69934,Unilateral femoral hernia with gangrene,J310000
+Abdominal Hernia,70402,Other specified repair of recurrent femoral hernia,7H14y00
+Abdominal Hernia,70611,Primary repair of umbilical hernia using sutures,7H1C200
+Abdominal Hernia,70641,Femoral hernia with gangrene,J310.00
+Abdominal Hernia,70896,Bilateral recurrent inguinal hernia - irreducible,J302300
+Abdominal Hernia,70984,Unspecified femoral hernia NOS,J31yz00
+Abdominal Hernia,71798,Epigastric hernia with gangrene,J330200
+Abdominal Hernia,71835,Repair of recurrent femoral hernia using sutures,7H14200
+Abdominal Hernia,71971,Bilateral femoral hernia - simple,J313200
+Abdominal Hernia,72057,Prim repair incisional hernia using insert natural material,7H16000
+Abdominal Hernia,722,Unspecified abdominal cavity hernia NOS,J3zz.00
+Abdominal Hernia,7445,Umbilical hernia NOS,J32z.00
+Abdominal Hernia,7679,Primary repair of incisional hernia,7H16.00
+Abdominal Hernia,7921,Unilateral inguinal hernia - simple,J303000
+Abdominal Hernia,800,Femoral hernia,J31..00
+Abdominal Hernia,8042,Direct inguinal hernia,J30..12
+Abdominal Hernia,8872,Spigelian hernia,J3C..00
+Abdominal Hernia,90489,Remov prosthet material fr previous repair umbilical hernia,7H1C300
+Abdominal Hernia,90490,Repair of recurrent umbilical hernia NOS,7H1Dz00
+Abdominal Hernia,91771,Repair of recurrent umbilical hernia using sutures,7H1D200
+Abdominal Hernia,93234,Ventral hernia with gangrene,J330.00
+Abdominal Hernia,93540,Congenital inguinal hernia,PG8..00
+Abdominal Hernia,93769,Repair recurrent umbilical hernia us insert prosthetic mater,7H1D100
+Abdominal Hernia,94016,Prim rep umbilical hernia using insert prosthetic material,7H1C100
+Abdominal Hernia,9405,Direct inguinal hernia,J304.00
+Abdominal Hernia,94065,Ferguson repair of inguinal hernia,7H11212
+Abdominal Hernia,94802,Repair recurr incision hernia using insert natural material,7H17000
+Abdominal Hernia,94896,Repair recurr femoral hernia using insert prosthet material,7H14100
+Abdominal Hernia,9557,Manual reduction of hernia,82B2.00
+Abdominal Hernia,95704,Repair of recurrent incisional hernia using sutures,7H17200
+Abdominal Hernia,95806,Spigelian hernia - irreducible,J3C2.00
+Abdominal Hernia,96040,Primary rep umbilical hernia using insert natural material,7H1C000
+Abdominal Hernia,96844,Other specified repair of recurrent umbilical hernia,7H1Dy00
+Abdominal Hernia,97718,Unilateral recurrent femoral hernia - simple,J313100
+Abdominal Hernia,97851,"[X]Other specified abdominal hernia+obstruction,w'o gangrene",Jyu3000
+Abdominal Hernia,97892,Bilateral recurrent inguinal hernia with gangrene,J300300
+Abdominal Hernia,99143,McVay repair of inguinal hernia,7H11213
+Abdominal Hernia,99212,Femoral hernia with gangrene NOS,J310z00
+Abdominal Hernia,9949,Bilateral inguinal hernia repair,7H11500

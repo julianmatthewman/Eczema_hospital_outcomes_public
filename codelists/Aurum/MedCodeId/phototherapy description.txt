@@ -1,0 +1,25 @@
+# -----------------------------------------------------------------------------
+Clinical codelist for phototherapy for atopic eczema
+
+Author: Julian Matthewman
+Created on 12 July 2023
+Created by searching the 2023_03 CPRD Aurum Medical code browser
+Terminologies: CPRD MedCode, SNOMED-CT, Read	
+Short description: Phototherapy for eczema, including PUVA, UVA and UVB, and unspecified phototherapy that may me for the treatment of eczema
+Reviwed by: Julian Matthewman
+# -----------------------------------------------------------------------------
+
+# Search strategy --------------------------------
+
+Iteratively modified terms used to search and exclude codes, while checking for codes with the same SnomedCTConceptId and codes with a descendant Read code
+
+
+# Includes --------------------------------------
+
+Types of phototherapy used for eczema include UVB, UVA and PUVA as per https://nationaleczema.org/eczema/treatment/ and https://eczema.org/information-and-advice/treatments-for-eczema/phototherapy/
+
+
+# Excludes --------------------------------------
+
+Does not include complications, treatment records, referrals or adverse reactions
+Does not include photodynamic therapy (usually a therapy for skin cancers)

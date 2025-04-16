@@ -1,0 +1,3 @@
+code,description,coding_system,concept_id,concept_version_id,concept_name,phenotype_id,phenotype_version_id,phenotype_name,code_attributes
+K74.3,Primary biliary cirrhosis,ICD10 codes,C1000,3139,Autoimmune liver disease - Secondary care - Diagnoses,PH111,222,Autoimmune liver disease,"{'Disease': 'Autoimmune liver disease', 'Category': 'Diagnosis of Autoimmune liver disease'}"
+K75.4,Autoimmune hepatitis,ICD10 codes,C1000,3139,Autoimmune liver disease - Secondary care - Diagnoses,PH111,222,Autoimmune liver disease,"{'Disease': 'Autoimmune liver disease', 'Category': 'Diagnosis of Autoimmune liver disease'}"

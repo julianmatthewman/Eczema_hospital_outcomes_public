@@ -1,0 +1,2 @@
+code,description,coding_system,concept_id,concept_version_id,concept_name,phenotype_id,phenotype_version_id,phenotype_name,code_attributes
+G50.0,Trigeminal neuralgia,ICD10 codes,C1620,4379,Trigeminal neuralgia - Secondary care - Diagnoses,PH325,650,Trigeminal neuralgia,"{'Disease': 'Trigeminal neuralgia', 'Category': 'Diagnosis of trigeminal neuralgia'}"

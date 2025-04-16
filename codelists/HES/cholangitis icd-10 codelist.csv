@@ -1,0 +1,3 @@
+code,description,coding_system,concept_id,concept_version_id,concept_name,phenotype_id,phenotype_version_id,phenotype_name,code_attributes
+K80.3,Calculus of bile duct with cholangitis,ICD10 codes,C1063,3265,Cholangitis - Secondary care - Diagnoses,PH133,266,Cholangitis,"{'Disease': 'Cholangitis', 'Category': 'Diagnosis of Cholangitis'}"
+K83.0,Cholangitis,ICD10 codes,C1063,3265,Cholangitis - Secondary care - Diagnoses,PH133,266,Cholangitis,"{'Disease': 'Cholangitis', 'Category': 'Diagnosis of Cholangitis'}"

@@ -1,0 +1,6 @@
+code,description,coding_system,concept_id,concept_version_id,concept_name,phenotype_id,phenotype_version_id,phenotype_name,code_attributes
+I10,Essential (primary) hypertension,ICD10 codes,C1229,3597,Hypertension - Secondary care - Diagnoses,PH189,378,Hypertension,"{'Disease': 'Hypertension', 'Category': 'Hypertension (3)'}"
+I11,Hypertensive heart disease,ICD10 codes,C1229,3597,Hypertension - Secondary care - Diagnoses,PH189,378,Hypertension,"{'Disease': 'Hypertension', 'Category': 'Hypertension (3)'}"
+I12,Hypertensive renal disease,ICD10 codes,C1229,3597,Hypertension - Secondary care - Diagnoses,PH189,378,Hypertension,"{'Disease': 'Hypertension', 'Category': 'Hypertension (3)'}"
+I13,Hypertensive heart and renal disease,ICD10 codes,C1229,3597,Hypertension - Secondary care - Diagnoses,PH189,378,Hypertension,"{'Disease': 'Hypertension', 'Category': 'Hypertension (3)'}"
+I15,Secondary hypertension,ICD10 codes,C1229,3597,Hypertension - Secondary care - Diagnoses,PH189,378,Hypertension,"{'Disease': 'Hypertension', 'Category': 'Secondary hypertension (4)'}"

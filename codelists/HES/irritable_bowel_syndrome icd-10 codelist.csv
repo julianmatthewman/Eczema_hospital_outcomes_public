@@ -1,0 +1,2 @@
+code,description,coding_system,concept_id,concept_version_id,concept_name,phenotype_id,phenotype_version_id,phenotype_name,code_attributes
+K58,Irritable bowel syndrome,ICD10 codes,C830,2799,Irritable bowel syndrome - Secondary care - Diagnoses,PH53,106,Irritable bowel syndrome,"{'Disease': 'Irritable bowel syndrome', 'Category': 'Diagnosis of Irritable bowel syndrome'}"

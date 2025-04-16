@@ -1,0 +1,9 @@
+medcodeid,observations,originalreadcode,cleansedreadcode,term,snomedctconceptid,snomedctdescriptionid,release,emiscodecategoryid
+453261018,40000,F4D13,F4D1300,Meibomianitis,309779001,453261018,,32
+5992681000006119,4,^ESCTME599268,,Meibomitis,309779001,2646856014,,32
+6588851000006118,5000,^ESCTME658885,,Meibomian gland dysfunction,397549002,1777171014,,32
+6588871000006111,30,^ESCTMG658887,,MGD-Meibomian gland dysfunction,397549002,2579572017,,32
+8210851000006117,1,^ESCTME821085,,Meibomianitis of left eyelid,680591000119104,3326637016,,31
+9898301000006115,40,^ESCTME989830,,Meibomian gland dysfunction of bilateral eyes,16237421000119109,3326633017,,31
+13716001000006119,2,^ESCT1371600,,Meibomian gland dysfunction of left eye,16237461000119104,3772713019,,31
+13716651000006110,2,^ESCT1371665,,Meibomitis of bilateral lower eyelids,16475271000119104,3771575019,,31

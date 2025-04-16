@@ -1,0 +1,7 @@
+code,description,coding_system,concept_id,concept_version_id,concept_name
+F90,hyperkinetic disorders,ICD10 codes,C2931,8448,Attention-Deficit hyperactivity disorder (ADHD)- ICD-10
+F90.0,disturbance of activity and attention,ICD10 codes,C2931,8448,Attention-Deficit hyperactivity disorder (ADHD)- ICD-10
+F90.1,hyperkinetic conduct disorder,ICD10 codes,C2931,8448,Attention-Deficit hyperactivity disorder (ADHD)- ICD-10
+F90.2,"attention-deficit hyperactivity disorder, combined type",ICD10 codes,C2931,8448,Attention-Deficit hyperactivity disorder (ADHD)- ICD-10
+F90.8,other hyperkinetic disorders,ICD10 codes,C2931,8448,Attention-Deficit hyperactivity disorder (ADHD)- ICD-10
+F90.9,"hyperkinetic disorder, unspecified",ICD10 codes,C2931,8448,Attention-Deficit hyperactivity disorder (ADHD)- ICD-10

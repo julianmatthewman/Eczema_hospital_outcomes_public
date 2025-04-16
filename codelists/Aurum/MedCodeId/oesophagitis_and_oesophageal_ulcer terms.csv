@@ -1,0 +1,18 @@
+"searchterms","exclusionterms","searched_in_column","searchmethod"
+"oesophagitis",,"Term","default stringr::str_detect() search method"
+"esophagitis",,,
+"ulcer of oesophagus",,,
+"abscess of oesophagus",,,
+"oesophageal erosions",,,
+"oesophageal ulcer",,,
+"Barrett's ulcer",,,
+"Barrett ulcer",,,
+"Barrett's oesophagus",,,
+"Barrett's syndrome",,,
+"Barrett's esophagus",,,
+"Barrett esophagus",,,
+"Barretts esophagus",,,
+"Barretts oesophagus",,,
+"Columnar-lined oesophagus",,,
+"Columnar-lined esophagus",,,
+"Gastric metaplasia of oesophagus",,,

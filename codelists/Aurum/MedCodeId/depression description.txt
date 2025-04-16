@@ -1,0 +1,4 @@
+updated codelist from https://github.com/johntaz/COVID-Collateral/blob/master/codelists/Stata/aurum_codelist_depression.dta
+
+codes for depression and depressiv states and depression in other conditions (e.g. dementia)
+does not include any manic depressive or bipolar disorders

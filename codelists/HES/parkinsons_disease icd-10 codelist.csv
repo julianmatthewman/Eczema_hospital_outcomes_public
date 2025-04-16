@@ -1,0 +1,3 @@
+code,description,coding_system,concept_id,concept_version_id,concept_name,phenotype_id,phenotype_version_id,phenotype_name,code_attributes
+F02.3,Dementia in Parkinson's disease,ICD10 codes,C898,2935,Parkinson's disease - Secondary care - Diagnoses,PH77,154,Parkinson's disease,"{'Disease': ""Parkinson's disease"", 'Category': ""History of Parkinson's disease""}"
+G20,Parkinson's disease,ICD10 codes,C898,2935,Parkinson's disease - Secondary care - Diagnoses,PH77,154,Parkinson's disease,"{'Disease': ""Parkinson's disease"", 'Category': ""Diagnosis of Parkinson's disease""}"

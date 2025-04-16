@@ -1,0 +1,16 @@
+"searchterms","exclusionterms","searched_in_column","searchmethod"
+"peritonitis","corneal","Term","default stringr::str_detect() search method"
+"(?=.*ulcer)(?=.*perforat)","foot",,
+"Acute gangrenous appendicitis",,,
+"(?=.*diverticul)(?=.*perforat)",,,
+"Pericaecal abscess",,,
+"Pericolic abscess",,,
+"Peritoneal fat necrosis",,,
+"Pre-ileal abscess",,,
+"Retrocaecal abscess",,,
+"Retroperitoneal abscess",,,
+"perforated appendicitis",,,
+"Mesenteric abscess",,,
+"Subphrenic abscess",,,
+"Subhepatic abscess",,,
+"peritoneal abscess",,,

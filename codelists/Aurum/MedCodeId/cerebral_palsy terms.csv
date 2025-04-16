@@ -1,0 +1,3 @@
+"searchterms","exclusionterms","searched_in_column","searchmethod"
+"Cerebral atonia","Family history","Term","default stringr::str_detect() search method"
+"Cerebral palsy",,,

@@ -1,0 +1,26 @@
+{
+  "includeTerms": [
+    "insomnia",
+    "poor sleep",
+    "delayed sleep",
+    "restless sleep",
+    "sleep disorder*",
+    "sleep disturb*",
+    "sleep dysfunction*",
+    "sleep problem*"
+  ],
+  "excludeTerms": [
+    "nonorganic",
+    "sleep apnoea",
+    "non-organic",
+    "arousal",
+    "emotional",
+    "asthma",
+    "eating",
+    "chronic obstructive pulmonary disease"
+  ],
+  "terminology": "Readv2",
+  "version": "v20160401",
+  "createdOn": "2022-11-11T11:58:00.182Z",
+  "lastUpdated": "2022-11-11T11:58:00.182Z"
+}

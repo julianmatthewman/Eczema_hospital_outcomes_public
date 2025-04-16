@@ -1,0 +1,5 @@
+"searchterms","exclusionterms","searched_in_column","searchmethod"
+"Bell's palsy",,"Term","default stringr::str_detect() search method"
+"Bell palsy",,,
+"Bells palsy",,,
+"Idiopathic acute facial nerve palsy",,,

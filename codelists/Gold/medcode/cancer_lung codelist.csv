@@ -1,0 +1,37 @@
+﻿readcode,medcode,readterm,icdcode,ca_lung
+B22..00,13243,"malignant neoplasm of trachea, bronchus and lung",C34,1
+B221.00,12870,malignant neoplasm of main bronchus,C34,1
+B221000,17391,malignant neoplasm of carina of bronchus,C34,1
+B221100,33444,malignant neoplasm of hilus of lung,C34,1
+B221z00,21698,malignant neoplasm of main bronchus nos,C34,1
+B222.00,10358,"malignant neoplasm of upper lobe, bronchus or lung",C34,1
+B222.11,20170,pancoast's syndrome,C34,1
+B222000,31700,malignant neoplasm of upper lobe bronchus,C34,1
+B222100,25886,malignant neoplasm of upper lobe of lung,C34,1
+B222z00,44169,"malignant neoplasm of upper lobe, bronchus or lung nos",C34,1
+B223.00,31268,"malignant neoplasm of middle lobe, bronchus or lung",C34,1
+B223000,41523,malignant neoplasm of middle lobe bronchus,C34,1
+B223100,39923,malignant neoplasm of middle lobe of lung,C34,1
+B223z00,54134,"malignant neoplasm of middle lobe, bronchus or lung nos",C34,1
+B224.00,31188,"malignant neoplasm of lower lobe, bronchus or lung",C34,1
+B224000,18678,malignant neoplasm of lower lobe bronchus,C34,1
+B224100,12582,malignant neoplasm of lower lobe of lung,C34,1
+B224z00,42566,"malignant neoplasm of lower lobe, bronchus or lung nos",C34,1
+B225.00,36371,malignant neoplasm of overlapping lesion of bronchus & lung,C34,1
+B22y.00,38961,malignant neoplasm of other sites of bronchus or lung,C34,1
+B22z.00,3903,malignant neoplasm of bronchus or lung nos,C34,1
+B22z.11,2587,lung cancer,C34,1
+BB1K.00,9156,[m]oat cell carcinoma,C34,1
+BB1L.00,67970,"[m]small cell carcinoma, fusiform cell type",C34,1
+BB1M.00,30988,"[m]small cell carcinoma, intermediate cell",C34,1
+BB1N.00,21217,[m]small cell-large cell carcinoma,C34,1
+BB1P.00,106519,[m]non-small cell carcinoma,C34,1
+BB5J.12,60756,[m]cylindroid bronchial adenoma,C34,1
+BB5R111,23081,[m]carcinoid bronchial adenoma,C34,1
+BB5S200,34015,[m]bronchiolo-alveolar adenocarcinoma,C34,1
+BB5S211,36530,[m]alveolar cell carcinoma,C34,1
+BB5S212,16723,[m]bronchiolar carcinoma,C34,1
+BB5S400,57802,[m]alveolar adenocarcinoma,C34,1
+BBLA.11,61082,[m]pneumoblastoma,C34,1
+BBLM.00,48348,[m]pulmonary blastoma,C34,1
+Byu2000,40595,"[x]malignant neoplasm of bronchus or lung, unspecified",C34,1

@@ -1,0 +1,27 @@
+phenotype_name,medcode,ReadcodeDescr,Readcode
+Crohn's disease,11119,CDAI - Crohn's disease activity index,ZR3S.11
+Crohn's disease,11286,Regional enteritis - Crohn's disease,J40..00
+Crohn's disease,11337,Crohn's disease activity index,ZR3S.00
+Crohn's disease,12575,Juvenile arthritis in Crohn's disease,N045300
+Crohn's disease,15773,Regional ileocolitis,J402.00
+Crohn's disease,20480,Arthropathy in Crohn's disease,N031100
+Crohn's disease,20688,Crohn's disease of the large bowel NOS,J401z00
+Crohn's disease,28476,Crohn's disease of the terminal ileum,J400200
+Crohn's disease,29616,Orofacial Crohn's disease,J08z900
+Crohn's disease,36913,Exacerbation of Crohn's disease of small intestine,J400500
+Crohn's disease,39037,Exacerbation of Crohn's disease of large intestine,J401200
+Crohn's disease,39278,Crohn's disease of the ileum NOS,J400400
+Crohn's disease,44426,Regional enteritis of the large bowel,J401.00
+Crohn's disease,51576,Regional enteritis of the small bowel,J400.00
+Crohn's disease,51578,Granulomatous enteritis,J40..12
+Crohn's disease,52449,Regional enteritis NOS,J40z.00
+Crohn's disease,593,Crohn's disease,J40..11
+Crohn's disease,59994,Crohn's disease NOS,J40z.11
+Crohn's disease,62628,Regional enteritis of the colon,J401000
+Crohn's disease,63036,Regional enteritis of the jejunum,J400100
+Crohn's disease,64773,Regional enteritis of the rectum,J401100
+Crohn's disease,6538,Crohn's colitis,J401z11
+Crohn's disease,66238,Crohn's disease of the ileum unspecified,J400300
+Crohn's disease,69959,[X]Other Crohn's disease,Jyu4000
+Crohn's disease,71945,Regional enteritis of the duodenum,J400000
+Crohn's disease,9359,Crohn's disease of the small bowel NOS,J400z00

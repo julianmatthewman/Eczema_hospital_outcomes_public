@@ -1,0 +1,5 @@
+"code","ALT_CODE","USAGE","USAGE_UK","DESCRIPTION","MODIFIER_4","MODIFIER_5","QUALIFIERS","GENDER_MASK","MIN_AGE","MAX_AGE","TREE_DESCRIPTION"
+"L20","L20","DEFAULT","3","Atopic dermatitis","","","",,,,""
+"L20.0","L200","DEFAULT","3","Besnier prurigo","","","",,,,""
+"L20.8","L208","DEFAULT","3","Other atopic dermatitis","","","",,,,""
+"L20.9","L209","DEFAULT","3","Atopic dermatitis, unspecified","","","",,,,""

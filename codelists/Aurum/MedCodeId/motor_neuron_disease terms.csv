@@ -1,0 +1,17 @@
+"searchterms","exclusionterms","searched_in_column","searchmethod"
+"Amyotrophic lateral sclerosis","Adverse reaction","Term","default stringr::str_detect() search method"
+"Anterior horn cell disease","FH:",,
+"Bulbar palsy","No history of",,
+"Duchenne Aran muscular atrophy","Family history",,
+"Motor neurone disease","Carer of a person with",,
+"Motor neuron disease",,,
+"Progressive muscular atrophy",,,
+"Primary lateral sclerosis",,,
+"Progressive bulbar palsy",,,
+"Progressive muscular atrophy",,,
+"Pseudobulbar palsy",,,
+"Spinal muscular atrophy",,,
+"Werdnig - Hoffmann disease",,,
+"Werdnig-Hoffmann disease",,,
+"Kugelberg - Welander disease",,,
+"Kugelberg-Welander disease",,,

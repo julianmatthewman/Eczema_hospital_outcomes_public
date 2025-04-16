@@ -1,0 +1,27 @@
+{
+  "includeTerms": [
+    "allergic rhinitis",
+    "allergic rhinosinusitis",
+    "pollinosis",
+    "perennial rhinitis",
+    "hay fever",
+    "cat allergy",
+    "dander allergy",
+    "house dust allergy",
+    "dog allergy",
+    "feather allergy",
+    "animal allergy"
+  ],
+  "excludeTerms": [
+    "fh:",
+    "h/o:",
+    "family history",
+    "eye drops",
+    "past history",
+    "preps"
+  ],
+  "terminology": "Readv2",
+  "version": "v20160401",
+  "createdOn": "2022-11-03T12:18:36.566Z",
+  "lastUpdated": "2022-11-03T12:18:36.566Z"
+}

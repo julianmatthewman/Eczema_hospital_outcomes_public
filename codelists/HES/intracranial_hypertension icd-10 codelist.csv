@@ -1,0 +1,2 @@
+code,description,coding_system,concept_id,concept_version_id,concept_name,phenotype_id,phenotype_version_id,phenotype_name,code_attributes
+G93.2,Benign intracranial hypertension,ICD10 codes,C1245,3629,Intracranial hypertension - Secondary care - Diagnoses,PH194,388,Intracranial hypertension,"{'Disease': 'Intracranial hypertension', 'Category': 'Diagnosis of Idiopathic intracranial hypertension'}"

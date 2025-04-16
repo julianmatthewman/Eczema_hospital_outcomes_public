@@ -1,0 +1,397 @@
+MedCodeId,Observations,OriginalReadCode,CleansedReadCode,Term,SnomedCTConceptId,SnomedCTDescriptionId,Release,EmisCodeCategoryId
+4966010,100,J300,J300.00,Inguinal hernia with gangrene,2303007,4966010,,32
+7352015,1,J3103,J310300,Bilateral recurrent femoral hernia with gangrene,3762005,7352015,,32
+13930016,4,J3002,J300200,Bilateral inguinal hernia with gangrene,7815009,13930016,,32
+32510010,40000,7H12,7H12.00,Repair of recurrent inguinal hernia,19273005,32510010,,32
+41260017,70,J3100,J310000,Unilateral femoral hernia with gangrene,45845003,76457017,,32
+49979014,100000,J32-2,J32..12,Paraumbilical hernia,29862005,49979014,,32
+52687019,60,J3000,J300000,Unilateral inguinal hernia with gangrene,2303007,4966010,,32
+64806013,4,J3102,J310200,Bilateral femoral hernia with gangrene,38163003,64806013,,32
+74978012,200000,7H15,7H15.00,Repair of umbilical hernia,44946007,74978012,,32
+74980018,3000,7H15-1,7H15.11,Umbilical herniorrhaphy,44946007,74978012,,32
+76457017,90,J310,J310.00,Femoral hernia with gangrene,45845003,76457017,,32
+83392011,50000,J31,J31..00,Femoral hernia,50063009,83392011,,32
+87396010,30000,J3,J3...00,Hernia of abdominal cavity,52515009,87396010,,32
+88895015,2,J3003,J300300,Bilateral recurrent inguinal hernia with gangrene,53462005,88895015,,32
+103423013,2,J3101,J310100,Unilateral recurrent femoral hernia with gangrene,45845003,76457017,,32
+109026015,20000,J305,J305.00,Indirect inguinal hernia,65626001,109026015,,32
+110413010,30,J320,J320.00,Umbilical hernia with gangrene,67508005,110413010,,32
+121486017,20000,J304,J304.00,Direct inguinal hernia,73147001,121486017,,32
+125534015,4,J3001,J300100,Recurrent inguinal hernia with gangrene,428722005,2694950016,,32
+127958011,700,7H14,7H14.00,Repair of recurrent femoral hernia,77076000,127958011,,32
+178602018,50,J3201,J320100,Paraumbilical hernia with gangrene,111366003,178602018,,32
+251728017,30000,14C3,14C3.00,H/O: abdominal hernia,161533003,251728017,,32
+269033011,400,760K3,760K300,Repair of diaphragmatic hernia using abdominal approach NEC,52917009,88054017,,32
+275293013,10000,7H10,7H10.00,Simple excision of inguinal hernial sac,177854007,275293013,,32
+275295018,60000,7H10-1,7H10.11,Inguinal herniotomy,177854007,275293013,,32
+275296017,20000,7H100,7H10000,Bilateral inguinal herniotomy,177855008,275296017,,32
+275297014,60000,7H101,7H10100,Unilateral inguinal herniotomy,177856009,275297014,,32
+275299012,100,7H10y,7H10y00,Other specified simple excision of inguinal hernial sac,177854007,275293013,,32
+275300016,400,7H10z,7H10z00,Simple excision of inguinal hernial sac NOS,177854007,275293013,,32
+275301017,900000,7H11,7H11.00,Primary repair of inguinal hernia,177860007,275301017,,32
+275302012,40000,7H11-1,7H11.11,Primary inguinal herniorrhaphy,177860007,275302012,,32
+275307018,60000,7H111-1,7H11111,Primary mesh repair of inguinal hernia,177862004,275307018,,32
+275315015,6000,7H114,7H11400,Endoscopic primary repair of inguinal hernia,177865002,275315015,,32
+275316019,50000,7H115,7H11500,Bilateral inguinal hernia repair,177866001,275316019,,32
+275320015,80000,7H11z,7H11z00,Primary repair of inguinal hernia NOS,177860007,275301017,,32
+275325013,200,7H122,7H12200,Repair of recurrent inguinal hernia using sutures,177871008,275325013,,32
+275327017,500,7H12y,7H12y00,Other specified repair of recurrent inguinal hernia,19273005,32510010,,32
+275328010,4000,7H12z,7H12z00,Repair of recurrent inguinal hernia NOS,19273005,32510010,,32
+275344018,300,7H133,7H13300,Endoscopic primary repair of femoral hernia,177879005,275344018,,32
+275345017,300,7H13y,7H13y00,Other specified primary repair of femoral hernia,264959005,393475015,,32
+275346016,4000,7H13z,7H13z00,Primary repair of femoral hernia NOS,264959005,393475015,,32
+275352015,20,7H142,7H14200,Repair of recurrent femoral hernia using sutures,177884004,275352015,,32
+275354019,30,7H14y,7H14y00,Other specified repair of recurrent femoral hernia,77076000,127958011,,32
+275355018,100,7H14z,7H14z00,Repair of recurrent femoral hernia NOS,77076000,127958011,,32
+275362010,1000,7H15y,7H15y00,Other specified repair of umbilical hernia,44946007,74978012,,32
+275363017,10000,7H15z,7H15z00,Repair of umbilical hernia NOS,44946007,74978012,,32
+275388013,300,7H180,7H18000,Repair of ventral hernia using insert of natural material,177907007,275388013,,32
+275390014,2000,7H182,7H18200,Ventral herniorrhaphy,719726009,3317594011,,32
+275392018,900,7H18y,7H18y00,Other specified repair of other hernia of abdominal wall,84744001,140491019,,32
+275393011,20000,7H18z,7H18z00,Repair of other hernia of abdominal wall NOS,84744001,140491019,,32
+302717013,400,J300z,J300z00,Inguinal hernia with gangrene NOS,2303007,4966010,,32
+302729016,6000,J303,J303.00,Simple inguinal hernia,196815009,302729016,,32
+302738019,500,J303z,J303z00,Simple inguinal hernia NOS,196815009,302729016,,32
+302747010,700,J30yz,J30yz00,Unspecified inguinal hernia NOS,396232000,1776213016,,32
+302748017,80000,J30z,J30z.00,Inguinal hernia NOS,396232000,1776213016,,32
+302754016,20,J310z,J310z00,Femoral hernia with gangrene NOS,45845003,76457017,,32
+302764013,300,J313,J313.00,Simple femoral hernia,196843000,302764013,,32
+302766010,20,J313z,J313z00,Simple femoral hernia NOS,196843000,302763019,,32
+302767018,70,J31y,J31y.00,Unspecified femoral hernia,50063009,83392011,,32
+302772010,40,J31yz,J31yz00,Unspecified femoral hernia NOS,50063009,83392011,,32
+302773017,2000,J31z,J31z.00,Femoral hernia NOS,50063009,83392011,,32
+302783018,4,J320z,J320z00,Umbilical hernia with gangrene NOS,67508005,110413010,,32
+302786014,800,J3211,J321100,Paraumbilical hernia with obstruction,196861009,302786014,,32
+302787017,80,J321z,J321z00,Umbilical hernia with obstruction NOS,196859000,302784012,,32
+302791010,2000,J3221,J322100,Paraumbilical hernia - irreducible,196865000,302791010,,32
+302792015,200,J322z,J322z00,Umbilical hernia - irreducible and NOS,196863007,302788010,,32
+302794019,40000,J323,J323.00,Simple umbilical hernia,196867008,302794019,,32
+302796017,10000,J3231,J323100,Simple paraumbilical hernia,196869006,302796017,,32
+302797014,2000,J323z,J323z00,Simple umbilical hernia NOS,196867008,302794019,,32
+302798016,600,J32y,J32y.00,Unspecified umbilical hernia,396347007,1776299016,,32
+302800011,5000,J32y1,J32y100,Unspecified paraumbilical hernia,29862005,49979014,,32
+302801010,700,J32yz,J32yz00,Unspecified umbilical hernia NOS,396347007,1776299016,,32
+302802015,10000,J32z,J32z.00,Umbilical hernia NOS,396347007,1776299016,,32
+302808016,3,J3300,J330000,Ventral hernia unspecified with gangrene,414475000,2533160015,,32
+302811015,2,J330z,J330z00,Ventral hernia with gangrene NOS,414475000,2533160015,,32
+302813017,60,J3310,J331000,Obstructed hernia of anterior abdominal wall,414923000,2533165013,,32
+302819018,10,J331z,J331z00,Ventral hernia with obstruction NOS,415256003,2533155019,,32
+302822016,30,J3320,J332000,Ventral hernia unspecified - irreducible,414544007,2533153014,,32
+302827010,40,J332z,J332z00,Ventral hernia - irreducible NOS,414544007,2533153014,,32
+302830015,500,J3330,J333000,Uncomplicated ventral hernia,415771000,2537490015,,32
+302836014,300,J333z,J333z00,Simple ventral hernia NOS,415771000,2537490015,,32
+302837017,3000,J33z,J33z.00,Ventral hernia NOS,414396006,2536953015,,32
+302838010,200,J33z0,J33z000,Unspecified ventral hernia NOS,414474001,2533152016,,32
+302911019,800,J3y,J3y..00,Other specified hernias of abdominal cavity,52515009,87396010,,32
+302912014,10,J3y0,J3y0.00,Other specified abdominal cavity hernia with gangrene,52515009,87396010,,32
+302913016,100,J3y1,J3y1.00,Other specified abdominal cavity hernia with obstruction,52515009,87396010,,32
+302914010,70,J3y2,J3y2.00,Other specified abdominal cavity hernia - irreducible,52515009,87396010,,32
+302915011,500,J3y3,J3y3.00,Other specified abdominal cavity hernia - simple,52515009,87396010,,32
+302916012,100,J3yy,J3yy.00,"Other specified abdominal cavity hernia, unspecified",52515009,87396010,,32
+302920011,6000,J3z,J3z..00,Abdominal cavity hernia NOS,52515009,87396010,,32
+302921010,2000,J3z0,J3z0.00,Unspecified abdominal cavity hernia with gangrene,52515009,87396010,,32
+302923013,500,J3z2,J3z2.00,Unspecified abdominal cavity hernia - irreducible,52515009,87396010,,32
+302924019,300,J3z3,J3z3.00,Unspecified abdominal cavity hernia - simple,52515009,87396010,,32
+302925018,30000,J3zz,J3zz.00,Unspecified abdominal cavity hernia NOS,52515009,87396010,,32
+303758014,7,Jyu31,Jyu3100,[X]Other specified abdominal hernia with gangrene,52515009,87396010,,32
+353794017,400000,J3030-2,J303012,Right inguinal hernia,236021006,353794017,,32
+353797012,300000,J3030-1,J303011,Left inguinal hernia,236022004,353797012,,32
+393474016,3000,7H11y,7H11y00,Other specified primary repair of inguinal hernia,177860007,275301017,,32
+393475015,40000,7H13,7H13.00,Primary repair of femoral hernia,264959005,393475015,,32
+393476019,1000,7H13-2,7H13.12,Primary femoral herniorrhaphy,264959005,393476019,,32
+393477011,300,7H132,7H13200,Primary repair of femoral hernia using sutures,264960000,393477011,,32
+393479014,30000,7H18,7H18.00,Repair of hernia of abdominal wall,84744001,140491019,,32
+396356015,600,J3yz,J3yz.00,Other specified abdominal cavity hernia NOS,52515009,87396010,,32
+410872018,8000,7H112,7H11200,Primary repair of inguinal hernia using sutures,274955000,410872018,,32
+411193014,800,7H112-1,7H11211,Bassini repair of inguinal hernia,275238003,411193014,,32
+411194015,400,7H112-4,7H11214,Shouldice repair of inguinal hernia,275239006,411194015,,32
+411196018,30,7H11y-1,7H11y11,Halsted repair of inguinal hernia,275241007,411196018,,32
+411197010,20,7H132-4,7H13214,Lotheissen repair of femoral hernia,275242000,411197010,,32
+411198017,40,7H132-5,7H13215,McEvedy repair of femoral hernia,275243005,411198017,,32
+445740018,10000,7H13-1,7H13.11,Femoral hernia repair,238171002,1223157013,,32
+1222272011,2000,7H12-1,7H12.11,Herniorrhaphy for recurrent inguinal hernia,19273005,1222272011,,32
+1234053014,90,7H14-1,7H14.11,Herniorrhaphy for recurrent femoral hernia,77076000,1234053014,,32
+1776213016,1000000,J30,J30..00,Inguinal hernia,396232000,1776213016,,32
+1776299016,600000,J32,J32..00,Umbilical hernia,396347007,1776299016,,32
+2474694012,40000,7H116,7H11600,Primary laparoscopic repair of inguinal hernia,413146008,2474694012,,32
+2536953015,50000,J33,J33..00,Ventral hernia,414396006,2536953015,,32
+2537491016,10,J330,J330.00,Ventral hernia with gangrene,414397002,2537491016,,32
+2676339018,1000,7H1D,7H1D.00,Repair of recurrent umbilical hernia,425710008,2676339018,,32
+2691953015,9000,7H1C,7H1C.00,Primary repair of umbilical hernia,428649003,2691953015,,32
+2694577015,1000,PG8,PG8..00,Congenital inguinal hernia,429200006,2694577015,,32
+3522012015,3,^ESCT1166920,,Repair of recurrent left inguinal hernia,736717003,3522012015,,31
+3522014019,6,^ESCT1166921,,Repair of recurrent right inguinal hernia,736718008,3522014019,,31
+3522023016,100,^ESCT1166922,,Repair of left inguinal hernia,736719000,3522023016,,31
+3522025011,100,^ESCT1166923,,Repair of right inguinal hernia,736720006,3522025011,,31
+3524738011,3,^ESCT1166976,,Repair of left femoral hernia,736759002,3524738011,,31
+3524740018,5,^ESCT1166977,,Repair of right femoral hernia,736760007,3524740018,,31
+3526659011,1,^ESCT1167342,,Repair of ventral hernia using prosthesis,737068000,3526659011,,31
+3535146018,10,^ESCT1168318,,Left inguinal herniotomy,739132001,3535146018,,31
+3535152017,20,^ESCT1168320,,Right inguinal herniotomy,739133006,3535152017,,31
+3545508019,1,^ESCT1168431,,Left recurrent femoral hernia,741677004,3545508019,,31
+3620652013,2,^ESCT1168526,,Repair of left femoral hernia using surgical mesh,758601001,3620652013,,31
+3620945013,30,^ESCT1168509,,Laparoscopic repair of left inguinal hernia using surgical mesh,746215009,3620945013,,31
+3620947017,30,^ESCT1168510,,Laparoscopic repair of right inguinal hernia using surgical mesh,746220009,3620947017,,31
+3620949019,4,^ESCT1168501,,Left femoral hernia without obstruction and without gangrene,746009000,3620949019,,32
+3620955012,4,^ESCT1168502,,Right femoral hernia without obstruction and without gangrene,746010005,3620955012,,32
+3620959018,30,^ESCT1168573,,Repair of left inguinal hernia using surgical mesh,758662006,3620959018,,31
+3620961010,30,^ESCT1168574,,Repair of right inguinal hernia using surgical mesh,758663001,3620961010,,31
+3634326011,2,^ESCT1168714,,Repair of right direct inguinal hernia,761928003,3634326011,,31
+3634337012,3,^ESCT1168719,,Repair of left direct inguinal hernia,761933004,3634337012,,31
+3634340012,9,^ESCT1168720,,Repair of left indirect inguinal hernia,761934005,3634340012,,31
+3634341011,3,^ESCT1168721,,Repair of right indirect inguinal hernia,761935006,3634341011,,31
+3634377016,1,^ESCT1168736,,Repair of left direct and indirect inguinal hernia,761951003,3634377016,,31
+66981000006118,300,J332,J332.00,Irreducible ventral hernia,414543001,2536954014,,32
+67061000006112,100,J331,J331.00,Ventral hernia with obstruction,414923000,2536955010,,32
+79601000006118,2000,J322,J322.00,Irreducible umbilical hernia,196863007,302788010,,32
+79651000006119,800,J321,J321.00,Obstructed umbilical hernia,196859000,302784012,,32
+80511000006116,200,J3120,J312000,Unilateral femoral hernia - irreducible,196837002,302757011,,32
+80521000006112,400,J3130,J313000,Unilateral femoral hernia - simple,75281002,125022017,,32
+80531000006110,90,J31y0,J31y000,Unilateral femoral hernia - unspecified,413350009,2531746019,,32
+80551000006115,300,J3110,J311000,Unilateral femoral hernia with obstruction,38897008,491826015,,32
+80611000006115,1000,J3020,J302000,Unilateral irreducible inguinal hernia,196809009,302720017,,32
+80621000006111,30000,J3030,J303000,Uncomplicated inguinal hernia,196815009,302728012,,32
+80631000006114,800,J30y0,J30y000,Unilateral inguinal hernia unspecified,396232000,1776213016,,32
+80651000006119,500,J3010,J301000,Unilateral inguinal hernia with obstruction,329022007,467279016,,32
+80781000006116,10,J3121,J312100,Unilateral recurrent femoral hernia - irreducible,196837002,302757011,,32
+80791000006118,30,J3131,J313100,Unilateral recurrent femoral hernia - simple,196843000,302763019,,32
+80801000006117,20,J31y1,J31y100,Unilateral recurrent femoral hernia - unspecified,413350009,2531746019,,32
+80821000006110,20,J3111,J311100,Unilateral recurrent femoral hernia with obstruction,90075008,508830017,,32
+80831000006113,200,J3021,J302100,Unilateral recurrent inguinal hernia - irreducible,196809009,302720017,,32
+80841000006115,2000,J3031,J303100,Unilateral recurrent simple inguinal hernia,767678008,3673909011,,32
+80851000006118,2000,J30y1,J30y100,Unilateral recurrent inguinal hernia unspecified,1171000119108,2966881018,,32
+80871000006111,50,J3011,J301100,Unilateral recurrent inguinal hernia with obstruction,196807006,302718015,,32
+142231000006110,5000,J333,J333.00,Uncomplicated hernia of anterior abdominal wall,415771000,2534688016,,32
+172681000006114,300,7H150,7H15000,Repair of umbilical hernia using insert of natural material,177888001,275356017,,32
+172691000006112,2000,7H152,7H15200,Umbilical herniorrhaphy using surgical sutures,719289004,3316010018,,32
+172931000006119,2000,7H181,7H18100,Repair of ventral hernia with prosthesis or graft,177862004,275305014,,32
+173011000006116,2,7H140,7H14000,Repair of recurrent femoral hernia using insert of natural material,177882000,275348015,,32
+173021000006112,20,7H141,7H14100,Repair of recurrent femoral hernia using insert of prosthetic material,177883005,275351010,,32
+173051000006115,100,7H120,7H12000,Repair of recurrent inguinal hernia using insert of natural material,177869008,275322011,,32
+173061000006118,1000,7H121,7H12100,Repair of recurrent inguinal hernia using insert of prosthetic material,177870009,275323018,,32
+173071000006113,3000,7H151,7H15100,Repair of umbilical hernia with prosthesis,12240002,21077019,,32
+176191000006119,10,7H143,7H14300,Removal of prosthetic material from previous repair of femoral hernia,177885003,275353013,,32
+176201000006116,80,7H123,7H12300,Removal of prosthetic material from previous repair of inguinal hernia,177872001,275326014,,32
+176211000006118,10,7H183,7H18300,Removal of prosthetic material from previous repair of ventral hernia,177909005,275391013,,32
+179031000006113,6000,7H18-1,7H18.11,Repair of ventral hernia,238192002,357047017,,32
+180901000006116,20,7H153,7H15300,Remov prosthet material fr previous repair umbilical hernia,177890000,275361015,,32
+205991000006117,60,7H130,7H13000,Primary repair of femoral hernia using insert of natural material,177876003,275333014,,32
+206001000006116,400,7H131,7H13100,Primary repair of femoral hernia using insert of prosthetic material,177877007,275336018,,32
+206011000006118,400,7H113,7H11300,Primary repair of inguinal hernia and reduction of sliding hernia,177864003,275314016,,32
+206021000006114,2000,7H110,7H11000,Primary repair of inguinal hernia using insert of natural material,177861006,275303019,,32
+208951000006115,20000,7H111,7H11100,Primary repair of inguinal hernia using insert of prosthetic material,177862004,275306010,,32
+383001000000113,500,7H1Cy,7H1Cy00,Other specified primary repair of umbilical hernia,428649003,2691953015,,32
+383021000000116,500,7H1Cz,7H1Cz00,Primary repair of umbilical hernia NOS,428649003,2691953015,,32
+399211000000117,100,7H1Dz,7H1Dz00,Repair of recurrent umbilical hernia NOS,425710008,2676339018,,32
+399231000000113,200,7H1Dy,7H1Dy00,Other specified repair of recurrent umbilical hernia,425710008,2676339018,,32
+405101000006114,200,Jyu32,Jyu3200,[X]Oth spcfd abdominal hernia without obstructn or gangrene,52515009,87396010,,32
+413911000006113,100,Jyu30,Jyu3000,"[X]Other specified abdominal hernia+obstruction,w'o gangrene",52515009,87396010,,32
+510951000006113,20,J3122,J312200,Bilateral femoral hernia - irreducible,196840002,302760016,,32
+510961000006110,80,J3132,J313200,Bilateral femoral hernia - simple,67069009,500604017,,32
+510971000006115,100,J31y2,J31y200,Bilateral femoral hernia - unspecified,50063009,83392011,,32
+510991000006119,30,J3112,J311200,Bilateral femoral hernia with obstruction,17650003,478389019,,32
+511061000006117,200,J3022,J302200,Bilateral inguinal hernia - irreducible,196812007,302725010,,32
+511071000006112,10000,J3032,J303200,Bilateral simple inguinal hernia,196818006,302736015,,32
+511091000006113,10000,J30y2,J30y200,Bilateral inguinal hernia,85502002,141720018,,32
+511111000006116,70,J3012,J301200,Bilateral inguinal hernia with obstruction,66135001,109838011,,32
+511291000006117,2,J3123,J312300,Bilateral recurrent femoral hernia - irreducible,196841003,302761017,,32
+511301000006116,5,J3133,J313300,Bilateral recurrent femoral hernia - simple,12073000,465056014,,32
+511311000006118,5,J31y3,J31y300,Bilateral recurrent femoral hernia - unspecified,50063009,83392011,,32
+511331000006112,3,J3113,J311300,Bilateral recurrent femoral hernia with obstruction,26320009,483173019,,32
+511341000006119,30,J3023,J302300,Bilateral recurrent inguinal hernia - irreducible,196813002,302726011,,32
+511351000006117,200,J3033,J303300,Bilateral recurrent inguinal hernia - simple,196819003,302737012,,32
+511361000006115,200,J30y3,J30y300,Bilateral recurrent inguinal hernia unspecified,396232000,1776213016,,32
+511381000006113,5,J3013,J301300,Bilateral recurrent inguinal hernia with obstruction,73052009,502341019,,32
+545531000006113,20,7H132-1,7H13211,Cheadle repair of femoral hernia,238171002,357015010,,32
+622171000006119,10000,J30-2,J30..12,Direct inguinal hernia,73147001,121486017,,32
+668611000006111,600,J312,J312.00,Irreducible femoral hernia,196837002,302757011,,32
+668621000006115,30,J312z,J312z00,Femoral hernia - irreducible and NOS,196837002,302757011,,32
+668671000006119,900,J311,J311.00,Obstructed femoral hernia,196835005,302755015,,32
+668681000006116,100,J311z,J311z00,Femoral hernia with obstruction NOS,196835005,302755015,,32
+668811000006112,300,7H112-2,7H11212,Ferguson repair of inguinal hernia,44558001,74324015,,32
+714841000006112,50,7H112-3,7H11213,McVay repair of inguinal hernia,44558001,74324015,,32
+715371000006113,600,7H152-1,7H15211,Mayo umbilical herniorrhaphy,719289004,3316010018,,32
+736361000006117,30,7H132-3,7H13213,Lockwood repair of femoral hernia,238171002,357015010,,32
+739341000006112,3000,J301,J301.00,Obstructed inguinal hernia,196807006,302718015,,32
+739351000006114,600,J301z,J301z00,Inguinal hernia with obstruction NOS,196807006,302718015,,32
+778441000006114,4000,J302,J302.00,Irreducible inguinal hernia,196809009,302720017,,32
+778451000006111,200,J302z,J302z00,Inguinal hernia - irreducible and NOS,196809009,302720017,,32
+778471000006118,1000,J30y,J30y.00,Inguinal hernia unspecified,396232000,1776213016,,32
+781271000006116,20000,J30-3,J30..13,Indirect inguinal hernia,65626001,109026015,,32
+820271000006117,10,7H132-2,7H13212,Henry repair of femoral hernia,238171002,357015010,,32
+872931000006112,900,7H1-98,7H1..98,Inguinal/femoral hernia op.NOS,177853001,872931000006112,,32
+872941000006119,10000,7H1-99,7H1..99,Inguinal/femoral hernia repair,177853001,872941000006119,,32
+872961000006115,2000,7H11-98,7H11.98,Inguinal herniorrhaphy -bilat.,177860007,872961000006115,,32
+872971000006110,20000,7H11-99,7H11.99,Inguinal herniorrhaphy-unilat.,177860007,872971000006110,,32
+872991000006111,900,7H13-99,7H13.99,Femoral herniorrhapy - unilat.,264959005,872991000006111,,32
+873001000006112,3000,7H15-98,7H15.98,Umbilical hernia repair NOS,44946007,873001000006112,,32
+873011000006110,1000,7H15-99,7H15.99,Paraumbilical hernia repair,44946007,873011000006110,,32
+873031000006116,1000,7H18-97,7H18.97,Other ventral hernia repair,238192002,873031000006116,,32
+886141000006112,60,J3-99,J3...99,Abdominal cavity herniae,52515009,886141000006112,,32
+886151000006114,200,J301-99,J301.99,Inguinal hernia + obstruction,196807006,886151000006114,,32
+886161000006111,2000,J30z-98,J30z.98,"Inguinal hernia - indirect,NOS",647891000000101,886161000006111,,32
+886171000006116,2000,J30z-99,J30z.99,"Inguinal hernia - direct, NOS",647891000000101,886171000006116,,32
+886181000006118,100,J31-99,J31..99,Femoral hernia - complicated,50063009,886181000006118,,32
+886191000006115,7000,J323-99,J323.99,Umbilical hernia - simple,196867008,886191000006115,,32
+886201000006117,1000,J3231-99,J323199,Paraumbilical hernia - simple,196869006,886201000006117,,32
+886211000006119,300,J33-99,J33..99,Abdominal hernia NOS - simple,414396006,886211000006119,,32
+886241000006115,400,J33z-99,J33z.99,Abdominal hernia NOS - simple,618881000000107,886241000006115,,32
+886271000006111,600,J3z-99,J3z..99,Abdominal herniae NOS,611821000000102,886271000006111,,32
+932691000006113,200,J3331-98,J333198,Abdominal hernia NOS - simple,196894007,932691000006113,,32
+933051000006116,900,7H18-96,7H18.96,Paraumbilical hernia repair,9877001,933051000006116,,32
+933061000006119,1000,7H15z-99,7H15z99,Umbilical hernia repair NOS,634271000000109,933061000006119,,32
+989181000006118,10,J3-98,J3...98,Abdominal hernia NOS - simple,52515009,989181000006118,,32
+989191000006115,6,J3-97,J3...97,Abdominal hernia NOS - simple,52515009,989191000006115,,32
+990771000006112,30,J304-99,J304.99,"Inguinal hernia - direct, NOS",73147001,990771000006112,,32
+990781000006110,1,J305-99,J305.99,"Inguinal hernia - indirect,NOS",65626001,990781000006110,,32
+991641000006117,10,J3-96,J3...96,Abdominal herniae NOS,52515009,991641000006117,,32
+1552001000006116,80,7H1C0,7H1C000,Primary repair of umbilical hernia using natural material,429777007,2694585012,,32
+1552011000006118,600,7H1C1,7H1C100,Primary repair of umbilical hernia using prosthetic material,429378000,2693426015,,32
+1552021000006114,500,7H1C2,7H1C200,Primary repair of umbilical hernia using suture,428836006,2694049018,,32
+1552031000006112,20,7H1C3,7H1C300,Removal of prosthetic material from previous repair of umbilical hernia,177890000,275361015,,32
+1552071000006110,10,7H1D0,7H1D000,Repair of recurrent umbilical hernia using insert of natural material,427361001,2675937015,,32
+1552081000006113,100,7H1D1,7H1D100,Repair of recurrent umbilical hernia using insert of prosthetic material,426207005,2675936012,,32
+1552091000006111,40,7H1D2,7H1D200,Repair of recurrent umbilical hernia using surgical sutures,425640000,3315856019,,32
+1681681000000116,100,7H1E2,7H1E200,Repair of recurrent ventral hernia using sutures,763099006,3637865010,,32
+1767901000006113,300,7H1E,7H1E.00,Repair of recurrent hernia of abdominal wall,763821000000105,1694311000000119,,32
+1767911000006111,20,7H1E0,7H1E000,Repair of recurrent ventral hernia using insert of natural material,763100003,3637866011,,32
+1767921000006115,100,7H1E1,7H1E100,Repair of recurrent ventral hernia using insert of prosthetic material,763098003,3637862013,,32
+1767941000006110,80,7H1Ey,7H1Ey00,Other specified repair recurrent other hernia abdominal wall,763821000000105,1694311000000119,,32
+1767951000006112,30,7H1Ez,7H1Ez00,Repair of recurrent other hernia of abdominal wall NOS,763821000000105,1694311000000119,,32
+2480961000000112,900,PG73,PG73.00,Congenital umbilical hernia,975231000000107,2480961000000112,,32
+2555631000006110,10,^ESCTBI255563,,Bilateral recurrent inguinal hernia,3560000,7004016,,32
+2619951000006110,4,^ESCTUM261995,,Umbilical hernia without obstruction AND without gangrene,7544003,13450011,,31
+2657261000006119,500,^ESCTRE265726,,Repair of paraumbilical hernia,9877001,17246018,,32
+2701101000006119,6,^ESCTRE270110,,Repair of incarcerated inguinal hernia,12646000,21725018,,31
+2726461000000119,100,^ESCT1171571,,Open repair of inguinal hernia using synthetic mesh,1088311000000100,2726461000000119,,31
+2726491000000113,7,^ESCT1171573,,Open repair of inguinal hernia using biological mesh,1088321000000106,2726491000000113,,31
+2726521000000111,1,^ESCT1171575,,Open repair of recurrent inguinal hernia using sutures,1088331000000108,2726521000000111,,31
+2726551000000118,10,^ESCT1171577,,Open repair of recurrent inguinal hernia using synthetic mesh,1088341000000104,2726551000000118,,31
+2726631000000114,1,^ESCT1171584,,Open umbilical herniorrhaphy,1088371000000105,2726631000000114,,31
+2726641000000117,40,^ESCT1171583,,Open repair of umbilical hernia using sutures,1088371000000105,2726641000000117,,31
+2726661000000116,1,^ESCT1171586,,Open umbilical hernioplasty using synthetic mesh,1088381000000107,2726661000000116,,31
+2726671000000111,30,^ESCT1171585,,Open repair of umbilical hernia using synthetic mesh,1088381000000107,2726671000000111,,31
+2726781000000117,1,^ESCT1171594,,Laparoscopic umbilical hernioplasty using synthetic mesh,1088421000000103,2726781000000117,,31
+2726791000000115,5,^ESCT1171593,,Laparoscopic repair of umbilical hernia using synthetic mesh,1088421000000103,2726791000000115,,31
+2727061000000110,1,^ESCT1171611,,Open repair of recurrent umbilical hernia using synthetic mesh,1088511000000108,2727061000000110,,31
+2727181000000119,3,^ESCT1171619,,Laparoscopic repair of recurrent umbilical hernia using synthetic mesh,1088551000000107,2727181000000119,,31
+2728651000000118,1,^ESCT1171716,,Open femoral hernioplasty using synthetic mesh,1089041000000106,2728651000000118,,31
+2728711000000111,2,^ESCT1171718,,Open inguinal herniorrhaphy,1089061000000107,2728711000000111,,31
+2728831000000114,6,^ESCT1171722,,Laparoscopic TAPP (transabdominal preperitoneal) repair of inguinal hernia using synthetic mesh,1089111000000106,2728831000000114,,31
+2728851000000119,4,^ESCT1171725,,Laparoscopic TEP (totally extraperitoneal) inguinal hernioplasty using synthetic mesh,1089121000000100,2728851000000119,,31
+2728861000000116,20,^ESCT1171724,,Laparoscopic TEP (totally extraperitoneal) repair of inguinal hernia using synthetic mesh,1089121000000100,2728861000000116,,31
+2728941000000114,1,^ESCT1171731,,Laparoscopic TAPP (transabdominal preperitoneal) femoral hernioplasty using synthetic mesh,1089151000000105,2728941000000114,,31
+2728951000000112,2,^ESCT1171730,,Laparoscopic TAPP (transabdominal preperitoneal) repair of femoral hernia using synthetic mesh,1089151000000105,2728951000000112,,31
+2728981000000118,4,^ESCT1171732,,Laparoscopic TEP (totally extraperitoneal) repair of femoral hernia using synthetic mesh,1089161000000108,2728981000000118,,31
+2737891000006117,200,^ESCTLA273789,,Laparoscopic repair of inguinal hernia,15018006,25492017,,31
+2742511000000115,10,^ESCT1172353,,Recurrent umbilical hernia,1094901000000105,2742511000000115,,31
+2794541000006112,20,^ESCTRE279454,,Repair of strangulated inguinal hernia,18563000,31315018,,31
+2933671000006119,1,^ESCTRE293367,,Repair of femoral hernia with groin incision,27077007,45300014,,31
+2990851000006114,6,^ESCTIN299085,,Intra-abdominal hernia,30477007,51003017,,31
+3125921000006118,2,^ESCTUN312592,,Unilateral femoral hernia with obstruction but no gangrene,38897008,65240013,,32
+3125931000006115,3,^ESCTUN312593,,Unilateral obstructed femoral hernia,38897008,491826015,,32
+3133561000006117,4,^ESCTMA313356,,Manual reduction of internal abdominal hernia,39376007,66025013,,31
+3218041000006110,7000,^ESCTRE321804,,Repair of inguinal hernia,44558001,74324015,,32
+3292241000006116,3,^ESCTRE329224,,Repair of paraumbilical hernia with prosthesis,48964006,81575013,,31
+3347451000006119,2,^ESCTUN334745,,Unilateral inguinal hernia,52278004,86990016,,31
+3351531000006117,30,^ESCTAB335153,,Abdominal hernia,52515009,496340012,,32
+3358061000006111,1,^ESCTRE335806,,Repair of diaphragmatic hernia by abdominal approach,52917009,88054017,,32
+3409661000006111,1,^ESCTUN340966,,Unilateral inguinal hernia with obstruction but no gangrene,55993003,93124013,,31
+3410981000006115,1,^ESCTRE341098,,Repair of sliding inguinal hernia,56062008,93252010,,31
+3590431000006116,4,^ESCTBI359043,,Bilateral simple femoral hernia,67069009,500604017,,32
+3597781000006112,1,^ESCTRE359778,,Repair of inguinal hernia with orchiectomy,67476008,112129017,,31
+3688241000006117,1,^ESCTBI368824,,Bilateral obstructed recurrent inguinal hernia,73052009,502341019,,32
+3692191000006119,1,^ESCTAN369219,,"Anesthesia for ventral or incisional hernia repair, lower abdomen",73311007,121742011,,31
+3724121000006114,2,^ESCTFE372412,,Femoral hernia without obstruction AND without gangrene,75281002,125022017,,32
+3830201000006117,2,^ESCTLA383020,,Laparoscopic bilateral repair of inguinal hernia with prosthesis or graft,81803007,135704015,,31
+3870371000006116,5,^ESCTIN387037,,Inguinal hernia without obstruction AND without gangrene,84231005,139693018,,31
+3964181000006114,2,^ESCTUN396418,,Unilateral recurrent obstructed femoral hernia,90075008,508830017,,32
+3971801000006117,1,^ESCTBI397180,,"Bilateral repair of inguinal hernia, indirect",90565002,150098010,,31
+4410801000006116,1000,^ESCTHE441080,,Hernia of abdominal wall,128545000,206911018,,32
+4679991000006119,30,^ESCTPR467999,,Primary repair inguinal hernia using natural material,177861006,275304013,,32
+4680011000006111,7000,^ESCTPR468001,,Primary repair of inguinal hernia using synthetic patch,177862004,275305014,,32
+4680091000006118,70,^ESCTRE468009,,Repair of recurrent inguinal hernia using synthetic patch,177870009,275324012,,32
+4680131000006116,9,^ESCTPR468013,,Primary repair femoral hernia using natural material,177876003,275334015,,32
+4680151000006111,30,^ESCTPR468015,,Primary repair of femoral hernia using synthetic patch,177877007,275335019,,32
+4680181000006115,2,^ESCTRE468018,,Repair recurr femoral hernia using natural material,177882000,275349011,,32
+4680201000006119,1,^ESCTRE468020,,Repair of recurrent femoral hernia using synthetic patch,177883005,275350011,,32
+4680241000006117,9,^ESCTUM468024,,Umbilical herniorrhaphy using natural material,177888001,275356017,,32
+4784781000006116,1,^ESCTIN478478,,Inguinal hernia with incarceration,196809009,302721018,,32
+4784821000006110,8,^ESCTBI478482,,Bilateral irreducible inguinal hernia,196812007,302725010,,32
+4784881000006114,10,^ESCTBI478488,,Bilateral recurrent simple inguinal hernia,196819003,302737012,,32
+4784961000006112,1,^ESCTBI478496,,Bilateral irreducible femoral hernia,196840002,302760016,,32
+4784981000006119,10,^ESCTUN478498,,Uncomplicated femoral hernia,196843000,302763019,,32
+4785071000006117,20,^ESCTIN478507,,Incarcerated umbilical hernia,196863007,302789019,,32
+4785101000006110,700,^ESCTUN478510,,Uncomplicated umbilical hernia,196867008,302793013,,32
+5088711000006111,7,^ESCTRI508871,,RIH - Right inguinal hernia,236021006,353795016,,32
+5088731000006117,3,^ESCTLI508873,,LIH - Left inguinal hernia,236022004,353796015,,32
+5088741000006110,30,^ESCTST508874,,Strangulated inguinal hernia,236024003,353799010,,31
+5088761000006114,2,^ESCTRI508876,,Richter's inguinal hernia,236025002,353801013,,32
+5088811000006119,20,^ESCTST508881,,Strangulated femoral hernia,236030003,353807012,,31
+5088821000006110,3,^ESCTRI508882,,Richter's femoral hernia,236031004,353808019,,32
+5088841000006115,30,^ESCTST508884,,Strangulated umbilical hernia,236032006,353809010,,31
+5118281000006117,3,^ESCTAB511828,,Abdominal wall hernia procedure,238165008,357008019,,31
+5118301000006118,2,^ESCTIN511830,,Inguinal herniorrhaphy using sutures,238167000,357011018,,31
+5118311000006115,2,^ESCTIN511831,,Inguinal herniorrhaphy,238167000,3315753019,,31
+5118331000006114,1,^ESCTIN511833,,Inguinal herniorrhaphy using darn,238168005,357012013,,31
+5118341000006116,7,^ESCTIN511834,,Inguinal herniorrhaphy using synthetic patch,238169002,357013015,,31
+5118361000006117,900,^ESCTRE511836,,Repair of femoral hernia,238171002,357015010,,32
+5118411000006113,70,^ESCTRE511841,,Repair of supraumbilical hernia,238175006,357021014,,31
+5118651000006111,40,^ESCTRE511865,,Repair of hernia of anterior abdominal wall,238192002,3036134016,,32
+5570971000006111,20,^ESCTLI557097,,Lichtenstein repair of inguinal hernia,275240008,2818525011,,31
+5727761000006115,1,^ESCTFE572776,,Femoral herniorrhaphy - bilateral,287841005,427409016,,31
+5727781000006113,3,^ESCTUN572778,,Unilateral repair of femoral hernia,287842003,2536123014,,31
+5727801000006112,30,^ESCTUN572780,,Unilateral repair of inguinal hernia,287843008,2820561018,,31
+5887991000006118,100,^ESCTRE588799,,Reducible umbilical hernia,301008003,442238019,,31
+6029191000006118,10,^ESCTST602919,,Strangulated paraumbilical hernia,313359006,457250013,,31
+6146331000006117,10,^ESCTIN614633,,Inguinal hernia with obstruction but no gangrene,329022007,467279016,,32
+6566171000006116,1,^ESCTIH656617,,IH - Inguinal hernia,396232000,1785515013,,32
+6857661000006112,1000,^ESCTHE685766,,Hernia of anterior abdominal wall,414396006,2533163018,,32
+6857731000006112,1,^ESCTVE685773,,Ventral hernia without obstruction AND without gangrene,414399004,2537493018,,31
+6858871000006119,4,^ESCTVE685887,,Ventral incisional hernia,414474001,2533152016,,32
+6858881000006116,2,^ESCTIN685888,,Incisional hernia of anterior abdominal wall,414474001,2536933019,,32
+6858941000006117,3,^ESCTIN685894,,Incisional hernia of anterior abdominal wall without obstruction AND without gangrene,414477008,2536951018,,31
+6860201000006119,6,^ESCTIR686020,,Irreducible hernia of anterior abdominal wall,414543001,2533164012,,32
+6872711000006118,1,^ESCTRE687271,,Recurrent hernia of anterior abdominal wall,415251008,2533167017,,31
+6872791000006111,1,^ESCTRE687279,,Recurrent ventral incisional hernia,415254000,2533156018,,31
+6872801000006112,1,^ESCTRE687280,,Recurrent incisional hernia of anterior abdominal wall,415254000,2536941019,,31
+6879971000006118,1,^ESCTST687997,,Strangulated hernia of anterior abdominal wall,415594002,2533170018,,31
+7106611000006112,2,^ESCTRE710661,,Repair of reducible inguinal hernia,429653007,2695174013,,31
+7488951000006118,6,^ESCTLA748895,,Laparoscopic repair of femoral hernia,608789001,2958747011,,31
+7489021000006119,4,^ESCTOP748902,,Open repair of femoral hernia,608796004,2959459017,,31
+7489031000006116,200,^ESCTOP748903,,Open repair of inguinal hernia,608797008,2958878016,,31
+7495481000006112,3,^ESCTLA749548,,Laparoscopic repair of inguinal hernia with prosthesis,609257003,2958483015,,31
+7495531000006110,2,^ESCTLA749553,,Laparoscopic repair of recurrent inguinal hernia with prosthesis,609262002,2958928017,,31
+7495611000006115,4,^ESCTOP749561,,Open repair of recurrent paraumbilical hernia with prosthesis,609270007,2959099014,,31
+7584391000006114,1,^ESCTLA758439,,Laparoscopic repair of ventral hernia,703945007,3011234015,,31
+7642321000006119,20,^ESCTLA764232,,Laparoscopic bilateral repair of direct inguinal hernia,708970009,3037129012,,31
+7642341000006114,3,^ESCTLA764234,,Laparoscopic bilateral repair of indirect inguinal hernia,708972001,3037620010,,31
+7784151000006119,5,^ESCTIN778415,,Inguinal hernioplasty,719265006,3315758011,,31
+7784161000006117,20,^ESCTRE778416,,Repair of inguinal hernia using surgical mesh,719265006,3315757018,,31
+7784461000006113,8,^ESCTRE778446,,Repair of ventral hernia using surgical mesh,719283003,3315833011,,31
+7784591000006118,7,^ESCTRE778459,,Repair of umbilical hernia using surgical sutures,719289004,3316019017,,32
+7784621000006116,40,^ESCTRE778462,,Repair of umbilical hernia using surgical mesh,719290008,3315859014,,31
+7790311000006113,1,^ESCTRE779031,,Repair of ventral hernia using surgical sutures,719726009,3317595012,,32
+7967741000006117,800,^ESCTRE796774,,Recurrent inguinal hernia,1171000119108,2966881018,,32
+8255631000006110,10,^ESCTRE825563,,Repair of paraumbilical hernia using suture,800781000000107,1790471000000119,,31
+8255641000006117,3,^ESCTPR825564,,Primary repair of paraumbilical hernia using suture,800791000000109,1790491000000115,,31
+8255651000006115,2,^ESCTRE825565,,Repair of recurrent paraumbilical hernia using suture,800801000000108,1790511000000111,,31
+8257021000006112,1,^ESCTPR825702,,Primary repair of paraumbilical hernia with prosthesis,802971000000109,1795151000000114,,31
+12021841000006116,1,^ESCT1202184,,Incarcerated left femoral hernia,764808002,3655145012,,31
+12021861000006117,2,^ESCT1202186,,Incarcerated right femoral hernia,764809005,3655148014,,31
+12023461000006119,4,^ESCT1202346,,Open repair of ventral hernia,764919003,3655623010,,31
+12023491000006110,1,^ESCT1202349,,Open repair of strangulated ventral hernia,764922001,3655628018,,31
+12059621000006112,40,^ESCT1205962,,Recurrent left inguinal hernia,767678008,3673909011,,32
+12059631000006110,10,^ESCT1205963,,Recurrent right inguinal hernia,767679000,3673911019,,31
+12059701000006114,1,^ESCT1205970,,Irreducible left inguinal hernia,767686008,3673925018,,31
+12064681000006118,6,^ESCT1206468,,Bilateral femoral hernia,768001004,3683699014,,32
+12126071000006117,70,^ESCT1212607,,Right femoral hernia,15971181000119105,3637837013,,32
+12126081000006119,40,^ESCT1212608,,Left femoral hernia,15971541000119105,3637839011,,32
+13628721000006114,5,^ESCT1362872,,Left direct inguinal hernia,783253009,3758295019,,31
+13948361000006119,400,^ESCT1394836,,No hernia of abdominal cavity,846755006,3915483016,,27
+14165371000006112,500,^ESCT1416537,,Right inguinal herniotomy,1052228009,4279116018,,32
+14165381000006110,300,^ESCT1416538,,Left inguinal herniotomy,1052229001,4279118017,,32
+14179731000006118,5,^ESCT1417973,,Bilateral direct inguinal hernias,15971661000119105,4028701017,,31
+14179751000006113,1,^ESCT1417975,,Indirect left inguinal hernia,15971861000119106,4024808011,,31
+14179761000006110,3,^ESCT1417976,,Indirect right inguinal hernia,15971901000119100,4024814016,,31
+14179781000006117,1,^ESCT1417978,,Indirect bilateral inguinal hernias,15972061000119109,4024816019,,31

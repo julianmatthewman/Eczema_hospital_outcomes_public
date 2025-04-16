@@ -1,0 +1,5 @@
+code,description,coding_system,concept_id,concept_version_id,concept_name,phenotype_id,phenotype_version_id,phenotype_name,code_attributes
+K85,Acute pancreatitis,ICD10 codes,C1341,3821,Pancreatitis - Secondary care - Diagnoses,PH232,464,Pancreatitis,"{'Disease': 'Pancreatitis', 'Category': 'Diagnosis of Pancreatitis'}"
+K86.0,Alcohol-induced chronic pancreatitis,ICD10 codes,C1341,3821,Pancreatitis - Secondary care - Diagnoses,PH232,464,Pancreatitis,"{'Disease': 'Pancreatitis', 'Category': 'Diagnosis of Pancreatitis'}"
+K86.1,Other chronic pancreatitis,ICD10 codes,C1341,3821,Pancreatitis - Secondary care - Diagnoses,PH232,464,Pancreatitis,"{'Disease': 'Pancreatitis', 'Category': 'Diagnosis of Pancreatitis'}"
+K86.3,Pseudocyst of pancreas,ICD10 codes,C1341,3821,Pancreatitis - Secondary care - Diagnoses,PH232,464,Pancreatitis,"{'Disease': 'Pancreatitis', 'Category': 'Diagnosis of Pancreatitis'}"

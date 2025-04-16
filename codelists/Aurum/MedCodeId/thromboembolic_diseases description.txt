@@ -1,0 +1,3 @@
+Mapped GOLD codelist from https://phenotypes.healthdatagateway.org/phenotypes/PH338/version/676/detail/ to Aurum.
+
+Does not include superficial venous thrombosis

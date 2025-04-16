@@ -1,0 +1,2 @@
+code,description,coding_system,concept_id,concept_version_id,concept_name,phenotype_id,phenotype_version_id,phenotype_name,code_attributes
+G35,Multiple sclerosis,ICD10 codes,C857,2853,Multiple sclerosis - Secondary care - Diagnoses,PH63,126,Multiple sclerosis,"{'Disease': 'Multiple sclerosis', 'Category': 'Diagnosis of Multiple sclerosis'}"

@@ -1,0 +1,167 @@
+﻿readcode,medcode,readterm,icdcode,ca_lung,ca_breast,ca_prostate,ca_pancreas,ca_melanoma,ca_non_melanoma,ca_mm,ca_leukaemia,ca_meningioma,ca_glioma,ca_CNSother,ca_cns,ca_nhl,ca_hodgkins,ca_lymphomaNonCut
+4M20.00,60918,lymphoma stage i,C85,,,,,,,,,,,,,1,,1
+4M21.00,94935,lymphoma stage ii,C85,,,,,,,,,,,,,1,,1
+4M22.00,32240,lymphoma stage iii,C85,,,,,,,,,,,,,1,,1
+4M23.00,71672,lymphoma stage iv,C85,,,,,,,,,,,,,1,,1
+A789600,44617,hiv disease resulting in burkitt's lymphoma,C83,,,,,,,,,,,,,1,,1
+A789700,66367,hiv dis resulting oth types of non-hodgkin's lymphoma,C85,,,,,,,,,,,,,1,,1
+AyuC600,69767,[x]hiv disease resulting in other non-hodgkin's lymphoma,C85,,,,,,,,,,,,,1,,1
+B60..00,41369,lymphosarcoma and reticulosarcoma,C85,,,,,,,,,,,,,1,,1
+B600.00,1481,reticulosarcoma,C83,,,,,,,,,,,,,1,,1
+B600000,60242,reticulosarcoma of unspecified site,C83,,,,,,,,,,,,,1,,1
+B600100,71031,"reticulosarcoma of lymph nodes of head, face and neck",C83,,,,,,,,,,,,,1,,1
+B600300,70374,reticulosarcoma of intra-abdominal lymph nodes,C83,,,,,,,,,,,,,1,,1
+B600700,95058,reticulosarcoma of spleen,C83,,,,,,,,,,,,,1,,1
+B600z00,99240,reticulosarcoma nos,C83,,,,,,,,,,,,,1,,1
+B601.00,27416,lymphosarcoma,C85,,,,,,,,,,,,,1,,1
+B601000,71625,lymphosarcoma of unspecified site,C85,,,,,,,,,,,,,1,,1
+B601100,71238,"lymphosarcoma of lymph nodes of head, face and neck",C85,,,,,,,,,,,,,1,,1
+B601200,62380,lymphosarcoma of intrathoracic lymph nodes,C85,,,,,,,,,,,,,1,,1
+B601300,64670,lymphosarcoma of intra-abdominal lymph nodes,C85,,,,,,,,,,,,,1,,1
+B601500,100352,lymphosarcoma of lymph nodes of inguinal region and leg,C85,,,,,,,,,,,,,1,,1
+B601700,103245,lymphosarcoma of spleen,C83,,,,,,,,,,,,,1,,1
+B601800,104790,lymphosarcoma of lymph nodes of multiple sites,C85,,,,,,,,,,,,,1,,1
+B601z00,63723,lymphosarcoma nos,C85,,,,,,,,,,,,,1,,1
+B602.00,21402,burkitt's lymphoma,C83,,,,,,,,,,,,,1,,1
+B602100,59115,"burkitt's lymphoma of lymph nodes of head, face and neck",C83,,,,,,,,,,,,,1,,1
+B602200,100006,burkitt's lymphoma of intrathoracic lymph nodes,C83,,,,,,,,,,,,,1,,1
+B602300,97577,burkitt's lymphoma of intra-abdominal lymph nodes,C83,,,,,,,,,,,,,1,,1
+B602500,92380,burkitt's lymphoma of lymph nodes of inguinal region and leg,C83,,,,,,,,,,,,,1,,1
+B602z00,71304,burkitt's lymphoma nos,C83,,,,,,,,,,,,,1,,1
+B60y.00,99887,other specified reticulosarcoma or lymphosarcoma,C85,,,,,,,,,,,,,1,,1
+B60z.00,99951,reticulosarcoma or lymphosarcoma nos,C85,,,,,,,,,,,,,1,,1
+B620.00,5179,nodular lymphoma (brill - symmers disease),C82,,,,,,,,,,,,,1,,1
+B620000,66327,nodular lymphoma of unspecified site,C82,,,,,,,,,,,,,1,,1
+B620100,45264,"nodular lymphoma of lymph nodes of head, face and neck",C82,,,,,,,,,,,,,1,,1
+B620200,105203,nodular lymphoma of intrathoracic lymph nodes,C82,,,,,,,,,,,,,1,,1
+B620300,92068,nodular lymphoma of intra-abdominal lymph nodes,C82,,,,,,,,,,,,,1,,1
+B620400,111766,nodular lymphoma of lymph nodes of axilla and upper limb,C82,,,,,,,,,,,,,1,,1
+B620500,94995,nodular lymphoma of lymph nodes of inguinal region and leg,C82,,,,,,,,,,,,,1,,1
+B620800,58082,nodular lymphoma of lymph nodes of multiple sites,C82,,,,,,,,,,,,,1,,1
+B620z00,65701,nodular lymphoma nos,C82,,,,,,,,,,,,,1,,1
+B627.00,3604,non - hodgkin's lymphoma,C85,,,,,,,,,,,,,1,,1
+B627.11,104391,non-hodgkin lymphoma,C85,,,,,,,,,,,,,1,,1
+B627000,28639,follicular non-hodgkin's small cleaved cell lymphoma,C82,,,,,,,,,,,,,1,,1
+B627100,70842,follicular non-hodg mixed sml cleavd & lge cell lymphoma,C82,,,,,,,,,,,,,1,,1
+B627200,49262,follicular non-hodgkin's large cell lymphoma,C82,,,,,,,,,,,,,1,,1
+B627300,50668,diffuse non-hodgkin's small cell (diffuse) lymphoma,C83,,,,,,,,,,,,,1,,1
+B627400,108182,diffuse non-hodgkin's small cleaved cell (diffuse) lymphoma,C83,,,,,,,,,,,,,1,,1
+B627500,50695,diffuse non-hodgkin mixed sml & lge cell (diffuse) lymphoma,C83,,,,,,,,,,,,,1,,1
+B627600,53551,diffuse non-hodgkin's immunoblastic (diffuse) lymphoma,C83,,,,,,,,,,,,,1,,1
+B627700,17460,diffuse non-hodgkin's lymphoblastic (diffuse) lymphoma,C83,,,,,,,,,,,,,1,,1
+B627800,65180,diffuse non-hodgkin's lymphoma undifferentiated (diffuse),C83,,,,,,,,,,,,,1,,1
+B627A00,101114,diffuse non-hodgkin's large cell lymphoma,C83,,,,,,,,,,,,,1,,1
+B627B00,31576,other types of follicular non-hodgkin's lymphoma,C82,,,,,,,,,,,,,1,,1
+B627C00,21549,follicular non-hodgkin's lymphoma,C82,,,,,,,,,,,,,1,,1
+B627C11,17182,follicular lymphoma nos,C82,,,,,,,,,,,,,1,,1
+B627D00,70509,diffuse non-hodgkin's centroblastic lymphoma,C83,,,,,,,,,,,,,1,,1
+B627E00,102594,diffuse large b-cell lymphoma,C83,,,,,,,,,,,,,1,,1
+B627G00,105038,mediastinal (thymic) large b-cell lymphoma,C83,,,,,,,,,,,,,1,,1
+B627W00,31794,unspecified b-cell non-hodgkin's lymphoma,C85,,,,,,,,,,,,,1,,1
+B627X00,39798,"diffuse non-hodgkin's lymphoma, unspecified",C83,,,,,,,,,,,,,1,,1
+B628.00,104152,follicular lymphoma,C82,,,,,,,,,,,,,1,,1
+B628000,105889,follicular lymphoma grade 1,C82,,,,,,,,,,,,,1,,1
+B628100,105095,follicular lymphoma grade 2,C82,,,,,,,,,,,,,1,,1
+B628200,107166,follicular lymphoma grade 3,C82,,,,,,,,,,,,,1,,1
+B628300,105020,follicular lymphoma grade 3a,C82,,,,,,,,,,,,,1,,1
+B628400,107973,follicular lymphoma grade 3b,C82,,,,,,,,,,,,,1,,1
+B628500,106969,diffuse follicle centre lymphoma,C82,,,,,,,,,,,,,1,,1
+B628700,106063,other types of follicular lymphoma,C82,,,,,,,,,,,,,1,,1
+B62E.00,105085,t/nk-cell lymphoma,C84,,,,,,,,,,,,,1,,1
+B62E100,105559,"anaplastic large cell lymphoma, alk-positive",C84,,,,,,,,,,,,,1,,1
+B62E200,105955,"anaplastic large cell lymphoma, alk-negative",C84,,,,,,,,,,,,,1,,1
+B62E400,109780,"extranodal nk/t-cell lymphoma, nasal type",C86,,,,,,,,,,,,,1,,1
+B62E500,107949,hepatosplenic t-cell lymphoma,C86,,,,,,,,,,,,,1,,1
+B62E600,105709,enteropathy-associated t-cell lymphoma,C86,,,,,,,,,,,,,1,,1
+B62E800,105375,blastic nk-cell lymphoma,C86,,,,,,,,,,,,,1,,1
+B62E900,105636,angioimmunoblastic t-cell lymphoma,C86,,,,,,,,,,,,,1,,1
+B62Ew00,104934,other mature t/nk-cell lymphoma,C84,,,,,,,,,,,,,1,,1
+B62F.00,106884,nonfollicular lymphoma,C83,,,,,,,,,,,,,1,,1
+B62F.11,106867,non-follicular lymphoma,C83,,,,,,,,,,,,,1,,1
+B62F000,104386,small cell b-cell lymphoma,C83,,,,,,,,,,,,,1,,1
+B62F100,104620,mantle cell lymphoma,C83,,,,,,,,,,,,,1,,1
+B62F200,104412,lymphoblastic (diffuse) lymphoma,C83,,,,,,,,,,,,,1,,1
+B62Fy00,111682,other non-follicular lymphoma,C85,,,,,,,,,,,,,1,,1
+B62x.00,17887,malignant lymphoma otherwise specified,C85,,,,,,,,,,,,,1,,1
+B62x000,90201,t-zone lymphoma,C84,,,,,,,,,,,,,1,,1
+B62x100,57737,lymphoepithelioid lymphoma,C84,,,,,,,,,,,,,1,,1
+B62x200,12464,peripheral t-cell lymphoma,C84,,,,,,,,,,,,,1,,1
+B62x400,62437,malignant reticulosis,C85,,,,,,,,,,,,,1,,1
+B62y.00,12335,malignant lymphoma nos,C85,,,,,,,,,,,,,1,,1
+B62y000,57427,malignant lymphoma nos of unspecified site,C85,,,,,,,,,,,,,1,,1
+B62y100,50696,"malignant lymphoma nos of lymph nodes of head, face and neck",C85,,,,,,,,,,,,,1,,1
+B62y200,72725,malignant lymphoma nos of intrathoracic lymph nodes,C85,,,,,,,,,,,,,1,,1
+B62y300,42579,malignant lymphoma nos of intra-abdominal lymph nodes,C85,,,,,,,,,,,,,1,,1
+B62y400,34089,malignant lymphoma nos of lymph nodes of axilla and arm,C85,,,,,,,,,,,,,1,,1
+B62y500,63105,malignant lymphoma nos of lymph node inguinal region and leg,C85,,,,,,,,,,,,,1,,1
+B62y600,71262,malignant lymphoma nos of intrapelvic lymph nodes,C85,,,,,,,,,,,,,1,,1
+B62y700,60092,malignant lymphoma nos of spleen,C85,,,,,,,,,,,,,1,,1
+B62y800,15504,malignant lymphoma nos of lymph nodes of multiple sites,C85,,,,,,,,,,,,,1,,1
+B62yz00,15027,malignant lymphoma nos,C85,,,,,,,,,,,,,1,,1
+B640000,104325,b-cell acute lymphoblastic leukaemia,C83,,,,,,,,,,,,,1,,1
+BBg..00,17178,"[m]lymphomas, nos or diffuse",C85,,,,,,,,,,,,,1,,1
+BBg1.00,36114,[m]malignant lymphoma nos,C85,,,,,,,,,,,,,1,,1
+BBg1.11,1483,[m]lymphoma nos,C85,,,,,,,,,,,,,1,,1
+BBg1000,23711,"[m]malignant lymphoma, diffuse nos",C83,,,,,,,,,,,,,1,,1
+BBg2.00,16460,"[m]malignant lymphoma, non hodgkin's type",C85,,,,,,,,,,,,,1,,1
+BBg2.11,3371,[m]non hodgkins lymphoma,C85,,,,,,,,,,,,,1,,1
+BBg3.00,71117,"[m]malignant lymphoma, undifferentiated cell type nos",C85,,,,,,,,,,,,,1,,1
+BBg4.00,46931,"[m]malignant lymphoma, stem cell type",C85,,,,,,,,,,,,,1,,1
+BBg5.00,69301,"[m]malignant lymphoma, convoluted cell type nos",C85,,,,,,,,,,,,,1,,1
+BBg6.00,99655,[m]lymphosarcoma nos,C85,,,,,,,,,,,,,1,,1
+BBg7.00,41754,"[m]malignant lymphoma, lymphoplasmacytoid type",C83,,,,,,,,,,,,,1,,1
+BBg8.00,48253,"[m]malignant lymphoma, immunoblastic type",C83,,,,,,,,,,,,,1,,1
+BBgA.00,68964,"[m]malignant lymphoma, centroblastic-centrocytic, diffuse",C83,,,,,,,,,,,,,1,,1
+BBgB.00,41841,"[m]malignant lymphoma, follicular centre cell nos",C82,,,,,,,,,,,,,1,,1
+BBgC.00,69980,"[m]malignant lymphoma, lymphocytic, well differentiated nos",C85,,,,,,,,,,,,,1,,1
+BBgC.11,21463,[m]lymphocytic lymphoma nos,C85,,,,,,,,,,,,,1,,1
+BBgC.12,60504,[m]lymphocytic lymphosarcoma nos,C85,,,,,,,,,,,,,1,,1
+BBgD.00,51852,"[m]malig lymphoma, lymphocytic, intermediate different nos",C85,,,,,,,,,,,,,1,,1
+BBgE.00,39906,"[m]malignant lymphoma, centrocytic",C83,,,,,,,,,,,,,1,,1
+BBgG.00,72196,"[m]malignant lymphoma, lymphocytic, poorly different nos",C85,,,,,,,,,,,,,1,,1
+BBgG.11,67203,[m]lymphoblastic lymphosarcoma nos,C83,,,,,,,,,,,,,1,,1
+BBgG.12,34352,[m]lymphoblastic lymphoma nos,C83,,,,,,,,,,,,,1,,1
+BBgG.13,52591,[m]lymphoblastoma nos,C83,,,,,,,,,,,,,1,,1
+BBgH.00,72241,[m]prolymphocytic lymphosarcoma,C83,,,,,,,,,,,,,1,,1
+BBgJ.00,60275,"[m]malignant lymphoma, centroblastic type nos",C85,,,,,,,,,,,,,1,,1
+BBgK.00,66603,"[m]malig lymphoma, follicular centre cell, non-cleaved nos",C82,,,,,,,,,,,,,1,,1
+BBgL.00,46877,"[m]malignant lymphoma, small lymphocytic nos",C83,,,,,,,,,,,,,1,,1
+BBgM.00,31726,"[m]malignant lymphoma, small cleaved cell, diffuse",C83,,,,,,,,,,,,,1,,1
+BBgN.00,61251,"[m]malign lymphoma,lymphocytic,intermediate differn, diffuse",C83,,,,,,,,,,,,,1,,1
+BBgP.00,71652,"[m]malignant lymphoma, mixed small and large cell, diffuse",C83,,,,,,,,,,,,,1,,1
+BBgQ.00,58015,[m]malignant lymphomatous polyposis,C83,,,,,,,,,,,,,1,,1
+BBgR.00,33869,"[m]malignant lymphoma, large cell, diffuse nos",C83,,,,,,,,,,,,,1,,1
+BBgS.00,63994,"[m]malignant lymphoma, large cell, cleaved, diffuse",C83,,,,,,,,,,,,,1,,1
+BBgT.00,71619,"[m]malignant lymphoma, large cell, noncleaved, diffuse",C83,,,,,,,,,,,,,1,,1
+BBgV.00,51680,"[m]malignant lymphoma, small cell, noncleaved, diffuse",C83,,,,,,,,,,,,,1,,1
+BBgz.00,51895,"[m]lymphoma, diffuse or nos",C85,,,,,,,,,,,,,1,,1
+BBh..00,106137,[m]reticulosarcomas,C83,,,,,,,,,,,,,1,,1
+BBh0.00,72433,[m]reticulosarcoma nos,C83,,,,,,,,,,,,,1,,1
+BBh0.11,49825,[m]reticulum cell sarcoma nos,C83,,,,,,,,,,,,,1,,1
+BBh2.00,100544,"[m]reticulosarcoma, nodular",C85,,,,,,,,,,,,,1,,1
+BBk..00,20437,"[m]lymphomas, nodular or follicular",C82,,,,,,,,,,,,,1,,1
+BBk0.00,63699,"[m]malignant lymphoma, nodular nos",C82,,,,,,,,,,,,,1,,1
+BBk0.11,64947,[m]brill - symmers' disease,C82,,,,,,,,,,,,,1,,1
+BBk0.12,27562,[m]follicular lymphosarcoma nos,C82,,,,,,,,,,,,,1,,1
+BBk0.13,49253,[m]giant follicular lymphoma,C82,,,,,,,,,,,,,1,,1
+BBk2.00,98961,"[m]malignant lymphoma, centroblastic-centrocytic, follicular",C82,,,,,,,,,,,,,1,,1
+BBk3.00,106970,"[m]malig lymphoma, lymphocytic, well differentiated,nodular",C82,,,,,,,,,,,,,1,,1
+BBk5.00,39883,"[m]malig lymp, follicular centre cell, cleaved, follicular",C82,,,,,,,,,,,,,1,,1
+BBk7.00,97852,"[m]malignant lymphoma, centroblastic type, follicular",C82,,,,,,,,,,,,,1,,1
+BBk8.00,58953,"[m]malig lymp,follicular centre cell,noncleaved,follicular",C82,,,,,,,,,,,,,1,,1
+BBkz.00,40513,"[m]lymphoma, nodular or follicular nos",C82,,,,,,,,,,,,,1,,1
+BBm0.00,63973,[m]microglioma,C85,,,,,,,,,,,,,1,,1
+BBm1.11,70740,[m]malignant reticulosis,C85,,,,,,,,,,,,,1,,1
+BBm5.00,40766,[m] peripheral t-cell lymphoma nos,C84,,,,,,,,,,,,,1,,1
+BBm9.00,31492,[m] monocytoid b-cell lymphoma,C85,,,,,,,,,,,,,1,,1
+BBmH.00,18383,[m] large cell lymphoma,C83,,,,,,,,,,,,,1,,1
+BBmJ.00,68353,[m] angioendotheliomatosis,C85,,,,,,,,,,,,,1,,1
+BBv0.00,31749,[m]monocytoid b-cell lymphoma,C85,,,,,,,,,,,,,1,,1
+BBv2.00,27965,[m]angiocentrict-cell lymphoma,C85,,,,,,,,,,,,,1,,1
+ByuD100,67518,[x]other types of follicular non-hodgkin's lymphoma,C82,,,,,,,,,,,,,1,,1
+ByuD200,98596,[x]other types of diffuse non-hodgkin's lymphoma,C83,,,,,,,,,,,,,1,,1
+ByuD300,64336,[x]other specified types of non-hodgkin's lymphoma,C85,,,,,,,,,,,,,1,,1
+ByuDC00,64515,"[x]diffuse non-hodgkin's lymphoma, unspecified",C83,,,,,,,,,,,,,1,,1
+ByuDE00,63375,[x]unspecified b-cell non-hodgkin's lymphoma,C85,,,,,,,,,,,,,1,,1
+ByuDF00,8649,"[x]non-hodgkin's lymphoma, unspecified type",C85,,,,,,,,,,,,,1,,1
+ByuDF11,7940,[x]non-hodgkin's lymphoma nos,C85,,,,,,,,,,,,,1,,1

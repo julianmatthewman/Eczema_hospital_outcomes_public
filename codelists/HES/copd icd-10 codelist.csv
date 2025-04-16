@@ -1,0 +1,6 @@
+code,description,coding_system,concept_id,concept_version_id,concept_name,phenotype_id,phenotype_version_id,phenotype_name,code_attributes
+J40,"Bronchitis, not specified as acute or chronic",ICD10 codes,C807,2753,Chronic Obstructive Pulmonary Disease (COPD) - Secondary care - Diagnoses,PH43,86,Chronic Obstructive Pulmonary Disease (COPD),"{'Disease': 'COPD', 'Category': 'Diagnosis of COPD'}"
+J41,Simple and mucopurulent chronic bronchitis,ICD10 codes,C807,2753,Chronic Obstructive Pulmonary Disease (COPD) - Secondary care - Diagnoses,PH43,86,Chronic Obstructive Pulmonary Disease (COPD),"{'Disease': 'COPD', 'Category': 'Diagnosis of COPD'}"
+J42,Unspecified chronic bronchitis,ICD10 codes,C807,2753,Chronic Obstructive Pulmonary Disease (COPD) - Secondary care - Diagnoses,PH43,86,Chronic Obstructive Pulmonary Disease (COPD),"{'Disease': 'COPD', 'Category': 'Diagnosis of COPD'}"
+J43,Emphysema,ICD10 codes,C807,2753,Chronic Obstructive Pulmonary Disease (COPD) - Secondary care - Diagnoses,PH43,86,Chronic Obstructive Pulmonary Disease (COPD),"{'Disease': 'COPD', 'Category': 'Diagnosis of COPD'}"
+J44,Other chronic obstructive pulmonary disease,ICD10 codes,C807,2753,Chronic Obstructive Pulmonary Disease (COPD) - Secondary care - Diagnoses,PH43,86,Chronic Obstructive Pulmonary Disease (COPD),"{'Disease': 'COPD', 'Category': 'Diagnosis of COPD'}"

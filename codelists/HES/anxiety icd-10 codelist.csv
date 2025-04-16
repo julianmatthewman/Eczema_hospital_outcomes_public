@@ -1,0 +1,50 @@
+code,ICD10codealternative,Description,Category
+F41.0,F410,panic disorder [episodic paroxysmal anxiety],Core
+F41.1,F411,generalized anxiety disorder,Core
+F93.0,F930,separation anxiety disorder of childhood,History
+F93.1,F931,phobic anxiety disorder of childhood,History
+F93.2,F932,social anxiety disorder of childhood,History
+F06.4,F064,organic anxiety disorder,Not Anxiety - alternative diagnosis
+F43.1,F431,post-traumatic stress disorder,Not Anxiety - alternative diagnosis
+F44,F44,dissociative [conversion] disorders,Not Anxiety - alternative diagnosis
+F44.0,F440,dissociative amnesia,Not Anxiety - alternative diagnosis
+F44.1,F441,dissociative fugue,Not Anxiety - alternative diagnosis
+F44.2,F442,dissociative stupor,Not Anxiety - alternative diagnosis
+F44.3,F443,trance and possession disorders,Not Anxiety - alternative diagnosis
+F44.4,F444,dissociative motor disorders,Not Anxiety - alternative diagnosis
+F44.5,F445,dissociative convulsions,Not Anxiety - alternative diagnosis
+F44.6,F446,dissociative anaesthesia and sensory loss,Not Anxiety - alternative diagnosis
+F44.7,F447,mixed dissociative [conversion] disorders,Not Anxiety - alternative diagnosis
+F44.8,F448,other dissociative [conversion] disorders,Not Anxiety - alternative diagnosis
+F44.9,F449,"dissociative [conversion] disorder, unspecified",Not Anxiety - alternative diagnosis
+F48.1,F481,depersonalization-derealization syndrome,Not Anxiety - alternative diagnosis
+F48.8,F488,other specified neurotic disorders,Not Anxiety - alternative diagnosis
+F48.9,F489,"neurotic disorder, unspecified",Not Anxiety - alternative diagnosis
+F62.0,F620,enduring personality change after catastrophic experience,Not Anxiety - alternative diagnosis
+F40,F40,phobic anxiety disorders,Non-definitive: Transient/ambiguous/administrative
+F40.0,F400,agoraphobia,Non-definitive: Transient/ambiguous/administrative
+F40.1,F401,social phobias,Non-definitive: Transient/ambiguous/administrative
+F40.2,F402,specific (isolated) phobias,Non-definitive: Transient/ambiguous/administrative
+F40.8,F408,other phobic anxiety disorders,Non-definitive: Transient/ambiguous/administrative
+F40.9,F409,"phobic anxiety disorder, unspecified",Non-definitive: Transient/ambiguous/administrative
+F41,F41,other anxiety disorders,Non-definitive: Transient/ambiguous/administrative
+F41.2,F412,mixed anxiety and depressive disorder,Non-definitive: Transient/ambiguous/administrative
+F41.3,F413,other mixed anxiety disorders,Non-definitive: Transient/ambiguous/administrative
+F41.8,F418,other specified anxiety disorders,Non-definitive: Transient/ambiguous/administrative
+F41.9,F419,"anxiety disorder, unspecified",Non-definitive: Transient/ambiguous/administrative
+F43,F43,"reaction to severe stress, and adjustment disorders",Non-definitive: Transient/ambiguous/administrative
+F43.0,F430,acute stress reaction,Non-definitive: Transient/ambiguous/administrative
+F43.2,F432,adjustment disorders,Non-definitive: Transient/ambiguous/administrative
+F43.8,F438,other reactions to severe stress,Non-definitive: Transient/ambiguous/administrative
+F43.9,F439,"reaction to severe stress, unspecified",Non-definitive: Transient/ambiguous/administrative
+F45,F45,somatoform disorders,Non-definitive: Transient/ambiguous/administrative
+F45.0,F450,somatization disorder,Non-definitive: Transient/ambiguous/administrative
+F45.1,F451,undifferentiated somatoform disorder,Non-definitive: Transient/ambiguous/administrative
+F45.2,F452,hypochondriacal disorder,Non-definitive: Transient/ambiguous/administrative
+F45.3,F453,somatoform autonomic dysfunction,Non-definitive: Transient/ambiguous/administrative
+F45.4,F454,persistent somatoform pain disorder,Non-definitive: Transient/ambiguous/administrative
+F45.8,F458,other somatoform disorders,Non-definitive: Transient/ambiguous/administrative
+F45.9,F459,"somatoform disorder, unspecified",Non-definitive: Transient/ambiguous/administrative
+F48,F48,other neurotic disorders,Non-definitive: Transient/ambiguous/administrative
+F48.0,F480,neurasthenia,Non-definitive: Transient/ambiguous/administrative
+F60.6,F606,anxious [avoidant] personality disorder,Non-definitive: Transient/ambiguous/administrative

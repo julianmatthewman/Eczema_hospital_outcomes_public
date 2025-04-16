@@ -1,0 +1,6 @@
+"code","ALT_CODE","USAGE","USAGE_UK","DESCRIPTION","MODIFIER_4","MODIFIER_5","QUALIFIERS","GENDER_MASK","MIN_AGE","MAX_AGE","TREE_DESCRIPTION"
+"F00","F00","ASTERISK","2","Dementia in Alzheimer disease","","","",,,,""
+"F00.0","F000","ASTERISK","2","Dementia in Alzheimer disease with early onset","","","",,,,""
+"F00.1","F001","ASTERISK","2","Dementia in Alzheimer disease with late onset","","","",,,,""
+"F00.2","F002","ASTERISK","2","Dementia in Alzheimer disease, atypical or mixed type","","","",,,,""
+"F00.9","F009","ASTERISK","2","Dementia in Alzheimer disease, unspecified","","","",,,,""

@@ -1,0 +1,5 @@
+code,description,coding_system,concept_id,concept_version_id,concept_name,phenotype_id,phenotype_version_id,phenotype_name,code_attributes
+I11.0,Hypertensive heart disease with (congestive) heart failure,ICD10 codes,C1208,3555,Heart failure - Secondary care - Diagnoses,PH182,364,Heart failure,"{'Disease': 'Heart failure', 'Category': 'Diagnosis of Heart failure'}"
+I13.0,Hypertensive heart and renal disease with (congestive) heart failure,ICD10 codes,C1208,3555,Heart failure - Secondary care - Diagnoses,PH182,364,Heart failure,"{'Disease': 'Heart failure', 'Category': 'Diagnosis of Heart failure'}"
+I13.2,Hypertensive heart and renal disease with both (congestive) heart failure and renal failure,ICD10 codes,C1208,3555,Heart failure - Secondary care - Diagnoses,PH182,364,Heart failure,"{'Disease': 'Heart failure', 'Category': 'Diagnosis of Heart failure'}"
+I50,Heart failure,ICD10 codes,C1208,3555,Heart failure - Secondary care - Diagnoses,PH182,364,Heart failure,"{'Disease': 'Heart failure', 'Category': 'Diagnosis of Heart failure'}"

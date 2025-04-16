@@ -1,0 +1,24 @@
+{
+  "includeTerms": [
+    "food allergy",
+    "egg allergy",
+    "fruit allergy",
+    "tomato allergy",
+    "banana allergy",
+    "soya allergy",
+    "strawberries allergy",
+    "strawberry allergy",
+    "mushroom allergy",
+    "shellfish allergy",
+    "seafood allergy",
+    "fish allergy",
+    "wheat allergy",
+    "nut allergy",
+    "peanut allergy"
+  ],
+  "excludeTerms": [],
+  "terminology": "Readv2",
+  "version": "v20160401",
+  "createdOn": "2022-10-28T09:14:51.606Z",
+  "lastUpdated": "2022-10-28T09:14:51.606Z"
+}

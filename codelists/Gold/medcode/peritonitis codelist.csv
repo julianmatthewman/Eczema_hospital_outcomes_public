@@ -1,0 +1,100 @@
+phenotype_name,medcode,ReadcodeDescr,Readcode
+Peritonitis,100357,Pre-ileal abscess,J552700
+Peritonitis,101301,Peritonitis in infectious diseases EC NOS,J550z00
+Peritonitis,102177,Acute gastrojejunal ulcer with perforation,J140200
+Peritonitis,104496,Acute appendicitis with generalised peritonitis,J203.00
+Peritonitis,104722,Acute appendicitis with localised peritonitis,J204.00
+Peritonitis,105518,Bacterial peritonitis,J550311
+Peritonitis,105575,Sclerosing peritonitis,J555.00
+Peritonitis,105579,Spontaneous bacterial peritonitis,J554.00
+Peritonitis,105660,Ventriculoperitoneal shunt-associated peritonitis,J558.00
+Peritonitis,105831,Streptococcal peritonitis,J557.00
+Peritonitis,105959,Perforation of stomach,J179.00
+Peritonitis,106330,Acute gastrojejunal ulcer with haemorrhage and perforation,J140300
+Peritonitis,106340,Perforated diverticulum of small intestine NOS,J512400
+Peritonitis,110244,Chronic gastrojejunal ulcer with haemorrhage and perforation,J141300
+Peritonitis,110756,Peritonitis in infectious diseases EC,J550.00
+Peritonitis,11104,Perforated chronic gastric ulcer,J111211
+Peritonitis,11143,Perforation of gallbladder,J654.00
+Peritonitis,1126,Retroperitoneal abscess,J552600
+Peritonitis,14671,Acute gastric ulcer with perforation,J110200
+Peritonitis,14942,Perforated diverticulum,J512.00
+Peritonitis,15032,Male pelvic abscess,J552B00
+Peritonitis,15784,Other suppurative peritonitis NOS,J552z00
+Peritonitis,15979,Unspecified gastrojejunal ulcer with perforation,J14y200
+Peritonitis,16040,Acute appendicitis with appendix abscess,J201.00
+Peritonitis,16642,Closure of perforated bowel ulcer NEC,773C600
+Peritonitis,16716,Abscess of appendix,J201.11
+Peritonitis,17014,Acute gangrenous appendicitis,J20z100
+Peritonitis,18324,Acute duodenal ulcer with perforation,J120200
+Peritonitis,1999,Acute appendicitis with peritonitis,J200.00
+Peritonitis,20677,Closure of perforated gastric ulcer,761J000
+Peritonitis,2179,Peritonitis,J55..00
+Peritonitis,23087,Perforated chronic duodenal ulcer,J121211
+Peritonitis,2541,Perforation of intestine,J57yB00
+Peritonitis,26219,Peritonitis - bacterial,J550300
+Peritonitis,26230,Perforation of bile duct,J663.00
+Peritonitis,27298,Peritonitis NOS,J55z.00
+Peritonitis,27305,Pericolic abscess,J552800
+Peritonitis,27955,Closure of perforation of duodenum NEC,7623100.0
+Peritonitis,28366,Unspec duodenal ulcer; unspec haemorrhage and/or perforation,J12yy00
+Peritonitis,28895,Acute peritonitis,J553.00
+Peritonitis,28918,Faecal peritonitis,J55y500
+Peritonitis,31409,Tuberculous peritonitis,A140.00
+Peritonitis,31430,Peritonitis due to bile,J55y300
+Peritonitis,32899,Peritonitis - tuberculous,J550200
+Peritonitis,35656,Omental abscess,J552200
+Peritonitis,35800,Peritoneal fat necrosis,J55y100
+Peritonitis,36165,Other specified peritonitis NOS,J55yz00
+Peritonitis,36461,Unspecified gastric ulcer with perforation,J11y200
+Peritonitis,37588,Perforated diverticulum of duodenum,J512000
+Peritonitis,37620,Chronic peptic ulcer with perforation,J131200
+Peritonitis,37643,Chronic duodenal ulcer with perforation,J121200
+Peritonitis,37813,Perforated diverticulum of colon,J512500
+Peritonitis,38941,Divertic disease/both sml+lge intestin with perforat+abscess,J512800
+Peritonitis,39496,Closure of perforation of stomach NEC,7618100.0
+Peritonitis,39736,Gonococcal peritonitis,A98y500
+Peritonitis,41256,Closure of perforation of ileum,7648300.0
+Peritonitis,4130,Appendix abscess,J201.12
+Peritonitis,41484,Pericaecal abscess,J552900
+Peritonitis,42334,Other suppurative peritonitis,J552.00
+Peritonitis,42568,Other specified peritonitis,J55y.00
+Peritonitis,42866,Perforated diverticulum of ileum,J512200
+Peritonitis,45146,Chronic proliferative peritonitis,J55y000
+Peritonitis,45304,Acute peptic ulcer with haemorrhage and perforation,J130300
+Peritonitis,47355,Pneumococcal peritonitis,J551.00
+Peritonitis,4741,Closure of perforated duodenal ulcer,7627000.0
+Peritonitis,4745,Subphrenic abscess,J552100
+Peritonitis,47725,Repair of perforation of pylorus,761C100
+Peritonitis,47775,Chlamydial peritonitis,J550400
+Peritonitis,48173,Perforated diverticulum of jejunum,J512100
+Peritonitis,48589,Perforated diverticulum of large intestine unspecified,J512600
+Peritonitis,48730,Acute duodenal ulcer with haemorrhage and perforation,J120300
+Peritonitis,48819,Rupture of rectum,J574A00
+Peritonitis,48927,Retrocaecal abscess,J552A00
+Peritonitis,49066,Perforated diverticulum unspecified,J512y00
+Peritonitis,49392,Closure of perforation of jejunum,7635200.0
+Peritonitis,50313,Perforated diverticulum of large intestine NOS,J512700
+Peritonitis,50881,Repair of perforation of gall bladder,7812200.0
+Peritonitis,53336,Chronic gastric ulcer with perforation,J111200
+Peritonitis,5521,Acute peptic ulcer with perforation,J130200
+Peritonitis,5558,Abscess of suppurative peritonitis,J552.11
+Peritonitis,56749,Mesenteric abscess,J552300
+Peritonitis,58070,Diphtheritic peritonitis,A32y200
+Peritonitis,59056,Peritonitis due to urine,J55y400
+Peritonitis,64111,Unspecified peptic ulcer with perforation,J13y200
+Peritonitis,65685,Subperitoneal abscess,J552500
+Peritonitis,657,Unspecified duodenal ulcer with perforation,J12y200
+Peritonitis,66822,Perforation of gallbladder NOS,J654z00
+Peritonitis,6786,Peritoneal abscess,J552400
+Peritonitis,69918,Perforated diverticulum of intestine NOS,J512z00
+Peritonitis,70431,Peritonitis - gonococcal,J550000
+Peritonitis,71130,Perforated diverticulum of small intestine unspecified,J512300
+Peritonitis,71403,Acute gastric ulcer with haemorrhage and perforation,J110300
+Peritonitis,71881,Chronic duodenal ulcer with haemorrhage and perforation,J121300
+Peritonitis,71897,Chronic gastric ulcer with haemorrhage and perforation,J111300
+Peritonitis,8044,Subhepatic abscess,J552000
+Peritonitis,93436,Unspecified duodenal ulcer with haemorrhage and perforation,J12y300
+Peritonitis,94397,Unspec gastric ulcer; unspec haemorrhage and/or perforation,J11yy00
+Peritonitis,94998,[X]Other peritonitis,Jyu6000
+Peritonitis,96622,Unspecified peptic ulcer with haemorrhage and perforation,J13y300

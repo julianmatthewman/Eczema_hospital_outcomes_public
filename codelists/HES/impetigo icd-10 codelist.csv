@@ -1,0 +1,4 @@
+"code","ALT_CODE","USAGE","USAGE_UK","DESCRIPTION","MODIFIER_4","MODIFIER_5","QUALIFIERS","GENDER_MASK","MIN_AGE","MAX_AGE","TREE_DESCRIPTION"
+"L01","L01","DEFAULT","3","Impetigo","","","",,,,""
+"L01.0","L010","DEFAULT","3","Impetigo [any organism] [any site]","","","",,,,""
+"L01.1","L011","DEFAULT","3","Impetiginization of other dermatoses","","","",,,,""

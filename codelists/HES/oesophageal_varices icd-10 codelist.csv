@@ -1,0 +1,4 @@
+code,description,coding_system,concept_id,concept_version_id,concept_name,phenotype_id,phenotype_version_id,phenotype_name,code_attributes
+I85,Oesophageal varices,ICD10 codes,C1647,4433,Oesophageal varices - Secondary care - Diagnoses,PH334,668,Oesophageal varices,"{'Disease': 'Oesophageal varices', 'Category': 'Diagnosis of Oesophageal varices'}"
+I98.2,Oesophageal varices without bleeding in diseases classified elsewhere,ICD10 codes,C1647,4433,Oesophageal varices - Secondary care - Diagnoses,PH334,668,Oesophageal varices,"{'Disease': 'Oesophageal varices', 'Category': 'Diagnosis of Oesophageal varices'}"
+I98.3,Oesophageal varices with bleeding in diseases classified elsewhere,ICD10 codes,C1647,4433,Oesophageal varices - Secondary care - Diagnoses,PH334,668,Oesophageal varices,"{'Disease': 'Oesophageal varices', 'Category': 'Diagnosis of Oesophageal varices'}"

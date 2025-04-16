@@ -1,0 +1,2 @@
+code,description,coding_system,concept_id,concept_version_id,concept_name,phenotype_id,phenotype_version_id,phenotype_name,code_attributes
+K90.0,Coeliac disease,ICD10 codes,C1087,3313,Coeliac disease - Secondary care - Diagnoses,PH141,282,Coeliac disease,"{'Disease': 'Coeliac disease', 'Category': 'Diagnosis of Coeliac disease'}"

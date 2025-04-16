@@ -1,0 +1,7 @@
+code,description,coding_system,concept_id,concept_version_id,concept_name,phenotype_id,phenotype_version_id,phenotype_name,code_attributes
+K40,Inguinal hernia,ICD10 codes,C1200,3539,Abdominal Hernia - Secondary care - Diagnoses,PH180,360,Abdominal Hernia,"{'Disease': 'Abdominal Hernia', 'Category': 'Diagnosis of Abdominal Hernia'}"
+K41,Femoral hernia,ICD10 codes,C1200,3539,Abdominal Hernia - Secondary care - Diagnoses,PH180,360,Abdominal Hernia,"{'Disease': 'Abdominal Hernia', 'Category': 'Diagnosis of Abdominal Hernia'}"
+K42,Umbilical hernia,ICD10 codes,C1200,3539,Abdominal Hernia - Secondary care - Diagnoses,PH180,360,Abdominal Hernia,"{'Disease': 'Abdominal Hernia', 'Category': 'Diagnosis of Abdominal Hernia'}"
+K43,Ventral hernia,ICD10 codes,C1200,3539,Abdominal Hernia - Secondary care - Diagnoses,PH180,360,Abdominal Hernia,"{'Disease': 'Abdominal Hernia', 'Category': 'Diagnosis of Abdominal Hernia'}"
+K45,Other abdominal hernia,ICD10 codes,C1200,3539,Abdominal Hernia - Secondary care - Diagnoses,PH180,360,Abdominal Hernia,"{'Disease': 'Abdominal Hernia', 'Category': 'Diagnosis of Abdominal Hernia'}"
+K46,Unspecified abdominal hernia,ICD10 codes,C1200,3539,Abdominal Hernia - Secondary care - Diagnoses,PH180,360,Abdominal Hernia,"{'Disease': 'Abdominal Hernia', 'Category': 'Diagnosis of Abdominal Hernia'}"

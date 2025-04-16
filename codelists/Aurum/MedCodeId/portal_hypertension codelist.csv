@@ -1,0 +1,3 @@
+MedCodeId,Observations,OriginalReadCode,CleansedReadCode,Term,SnomedCTConceptId,SnomedCTDescriptionId,Release,EmisCodeCategoryId
+57989014,30000,J623,J623.00,Portal hypertension,34742003,57989014,,32
+3059491000006115,1,^ESCTPH305949,,PHT - Portal hypertension,34742003,1228208015,,32

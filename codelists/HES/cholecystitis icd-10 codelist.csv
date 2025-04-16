@@ -1,0 +1,5 @@
+code,description,coding_system,concept_id,concept_version_id,concept_name,phenotype_id,phenotype_version_id,phenotype_name,code_attributes
+K80.0,Calculus of gallbladder with acute cholecystitis,ICD10 codes,C1066,3271,Cholecystitis - Secondary care - Diagnoses,PH134,268,Cholecystitis,"{'Disease': 'Cholecystitis', 'Category': 'Diagnosis of Cholecystitis'}"
+K80.1,Calculus of gallbladder with other cholecystitis,ICD10 codes,C1066,3271,Cholecystitis - Secondary care - Diagnoses,PH134,268,Cholecystitis,"{'Disease': 'Cholecystitis', 'Category': 'Diagnosis of Cholecystitis'}"
+K80.4,Calculus of bile duct with cholecystitis,ICD10 codes,C1066,3271,Cholecystitis - Secondary care - Diagnoses,PH134,268,Cholecystitis,"{'Disease': 'Cholecystitis', 'Category': 'Diagnosis of Cholecystitis'}"
+K81,Cholecystitis,ICD10 codes,C1066,3271,Cholecystitis - Secondary care - Diagnoses,PH134,268,Cholecystitis,"{'Disease': 'Cholecystitis', 'Category': 'Diagnosis of Cholecystitis'}"

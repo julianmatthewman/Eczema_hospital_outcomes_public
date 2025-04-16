@@ -1,0 +1,32 @@
+# -----------------------------------------------------------------------------
+Clinical codelist for topical corticosteroids
+
+Author: Julian Matthewman
+Created on 12 July 2023
+Created by searching the 2023_03 CPRD Aurum Medical code browser
+Terminologies: CPRD MedCode, SNOMED-CT, Read	
+Short description: Topical corticosteroids
+Reviwed by: Julian Matthewman
+# -----------------------------------------------------------------------------
+
+
+# Search strategy --------------------------------
+
+Terms identified with Shrimp SNOMED-CT ECL builder (<< 116596006|Glucocorticoid-containing product| AND << 767314005|Product manufactured as cutaneous dose form|) and from https://bnf.nice.org.uk/treatment-summaries/topical-corticosteroids/. Iteratively modified terms used to search and exclude codes, while checking for codes with the same ProductName and codes with a matching or descendant BNF chapter.
+
+
+# Excludes --------------------------------------
+
+Excluded all terms that did not include any of the following: cream, ointment, cutaneous, foam, gel, topical, lotion
+Also specifically exclude vitamin D combination preparations for psoriasis (calcipotriol + steroid) and combinations with local anestetics (e.g. lidocaine)
+
+
+# Checks ----------------------------------------
+
+This codelist has 90 million drug issues.
+Searching for (<< 116596006|Glucocorticoid-containing product| AND << 767314005|Product manufactured as cutaneous dose form|) in the Shrimp ECL builder (https://ontoserver.csiro.au/shrimp/ecl/?fhir=https://r4.ontoserver.csiro.au/fhir) and using the codes to identify codes by dmdid in Aurum resulted in codes with 81 million drug issues
+
+
+# Potency ---------------------------------------
+
+Potency was determined from https://bnf.nice.org.uk/treatment-summaries/topical-corticosteroids/ or if not available from NICE, from https://www.psoriasis.org/potency-chart/

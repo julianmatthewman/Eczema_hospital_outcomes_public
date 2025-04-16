@@ -1,0 +1,8 @@
+medcodeid,observations,originalreadcode,cleansedreadcode,term,snomedctconceptid,snomedctdescriptionid,release,emiscodecategoryid
+14448010,5000,F4C74-1,F4C7411,Chemosis of conjunctiva,8148005,14448010,,32
+399474012,2000,F4C74,F4C7400,Conjunctival oedema,84178004,505951019,,32
+123701000006117,400,F4C73,F4C7300,Subconjunctival oedema,25334004,482906018,,32
+2630081000006119,8,^ESCTCH263008,,Chemosis,8148005,14449019,,32
+2905031000006117,1,^ESCTSU290503,,Subconjunctival edema,25334004,42479019,,32
+3869371000006119,1,^ESCTOE386937,,Oedema of conjunctiva,84178004,1217010011,,32
+13684571000006119,1,^ESCT1368457,,Bilateral conjunctival oedema,346651000119109,3770026019,,31

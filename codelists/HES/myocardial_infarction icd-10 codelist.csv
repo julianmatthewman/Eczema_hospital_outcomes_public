@@ -1,0 +1,6 @@
+code,description,coding_system,concept_id,concept_version_id,concept_name,phenotype_id,phenotype_version_id,phenotype_name,code_attributes
+I21,Acute myocardial infarction,ICD10 codes,C1298,3735,Myocardial infarction - Secondary care - Diagnoses,PH215,430,Myocardial infarction,"{'Disease': 'Myocardial infarction', 'Category': 'Acute MI not further specified (5)'}"
+I22,Subsequent myocardial infarction,ICD10 codes,C1298,3735,Myocardial infarction - Secondary care - Diagnoses,PH215,430,Myocardial infarction,"{'Disease': 'Myocardial infarction', 'Category': 'Subsequent MI (6)'}"
+I23,Certain current complications following acute myocardial infarction,ICD10 codes,C1298,3735,Myocardial infarction - Secondary care - Diagnoses,PH215,430,Myocardial infarction,"{'Disease': 'Myocardial infarction', 'Category': 'Complications of MI (7)'}"
+I241,Dressler's syndrome,ICD10 codes,C1298,3735,Myocardial infarction - Secondary care - Diagnoses,PH215,430,Myocardial infarction,"{'Disease': 'Myocardial infarction', 'Category': 'Complications of MI (7)'}"
+I252,Old myocardial infarction,ICD10 codes,C1298,3735,Myocardial infarction - Secondary care - Diagnoses,PH215,430,Myocardial infarction,"{'Disease': 'Myocardial infarction', 'Category': 'History of MI (1)'}"

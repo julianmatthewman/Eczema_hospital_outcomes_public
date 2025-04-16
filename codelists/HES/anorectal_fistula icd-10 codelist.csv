@@ -1,0 +1,4 @@
+code,description,coding_system,concept_id,concept_version_id,concept_name,phenotype_id,phenotype_version_id,phenotype_name,code_attributes
+K60.3,Anal fistula,ICD10 codes,C967,3073,Anorectal fistula - Secondary care - Diagnoses,PH101,202,Anorectal fistula,"{'Disease': 'Anorectal fistula', 'Category': 'Diagnosis of Anorectal fistula'}"
+K60.4,Rectal fistula,ICD10 codes,C967,3073,Anorectal fistula - Secondary care - Diagnoses,PH101,202,Anorectal fistula,"{'Disease': 'Anorectal fistula', 'Category': 'Diagnosis of Anorectal fistula'}"
+K60.5,Anorectal fistula,ICD10 codes,C967,3073,Anorectal fistula - Secondary care - Diagnoses,PH101,202,Anorectal fistula,"{'Disease': 'Anorectal fistula', 'Category': 'Diagnosis of Anorectal fistula'}"

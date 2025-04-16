@@ -1,0 +1,1 @@
+Identified terms from https://datacompass.lshtm.ac.uk/id/eprint/1266/, but didn't include unspecified Malignant neoplasms of skin as these could be Melanomas.

@@ -1,0 +1,30 @@
+# -----------------------------------------------------------------------------
+Clinical codelist for oral corticosteroids
+
+Author: Julian Matthewman
+Created on 12 July 2023
+Created by searching the 2023_03 CPRD Aurum Medical code browser
+Terminologies: CPRD MedCode, SNOMED-CT, Read	
+Short description: Oral glucocorticoids
+Reviewed by: Julian Matthewman
+# -----------------------------------------------------------------------------
+
+
+# Search strategy --------------------------------
+
+Identified terms from shrimp browser (<< 116596006|Glucocorticoid-containing product| AND << 440131009|Product manufactured as oral dose form|) and checked for products in the same or descendant BNF chapters.
+
+
+# Includes --------------------------------------
+
+Oral and parenteral products.
+
+
+# Excludes --------------------------------------
+
+Excludes estrogen steroid hormones (e.g. estradiol, estrone, exemestane) and steroids with predominantly mineralcorticoid activity (e.g. fludrocortisone)
+
+
+# Checks ----------------------------------------
+
+This codelist has 48 million drug issues.

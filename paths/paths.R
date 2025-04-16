@@ -1,0 +1,6 @@
+path_extract <- "dummy_data/extract/"
+path_denominator <- "dummy_data/denominator/AcceptablePats.parquet"
+path_define <- "dummy_data/define/"
+path_hes_eligibility <- "dummy_data/linkage/Aurum_enhanced_eligibility_January_2022.dta"
+path_codebrowsers <- "sensitive_input/CPRD Aurum 2023_03 code browser/"
+path_linked_data <- "dummy_data/linked_data/"

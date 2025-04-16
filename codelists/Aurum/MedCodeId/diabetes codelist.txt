@@ -1,0 +1,766 @@
+medcodeid,term,diabetes
+787111000006112,iddm-insulin dependent diabetes mellitus,1
+77727018,insulin dependent diabetes mellitus,1
+772171000006114,insulin dependent diabetes mellitus,1
+292621010,diabetes mellitus nos with other specified manifestation,1
+772161000006119,insulin dependent diabetes mellitus,1
+616571000006118,"diabetes mellitus, adult, + other specified manifestation",1
+13781000006113,other specified diabetes mellitus with other spec comps,1
+293756010,[x]other specified diabetes mellitus,1
+377001000006117,[x]diabetes mellitus,1
+913711000006112,insulin dependent diabetes maturity onset,1
+772151000006116,insulin dependent diabetes maturity onset,1
+121589010,diabetes mellitus,1
+616681000006116,"diabetes mellitus, juvenile, + other specified manifestation",1
+149278011,iatrogenic hyperinsulinism,1
+3963921000006111,iatrogenic hyperinsulinaemia,1
+12174801000006114,eye disorder due to diabetes mellitus,1
+3963931000006114,iatrogenic hyperinsulinemia,1
+2683581000006112,labile diabetes,1
+12218511000006112,kidney disorder due to diabetes mellitus,1
+1223147012,insulin treated type ii diabetes mellitus,1
+841351000006110,insulin treated type ii diabetes mellitus,1
+1223148019,insulin treated non-insulin dependent diabetes mellitus,1
+771331000006116,insulin dependent diabetes mellitus with arthropathy,1
+459293018,insulin dependent diabetes mellitus with arthropathy,1
+169731000006118,retinal abnormality - diabetes related,1
+2576431000006117,dr - diabetic retinopathy,1
+1230890017,autonomic neuropathy due to diabetes,1
+1230929011,secondary pancreatic diabetes mellitus,1
+12331051000006112,mononeuropathy with type 2 diabetes mellitus,1
+12331221000006112,exudative maculopathy with type 1 diabetes mellitus,1
+12332101000006118,cataract due to diabetes mellitus type 2,1
+12332271000006117,retinopathy with type 1 diabetes mellitus,1
+12332751000006115,mononeuropathy with type 1 diabetes mellitus,1
+12334141000006111,neurological disorder with diabetes type 2,1
+12334611000006115,neurological disorder with type 1 diabetes mellitus,1
+12335671000006113,exudative maculopathy with type 2 diabetes mellitus,1
+12335991000006117,peripheral vascular disorder due to diabetes mellitus,1
+12336111000006119,cataract due to diabetes mellitus type 1,1
+12336531000006116,retinopathy with type 2 diabetes mellitus,1
+12336851000006113,nervous system disorder due to diabetes mellitus,1
+12336871000006115,disorder of eye with type 2 diabetes mellitus,1
+12363661000006113,gastroparesis with type 1 diabetes mellitus,1
+12363681000006115,gastroparesis with type 2 diabetes mellitus,1
+12370271000006116,disorder of eye with type 1 diabetes mellitus,1
+292617015,diabetes mellitus with other specified manifestation,1
+292622015,diabetes mellitus with unspecified complication,1
+292626017,diabetes mellitus nos with unspecified complication,1
+13811000006110,other specified diabetes mellitus with unspecified comps,1
+719531000006118,malnutrition-related diabetes mellitus,1
+12702421000006111,type ii diabetes mellitus with ophthalmic complications,1
+1484867016,non proliferative diabetic retinopathy,1
+1484887015,o/e - diabetic maculopathy present both eyes,1
+1488393013,o/e - right diabetic foot at low risk,1
+1488394019,o/e - right diabetic foot at high risk,1
+1488395018,o/e - right diabetic foot - ulcerated,1
+1488396017,o/e - left diabetic foot - ulcerated,1
+1488397014,o/e - left diabetic foot at low risk,1
+1488398016,o/e - left diabetic foot at high risk,1
+1488403015,o/e - left diabetic foot at moderate risk,1
+1488404014,o/e - right diabetic foot at moderate risk,1
+1488405010,diabetic foot risk assessment,1
+1488441010,diabetes medication review,1
+850691000006118,hyperosmolar non-ketotic state in type 2 diabetes mellitus,1
+1488898011,hyperosmolar non-ketotic state in type 2 diabetes mellitus,1
+3963911000006115,iatrogenic hyperinsulinism,1
+189721000000113,secondary diabetes mellitus without complication,1
+15518018,secondary diabetes mellitus,1
+1658861000000113,type i diabetic dietary review,1
+1658901000000118,type ii diabetic dietary review,1
+1665721000000112,type 2 diabetic dietary review,1
+1665751000000119,type 1 diabetic dietary review,1
+1666911000000113,o/e - left diabetic foot at increased risk,1
+1666931000000117,o/e - right diabetic foot at increased risk,1
+1667891000000113,hyperosmolar non-ketotic state in type ii diabetes mellitus,1
+8084961000006111,diabetes type ii review,1
+841011000006112,high risk non proliferative diabetic retinopathy,1
+6618061000006116,bronze diabetes,1
+1780311019,type 1 diabetes mellitus with persistent microalbuminuria,1
+928491000006110,type i diabetes mellitus with persistent microalbuminuria,1
+1780386019,diabetic foot examination,1
+1785163015,high risk proliferative diabetic retinopathy,1
+1785332013,background diabetic retinopathy,1
+1786715019,bronzed diabetes,1
+746791000006111,insulin-dependent diabetes without complication,1
+292475010,diabetes mellitus nos with no mention of complication,1
+457327017,insulin-dependent diabetes without complication,1
+292466013,diabetes mellitus with no mention of complication,1
+178800012,insulin coma,1
+197761014,type 2 diabetes mellitus,1
+84471000006119,type 2 diabetes mellitus,1
+3209441000006114,diabetes mellitus type 2,1
+84281000006115,type 1 diabetes mellitus,1
+197984010,type 1 diabetes mellitus,1
+3253241000006117,diabetes mellitus type 1,1
+19931010,brittle diabetes,1
+72651000006114,unstable insulin dependent diabetes mellitus,1
+411891014,unstable diabetes,1
+429972014,unstable insulin dependent diabetes mellitus,1
+4392151000006119,lipodystrophic diabetes,1
+4392201000006111,diabetic peripheral vascular disease,1
+205225016,diabetic nephropathy,1
+2115761000000117,diabetes self-management plan review,1
+2117891000000114,diabetes self-management plan agreed,1
+2159170012,patient on maximal tolerated therapy for diabetes,1
+2159948010,diabetic retinopathy 12 month review,1
+2159949019,diabetic retinopathy 6 month review,1
+2159973010,o/e - right eye background diabetic retinopathy,1
+2159974016,o/e - left eye background diabetic retinopathy,1
+2159975015,o/e - right eye preproliferative diabetic retinopathy,1
+2159976019,o/e - left eye preproliferative diabetic retinopathy,1
+2159977011,o/e - right eye proliferative diabetic retinopathy,1
+2159978018,o/e - left eye proliferative diabetic retinopathy,1
+2160090014,diabetes mellitus induced by non-steroid drugs,1
+6763731000006114,dm induced by non-steroid drug,1
+2168881000000114,subcutaneous infusion with insulin pump,1
+2243331000000115,erectile dysfunction due to diabetes mellitus,1
+2262341000000113,conversion to insulin in secondary care,1
+457156014,[v]admitted for conversion to insulin,1
+2262381000000117,conversion to insulin by diabetes specialist nurse,1
+2287311000000111,diabetes year of care annual review,1
+2359401000000111,conversion to non-insulin injectable medication,1
+2415191000000113,diabetic peripheral neuropathic pain,1
+8343301000006117,dpnp - diabetic peripheral neuropathic pain,1
+967631000006115,dm induced by non-steroid drugs without complication,1
+5981421000006112,insulin injection,1
+1966311000006116,diabetic on oral treatment and glucagon-like peptide 1,1
+1966321000006112,diabetic on insulin and glucagon-like peptide 1,1
+2500921000000110,diabetic carbohydrate counting diet,1
+251892015,h/o: insulin therapy,1
+975251000006111,o/e - right eye stable treated prolif diabetic retinopathy,1
+975261000006113,o/e - left eye stable treated prolif diabetic retinopathy,1
+2532976019,o/e - left chronic diabetic foot ulcer,1
+2532977011,o/e - right chronic diabetic foot ulcer,1
+2549896013,o/e - sight threatening diabetic retinopathy,1
+1227774019,[v]dietary counselling in diabetes mellitus,1
+4771421000006116,ppdr - preproliferative diabetic retinopathy,1
+6515201000006111,npdr - non proliferative diabetic retinopathy,1
+587521000006111,non-insulin-dependent diabetes mellitus with renal comps,1
+616551000006111,"diabetes mellitus, adult onset, with renal manifestation",1
+292478012,other specified diabetes mellitus with ketoacidosis,1
+292489017,diabetes mellitus nos with ketoacidotic coma,1
+292479016,diabetes mellitus nos with ketoacidosis,1
+6953861000006110,diabetic ketoacidosis,1
+913621000006112,insulin dependent diabetes mellitus with gangrene,1
+616831000006118,diabetes with gangrene,1
+771351000006111,insulin dependent diabetes mellitus with gangrene,1
+616351000006115,diabetes mellitus with gangrene,1
+6987011000006115,gangrene associated with diabetes mellitus,1
+13761000006115,other specified diabetes mellitus with neurological comps,1
+292512019,diabetes mellitus nos with neurological manifestation,1
+12704391000006113,neurologic disorder associated with diabetes mellitus,1
+616481000006119,"diabetes mellitus, adult onset, + neurological manifestation",1
+6969921000006119,neurologic disorder associated with type ii diabetes mellitus,1
+913511000006117,type 1 diabetes mellitus with neurological complications,1
+84381000006113,type 1 diabetes mellitus with neurological complications,1
+616671000006119,"diabetes mellitus, juvenile, + neurological manifestation",1
+6972441000006117,neurological disorder associated with type i diabetes mellitus,1
+913781000006117,type 1 diabetes mellitus with mononeuropathy,1
+84351000006117,type 1 diabetes mellitus with mononeuropathy,1
+6962751000006117,mononeuropathy associated with type i diabetes mellitus,1
+914221000006113,type 2 diabetes mellitus with mononeuropathy,1
+84531000006118,type 2 diabetes mellitus with mononeuropathy,1
+6954121000006112,mononeuropathy associated with type ii diabetes mellitus,1
+13791000006111,other specified diabetes mellitus with periph circ comps,1
+787101000006114,iddm with peripheral circulatory disorder,1
+772141000006118,insulin dependent diab mell with peripheral angiopathy,1
+292523015,diabetes mellitus nos with peripheral circulatory disorder,1
+12704411000006113,peripheral circulatory disorder associated with diabetes mellitus,1
+913921000006119,insulin dependent diab mell with peripheral angiopathy,1
+616581000006115,"diabetes mellitus, adult, + peripheral circulatory disorder",1
+6985011000006113,peripheral circulatory disorder associated with type ii diabetes mellitus,1
+616591000006117,"diabetes mellitus, juvenile +peripheral circulatory disorder",1
+6970631000006112,peripheral circulatory disorder associated with type i diabetes mellitus,1
+616561000006113,"diabetes mellitus, adult with gangrene",1
+292583018,type 2 diabetes mellitus with gangrene,1
+84881000006119,type ii diabetes mellitus with gangrene,1
+84511000006112,type 2 diabetes mellitus with gangrene,1
+292582011,type ii diabetes mellitus with gangrene,1
+6975221000006116,gangrene associated with type ii diabetes mellitus,1
+292543014,type i diabetes mellitus with gangrene,1
+292541011,type 1 diabetes mellitus with gangrene,1
+84701000006115,type i diabetes mellitus with gangrene,1
+84331000006112,type 1 diabetes mellitus with gangrene,1
+6961091000006115,gangrene associated with type i diabetes mellitus,1
+84611000006113,type 2 diabetes mellitus with renal complications,1
+914031000006118,type 2 diabetes mellitus with renal complications,1
+6959091000006114,persistent microalbuminuria associated with type ii diabetes mellitus,1
+6981621000006113,persistent proteinuria associated with type ii diabetes mellitus,1
+913451000006117,type 1 diabetes mellitus with renal complications,1
+616661000006114,"diabetes mellitus, juvenile type, with renal manifestation",1
+84431000006117,type 1 diabetes mellitus with renal complications,1
+6979991000006111,renal disorder associated with type i diabetes mellitus,1
+6955501000006113,persistent proteinuria associated with type i diabetes mellitus,1
+6985411000006117,diabetic skin ulcer,1
+6961901000006111,disorder associated with type i diabetes mellitus,1
+616641000006110,"diabetes mellitus, juvenile type, with ketoacidosis",1
+6951081000006112,ketoacidosis in type i diabetes mellitus,1
+616651000006112,"diabetes mellitus, juvenile type, with ketoacidotic coma",1
+6965561000006116,ketoacidotic coma in type i diabetes mellitus,1
+928611000006115,type ii diabetes mellitus with ketoacidotic coma,1
+616541000006114,"diabetes mellitus, adult onset, with ketoacidotic coma",1
+928601000006118,type 2 diabetes mellitus with ketoacidotic coma,1
+616531000006116,"diabetes mellitus, adult onset, with ketoacidosis",1
+6977421000006110,ketoacidosis in type ii diabetes mellitus,1
+292480018,diabetes mellitus with hyperosmolar coma,1
+292484010,diabetes mellitus nos with hyperosmolar coma,1
+719541000006111,malnutrition-related diabetes mellitus with coma,1
+6964251000006119,coma associated with malnutrition-related diabetes mellitus,1
+292488013,other specified diabetes mellitus with coma,1
+913541000006118,type 1 diabetes mellitus with multiple complications,1
+84361000006115,type 1 diabetes mellitus with multiple complications,1
+6986151000006117,multiple complications of type i diabetes mellitus,1
+616491000006116,"diabetes mellitus, adult onset, + ophthalmic manifestation",1
+6983691000006114,diabetic oculopathy associated with type ii diabetes mellitus,1
+84321000006114,type 1 diabetes mellitus with diabetic cataract,1
+913901000006112,type 1 diabetes mellitus with diabetic cataract,1
+6980431000006116,diabetic cataract associated with type i diabetes mellitus,1
+938311000006112,type i diabetes mellitus with exudative maculopathy,1
+6954991000006112,exudative maculopathy associated with type i diabetes mellitus,1
+938321000006116,type 2 diabetes mellitus with exudative maculopathy,1
+6977971000006119,exudative maculopathy associated with type ii diabetes mellitus,1
+6960431000006119,diabetic retinopathy associated with type i diabetes mellitus,1
+6959801000006112,diabetic cataract associated with type ii diabetes mellitus,1
+6982511000006110,diabetic retinopathy associated with type ii diabetes mellitus,1
+4392181000006110,renal disorder associated with diabetes mellitus,1
+3712861000006110,disorder associated with diabetes mellitus,1
+6515211000006114,bdr - background diabetic retinopathy,1
+6515451000006111,on examination - diabetic maculopathy present both eyes,1
+6546241000006111,on examination - right diabetic foot at low risk,1
+6546261000006110,on examination - right diabetic foot at high risk,1
+6546281000006117,on examination - right diabetic foot - ulcerated,1
+6546301000006118,on examination - left diabetic foot - ulcerated,1
+6546321000006111,on examination - left diabetic foot at low risk,1
+6546341000006116,on examination - left diabetic foot at high risk,1
+6546411000006113,on examination - left diabetic foot at moderate risk,1
+6546431000006119,on examination - right diabetic foot at moderate risk,1
+6761821000006115,on examination - right eye preproliferative diabetic retinopathy,1
+6761841000006110,on examination - left eye preproliferative diabetic retinopathy,1
+6761861000006114,on examination - right eye proliferative diabetic retinopathy,1
+6761881000006116,on examination - left eye proliferative diabetic retinopathy,1
+6910411000006112,on examination - sight threatening diabetic retinopathy,1
+6866421000006113,on examination - left chronic diabetic foot ulcer,1
+6866781000006116,on examination - right chronic diabetic foot ulcer,1
+6761781000006114,on examination - right eye background diabetic retinopathy,1
+6761801000006113,on examination - left eye background diabetic retinopathy,1
+6866901000006111,on examination - right eye stable treated proliferative diabetic retinopathy,1
+6866541000006117,on examination - left eye stable treated proliferative diabetic retinopathy,1
+6953871000006115,ketoacidosis in diabetes mellitus,1
+2622193012,diabetes mellitus with ketoacidosis,1
+6953891000006119,diabetic acidosis,1
+6983511000006117,neurologic complication of diabetes mellitus,1
+6983521000006113,diabetic neurologic disease,1
+12704971000006113,neurologic disorder associated with type 2 diabetes mellitus,1
+12704941000006117,neurological disorder associated with type 1 diabetes mellitus,1
+12702371000006116,mononeuropathy associated with type 1 diabetes mellitus,1
+6980041000006115,diabetic peripheral circulatory disorder,1
+674961000006118,niddm with peripheral circulatory disorder,1
+6961081000006118,gangrene associated with type 1 diabetes mellitus,1
+6951281000006117,kidney disorder associated with type 2 diabetes mellitus,1
+913851000006119,type i diabetes mellitus with nephropathy,1
+84371000006110,type 1 diabetes mellitus with nephropathy,1
+84741000006118,type i diabetes mellitus with nephropathy,1
+913461000006115,type i diabetes mellitus with renal complications,1
+84801000006111,type i diabetes mellitus with renal complications,1
+913841000006116,type 1 diabetes mellitus with nephropathy,1
+6980001000006117,kidney disorder associated with type 1 diabetes mellitus,1
+771421000006113,insulin dependent diabetes mellitus with ulcer,1
+913591000006110,insulin dependent diabetes mellitus with ulcer,1
+6515171000006112,nonproliferative diabetic retinopathy,1
+264726017,diabetes management plan given,1
+264679015,diabetic on diet only,1
+4636411000006110,diet controlled diabetes mellitus,1
+264681018,diabetic on oral treatment,1
+264682013,diabetic on insulin,1
+264704018,diabetic drug side effects,1
+264705017,diabetic treatment changed,1
+264706016,conversion to insulin,1
+264707013,diabetic - good control,1
+264717015,diabetic - cooperative patient,1
+264718013,diabetic-uncooperative patient,1
+264720011,date diabetic treatment start,1
+264727014,diabetic annual review,1
+264728016,annual diabetic blood test,1
+2683561000006119,brittle diabetes mellitus,1
+5975301000006115,on examination - right diabetic foot at risk,1
+5975321000006113,on examination - left diabetic foot at risk,1
+7065531000006115,latent autoimmune diabetes mellitus in adult (lada),1
+2674067015,latent autoimmune diabetes mellitus in adult,1
+494831000000119,cystic fibrosis related diabetes mellitus,1
+7500361000006112,rcad (renal cysts and diabetes) syndrome,1
+278718015,continuous subcutaneous infusion of insulin,1
+4717371000006113,diabetic stabilization,1
+282570016,diabetic stabilisation,1
+12482051000006118,admit diabetic emergency,1
+283584016,non-urgent diabetic admission,1
+7287621000006117,type i diabetes mellitus uncontrolled,1
+281171000006119,non-insulin dependent diabetes mellitus - poor control,1
+2683591000006110,unstable diabetes mellitus,1
+292548017,type 1 diabetes mellitus - poor control,1
+84661000006111,type i diabetes mellitus - poor control,1
+84291000006117,type 1 diabetes mellitus - poor control,1
+292550013,type i diabetes mellitus - poor control,1
+5754581000006110,brittle type 1 diabetes mellitus,1
+5754611000006119,brittle type i diabetes mellitus,1
+5754621000006110,labile type i diabetes mellitus,1
+5505651000006113,diabetes mellitus uncontrolled,1
+84481000006116,type 2 diabetes mellitus - poor control,1
+292589019,type ii diabetes mellitus - poor control,1
+84851000006110,type ii diabetes mellitus - poor control,1
+292590011,type 2 diabetes mellitus - poor control,1
+292482014,"diabetes mellitus, juvenile type, with hyperosmolar coma",1
+292483016,"diabetes mellitus, adult onset, with hyperosmolar coma",1
+84821000006118,type i diabetes mellitus with ulcer,1
+292538019,type i diabetes mellitus with ulcer,1
+4758061000006110,insulin-dependent diabetes mellitus with ulcer,1
+84451000006112,type 1 diabetes mellitus with ulcer,1
+292540012,type 1 diabetes mellitus with ulcer,1
+292551012,type i diabetes mellitus maturity onset,1
+84671000006116,type i diabetes mellitus maturity onset,1
+4758121000006115,insulin-dependent diabetes maturity onset,1
+84301000006116,type 1 diabetes mellitus maturity onset,1
+292553010,type 1 diabetes mellitus maturity onset,1
+292576013,type ii diabetes mellitus with multiple complications,1
+84911000006119,type ii diabetes mellitus with multiple complications,1
+84541000006111,type 2 diabetes mellitus with multiple complications,1
+292577016,type 2 diabetes mellitus with multiple complications,1
+280581000006118,non-insulin-dependent diabetes mellitus with multiple comps,1
+292579018,type 2 diabetes mellitus with ulcer,1
+84631000006119,type 2 diabetes mellitus with ulcer,1
+280551000006114,non-insulin dependent diabetes mellitus with ulcer,1
+292581016,type ii diabetes mellitus with ulcer,1
+85001000006117,type ii diabetes mellitus with ulcer,1
+292606016,malnutrition-related diabetes mellitus with ketoacidosis,1
+719601000006110,malnutritn-relat diabetes melitus wth periph circul complctn,1
+127051000006112,steroid induced diabetes mellitus without complication,1
+127041000006110,steroid induced diabetes,1
+616241000006112,diabetes mellitus induced by steroids,1
+1734281000000117,diabetic erectile dysfunction review,1
+1734721000000114,diabetic assessment of erectile dysfunction,1
+12704961000006118,diabetic oculopathy associated with type 2 diabetes mellitus,1
+928551000006115,type ii diabetes mellitus with persistent proteinuria,1
+928541000006117,type 2 diabetes mellitus with persistent proteinuria,1
+12702391000006115,diabetic cataract associated with type 2 diabetes mellitus,1
+928591000006114,type ii diabetes mellitus with ketoacidosis,1
+928581000006111,type 2 diabetes mellitus with ketoacidosis,1
+12702401000006118,mononeuropathy associated with type 2 diabetes mellitus,1
+928531000006110,type i diabetes mellitus with ketoacidotic coma,1
+928521000006112,type 1 diabetes mellitus with ketoacidotic coma,1
+12704981000006111,diabetic retinopathy associated with type 2 diabetes mellitus,1
+7287611000006113,type 1 diabetes mellitus uncontrolled,1
+12705001000006119,exudative maculopathy associated with type 1 diabetes mellitus,1
+928571000006113,type ii diabetes mellitus with persistent microalbuminuria,1
+928561000006118,type 2 diabetes mellitus with persistent microalbuminuria,1
+84731000006111,type i diabetes mellitus with multiple complications,1
+913551000006116,type i diabetes mellitus with multiple complications,1
+12705011000006116,exudative maculopathy associated with type 2 diabetes mellitus,1
+12704991000006114,ketoacidotic coma in type 2 diabetes mellitus,1
+281211000006117,non-insulin dependent diabetes mellitus with gangrene,1
+4796321000006113,pre-existing type 2 diabetes mellitus,1
+928511000006116,type i diabetes mellitus with ketoacidosis,1
+928501000006119,type 1 diabetes mellitus with ketoacidosis,1
+4758011000006112,type 2 diabetes mellitus with hyperosmolar coma,1
+914391000006116,insulin treated type 2 diabetes mellitus,1
+840951000006119,insulin treated type 2 diabetes mellitus,1
+7500201000006115,mody1,1
+5109631000006110,mody2,1
+1968641000006114,maturity onset diabetes of the young type 5,1
+4757991000006116,type 1 diabetes mellitus with hyperosmolar coma,1
+2476117016,maturity onset diabetes in youth type 1,1
+7500191000006118,"maturity onset diabetes of the young, type 1",1
+5109561000006119,"maturity onset diabetes of the young, type 2",1
+6970621000006114,peripheral circulatory disorder associated with type 1 diabetes mellitus,1
+483886014,maturity onset diabetes in youth,1
+483882011,diabetes mellitus autosomal dominant,1
+12704951000006115,diabetic retinopathy associated with type 1 diabetes mellitus,1
+12702361000006111,diabetic cataract associated with type 1 diabetes mellitus,1
+928461000006119,type 1 diabetes mellitus with persistent proteinuria,1
+928471000006114,type i diabetes mellitus with persistent proteinuria,1
+297510017,diabetic mononeuritis nos,1
+297492014,diabetic mononeuritis multiplex,1
+297550019,acute painful diabetic neuropathy,1
+297551015,chronic painful diabetic neuropathy,1
+297552010,asymptomatic diabetic neuropathy,1
+297754014,preproliferative diabetic retinopathy,1
+297755010,advanced diabetic maculopathy,1
+297964010,diabetic iritis,1
+4542241000006119,history of insulin therapy,1
+5990991000006114,history of admission in last year for diabetes foot problem,1
+299191000000110,insulin needles changed daily,1
+299211000000114,insulin needles changed for each injection,1
+299261000000111,diabetic 6 month review,1
+967701000006116,lipoatrophic diabetes mellitus,1
+4392141000006116,lipoatrophic diabetes,1
+317347010,[d]gangrene of toe in diabetic,1
+317348017,[d]widespread diabetic foot gangrene,1
+2548271013,diabetes care plan agreed,1
+2288011000000114,type i diabetes mellitus in remission,1
+2288061000000111,type ii diabetes mellitus in remission,1
+2288071000000116,type 2 diabetes mellitus in remission,1
+2287971000000119,diabetes mellitus in remission,1
+2288041000000110,type 1 diabetes mellitus in remission,1
+293759015,[x]unspecified diabetes mellitus with renal complications,1
+771501000006119,insulin-dependent diabetes mellitus with renal complications,1
+771391000006117,insulin dependent diabetes mellitus with nephropathy,1
+292495016,other specified diabetes mellitus with renal complications,1
+913831000006114,insulin dependent diabetes mellitus with nephropathy,1
+292496015,diabetes mellitis with nephropathy nos,1
+616461000006112,diabetes mellitus with renal manifestation,1
+913441000006119,insulin-dependent diabetes mellitus with renal complications,1
+84761000006119,type i diabetes mellitus with neuropathic arthropathy,1
+84391000006111,type 1 diabetes mellitus with neuropathic arthropathy,1
+459296014,type 1 diabetes mellitus with neuropathic arthropathy,1
+459295013,type i diabetes mellitus with neuropathic arthropathy,1
+301161000000113,insulin needles changed less than once a day,1
+8022441000006118,neuropathic arthropathy due to type 1 diabetes mellitus,1
+472901000000116,insulin dose changed,1
+616501000006112,"diabetes mellitus, adult onset, + unspecified complication",1
+6982151000006118,disorder due to type ii diabetes mellitus,1
+8022461000006119,diabetic neuropathic arthropathy due to type 1 diabetes mellitus,1
+4788421000006117,nephrotic syndrome due to diabetes mellitus,1
+84981000006114,type ii diabetes mellitus with renal complications,1
+84921000006110,type ii diabetes mellitus with nephropathy,1
+914271000006114,type ii diabetes mellitus with nephropathy,1
+914041000006111,type ii diabetes mellitus with renal complications,1
+616611000006111,"diabetes mellitus, juvenile type, + unspecified complication",1
+302011,diabetic peripheral angiopathy,1
+8022471000006114,diabetes mellitus type 1 with diabetic charcot's arthropathy,1
+281161000006114,non-insulin depend diabetes mellitus with diabetic cataract,1
+6959811000006110,diabetes type 2 with cataract,1
+641581000006115,non-insulin-dependent diabetes mellitus with retinopathy,1
+6982521000006119,diabetes type 2 with retinopathy,1
+6972451000006115,diabetes type 1 with neurological disorder,1
+6961101000006114,diabetes type 1 with gangrene,1
+280531000006119,non-insulin dependent diabetes mellitus with nephropathy,1
+914261000006119,type 2 diabetes mellitus with nephropathy,1
+84551000006113,type 2 diabetes mellitus with nephropathy,1
+6960441000006112,diabetes type 1 with retinopathy,1
+6969931000006116,diabetes type 2 with neurological disorder,1
+6980441000006114,diabetes type 1 with cataract,1
+6977431000006113,diabetes type 2 with ketoacidosis,1
+6965571000006111,diabetes mellitus type 1 with ketoacidotic coma,1
+6979251000006110,diabetes mellitus type 2 with ketoacidotic coma,1
+6951091000006110,diabetes type 1 with ketoacidosis,1
+5109461000006115,diabetes type 2 on insulin,1
+303846016,nephrotic syndrome in diabetes mellitus,1
+303847013,kimmelstiel - wilson disease,1
+306113018,"pre-existing diabetes mellitus, non-insulin-dependent",1
+306114012,pre-existing malnutrition-related diabetes mellitus,1
+283544013,admit diabetic emergency,1
+308360012,cellulitis in diabetic foot,1
+309177010,ischaemic ulcer diabetic foot,1
+4807571000006117,ischemic ulcer diabetic foot,1
+309179013,neuropathic diabetic ulcer - foot,1
+309180011,mixed diabetic ulcer - foot,1
+4808881000006117,diabetic hand syndrome,1
+4808891000006119,diabetic cheirarthropathy,1
+309737011,diabetic cheiroarthropathy,1
+309738018,diabetic cheiropathy,1
+616971000006114,diabetic charcot arthropathy,1
+772131000006111,insulin dependent diab mell with neuropathic arthropathy,1
+4808921000006113,diabetic neuropathic arthropathy,1
+913981000006115,insulin dependent diab mell with neuropathic arthropathy,1
+6763741000006116,dm caused by non-steroid drug,1
+6837991000006112,diabetes mellitus caused by non-steroid drugs without complication,1
+6763751000006119,diabetes mellitus caused by non-steroid drugs,1
+913811000006115,type 1 diabetes mellitus with polyneuropathy,1
+84421000006115,type 1 diabetes mellitus with polyneuropathy,1
+7708091000006118,polyneuropathy due to type 1 diabetes mellitus,1
+12705071000006113,gastroparesis due to type 1 diabetes mellitus,1
+914251000006116,type ii diabetes mellitus with polyneuropathy,1
+84971000006111,type ii diabetes mellitus with polyneuropathy,1
+280541000006112,non-insulin dependent diabetes mellitus with polyneuropathy,1
+84601000006110,type 2 diabetes mellitus with polyneuropathy,1
+914241000006118,type 2 diabetes mellitus with polyneuropathy,1
+7708051000006112,gastroparesis due to diabetes mellitus type i,1
+12705081000006111,gastroparesis due to type 2 diabetes mellitus,1
+7708121000006119,polyneuropathy due to diabetes mellitus type ii,1
+7708071000006119,gastroparesis due to diabetes mellitus type ii,1
+84791000006110,type i diabetes mellitus with polyneuropathy,1
+913821000006111,type i diabetes mellitus with polyneuropathy,1
+6953901000006115,dka - diabetic ketoacidosis,1
+8014491000006111,peripheral vascular disease due to type i diabetes,1
+4392211000006114,diabetes with peripheral circulatory disorder,1
+4392221000006118,peripheral angiopathy due to diabetes mellitus,1
+913931000006116,type 1 diabetes mellitus with peripheral angiopathy,1
+913941000006114,type i diabetes mellitus with peripheral angiopathy,1
+84781000006112,type i diabetes mellitus with peripheral angiopathy,1
+84411000006111,type 1 diabetes mellitus with peripheral angiopathy,1
+280511000006113,non-insulin dependent diabetes mellitus with hypoglyca coma,1
+11927561000006118,hypoglycemic coma co-occurrent and due to diabetes mellitus type ii,1
+459169018,type ii diabetes mellitus with hypoglycaemic coma,1
+459167016,type 2 diabetes mellitus with hypoglycaemic coma,1
+84891000006116,type ii diabetes mellitus with hypoglycaemic coma,1
+84521000006116,type 2 diabetes mellitus with hypoglycaemic coma,1
+3128741000006119,diabetic lumbosacral radiculoplexus neuropathy,1
+2460251000000115,diabetic on non-insulin injectable medication,1
+7281511000006118,type 2 diabetes mellitus uncontrolled,1
+7500341000006113,mody5 - maturity-onset diabetes of the young type 5,1
+7500351000006110,renal cysts and diabetes syndrome,1
+7063141000006118,diabetes mellitus co-occurrent and due to cystic fibrosis,1
+345486016,diabetic neuropathy,1
+345487013,diabetes mellitus with neuropathy,1
+345492010,diabetic mononeuropathy,1
+771371000006118,insulin dependent diabetes mellitus with mononeuropathy,1
+913771000006115,insulin dependent diabetes mellitus with mononeuropathy,1
+347657010,diabetic maculopathy,1
+2474334019,diabetes clinical management plan,1
+84401000006113,type 1 diabetes mellitus with ophthalmic complications,1
+616601000006113,"diabetes mellitus, juvenile type, + ophthalmic manifestation",1
+913481000006113,type 1 diabetes mellitus with ophthalmic complications,1
+12702381000006118,diabetic oculopathy due to type i diabetes mellitus,1
+3537388019,diabetic oculopathy due to type 1 diabetes mellitus,1
+354508018,clinical diabetic nephropathy,1
+354509014,proteinuric diabetic nephropathy,1
+840971000006112,diabetes mellitus autosomal dominant type 2,1
+5109581000006112,maturity onset diabetes in youth type ii,1
+5109591000006110,mody - maturity onset diabetes in youth type ii,1
+356085010,maturity onset diabetes in youth type 2,1
+5109611000006116,mody - maturity onset diabetes in youth type 2,1
+5109621000006112,mody - maturity onset diabetes glucokinase-related,1
+771361000006113,insulin dependent diabetes mellitus with hypoglycaemic coma,1
+459162010,insulin dependent diabetes mellitus with hypoglycaemic coma,1
+5110071000006112,hypoglycaemic event in diabetes,1
+5110081000006110,hypoglycemic event in diabetes,1
+358035014,insulin lipohypertrophy,1
+358036010,insulin site lipohypertrophy,1
+216195015,diabetes care by hospital only,1
+12183221000006110,cataract co-occurrent and due to diabetes mellitus,1
+12336121000006110,cataract co-occurrent and due to diabetes mellitus type 1,1
+12220711000006112,iritis co-occurrent and due to diabetes mellitus,1
+12332111000006115,cataract co-occurrent and due to diabetes mellitus type 2,1
+12336861000006110,disorder of nervous system co-occurrent and due to diabetes mellitus,1
+12174811000006112,disorder of eye co-occurrent and due to diabetes mellitus,1
+913471000006110,insulin-dependent diabetes mellitus with ophthalmic comps,1
+771491000006110,insulin-dependent diabetes mellitus with ophthalmic comps,1
+616421000006118,diabetes mellitus with ophthalmic manifestation,1
+616391000006114,diabetes mellitus with neurological manifestation,1
+771481000006112,insulin-dependent diabetes mellitus with neurological comps,1
+913501000006115,insulin-dependent diabetes mellitus with neurological comps,1
+12218501000006114,disorder of kidney co-occurrent and due to diabetes mellitus,1
+12335981000006115,peripheral vascular disorder co-occurrent and due to diabetes mellitus,1
+616441000006113,diabetes mellitus with peripheral circulatory disorder,1
+12220721000006116,iritis due to diabetes mellitus,1
+12183231000006113,cataract due to diabetes mellitus,1
+84691000006115,type i diabetes mellitus with diabetic cataract,1
+913911000006110,type i diabetes mellitus with diabetic cataract,1
+914301000006111,type 2 diabetes mellitus with diabetic cataract,1
+84871000006117,type ii diabetes mellitus with diabetic cataract,1
+914311000006114,type ii diabetes mellitus with diabetic cataract,1
+84501000006114,type 2 diabetes mellitus with diabetic cataract,1
+12166101000006119,retinopathy co-occurrent and due to diabetes mellitus,1
+12166111000006116,retinopathy due to diabetes mellitus,1
+12295441000006116,nonproliferative retinopathy co-occurrent and due to diabetes mellitus,1
+12224751000006117,severe nonproliferative retinopathy co-occurrent and due to diabetes mellitus,1
+12220681000006111,preproliferative retinopathy co-occurrent and due to diabetes mellitus,1
+12221241000006112,disorder of macula co-occurrent and due to diabetes mellitus,1
+12221251000006114,maculopathy due to diabetes mellitus,1
+12086281000006113,diabetic maculopathy of right eye,1
+12086291000006111,maculopathy of right eye due to diabetes mellitus,1
+12086301000006112,disorder of right macula co-occurrent and due to diabetes mellitus,1
+12086321000006119,maculopathy of left eye due to diabetes mellitus,1
+12086331000006116,diabetic maculopathy of left eye,1
+12086341000006114,disorder of left macula co-occurrent and due to diabetes mellitus,1
+12220691000006114,advanced maculopathy co-occurrent and due to diabetes mellitus,1
+12224761000006115,severe npdr (nonproliferative diabetic retinopathy),1
+84751000006116,type i diabetes mellitus with neurological complications,1
+913521000006113,type i diabetes mellitus with neurological complications,1
+12334621000006111,neurological disorder co-occurrent and due to type 1 diabetes mellitus,1
+12334131000006118,neurological disorder co-occurrent and due to type 2 diabetes mellitus,1
+914071000006115,type 2 diabetes mellitus with neurological complications,1
+84931000006113,type ii diabetes mellitus with neurological complications,1
+914081000006117,type ii diabetes mellitus with neurological complications,1
+280591000006115,non-insulin-dependent diabetes mellitus with neuro comps,1
+84561000006110,type 2 diabetes mellitus with neurological complications,1
+12221111000006119,neuropathy co-occurrent and due to diabetes mellitus,1
+12185421000006113,polyneuropathy due to diabetes mellitus,1
+12185431000006111,polyneuropathy co-occurrent and due to diabetes mellitus,1
+12363721000006110,polyneuropathy co-occurrent and due to type 1 diabetes mellitus,1
+12363731000006113,polyneuropathy co-occurrent and due to type 2 diabetes mellitus,1
+12221151000006118,mononeuropathy co-occurrent and due to diabetes mellitus,1
+84721000006113,type i diabetes mellitus with mononeuropathy,1
+913791000006119,type i diabetes mellitus with mononeuropathy,1
+12331061000006114,mononeuropathy co-occurrent and due to type 2 diabetes mellitus,1
+914231000006111,type ii diabetes mellitus with mononeuropathy,1
+280521000006117,non-insulin dependent diabetes mellitus with mononeuropathy,1
+84901000006117,type ii diabetes mellitus with mononeuropathy,1
+12220641000006117,mononeuritis multiplex co-occurrent and due to diabetes mellitus,1
+12220651000006115,mononeuritis multiplex with diabetes mellitus,1
+12180761000006118,dlrpn - diabetic lumbosacral radiculoplexus neuropathy,1
+12180771000006113,lumbosacral radiculoplexus neuropathy with diabetes mellitus,1
+12180781000006111,lumbosacral radiculoplexus neuropathy co-occurrent and due to diabetes mellitus,1
+12180791000006114,diabetic lumbosacral plexopathy,1
+12186011000006117,autonomic neuropathy with diabetes mellitus,1
+12186021000006113,autonomic neuropathy co-occurrent and due to diabetes mellitus,1
+12220661000006118,asymptomatic neuropathy co-occurrent and due to diabetes mellitus,1
+12220671000006113,asymptomatic neuropathy with diabetes mellitus,1
+1667941000000112,type i diabetes mellitus with gastroparesis,1
+299601000000114,type 1 diabetes mellitus with gastroparesis,1
+12363671000006118,gastroparesis co-occurrent and due to type 1 diabetes mellitus,1
+12363691000006117,gastroparesis co-occurrent and due to type 2 diabetes mellitus,1
+1667921000000117,type ii diabetes mellitus with gastroparesis,1
+299621000000117,type 2 diabetes mellitus with gastroparesis,1
+12220701000006114,advanced maculopathy with diabetes mellitus,1
+2159980012,o/e - left eye diabetic maculopathy,1
+12221261000006111,maculopathy with diabetes mellitus,1
+2159979014,o/e - right eye diabetic maculopathy,1
+12224581000006118,advanced retinal disease co-occurrent and due to diabetes mellitus,1
+12224591000006115,advanced retinal disease with diabetes mellitus,1
+12370281000006118,disorder of eye co-occurrent and due to type 1 diabetes mellitus,1
+913491000006111,type i diabetes mellitus with ophthalmic complications,1
+84771000006114,type i diabetes mellitus with ophthalmic complications,1
+914061000006110,type ii diabetes mellitus with ophthalmic complications,1
+84581000006117,type 2 diabetes mellitus with ophthalmic complications,1
+914051000006113,type 2 diabetes mellitus with ophthalmic complications,1
+587111000006111,non-insulin-dependent diabetes mellitus with ophthalm comps,1
+84951000006118,type ii diabetes mellitus with ophthalmic complications,1
+12336881000006117,disorder of eye co-occurrent and due to type 2 diabetes mellitus,1
+12332761000006118,mononeuropathy co-occurrent and due to type 1 diabetes mellitus,1
+12331231000006110,exudative maculopathy co-occurrent and due to type 1 diabetes mellitus,1
+938301000006114,type 1 diabetes mellitus with exudative maculopathy,1
+938331000006118,type ii diabetes mellitus with exudative maculopathy,1
+12335681000006111,exudative maculopathy co-occurrent and due to type 2 diabetes mellitus,1
+12332281000006119,retinopathy co-occurrent and due to type 1 diabetes mellitus,1
+84811000006114,type i diabetes mellitus with retinopathy,1
+84441000006110,type 1 diabetes mellitus with retinopathy,1
+913661000006118,type 1 diabetes mellitus with retinopathy,1
+913671000006113,type i diabetes mellitus with retinopathy,1
+12336541000006114,retinopathy co-occurrent and due to type 2 diabetes mellitus,1
+84991000006112,type ii diabetes mellitus with retinopathy,1
+914151000006112,type 2 diabetes mellitus with retinopathy,1
+914161000006114,type ii diabetes mellitus with retinopathy,1
+84621000006117,type 2 diabetes mellitus with retinopathy,1
+12189881000006112,proliferative retinopathy with diabetes mellitus,1
+12189891000006110,pdr - proliferative diabetic retinopathy,1
+12189901000006114,proliferative retinopathy co-occurrent and due to diabetes mellitus,1
+399419012,myasthenic syndrome due to diabetic amyotrophy,1
+777231000006119,injection sites - diabetic,1
+913681000006111,insulin dependent diabetes mellitus - poor control,1
+264716012,diabetic - poor control nos,1
+772181000006112,insulin dependent diabetes mellitus - poor control,1
+401531012,diabetic - poor control,1
+764191000006112,foot abnormality - diabetes related,1
+764201000006110,foot abnormality - diabetes related,1
+5634901000006116,diabetic foot,1
+292503016,diabetes mellitus nos with ophthalmic manifestation,1
+13771000006110,other specified diabetes mellitus with ophthalmic complicatn,1
+12704401000006110,diabetic oculopathy,1
+2900941000006117,ophthalmic manifestations of diabetes,1
+2900951000006115,diabetic eye disease,1
+429970018,unstable type i diabetes mellitus,1
+72721000006113,unstable type i diabetes mellitus,1
+72711000006117,unstable type 1 diabetes mellitus,1
+429971019,unstable type 1 diabetes mellitus,1
+12703991000006112,[x]unspecified diabetes mellitus with renal complications,1
+616381000006111,diabetes mellitus with ketoacidotic coma,1
+2920961000006110,diabetic coma with ketoacidosis,1
+2920971000006115,diabetic acidosis with coma,1
+2920981000006117,diabetic coma,1
+451410016,o/e - right diabetic foot at risk,1
+451411017,o/e - left diabetic foot at risk,1
+452078013,subcutaneous injection of insulin,1
+305158015,[x]glomerular disorders in diabetes mellitus,1
+453100011,h/o: admission in last year for diabetes foot problem,1
+455408014,advanced diabetic retinal disease,1
+6022721000006112,proliferative diabetic retinopathy - high risk,1
+84831000006115,type i diabetes mellitus without complication,1
+457325013,type i diabetes mellitus without complication,1
+457326014,type 1 diabetes mellitus without complication,1
+84461000006114,type 1 diabetes mellitus without complication,1
+616621000006115,"diabetes mellitus, juvenile type, no mention of complication",1
+6030001000006116,insulin-dependent diabetes without complication,1
+457328010,non-insulin-dependent diabetes mellitus without complication,1
+457329019,type 2 diabetes mellitus without complication,1
+84641000006112,type 2 diabetes mellitus without complication,1
+616511000006110,"diabetes mellitus, adult onset, no mention of complication",1
+457330012,type ii diabetes mellitus without complication,1
+85011000006119,type ii diabetes mellitus without complication,1
+458512016,diabetic on insulin and oral treatment,1
+84341000006119,type 1 diabetes mellitus with hypoglycaemic coma,1
+459161015,type 1 diabetes mellitus with hypoglycaemic coma,1
+6050041000006115,insulin dependent diabetes mellitus with hypoglycaemic coma,1
+84711000006117,type i diabetes mellitus with hypoglycaemic coma,1
+459163017,type i diabetes mellitus with hypoglycaemic coma,1
+6050061000006116,type i diabetes mellitus with hypoglycemic coma,1
+6050071000006111,insulin dependent diabetes mellitus with hypoglycemic coma,1
+6050081000006114,type 1 diabetes mellitus with hypoglycemic coma,1
+459292011,type 1 diabetes mellitus with arthropathy,1
+84311000006118,type 1 diabetes mellitus with arthropathy,1
+6051171000006117,insulin dependent diabetes mellitus with arthropathy,1
+84681000006118,type i diabetes mellitus with arthropathy,1
+459294012,type i diabetes mellitus with arthropathy,1
+459306016,type ii diabetes mellitus with peripheral angiopathy,1
+84961000006116,type ii diabetes mellitus with peripheral angiopathy,1
+280561000006111,non-insulin-dependent d m with peripheral angiopath,1
+84591000006119,type 2 diabetes mellitus with peripheral angiopathy,1
+459308015,type 2 diabetes mellitus with peripheral angiopathy,1
+459309011,non-insulin dependent diabetes mellitus with arthropathy,1
+459310018,type 2 diabetes mellitus with arthropathy,1
+84491000006118,type 2 diabetes mellitus with arthropathy,1
+459311019,type ii diabetes mellitus with arthropathy,1
+84861000006112,type ii diabetes mellitus with arthropathy,1
+84941000006115,type ii diabetes mellitus with neuropathic arthropathy,1
+459312014,type ii diabetes mellitus with neuropathic arthropathy,1
+84571000006115,type 2 diabetes mellitus with neuropathic arthropathy,1
+459313016,type 2 diabetes mellitus with neuropathic arthropathy,1
+281181000006116,non-insulin dependent d m with neuropathic arthropathy,1
+459695017,diabetic weight reducing diet,1
+616081000006113,diab mellit insulin-glucose infus acute myocardial infarct,1
+6056601000006112,digami - diabetes mellitus insulin-glucose infusion in acute myocardial infarction,1
+4723641000006110,diabetic emergency hospital admission,1
+479511000000117,diabetes type 1 review,1
+479571000000110,diabetes type 2 review,1
+493773010,niddm - non-insulin dependent diabetes mellitus,1
+73466011,non-insulin dependent diabetes mellitus,1
+280571000006116,non-insulin dependent diabetes mellitus,1
+223291000000111,maturity onset diabetes,1
+493774016,type ii diabetes mellitus,1
+84841000006113,type ii diabetes mellitus,1
+84651000006114,type i diabetes mellitus,1
+494564012,type i diabetes mellitus,1
+3690681000006114,dm - diabetes mellitus,1
+622221000000118,maternally inherited diabetes mellitus,1
+646031000000112,insulin treatment initiated,1
+457157017,[v]admitted for commencement of insulin,1
+616921000006113,diabetic amyotrophy,1
+65526011,diabetic amyotrophy,1
+12485441000006119,niddm with peripheral circulatory disorder,1
+6975211000006112,gangrene associated with type 2 diabetes mellitus,1
+6985001000006110,peripheral circulatory disorder associated with type 2 diabetes mellitus,1
+6985421000006113,skin ulcer associated with diabetes mellitus,1
+73294018,diabetic cataract,1
+771341000006114,insulin dependent diabetes mellitus with diabetic cataract,1
+913891000006113,insulin dependent diabetes mellitus with diabetic cataract,1
+3209431000006116,diabetes mellitus type ii,1
+292565014,unspecified diabetes mellitus with multiple complications,1
+913531000006111,insulin dependent diabetes mellitus with multiple complicat,1
+13751000006117,other specified diabetes mellitus with multiple comps,1
+771381000006115,insulin dependent diabetes mellitus with multiple complicatn,1
+306112011,"pre-existing diabetes mellitus, insulin-dependent",1
+213141000006111,"pre-existing diabetes mellitus, unspecified",1
+308110013,"[x]pre-existing diabetes mellitus, unspecified",1
+3253231000006110,diabetes mellitus type i,1
+7783451000006114,hypoglycaemic coma co-occurrent and due to diabetes mellitus type ii,1
+82373015,diabetic polyneuropathy,1
+616451000006110,diabetes mellitus with polyneuropathy,1
+913801000006118,insulin dependent diabetes mellitus with polyneuropathy,1
+771401000006115,insulin dependent diabetes mellitus with polyneuropathy,1
+214921000006116,polyneuropathy in diabetes,1
+3319861000006118,diabetic autonomic neuropathy,1
+12702411000006115,type ii diabetes mellitus with neurological complications,1
+198461000000116,secondary pancreatic diabetes mellitus without complication,1
+881441000006111,diabetes mellitus - juvenile,1
+881461000006110,diabetes+ketoacidosis -no coma,1
+881471000006115,diabetes with coma,1
+881481000006117,diabetes + nephropathy,1
+881491000006119,diabetes + eye manifestation,1
+881501000006110,diabetes + neuropathy,1
+881511000006113,diabetes + periph.circulat.dis,1
+9093013,diabetic retinopathy,1
+913651000006115,insulin dependent diabetes mellitus with retinopathy,1
+297758012,diabetic retinopathy nos,1
+771411000006117,insulin dependent diabetes mellitus with retinopathy,1
+12762301000006111,diabetic oculopathy associated with type 2 diabetes mellitus,1
+12489851000006117,type ii diabetes mellitus with exudative maculopathy,1
+98476015,proliferative diabetic retinopathy,1

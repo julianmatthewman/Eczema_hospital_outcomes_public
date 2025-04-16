@@ -1,0 +1,34 @@
+Administrative codes, codes for blood tests, and routine measurements or questionnaires (height, weight, pulse, blood pressure, alcohol consumption) with at least 30,000,000 recorded observations in CPRD Aurum March 2023 build. Excluded the codes below that may indicate a particular age, sex, health behaviour or health condition: 
+
+
+medcodeid	observations	originalreadcode	cleansedreadcode	term	snomedctconceptid	snomedctdescriptionid	release	emiscodecategoryid
+397732011	80000000	1371	1371.00	Never smoked tobacco	266919005	397732011		17
+
+99042012	40000000	G20	G20..00	Essential hypertension	59621000	99042012		32
+
+218381000000118	40000000	4K22	4K22.00	Cervical smear - negative	269958004	404615014		20
+
+142934010	40000000	65E	65E..00	Influenza vaccination	86198006	142934010		9
+
+257472014	40000000	42QE	42QE.00	International normalised ratio	165581004	257472014		11
+
+338608011	40000000	8CAL	8CAL.00	Smoking cessation advice	225323000	338608011		17
+
+787121000006116	40000000	66CB	66CB.00	Ideal body weight	170804003	264765019		1
+
+338608011	40000000	8CAL	8CAL.00	Smoking cessation advice	225323000	338608011		17
+
+787121000006116	40000000	66CB	66CB.00	Ideal body weight	170804003	264765019		1
+
+259803019	30000000	4672	4672.00	Urine protein test negative	167273002	259803019		34
+
+649841000006110	30000000	137S	137S.00	Ex-smoker	8517006	15047015		17
+
+2142081000000112	30000000	65ED	65ED.00	Seasonal influenza vaccination	822851000000102	2142081000000112		9
+
+259790016	30000000	4662	4662.00	Urine glucose test negative	167261002	259790016		34
+
+259790016	30000000	4662	4662.00	Urine glucose test negative	167261002	259790016		34
+
+285194015	30000000	9N19	9N19.00	Seen in hospital casualty	185210004	285194015		37
+

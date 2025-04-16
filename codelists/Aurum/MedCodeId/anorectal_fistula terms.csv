@@ -1,0 +1,7 @@
+"searchterms","exclusionterms","searched_in_column","searchmethod"
+"(?=.*anal)(?=.*fistul)","Urethro","Term","termsearch <- function(lookup, terms) {stringr::str_detect(lookup, stringr::regex(paste(terms, collapse = '|'), ignore_case = TRUE))}; initial <- dplyr::filter(DATA, termsearch(COLUMN, SEARCHTERMS)); excluded <- dplyr::filter(initial, termsearch(COLUMN, EXCLUSIONTERMS); final <- dplyr::setdiff(inital, excluded)"
+"(?=.*rectal)(?=.*fistul)","Utero",,
+"Fistula in ano","Vesico",,
+"Fistula-in-ano","canal fistula",,
+"Fistula of anus","colectomy",,
+"Intersphincteric fistula",,,

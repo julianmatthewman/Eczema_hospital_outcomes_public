@@ -1,0 +1,37 @@
+﻿readcode,medcode,readterm,incident,clinicalevents,immunisationevents,referralevents,testevents,databaserelease
+14F2.00,3437,h/o: psoriasis,0,40561,0,1924,0,Feb-09
+M16..00,3733,psoriasis and similar disorders,1,101373,0,3163,0,Feb-09
+M160.00,476,psoriatic arthropathy,1,46800,0,3261,1,Feb-09
+M160.11,96880,psoriatic arthritis,1,11279,0,309,0,May-09
+M160000,26368,psoriasis spondylitica,1,255,0,4,0,Feb-09
+M160100,32149,distal interphalangeal psoriatic arthropathy,1,29,0,1,0,Feb-09
+M160200,21503,arthritis mutilans,1,87,0,10,0,Feb-09
+M160z00,12500,psoriatic arthropathy nos,1,2294,0,129,0,Feb-09
+M161.00,22501,other psoriasis,1,2827,0,28,0,Feb-09
+M161000,162,psoriasis unspecified,1,426013,0,23947,23,Feb-09
+M161100,21104,psoriasis annularis,1,155,0,1,0,Feb-09
+M161200,30272,psoriasis circinata,1,59,0,1,0,Feb-09
+M161300,42008,psoriasis diffusa,1,92,0,2,0,Feb-09
+M161400,18755,psoriasis discoidea,1,606,0,15,0,Feb-09
+M161500,21633,psoriasis geographica,1,20,0,0,0,Feb-09
+M161600,3193,guttate psoriasis,1,57427,0,3321,0,Feb-09
+M161700,65839,psoriasis gyrata,1,9,0,0,0,Feb-09
+M161800,48257,psoriasis inveterata,1,14,0,0,0,Feb-09
+M161900,60169,psoriasis ostracea,1,3,0,0,0,Feb-09
+M161A00,8014,psoriasis palmaris,1,1725,0,48,0,Feb-09
+M161B00,2945,psoriasis plantaris,1,2208,0,62,1,Feb-09
+M161C00,24136,psoriasis punctata,1,73,0,2,0,Feb-09
+M161D00,4231,pustular psoriasis,1,13389,0,663,0,Feb-09
+M161E00,20222,psoriasis universalis,1,119,0,20,0,Feb-09
+M161F00,30210,psoriasis vulgaris,1,1161,0,15,0,Feb-09
+M161F11,93511,chronic large plaque psoriasis,1,4167,0,128,0,Feb-09
+M161H00,17094,erythrodermic psoriasis,1,796,0,51,0,Feb-09
+M161J00,107494,flexural psoriasis,1,575,0,8,0,Dec-13
+M161z00,172,psoriasis nos,1,457959,0,15646,0,Feb-09
+M166.00,105229,palmoplantar pustular psoriasis,1,1742,0,46,0,Nov-12
+M16y.00,41149,other psoriasis and similar disorders,1,218,0,3,0,Feb-09
+M16y000,11761,scalp psoriasis,1,41389,0,412,0,Feb-09
+M16z.00,30975,psoriasis and similar disorders nos,1,7162,0,89,0,Feb-09
+Myu3000,66711,[x]other psoriasis,1,215,0,2,0,Feb-09
+N045200,28456,juvenile arthritis in psoriasis,1,217,0,7,0,Feb-09
+Nyu1300,59107,[x]other psoriatic arthropathies,1,15,0,1,0,Feb-09

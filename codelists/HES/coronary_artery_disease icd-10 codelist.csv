@@ -1,0 +1,54 @@
+code,description,coding_system,concept_id,concept_version_id,concept_name,phenotype_id,phenotype_version_id,phenotype_name,code_attributes
+6A2..00,Coronary heart disease annual review,Read codes v2,C3193,8545,File - Coronary Heart Disease - Primary Care - Incident,PH1027,2263,Coronary Heart Disease (CHD),{'CALIBER.Category': 'Diagnosed'}
+6A4..00,Coronary heart disease review,Read codes v2,C3193,8545,File - Coronary Heart Disease - Primary Care - Incident,PH1027,2263,Coronary Heart Disease (CHD),{'CALIBER.Category': 'Diagnosed'}
+8B3k.00,Coronary heart disease medication review,Read codes v2,C3193,8545,File - Coronary Heart Disease - Primary Care - Incident,PH1027,2263,Coronary Heart Disease (CHD),{'CALIBER.Category': 'Diagnosed'}
+8H2V.00,Admit ischaemic heart disease emergency,Read codes v2,C3193,8545,File - Coronary Heart Disease - Primary Care - Incident,PH1027,2263,Coronary Heart Disease (CHD),{'CALIBER.Category': 'Diagnosed'}
+G3...00,Ischaemic heart disease,Read codes v2,C3193,8545,File - Coronary Heart Disease - Primary Care - Incident,PH1027,2263,Coronary Heart Disease (CHD),{'CALIBER.Category': 'Diagnosed'}
+G3...11,Arteriosclerotic heart disease,Read codes v2,C3193,8545,File - Coronary Heart Disease - Primary Care - Incident,PH1027,2263,Coronary Heart Disease (CHD),{'CALIBER.Category': 'Diagnosed'}
+G3...12,Atherosclerotic heart disease,Read codes v2,C3193,8545,File - Coronary Heart Disease - Primary Care - Incident,PH1027,2263,Coronary Heart Disease (CHD),{'CALIBER.Category': 'Diagnosed'}
+G3...13,IHD - Ischaemic heart disease,Read codes v2,C3193,8545,File - Coronary Heart Disease - Primary Care - Incident,PH1027,2263,Coronary Heart Disease (CHD),{'CALIBER.Category': 'Diagnosed'}
+G31..00,Other acute and subacute ischaemic heart disease,Read codes v2,C3193,8545,File - Coronary Heart Disease - Primary Care - Incident,PH1027,2263,Coronary Heart Disease (CHD),{'CALIBER.Category': 'Diagnosed'}
+G311000,Myocardial infarction aborted,Read codes v2,C3193,8545,File - Coronary Heart Disease - Primary Care - Incident,PH1027,2263,Coronary Heart Disease (CHD),{'CALIBER.Category': 'Diagnosed'}
+G311011,MI - myocardial infarction aborted,Read codes v2,C3193,8545,File - Coronary Heart Disease - Primary Care - Incident,PH1027,2263,Coronary Heart Disease (CHD),{'CALIBER.Category': 'Diagnosed'}
+G31y.00,Other acute and subacute ischaemic heart disease,Read codes v2,C3193,8545,File - Coronary Heart Disease - Primary Care - Incident,PH1027,2263,Coronary Heart Disease (CHD),{'CALIBER.Category': 'Diagnosed'}
+G31y200,Subendocardial ischaemia,Read codes v2,C3193,8545,File - Coronary Heart Disease - Primary Care - Incident,PH1027,2263,Coronary Heart Disease (CHD),{'CALIBER.Category': 'Diagnosed'}
+G31y300,Transient myocardial ischaemia,Read codes v2,C3193,8545,File - Coronary Heart Disease - Primary Care - Incident,PH1027,2263,Coronary Heart Disease (CHD),{'CALIBER.Category': 'Diagnosed'}
+G31yz00,Other acute and subacute ischaemic heart disease NOS,Read codes v2,C3193,8545,File - Coronary Heart Disease - Primary Care - Incident,PH1027,2263,Coronary Heart Disease (CHD),{'CALIBER.Category': 'Diagnosed'}
+G34..00,Other chronic ischaemic heart disease,Read codes v2,C3193,8545,File - Coronary Heart Disease - Primary Care - Incident,PH1027,2263,Coronary Heart Disease (CHD),{'CALIBER.Category': 'Diagnosed'}
+G340.00,Coronary atherosclerosis,Read codes v2,C3193,8545,File - Coronary Heart Disease - Primary Care - Incident,PH1027,2263,Coronary Heart Disease (CHD),{'CALIBER.Category': 'Diagnosed'}
+G340.12,Coronary artery disease,Read codes v2,C3193,8545,File - Coronary Heart Disease - Primary Care - Incident,PH1027,2263,Coronary Heart Disease (CHD),{'CALIBER.Category': 'Diagnosed'}
+G343.00,Ischaemic cardiomyopathy,Read codes v2,C3193,8545,File - Coronary Heart Disease - Primary Care - Incident,PH1027,2263,Coronary Heart Disease (CHD),{'CALIBER.Category': 'Diagnosed'}
+G344.00,Silent myocardial ischaemia,Read codes v2,C3193,8545,File - Coronary Heart Disease - Primary Care - Incident,PH1027,2263,Coronary Heart Disease (CHD),{'CALIBER.Category': 'Diagnosed'}
+G34y.00,Other specified chronic ischaemic heart disease,Read codes v2,C3193,8545,File - Coronary Heart Disease - Primary Care - Incident,PH1027,2263,Coronary Heart Disease (CHD),{'CALIBER.Category': 'Diagnosed'}
+G34y100,Chronic myocardial ischaemia,Read codes v2,C3193,8545,File - Coronary Heart Disease - Primary Care - Incident,PH1027,2263,Coronary Heart Disease (CHD),{'CALIBER.Category': 'Diagnosed'}
+G34yz00,Other specified chronic ischaemic heart disease NOS,Read codes v2,C3193,8545,File - Coronary Heart Disease - Primary Care - Incident,PH1027,2263,Coronary Heart Disease (CHD),{'CALIBER.Category': 'Diagnosed'}
+G34z.00,Other chronic ischaemic heart disease NOS,Read codes v2,C3193,8545,File - Coronary Heart Disease - Primary Care - Incident,PH1027,2263,Coronary Heart Disease (CHD),{'CALIBER.Category': 'Diagnosed'}
+G34z000,Asymptomatic coronary heart disease,Read codes v2,C3193,8545,File - Coronary Heart Disease - Primary Care - Incident,PH1027,2263,Coronary Heart Disease (CHD),{'CALIBER.Category': 'Diagnosed'}
+G3y..00,Other specified ischaemic heart disease,Read codes v2,C3193,8545,File - Coronary Heart Disease - Primary Care - Incident,PH1027,2263,Coronary Heart Disease (CHD),{'CALIBER.Category': 'Diagnosed'}
+G3z..00,Ischaemic heart disease NOS,Read codes v2,C3193,8545,File - Coronary Heart Disease - Primary Care - Incident,PH1027,2263,Coronary Heart Disease (CHD),{'CALIBER.Category': 'Diagnosed'}
+Gyu3.00,[X]Ischaemic heart diseases,Read codes v2,C3193,8545,File - Coronary Heart Disease - Primary Care - Incident,PH1027,2263,Coronary Heart Disease (CHD),{'CALIBER.Category': 'Diagnosed'}
+Gyu3200,[X]Other forms of acute ischaemic heart disease,Read codes v2,C3193,8545,File - Coronary Heart Disease - Primary Care - Incident,PH1027,2263,Coronary Heart Disease (CHD),{'CALIBER.Category': 'Diagnosed'}
+Gyu3300,[X]Other forms of chronic ischaemic heart disease,Read codes v2,C3193,8545,File - Coronary Heart Disease - Primary Care - Incident,PH1027,2263,Coronary Heart Disease (CHD),{'CALIBER.Category': 'Diagnosed'}
+I250,"Atherosclerotic cardiovascular disease, so described",ICD10 codes,C3194,8547,File - Coronary Heart Disease - Secondary Care,PH1027,2263,Coronary Heart Disease (CHD),{'CALIBER.Category': 'Diagnosed'}
+I251,Atherosclerotic heart disease,ICD10 codes,C3194,8547,File - Coronary Heart Disease - Secondary Care,PH1027,2263,Coronary Heart Disease (CHD),{'CALIBER.Category': 'Diagnosed'}
+I253,Aneurysm of heart,ICD10 codes,C3194,8547,File - Coronary Heart Disease - Secondary Care,PH1027,2263,Coronary Heart Disease (CHD),{'CALIBER.Category': 'Diagnosed'}
+I254,Coronary artery aneurysm,ICD10 codes,C3194,8547,File - Coronary Heart Disease - Secondary Care,PH1027,2263,Coronary Heart Disease (CHD),{'CALIBER.Category': 'Diagnosed'}
+I255,Ischaemic cardiomyopathy,ICD10 codes,C3194,8547,File - Coronary Heart Disease - Secondary Care,PH1027,2263,Coronary Heart Disease (CHD),{'CALIBER.Category': 'Diagnosed'}
+I256,Silent myocardial ischaemia,ICD10 codes,C3194,8547,File - Coronary Heart Disease - Secondary Care,PH1027,2263,Coronary Heart Disease (CHD),{'CALIBER.Category': 'Diagnosed'}
+I258,Other forms of chronic ischaemic heart disease,ICD10 codes,C3194,8547,File - Coronary Heart Disease - Secondary Care,PH1027,2263,Coronary Heart Disease (CHD),{'CALIBER.Category': 'Diagnosed'}
+I259,"Chronic ischaemic heart disease, unspecified",ICD10 codes,C3194,8547,File - Coronary Heart Disease - Secondary Care,PH1027,2263,Coronary Heart Disease (CHD),{'CALIBER.Category': 'Diagnosed'}
+I20,Angina pectoris,ICD10 codes,C3195,8549,File - Coronary Heart Disease - Death,PH1027,2263,Coronary Heart Disease (CHD),{'CALIBER.Category': 'coronary_heart_disease'}
+I21,Acute myocardial infarction,ICD10 codes,C3195,8549,File - Coronary Heart Disease - Death,PH1027,2263,Coronary Heart Disease (CHD),{'CALIBER.Category': 'coronary_heart_disease'}
+I22,Subsequent myocardial infarction,ICD10 codes,C3195,8549,File - Coronary Heart Disease - Death,PH1027,2263,Coronary Heart Disease (CHD),{'CALIBER.Category': 'coronary_heart_disease'}
+I23,Certain current complications following acute myocardial infarction,ICD10 codes,C3195,8549,File - Coronary Heart Disease - Death,PH1027,2263,Coronary Heart Disease (CHD),{'CALIBER.Category': 'coronary_heart_disease'}
+I24,Other acute ischaemic heart diseases,ICD10 codes,C3195,8549,File - Coronary Heart Disease - Death,PH1027,2263,Coronary Heart Disease (CHD),{'CALIBER.Category': 'coronary_heart_disease'}
+I25,Chronic ischaemic heart disease,ICD10 codes,C3195,8549,File - Coronary Heart Disease - Death,PH1027,2263,Coronary Heart Disease (CHD),{'CALIBER.Category': 'coronary_heart_disease'}
+410,Acute myocardial infarction,ICD9 codes,C3196,8551,File - Abdominal Aortic Aneurysm - Death,PH1027,2263,Coronary Heart Disease (CHD),{'CALIBER.Category': 'Coronary heart disease'}
+411,Other acute and subacute forms of ischemic heart disease,ICD9 codes,C3196,8551,File - Abdominal Aortic Aneurysm - Death,PH1027,2263,Coronary Heart Disease (CHD),{'CALIBER.Category': 'Coronary heart disease'}
+412,Old myocardial infarction,ICD9 codes,C3196,8551,File - Abdominal Aortic Aneurysm - Death,PH1027,2263,Coronary Heart Disease (CHD),{'CALIBER.Category': 'Coronary heart disease'}
+413,Angina pectoris,ICD9 codes,C3196,8551,File - Abdominal Aortic Aneurysm - Death,PH1027,2263,Coronary Heart Disease (CHD),{'CALIBER.Category': 'Coronary heart disease'}
+414,Other forms of chronic ischemic heart disease,ICD9 codes,C3196,8551,File - Abdominal Aortic Aneurysm - Death,PH1027,2263,Coronary Heart Disease (CHD),{'CALIBER.Category': 'Coronary heart disease'}
+4292,"Ill-defined descriptions and complications of heart disease ; Cardiovascular disease, unspecified",ICD9 codes,C3196,8551,File - Abdominal Aortic Aneurysm - Death,PH1027,2263,Coronary Heart Disease (CHD),{'CALIBER.Category': 'Coronary heart disease'}
+4295,Ill-defined descriptions and complications of heart disease ; Rupture of chordae tendineae,ICD9 codes,C3196,8551,File - Abdominal Aortic Aneurysm - Death,PH1027,2263,Coronary Heart Disease (CHD),{'CALIBER.Category': 'Coronary heart disease'}
+4296,Ill-defined descriptions and complications of heart disease ; Rupture of papillary muscle,ICD9 codes,C3196,8551,File - Abdominal Aortic Aneurysm - Death,PH1027,2263,Coronary Heart Disease (CHD),{'CALIBER.Category': 'Coronary heart disease'}
+4297,"Ill-defined descriptions and complications of heart disease ; Certain sequelae of myocardial infarction, not elsewhere classified",ICD9 codes,C3196,8551,File - Abdominal Aortic Aneurysm - Death,PH1027,2263,Coronary Heart Disease (CHD),{'CALIBER.Category': 'Coronary heart disease'}

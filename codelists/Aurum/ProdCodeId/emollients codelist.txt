@@ -1,0 +1,272 @@
+ProdCodeId	dmdid	Term from EMIS	ProductName	Formulation	RouteOfAdministration	DrugSubstanceName	SubstanceStrength	BNFChapter	DrugIssues
+26041000033115	4.02201E+15	Alcoderm cream (Galderma (UK) Ltd)	Alcoderm cream	Cream	Cutaneous				3000
+32441000033111	3.06241E+15	Alcoderm lotion (Galderma (UK) Ltd)	Alcoderm lotion	Liquid	Cutaneous	Liquid paraffin	160.000mg/1.000ml		2000
+76541000033114	1.46079E+16	Aqueous cream	Aqueous cream	Cream	Cutaneous	Emulsifying wax/ Liquid paraffin/ Phenoxyethanol/ Purified water/ White soft paraffin	90.000mg/1.000gram + 60.000mg/1.000gram + 10.000mg/1.000gram + 690.000mg/1.000gram + 150.000mg/1.000gram	13020101	10000000
+83341000033118	3.77411E+15	Ashbourne Emollient Medicinal bath oil (Ashbourne Pharmaceuticals Ltd)	Ashbourne Emollient Medicinal bath oil	Bath additive	Cutaneous	Acetylated wool alcohols/ Liquid paraffin	50.000mg/1.000gram + 650.000mg/1.000gram		10000
+95341000033118	8.31211E+14	Aveeno bath oil (Johnson & Johnson Ltd)	Aveeno bath oil	Bath additive					800000
+95441000033112		Aveeno Oilated  Bath additive							8000
+95541000033113		Aveeno Regular  Bath additive  65 %							3000
+95841000033110	8.92711E+14	Aveeno cream (Johnson & Johnson Ltd)	Aveeno cream	Not applicable					4000000
+96141000033111		Aveeno Oilated  Sachets							10000
+100541000033113	8.62311E+14	E45 emollient bath oil (Karo Pharma)	E45 emollient bath oil	Not applicable					300000
+165141000033113	1.46136E+16	Buffered cream	Buffered cream	Cream	Cutaneous	Chlorocresol/ Citric acid monohydrate/ Disodium hydrogen phosphate dodecahydrate/ Emulsifying wax/ Liquid paraffin/ Purified water/ White soft paraffin	1.000mg/1.000gram + 5.000mg/1.000gram + 25.000mg/1.000gram + 90.000mg/1.000gram + 60.000mg/1.000gram + 669.000mg/1.000gram + 150.000mg/1.000gram	13020100	600
+221641000033114	1.46548E+16	Cetomacrogol cream (Formula A)	Cetomacrogol cream (Formula A)	Cream	Cutaneous	Cetostearyl alcohol/ Chlorocresol/ Liquid paraffin/ Macrogol cetostearyl ether 22/ Purified water/ White soft paraffin	72.000mg/1.000gram + 1.000mg/1.000gram + 60.000mg/1.000gram + 18.000mg/1.000gram + 699.000mg/1.000gram + 150.000mg/1.000gram	13010100	400000
+221741000033117	1.46138E+16	Cetomacrogol cream (Formula B)	Cetomacrogol cream (Formula B)	Cream	Cutaneous	Cetostearyl alcohol/ Liquid paraffin/ Macrogol cetostearyl ether 22/ Methyl hydroxybenzoate/ Propyl hydroxybenzoate/ Purified water/ Thiomersal/ White soft paraffin	72.000mg/1.000gram + 60.000mg/1.000gram + 18.000mg/1.000gram + 1.500mg/1.000gram + 800.000microgram/1.000gram + 697.680mg/1.000gram + 20.000microgram/1.000gram + 150.000mg/1.000gram	13010100	2000
+221841000033110	2.96261E+15	Cetraben cream (Thornton & Ross Ltd)	Cetraben cream	Cream	Cutaneous	Liquid paraffin light/ White soft paraffin	105.000mg/1.000gram + 132.000mg/1.000gram		3000000
+221941000033119		Cetomacrogol  Cream							5000
+228341000033112		Cetomacrogol Emulsifying  Ointment							3000
+424541000033110	5.53611E+14	Dermol 500 lotion (Dermal Laboratories Ltd)	Dermol 500 lotion	Liquid	Cutaneous	Benzalkonium chloride/ Chlorhexidine hydrochloride/ Isopropyl myristate/ Liquid paraffin	1.000mg/1.000gram + 1.000mg/1.000gram + 25.000mg/1.000gram + 25.000mg/1.000gram		5000000
+441341000033115	3.46821E+15	Diprobase cream (Bayer Plc)	Diprobase cream	Cream	Cutaneous				9000000
+443841000033113	3.04541E+15	Diprobath bath emollient (Organon Pharma (UK) Ltd)	Diprobath bath emollient	Bath additive	Cutaneous	Isopropyl myristate/ Liquid paraffin light	390.000mg/1.000gram + 460.000mg/1.000gram		400000
+454341000033116	3.49151E+15	Diprobase ointment (Bayer Plc)	Diprobase ointment	Ointment	Cutaneous	Liquid paraffin/ White soft paraffin	50.000mg/1.000gram + 950.000mg/1.000gram		1000000
+492641000033111	5.45211E+14	E45 cream (Karo Pharma)	E45 cream	Cream	Cutaneous	Liquid paraffin light/ White soft paraffin/ Wool fat	126.000mg/1.000gram + 145.000mg/1.000gram + 10.000mg/1.000gram		10000000
+513441000033110	4.24511E+14	Emulsiderm emollient (Dermal Laboratories Ltd)	Emulsiderm emollient	Bath additive	Cutaneous	Benzalkonium chloride/ Isopropyl myristate/ Liquid paraffin	5.000mg/1.000gram + 250.000mg/1.000gram + 250.000mg/1.000gram		600000
+513541000033111	1.46083E+16	Emulsifying ointment	Emulsifying ointment	Ointment	Cutaneous	Emulsifying wax/ Liquid paraffin/ White soft paraffin	300.000mg/1.000gram + 200.000mg/1.000gram + 500.000mg/1.000gram	13020100	2000000
+530541000033113	1.41611E+14	Epaderm ointment (Molnlycke Health Care Ltd)	Epaderm ointment	Ointment		Emulsifying wax/ Yellow soft paraffin	300.000mg/1.000gram + 300.000mg/1.000gram		3000000
+636841000033118	3.80571E+15	Glycerol 40% cream	Glycerol 40% cream	Cream	Cutaneous	Glycerol	400.000mg/1.000gram	13020100	6000
+729141000033110	3.66111E+14	Hydromol 2.5% cream (Alliance Pharmaceuticals Ltd)	Hydromol 2.5% cream	Cream	Cutaneous	Isopropyl myristate/ Liquid paraffin/ Sodium lactate/ Sodium pidolate	50.000mg/1.000gram + 100.000mg/1.000gram + 10.000mg/1.000gram + 25.000mg/1.000gram		700000
+733441000033115	1.46135E+16	Hydrous wool fat	Hydrous wool fat	Ointment	Cutaneous	Wool fat	350.000mg/1.000gram	13010100	2000
+739441000033117	1.46096E+16	Hydrous ointment	Hydrous ointment	Ointment	Cutaneous	Magnesium sulfate dried/ Phenoxyethanol/ Wool alcohols ointment	5.000mg/1.000gram + 10.000mg/1.000gram + 500.000mg/1.000gram	13020100	600000
+739941000033110		Hydrous Wool Fat  Ointment							2000
+740141000033116	3.00421E+15	Hydromol Bath & Shower emollient (Alliance Pharmaceuticals Ltd)	Hydromol Bath & Shower emollient	Bath additive	Cutaneous	Isopropyl myristate/ Liquid paraffin light	130.000mg/1.000ml + 378.000mg/1.000ml		600000
+752141000033117	4.27951E+15	Imuderm cream (Mercury Pharma Group Ltd)	Imuderm cream	Cream					2000
+756241000033111		Infaderm  Bath emollient							4000
+796041000033113	8.03661E+15	Kamillosan Chamomile 10.5% ointment (Omega Pharma Ltd)	Kamillosan Chamomile 10.5% ointment	Ointment	Cutaneous	Chamomile extract	105.000mg/1.000gram		60000
+801441000033111	3.06151E+15	Keri Therapeutic lotion (Bristol-Myers Squibb Pharmaceuticals Ltd)	Keri Therapeutic lotion	Liquid	Cutaneous	Liquid paraffin	160.000mg/1.000ml		80000
+812141000033113	3.87131E+15	LactiCare lotion (Stiefel Laboratories (UK) Ltd)	LactiCare lotion	Liquid	Cutaneous	Lactic acid/ Sodium pidolate	50.000mg/1.000ml + 25.000mg/1.000ml		9000
+828241000033114	3.75921E+15	Lipobase cream (Karo Pharma)	Lipobase cream	Cream	Cutaneous				50000
+834141000033112	3.48621E+15	Liquid paraffin light 70% gel	Liquid paraffin light 70% gel	Gel	Cutaneous	Liquid paraffin light	700.000mg/1.000gram	13020101	200000
+958941000033113	3.78961E+15	Neutrogena Norwegian Formula 40% dermatological cream (Johnson & Johnson Ltd)	Neutrogena Norwegian Formula 40% dermatological cream	Cream	Cutaneous	Glycerol	400.000mg/1.000gram		60000
+1002841000033116	3.55611E+14	Oilatum Plus bath additive (Thornton & Ross Ltd)	Oilatum Plus bath additive	Bath additive	Cutaneous	Benzalkonium chloride/ Liquid paraffin light/ Triclosan	60.000mg/1.000gram + 525.000mg/1.000gram + 20.000mg/1.000gram		2000000
+1003041000033119	1.59411E+14	Oilatum Emollient (Thornton & Ross Ltd)	Oilatum Emollient	Bath additive	Cutaneous	Liquid paraffin light	634.000mg/1.000ml		6000000
+1036141000033117	1.46095E+16	White soft paraffin solid	White soft paraffin solid	Ointment	Cutaneous	White soft paraffin	1.000mg/1.000mg	13020100	300000
+1036241000033112	1.46112E+16	Yellow soft paraffin solid	Yellow soft paraffin solid	Ointment	Cutaneous	Yellow soft paraffin	1.000mg/1.000mg	13020100	40000
+1101741000033110	3.64641E+15	Polytar Emollient (GlaxoSmithKline Consumer Healthcare UK Ltd)	Polytar Emollient	Bath additive	Cutaneous	Arachis oil extract of crude coal tar/ Cade oil/ Coal tar solution/ Liquid paraffin light/ Pine tar	75.000mg/1.000gram + 75.000mg/1.000gram + 25.000mg/1.000gram + 350.000mg/1.000gram + 75.000mg/1.000gram		100000
+1207841000033113		Savlon  Bath emollient							1000
+1390141000033111	8.04511E+14	Sudocrem antiseptic healing cream (Teva UK Ltd)	Sudocrem antiseptic healing cream	Cream	Cutaneous	Benzyl alcohol/ Benzyl benzoate/ Benzyl cinnamate/ Wool fat hydrous/ Zinc oxide	3.900mg/1.000gram + 10.100mg/1.000gram + 1.500mg/1.000gram + 40.000mg/1.000gram + 152.500mg/1.000gram		3000000
+1482741000033118	3.64141E+15	Ultrabase cream (Derma UK Ltd)	Ultrabase cream	Cream	Cutaneous				400000
+1499141000033110	3.74491E+15	Vaseline Dermacare cream (Unilever UK Home & Personal Care)	Vaseline Dermacare cream	Cream	Cutaneous	Dimeticone/ White soft paraffin	10.000mg/1.000ml + 150.000mg/1.000ml		20000
+1502341000033110	3.82381E+15	Vaseline Dermacare lotion (Unilever UK Home & Personal Care)	Vaseline Dermacare lotion	Not applicable					10000
+1531141000033111	6.96111E+14	E45 emollient wash cream (Karo Pharma)	E45 emollient wash cream	Wash					300000
+1601241000033115	4.20611E+14	Dermol 200 shower emollient (Dermal Laboratories Ltd)	Dermol 200 shower emollient	Liquid	Cutaneous	Benzalkonium chloride/ Chlorhexidine hydrochloride/ Isopropyl myristate/ Liquid paraffin	1.000mg/1.000gram + 1.000mg/1.000gram + 25.000mg/1.000gram + 25.000mg/1.000gram		2000000
+1604041000033113	1.67211E+14	E45 lotion (Karo Pharma)	E45 lotion	Liquid					300000
+1626441000033119	3.48611E+15	Liquid paraffin light 63.4% bath additive	Liquid paraffin light 63.4% bath additive	Bath additive	Cutaneous	Liquid paraffin light	634.000mg/1.000ml	13020101	900000
+1661041000033110		Oilatum  Emollient (Fragrance Free)  63.4 %							60000
+1804741000033119	3.48841E+15	Unguentum M cream (Almirall Ltd)	Unguentum M cream	Cream	Cutaneous				800000
+1843441000033117	9.19911E+14	Dermol 600 bath emollient (Dermal Laboratories Ltd)	Dermol 600 bath emollient	Bath additive	Cutaneous	Benzalkonium chloride/ Isopropyl myristate/ Liquid paraffin	5.000mg/1.000gram + 250.000mg/1.000gram + 250.000mg/1.000gram		1000000
+2156541000033116	3.96641E+15	Decubal Clinic cream (Actavis UK Ltd)	Decubal Clinic cream	Cream	Cutaneous	Dimeticone/ Glycerol/ Isopropyl myristate/ Wool fat	50.000mg/1.000gram + 100.000mg/1.000gram + 170.000mg/1.000gram + 60.000mg/1.000gram		2000
+2160241000033111	3.97941E+15	Dermalo bath emollient (Dermal Laboratories Ltd)	Dermalo bath emollient	Bath additive	Cutaneous	Acetylated wool alcohols/ Liquid paraffin	50.000mg/1.000gram + 650.000mg/1.000gram		200000
+2160341000033118	1.14873E+16	E45 Sun moisturising lotion SPF 15 (Reckitt Benckiser Healthcare (UK) Ltd)	E45 Sun moisturising lotion SPF 15	Liquid					4000
+2183841000033118		Ashbourne Emollient Medicinal  Bath oil  250 ml							3000
+2183941000033114		Ashbourne Emollient Medicinal  Bath oil  500 ml							5000
+2185741000033110	331384006	White soft paraffin 50% / Liquid paraffin 50% ointment	White soft paraffin 50% / Liquid paraffin 50% ointment	Ointment	Cutaneous	Liquid paraffin/ White soft paraffin	500.000mg/1.000gram + 500.000mg/1.000gram	13020100	1000000
+2216341000033117		Liquid Paraffin  Emollient  63.4 %							40
+2267341000033116	2.98511E+15	Oilatum cream (Thornton & Ross Ltd)	Oilatum cream	Cream	Cutaneous	Liquid paraffin light/ White soft paraffin	60.000mg/1.000gram + 150.000mg/1.000gram		2000000
+2276141000033113	2.91551E+15	The 50:50 Ointment (The Boots Company Plc)	The 50:50 Ointment	Ointment	Cutaneous	Liquid paraffin/ White soft paraffin	500.000mg/1.000gram + 500.000mg/1.000gram		10000
+2280141000033115	2.99331E+15	Oilatum Junior cream (Thornton & Ross Ltd)	Oilatum Junior cream	Cream		Liquid paraffin light/ White soft paraffin	60.000mg/1.000gram + 150.000mg/1.000gram		300000
+2294941000033110	3.64121E+15	Doublebase gel (Dermal Laboratories Ltd)	Doublebase gel	Gel	Cutaneous	Isopropyl myristate/ Liquid paraffin	150.000mg/1.000gram + 150.000mg/1.000gram		4000000
+2295041000033110		Doublebase  Gel (Pump Dispenser)							3000000
+2589641000033113	4.00561E+15	Hewletts cream (Kestrel Healthcare Ltd)	Hewletts cream	Cream	Cutaneous	Wool fat hydrous/ Zinc oxide	40.000mg/1.000gram + 81.000mg/1.000gram		1000
+2639141000033115	1.35805E+16	Lotil cream (Fenton Pharmaceuticals Ltd)	Lotil cream	Not applicable					4000
+2641641000033110	4.50211E+14	Aveeno lotion (Johnson & Johnson Ltd)	Aveeno lotion	Not applicable					600000
+2711141000033115		Cetraben Emollient  Cream (Pump Dispenser)							20
+2735941000033113	7.55741E+15	Exorex moisturising cream (Teva UK Ltd)	Exorex moisturising cream	Not applicable					40000
+2750641000033112		Cetraben Emollient  Cream							2000000
+2757841000033114	4.27761E+15	Allergenics emollient cream (Optima Consumer Health Ltd)	Allergenics emollient cream	Cream					4000
+2759341000033113	4.27541E+15	E45 emollient shower cream (Karo Pharma)	E45 emollient shower cream	Wash					100000
+2800041000033112		Bioxtra  Moisturising Gel							30000
+2804141000033119	1.81594E+16	Propolis cream (Bee Health Ltd)	Propolis cream	Cream					90
+2867141000033111	1.17826E+16	QV cream (Crawford Healthcare Ltd)	QV cream	Cream	Cutaneous	Glycerol/ Liquid paraffin light/ White soft paraffin	100.000mg/1.000gram + 100.000mg/1.000gram + 50.000mg/1.000gram		200000
+2867241000033116	1.17817E+16	QV 5% skin lotion (Crawford Healthcare Ltd)	QV 5% skin lotion	Liquid	Cutaneous	White soft paraffin	50.000mg/1.000gram		10000
+2904941000033114	3.60662E+16	Evening primrose oil 20% cream	Evening primrose oil 20% cream	Cream	Cutaneous	Evening primrose oil	200.000mg/1.000gram	13020100	4000
+2922441000033118	3.50181E+15	Sodium pidolate 2.5% cream	Sodium pidolate 2.5% cream	Cream	Cutaneous	Isopropyl myristate/ Liquid paraffin/ Sodium lactate/ Sodium pidolate	50.000mg/1.000gram + 100.000mg/1.000gram + 10.000mg/1.000gram + 25.000mg/1.000gram	13020100	20000
+2925941000033118	3.70141E+15	White soft paraffin 10% spray	White soft paraffin 10% spray	Spray	Cutaneous	White soft paraffin	100.000mg/1.000gram	13020100	5000
+2926441000033119	4.36601E+15	Hydromol ointment (Alliance Pharmaceuticals Ltd)	Hydromol ointment	Ointment		Emulsifying wax/ Yellow soft paraffin	300.000mg/1.000gram + 300.000mg/1.000gram		2000000
+2967741000033116	4.27881E+15	Eucerin Dry Skin Relief bath therapy oil (Beiersdorf UK Ltd)	Eucerin Dry Skin Relief bath therapy oil	Bath additive					3000
+2970341000033110	2.88571E+15	Vaseline Pure Petroleum jelly (Unilever UK Home & Personal Care)	Vaseline Pure Petroleum jelly	Ointment	Cutaneous	White soft paraffin	1.000mg/1.000mg		30000
+2990441000033113	8.09851E+15	Liquid paraffin light 82.8% bath additive	Liquid paraffin light 82.8% bath additive	Bath additive	Cutaneous	Liquid paraffin light	828.000mg/1.000gram	13020101	60000
+2990541000033114	8.09311E+15	Cetraben emollient 82.8% bath additive (Genus Pharmaceuticals Ltd)	Cetraben emollient 82.8% bath additive	Bath additive	Cutaneous	Liquid paraffin light	828.000mg/1.000gram		300000
+2996141000033115	8.42171E+15	Eumobase cream (GlaxoSmithKline Consumer Healthcare UK Ltd)	Eumobase cream	Not applicable					6000
+3058941000033111	9.38771E+15	Lansinoh Brand Lanolin ointment (Lansinoh (UK) Ltd)	Lansinoh Brand Lanolin ointment	Ointment		Wool fat	1.000mg/1.000mg		30000
+3134841000033118		Prostaglandin E1 0.00093 % In White Soft Paraffin  Ointment							8
+3152341000033117	7.64661E+15	Zerobase 11% cream (Thornton & Ross Ltd)	Zerobase 11% cream	Cream	Cutaneous	Liquid paraffin	110.000mg/1.000gram		2000000
+3216841000033118	1.96297E+16	Derma Shield skin protector mousse (Benchmark Skincare Ltd)	Derma Shield skin protector mousse	Foam					1000
+3231041000033114	3.48651E+15	Liquid paraffin 91.7% / Lanolin 3% bath oil	Liquid paraffin 91.7% / Lanolin 3% bath oil	Bath additive	Cutaneous	Lanolin oil/ Liquid paraffin	30.000mg/1.000gram + 917.000mg/1.000gram	13020101	1000
+3232241000033112	3.37621E+15	White soft paraffin 13.2% / Liquid paraffin light 10.5% cream	White soft paraffin 13.2% / Liquid paraffin light 10.5% cream	Cream	Cutaneous	Liquid paraffin light/ White soft paraffin	105.000mg/1.000gram + 132.000mg/1.000gram	13020100	400000
+3232341000033119		White Soft Paraffin And Liquid Paraffin Light  Cream (Pump Dispenser)  13.2 % + 10.5 %							400000
+3232641000033110	3.77641E+15	Liquid paraffin 65% / Acetylated wool alcohols 5% bath oil	Liquid paraffin 65% / Acetylated wool alcohols 5% bath oil	Bath additive	Cutaneous	Acetylated wool alcohols/ Liquid paraffin	50.000mg/1.000gram + 650.000mg/1.000gram	13020101	10000
+3232741000033118	3.48601E+15	Liquid paraffin light 46% / Isopropyl myristate 39% bath emollient	Liquid paraffin light 46% / Isopropyl myristate 39% bath emollient	Bath additive	Cutaneous	Isopropyl myristate/ Liquid paraffin light	390.000mg/1.000gram + 460.000mg/1.000gram	13020101	20000
+3232841000033111	3.65531E+15	Isopropyl myristate 15% / Liquid paraffin 15% gel	Isopropyl myristate 15% / Liquid paraffin 15% gel	Gel	Cutaneous	Isopropyl myristate/ Liquid paraffin	150.000mg/1.000gram + 150.000mg/1.000gram	13020100	400000
+3256941000033115	1.31313E+16	Flexitol 25% Urea Heel Balm (Thornton & Ross Ltd)	Flexitol 25% Urea Heel Balm						700000
+3257141000033115	3.48591E+15	Liquid paraffin light 37.8% / Isopropyl myristate 13% bath additive	Liquid paraffin light 37.8% / Isopropyl myristate 13% bath additive	Bath additive	Cutaneous	Isopropyl myristate/ Liquid paraffin light	130.000mg/1.000ml + 378.000mg/1.000ml	13020101	30000
+3257241000033110	3.77591E+15	Liquid paraffin light 69.6% / Almond oil 30% bath oil	Liquid paraffin light 69.6% / Almond oil 30% bath oil	Bath additive	Cutaneous	Almond oil/ Liquid paraffin light	300.000mg/1.000ml + 696.000mg/1.000ml	13020101	1000
+3257441000033111	3.87571E+15	Lactic acid 5% / Sodium pidolate 2.5% lotion	Lactic acid 5% / Sodium pidolate 2.5% lotion	Liquid	Cutaneous	Lactic acid/ Sodium pidolate	50.000mg/1.000ml + 25.000mg/1.000ml	13020100	30
+3258141000033116	3.37631E+15	White soft paraffin 15% / Liquid paraffin light 6% cream	White soft paraffin 15% / Liquid paraffin light 6% cream	Cream	Cutaneous	Liquid paraffin light/ White soft paraffin	60.000mg/1.000gram + 150.000mg/1.000gram	13020100	100000
+3258241000033111		"White Soft Paraffin And Liquid Paraffin Light  Cream (Pump Dispenser)  15 % + 6 %, 500 ml"							30000
+3259741000033114	3.75461E+15	White soft paraffin 15% / Dimeticone 1% cream	White soft paraffin 15% / Dimeticone 1% cream	Cream	Cutaneous	Dimeticone/ White soft paraffin	10.000mg/1.000ml + 150.000mg/1.000ml	13020100	200
+3836341000033111	7.53831E+15	Allergenics Skin lotion (Optima Consumer Health Ltd)	Allergenics Skin lotion	Cutaneous emulsion					900
+3866341000033115	7.53911E+15	Oilatum lotion (GlaxoSmithKline Consumer Healthcare UK Ltd)	Oilatum lotion	Cutaneous emulsion					10000
+3924041000033112	7.52341E+15	AquaBar (Strides Pharma UK Ltd)	AquaBar	Not applicable					600
+3951241000033118	7.53861E+15	Eucerin Dry Skin Relief soothing spray (Beiersdorf UK Ltd)	Eucerin Dry Skin Relief soothing spray	Cutaneous emulsion					700
+3983041000033116	1.0901E+16	Menthol 0.5% in Aqueous cream	Menthol 0.5% in Aqueous cream	Cream	Cutaneous	Menthol	5.000mg/1.000gram	13030000	50000
+3983141000033117	1.09011E+16	Menthol 1% in Aqueous cream	Menthol 1% in Aqueous cream	Cream	Cutaneous	Menthol	10.000mg/1.000gram	13030000	100000
+3983241000033112	1.09012E+16	Menthol 2% in Aqueous cream	Menthol 2% in Aqueous cream	Cream	Cutaneous	Menthol	20.000mg/1.000gram	13030000	50000
+4125441000033117	1.10539E+16	Aveeno Skin Relief moisturising lotion with shea butter (Johnson & Johnson Ltd)	Aveeno Skin Relief moisturising lotion with shea butter	Cutaneous emulsion					80000
+4128341000033119	1.13495E+16	SensiCare emollient cream (ConvaTec Ltd)	SensiCare emollient cream	Cream					700
+4133441000033116	8.17431E+15	E45 Junior foaming bath milk (Karo Pharma)	E45 Junior foaming bath milk	Bath additive					20000
+4149741000033112		Liquid Paraffin And Isopropyl Myristate  Emollient Shower Gel  15 % + 15 %							20000
+4150041000033118	1.14976E+16	Doublebase emollient shower gel (Dermal Laboratories Ltd)	Doublebase emollient shower gel	Gel	Cutaneous	Isopropyl myristate/ Liquid paraffin	150.000mg/1.000gram + 150.000mg/1.000gram		300000
+4186941000033111	4.61711E+15	Linola Gamma 20% cream (Linderma Ltd)	Linola Gamma 20% cream	Cream	Cutaneous	Evening primrose oil	200.000mg/1.000gram		700
+4211841000033112	1.17885E+16	White soft paraffin 5% lotion	White soft paraffin 5% lotion	Liquid	Cutaneous	White soft paraffin	50.000mg/1.000gram	21220000	3000
+4215441000033111		Emollin  Emollient Spray  240 ml							2000
+4267541000033119	7.66111E+15	Liquid paraffin 11% cream	Liquid paraffin 11% cream	Cream	Cutaneous	Liquid paraffin	110.000mg/1.000gram	21220000	60000
+4327441000033117	1.27977E+16	Glycerol 25% cream	Glycerol 25% cream	Cream	Cutaneous	Glycerol	250.000mg/1.000gram	13020100	2000
+4327741000033112	1.27914E+16	Eumocream 25% cream (GlaxoSmithKline Consumer Healthcare UK Ltd)	Eumocream 25% cream	Cream	Cutaneous	Glycerol	250.000mg/1.000gram		7000
+4372541000033117	7.55161E+15	Boots Baby Sensitive Skin moisturising cream (The Boots Company Plc)	Boots Baby Sensitive Skin moisturising cream	Not applicable					30
+4431341000033110	1.31742E+16	Liquid paraffin 65% bath additive	Liquid paraffin 65% bath additive	Bath additive	Cutaneous	Liquid paraffin	650.000mg/1.000gram	13020101	20000
+4431441000033116	1.31418E+16	Doublebase emollient bath additive (Dermal Laboratories Ltd)	Doublebase emollient bath additive	Bath additive	Cutaneous	Liquid paraffin	650.000mg/1.000gram		100000
+4433841000033117	2.98363E+16	Elave Intensive cream (Ovelle Pharmaceuticals)	Elave Intensive cream						80
+4433941000033113	2.78897E+16	Elave body wash (Ovelle Pharmaceuticals)	Elave body wash	Wash					200
+4560841000033111	1.38227E+16	Dexeryl cream (Pierre Fabre Dermo-Cosmetique)	Dexeryl cream	Cream					10000
+4576341000033110	5.24221E+15	Wool fat solid	Wool fat solid	Not applicable	Route of administration not applicable	Wool fat	1.000mg/1.000ml	13010100	20
+4656041000033117		Dermaveen  Moisturising Lotion							6
+4828141000033110	2.0563E+16	Flexitol Hand Balm (Thornton & Ross Ltd)	Flexitol Hand Balm						20000
+4901741000033116	1.49982E+16	Epaderm cream (Molnlycke Health Care Ltd)	Epaderm cream	Cream					2000000
+4936241000033113	1.46942E+16	Zerolatum Emollient bath additive (Thornton & Ross Ltd)	Zerolatum Emollient bath additive	Bath additive	Cutaneous	Acetylated wool alcohols/ Liquid paraffin	50.000mg/1.000gram + 650.000mg/1.000gram		70000
+5054741000033110	1.54216E+16	Zerolatum Plus bath additive (Thornton & Ross Ltd)	Zerolatum Plus bath additive	Bath additive	Cutaneous	Benzalkonium chloride/ Liquid paraffin light/ Triclosan	60.000mg/1.000gram + 525.000mg/1.000gram + 20.000mg/1.000gram		1000
+5054841000033117		White Soft Paraffin And Liquid Paraffin Light  Cream  14.5 % + 12.6 %							10
+5054941000033113	1.4734E+16	Zerocream (Thornton & Ross Ltd)	Zerocream	Cream	Cutaneous	Liquid paraffin/ White soft paraffin	126.000mg/1.000gram + 145.000mg/1.000gram		1000000
+5055441000033116	1.47431E+16	White soft paraffin 14.5% / Liquid paraffin 12.6% cream	White soft paraffin 14.5% / Liquid paraffin 12.6% cream	Cream	Cutaneous	Liquid paraffin/ White soft paraffin	126.000mg/1.000gram + 145.000mg/1.000gram	21220000	40000
+5069241000033113	7.64441E+15	Dermol cream (Dermal Laboratories Ltd)	Dermol cream	Cream	Cutaneous	Benzalkonium chloride/ Chlorhexidine hydrochloride/ Isopropyl myristate/ Liquid paraffin	1.000mg/1.000gram + 1.000mg/1.000gram + 100.000mg/1.000gram + 100.000mg/1.000gram		1000000
+5077541000033114	1.54416E+16	Doublebase emollient wash gel (Dermal Laboratories Ltd)	Doublebase emollient wash gel	Gel	Cutaneous	Isopropyl myristate/ Liquid paraffin	150.000mg/1.000gram + 150.000mg/1.000gram		80000
+5078541000033110	1.18387E+16	Emollin aerosol spray (C D Medical Ltd)	Emollin aerosol spray	Spray					100000
+5100841000033114	1.83488E+16	Aveeno body wash (Johnson & Johnson Ltd)	Aveeno body wash	Wash					300000
+5108741000033118	1.55502E+16	Dermatonics Once Heel Balm (Dermatonics Ltd)	Dermatonics Once Heel Balm						200000
+5150441000033118	1.70767E+16	Cetaphil moisturising lotion (Galderma (UK) Ltd)	Cetaphil moisturising lotion	Cutaneous emulsion					20000
+5150541000033117	1.70765E+16	Cetaphil moisturising cream (Galderma (UK) Ltd)	Cetaphil moisturising cream	Not applicable					20000
+5402741000033116	1.65961E+16	Vivaderm Ultra cream (Scarlett & George UK Ltd)	Vivaderm Ultra cream	Not applicable					20
+5402841000033114	1.65959E+16	Vivaderm Daily cream (Scarlett & George UK Ltd)	Vivaderm Daily cream	Not applicable					30
+5598941000033113	1.70842E+16	Evolve Plus emollient spray (Intelligent Therapeutics Ltd)	Evolve Plus emollient spray						100
+5661941000033110	1.78816E+16	Zeroguent cream (Thornton & Ross Ltd)	Zeroguent cream	Cream	Cutaneous	Liquid paraffin light/ Soya oil/ White soft paraffin	80.000mg/1.000gram + 50.000mg/1.000gram + 40.000mg/1.000gram		20000
+5835341000033110	1.75125E+16	Aveeno Intense Relief hand cream (Johnson & Johnson Ltd)	Aveeno Intense Relief hand cream	Cream					10000
+5982441000033114	1.80057E+16	Aquamol cream (Thornton & Ross Ltd)	Aquamol cream	Cream					7000
+6063941000033116	1.83491E+16	Aveeno moisturising creamy oil (Johnson & Johnson Ltd)	Aveeno moisturising creamy oil	Cream					30000
+6115941000033111	1.85379E+16	Flexitol Skin Balm (Thornton & Ross Ltd)	Flexitol Skin Balm						20000
+6126141000033113	1.86563E+16	Unique Deep Skin Moisturiser (SkinKind Ltd)	Unique Deep Skin Moisturiser	Not applicable					50
+6126241000033118		Skinkind Deep Skin  Moisturiser							3
+6172041000033112	1.87843E+16	ZeroAQS emollient cream (Thornton & Ross Ltd)	ZeroAQS emollient cream	Cream					900000
+6184541000033119	1.91726E+16	Dermol Wash cutaneous emulsion (Dermal Laboratories Ltd)	Dermol Wash cutaneous emulsion	Liquid	Cutaneous	Benzalkonium chloride/ Chlorhexidine hydrochloride/ Isopropyl myristate/ Liquid paraffin	1.000mg/1.000gram + 1.000mg/1.000gram + 25.000mg/1.000gram + 25.000mg/1.000gram		100000
+6361841000033110	1.92701E+16	Aquamax cream (Esteve Pharmaceuticals Ltd)	Aquamax cream	Cream					500000
+6361941000033119	1.92704E+16	Aquamax wash (Esteve Pharmaceuticals Ltd)	Aquamax wash	Wash					40000
+6380641000033116	1.78327E+16	QV Gentle wash (Crawford Healthcare Ltd)	QV Gentle wash						200000
+6380741000033113	1.78331E+16	QV Intensive ointment (Crawford Healthcare Ltd)	QV Intensive ointment						30000
+6391941000033116	1.93802E+16	Doublebase Dayleve gel (Dermal Laboratories Ltd)	Doublebase Dayleve gel	Gel	Cutaneous	Isopropyl myristate/ Liquid paraffin	150.000mg/1.000gram + 150.000mg/1.000gram		200000
+6463041000033113	1.95562E+16	AriPro mousse (Meadow Laboratories Ltd)	AriPro mousse						400
+6468741000033116	1.96861E+16	Skin Salvation ointment (Balmonds Skincare Ltd)	Skin Salvation ointment	Ointment					3000
+6468941000033118	1.96866E+16	Skin Salvation bath oil (Balmonds Skincare Ltd)	Skin Salvation bath oil	Bath additive					800
+6473741000033118	1.96655E+16	Fifty:50 ointment (Ennogen Healthcare Ltd)	Fifty:50 ointment	Ointment		Liquid paraffin/ White soft paraffin	500.000mg/1.000gram + 500.000mg/1.000gram		30000
+6519541000033111	1.98811E+16	Thirty:30 ointment (Ennogen Healthcare Ltd)	Thirty:30 ointment	Ointment		Emulsifying wax/ Yellow soft paraffin	300.000mg/1.000gram + 300.000mg/1.000gram		2000
+7680041000033118	1.86565E+16	Skin Moisturiser (SkinKind Ltd)	Skin Moisturiser	Not applicable					70
+7680141000033119	2.01358E+16	Moisturiser Plus (SkinKind Ltd)	Moisturiser Plus	Not applicable					10
+7682741000033119	2.0174E+16	Zeroderm ointment (Thornton & Ross Ltd)	Zeroderm ointment	Ointment					900000
+7687141000033115	2.03226E+16	E45 Intense Recovery lotion (Reckitt Benckiser Healthcare (UK) Ltd)	E45 Intense Recovery lotion	Liquid					6000
+8027341000033111	2.0945E+16	Clinisan emollient wash cream (Vernacare Ltd)	Clinisan emollient wash cream	Not applicable					200
+8047441000033115	1.85198E+16	Emulsifying ointment 50% / Liquid paraffin 50% ointment	Emulsifying ointment 50% / Liquid paraffin 50% ointment	Ointment	Cutaneous			13020100	1000
+8496341000033111	2.25321E+16	Diprobase lotion (Bayer Plc)	Diprobase lotion						20000
+8539641000033111	2.26599E+16	LPL 63.4 bath additive and emollient (Huxley Europe Ltd)	LPL 63.4 bath additive and emollient	Bath additive		Liquid paraffin light	634.000mg/1.000ml		60000
+8582141000033119	2.28001E+16	Eucerin Anti-Redness Neutralising Day fluid (Beiersdorf UK Ltd)	Eucerin Anti-Redness Neutralising Day fluid	Liquid					60
+8582241000033114	2.27998E+16	Eucerin Anti-Redness Calming Night cream (Beiersdorf UK Ltd)	Eucerin Anti-Redness Calming Night cream	Cream					300
+8870241000033117	4.27581E+15	Eucerin ATOControl Bath & Shower oil (Beiersdorf UK Ltd)	Eucerin ATOControl Bath & Shower oil	Liquid					10000
+8942441000033110	2.34638E+16	Zerodouble gel (Thornton & Ross Ltd)	Zerodouble gel	Gel		Isopropyl myristate/ Liquid paraffin	150.000mg/1.000gram + 150.000mg/1.000gram		600000
+8986241000033117	2.39319E+16	Cetraben lotion (Thornton & Ross Ltd)	Cetraben lotion						80000
+9069441000033118	1.75634E+16	Menthol 5% in Aqueous cream	Menthol 5% in Aqueous cream	Cream	Cutaneous	Menthol	50.000mg/1.000gram	13030000	6000
+9159241000033119	2.04241E+16	Coconut oil 25% in Emulsifying ointment	Coconut oil 25% in Emulsifying ointment	Ointment	Cutaneous	Coconut oil	250.000mg/1.000gram	13020100	400
+9175141000033113	2.44925E+16	Alhydran cream (Espere Healthcare Ltd)	Alhydran cream						500
+9354741000033118	2.50353E+16	imuDERM emollient (CliniSupplies Ltd)	imuDERM emollient						20000
+9402441000033116	2.01218E+16	Beclometasone 0.0025% in White soft paraffin	Beclometasone 0.0025% in White soft paraffin	Ointment	Route of administration not applicable	Beclometasone dipropionate	25.000microgram/1.000gram	13040000	2000
+9697541000033118	2.7148E+16	R1 gel 6g sachets (Water-Jel Europe LLP)	R1 gel 6g sachets						200
+9697641000033117	2.71488E+16	R2 lotion 1g sachets (Water-Jel Europe LLP)	R2 lotion 1g sachets						200
+9706441000033110	2.79676E+16	Cetraben ointment (Thornton & Ross Ltd)	Cetraben ointment	Ointment					200000
+9759441000033110	2.11963E+16	Glycopyrronium bromide 2% in Aqueous cream	Glycopyrronium bromide 2% in Aqueous cream	Cream	Route of administration not applicable	Glycopyrronium bromide	20.000mg/1.000gram	13120000	200
+9934441000033115	2.278E+16	Enopen cream (Ennogen Healthcare Ltd)	Enopen cream	Cream		Liquid paraffin light/ White soft paraffin	105.000mg/1.000gram + 132.000mg/1.000gram		4000
+10042341000033112	2.83901E+16	AproDerm emollient cream (Fontus Health Ltd)	AproDerm emollient cream	Cream					100000
+10043041000033118	2.74869E+16	Avene XeraCalm A.D Lipid-Replenishing balm (Pierre Fabre Dermo-Cosmetique)	Avene XeraCalm A.D Lipid-Replenishing balm	Not applicable					600
+10043141000033119	2.74862E+16	Avene XeraCalm A.D Lipid-Replenishing cream (Pierre Fabre Dermo-Cosmetique)	Avene XeraCalm A.D Lipid-Replenishing cream	Cream					300
+10043241000033114	2.74845E+16	Avene XeraCalm A.D Lipid-Replenishing Cleansing oil (Pierre Fabre Dermo-Cosmetique)	Avene XeraCalm A.D Lipid-Replenishing Cleansing oil	Liquid					200
+10043541000033111	2.84219E+16	Dermalex Repair Scalp Psoriasis gel (Omega Pharma Ltd)	Dermalex Repair Scalp Psoriasis gel	Gel					500
+10207641000033119	2.84855E+16	Emelpin ointment (Vitame Ltd)	Emelpin ointment	Ointment		Emulsifying wax/ Yellow soft paraffin	300.000mg/1.000gram + 300.000mg/1.000gram		10
+10207741000033111	2.84873E+16	Soffen cream (Vitame Ltd)	Soffen cream	Cream		Liquid paraffin light/ White soft paraffin	105.000mg/1.000gram + 132.000mg/1.000gram		200
+10264441000033113	2.89726E+16	Pure Health Liquid Paraffin 50% in White Soft Paraffin ointment (Lexon (UK) Ltd)	Pure Health Liquid Paraffin 50% in White Soft Paraffin ointment	Ointment		Liquid paraffin/ White soft paraffin	500.000mg/1.000gram + 500.000mg/1.000gram		80
+10613041000033118	400760005	White soft paraffin 95% / Liquid paraffin 5% ointment	White soft paraffin 95% / Liquid paraffin 5% ointment	Ointment	Cutaneous	Liquid paraffin/ White soft paraffin	50.000mg/1.000gram + 950.000mg/1.000gram	13020100	10000
+10643641000033116	3.08046E+16	Tena 3 in 1 wash cream (SCA Hygiene Products UK Ltd)	Tena 3 in 1 wash cream	Wash					2000
+10715341000033113	1.62469E+16	White soft paraffin 75% / Liquid paraffin 25% ointment	White soft paraffin 75% / Liquid paraffin 25% ointment	Ointment	Route of administration not applicable			13020100	50
+10718441000033110	3.09616E+16	HypoBase gel (Galen Ltd)	HypoBase gel	Gel		Isopropyl myristate/ Liquid paraffin	150.000mg/1.000gram + 150.000mg/1.000gram		2000
+11013341000033118	3.13423E+16	AproDerm Colloidal Oat cream (Fontus Health Ltd)	AproDerm Colloidal Oat cream	Cream					100000
+11024041000033113	3.13436E+16	ExoCream (Galen Ltd)	ExoCream						20000
+11403341000033113	2.90128E+16	Skin Salvation daily moisturising cream (Balmonds Skincare Ltd)	Skin Salvation daily moisturising cream	Not applicable					300
+11422841000033116	3.24096E+16	MyriBase gel (Galen Ltd)	MyriBase gel	Gel		Isopropyl myristate/ Liquid paraffin	150.000mg/1.000gram + 150.000mg/1.000gram		20000
+11483441000033115	2.98016E+16	MooGoo Scalp cream (MooGoo EU Ltd)	MooGoo Scalp cream	Cream					400
+11483641000033118	2.9803E+16	MooGoo Skin Milk Udder cream (MooGoo EU Ltd)	MooGoo Skin Milk Udder cream	Cream					900
+11526941000033118	3.25557E+16	Alhydran SPF 30 cream (Espere Healthcare Ltd)	Alhydran SPF 30 cream						700
+11580741000033113	1.95316E+16	Cetaphil Restoraderm skin restoring moisturiser (Galderma (UK) Ltd)	Cetaphil PRO Itch Prone Skin moisturising lotion	Cutaneous emulsion					600
+11715741000033116	3.35712E+16	AproDerm gel (Fontus Health Ltd)	AproDerm gel	Gel		Isopropyl myristate/ Liquid paraffin	150.000mg/1.000gram + 150.000mg/1.000gram		30000
+11792141000033110	3.35328E+16	AquaDerm Aqueous cream (Impectron Ltd)	AquaDerm Aqueous cream	Cream		Emulsifying wax/ Liquid paraffin/ Phenoxyethanol/ Purified water/ White soft paraffin	90.000mg/1.000gram + 60.000mg/1.000gram + 10.000mg/1.000gram + 690.000mg/1.000gram + 150.000mg/1.000gram		1000
+11792241000033115	3.35334E+16	AquaDerm Cetomacrogol cream (Formula A) (Impectron Ltd)	AquaDerm Cetomacrogol cream (Formula A)	Cream		Cetostearyl alcohol/ Chlorocresol/ Liquid paraffin/ Macrogol cetostearyl ether 22/ Purified water/ White soft paraffin	72.000mg/1.000gram + 1.000mg/1.000gram + 60.000mg/1.000gram + 18.000mg/1.000gram + 699.000mg/1.000gram + 150.000mg/1.000gram		800
+11792341000033113	3.35326E+16	AquaDerm Hydrous ointment (Impectron Ltd)	AquaDerm Hydrous ointment	Ointment		Magnesium sulfate dried/ Phenoxyethanol/ Wool alcohols ointment	5.000mg/1.000gram + 10.000mg/1.000gram + 500.000mg/1.000gram		1000
+11792541000033118	3.35322E+16	AquaDerm Liquid Paraffin 50% in White Soft Paraffin ointment (Impectron Ltd)	AquaDerm Liquid Paraffin 50% in White Soft Paraffin ointment	Ointment		Liquid paraffin/ White soft paraffin	500.000mg/1.000gram + 500.000mg/1.000gram		600
+11796041000033112	2.88951E+16	GlucoRx Allpresan diabetic foam cream Basic (GlucoRx Ltd)	GlucoRx Allpresan diabetic foam cream Basic						10000
+11796141000033111	2.88955E+16	GlucoRx Allpresan diabetic foam cream Intensive (GlucoRx Ltd)	GlucoRx Allpresan diabetic foam cream Intensive						10000
+11806941000033113	1.60919E+16	CCS Foot Care cream (Lornamead UK Ltd)	CCS Foot Care cream	Cream		Benzalkonium chloride/ Eucalyptus oil/ Glycerol/ Lactic acid/ Liquid paraffin/ Urea			5000
+11810341000033114	3.40281E+16	Eucerin AntiREDNESS soothing care cream (Beiersdorf UK Ltd)	Eucerin AntiREDNESS soothing care cream	Cream					200
+11834041000033112	3.36886E+16	Emcrem cream (Glenmark Pharmaceuticals Europe Ltd)	Emcrem cream	Cream	Cutaneous	Liquid paraffin/ White soft paraffin	60.000mg/1.000gram + 150.000mg/1.000gram		30
+11898341000033113	3.36908E+16	White soft paraffin 15% / Liquid paraffin 6% cream	White soft paraffin 15% / Liquid paraffin 6% cream	Cream	Cutaneous	Liquid paraffin/ White soft paraffin	60.000mg/1.000gram + 150.000mg/1.000gram	13020100	700
+12187241000033113		Aveeno  Bath and Shower Oil							30000
+12291241000033115	3.28551E+16	Cuderm moisturising cream (Synergy Biologics Ltd)	Cuderm moisturising cream	Cream					1000
+12291341000033113	3.28559E+16	Cuderm moisturising lotion (Synergy Biologics Ltd)	Cuderm moisturising lotion	Liquid					1000
+12291441000033119	3.28564E+16	Cuderm moisturising hand cream (Synergy Biologics Ltd)	Cuderm moisturising hand cream	Cream					200
+12312741000033110	3.44595E+16	Zeroveen cream (Thornton & Ross Ltd)	Zeroveen cream						200000
+12341541000033115	3.45611E+16	Dermatonics Dry Skin Balm (Dermatonics Ltd)	Dermatonics Dry Skin Balm						4000
+12401741000033111	3.47663E+16	Adex gel (Dermal Laboratories Ltd)	Adex gel						50000
+12457141000033110	3.49768E+16	AproDerm ointment (Fontus Health Ltd)	AproDerm ointment	Ointment					20000
+12457241000033115	3.49763E+16	Dermatonics Once Callus Removing Balm (Dermatonics Ltd)	Dermatonics Once Callus Removing Balm						900
+12459641000033113	3.4972E+16	Exmabase gel (Ascot Laboratories Ltd)	Exmabase gel	Gel		Isopropyl myristate/ Liquid paraffin	150.000mg/1.000gram + 150.000mg/1.000gram		300
+12459741000033116	3.49722E+16	Exmaben cream (Ascot Laboratories Ltd)	Exmaben cream	Cream		Liquid paraffin light/ White soft paraffin	105.000mg/1.000gram + 132.000mg/1.000gram		200
+12462041000033119	3.5007E+16	Exmalatum cream (Ascot Laboratories Ltd)	Exmalatum cream	Cream		Liquid paraffin light/ White soft paraffin	60.000mg/1.000gram + 150.000mg/1.000gram		70
+12462141000033115	3.50072E+16	ExmaQS cream (Ascot Laboratories Ltd)	ExmaQS cream	Cream		Liquid paraffin light/ White soft paraffin	60.000mg/1.000gram + 150.000mg/1.000gram		70
+12462541000033112	1.53617E+16	Coconut oil 75% in Emulsifying ointment	Coconut oil 75% in Emulsifying ointment	Ointment	Route of administration not applicable	Coconut oil	750.000mg/1.000gram	13020100	2
+12468941000033116	3.50709E+16	KreaMoint 50:50 ointment (Essential-Healthcare Ltd)	KreaMoint 50:50 ointment	Ointment		Liquid paraffin/ White soft paraffin	500.000mg/1.000gram + 500.000mg/1.000gram		1000
+12471741000033115	3.5097E+16	Epimax ointment (Aspire Pharma Ltd)	Epimax ointment	Ointment					80000
+12480241000033113	3.51166E+16	Ultraveen Itch Relief cream (Dermatonics Ltd)	Ultraveen Itch Relief cream						2000
+12481441000033117	3.5128E+16	Remedy barrier moisturising cream (Medline Industries Ltd)	Remedy barrier moisturising cream						20
+12481541000033116	3.51277E+16	Remedy barrier moisturising cream 2ml sachets MSCE92534PK (Medline Industries Ltd)	Remedy barrier moisturising cream 2ml sachets						2
+12520241000033113	3.53367E+16	Epimax oatmeal cream (Aspire Pharma Ltd)	Epimax oatmeal cream	Cream					100000
+12525341000033114	3.53429E+16	E45 Eczema Repair cream (Reckitt Benckiser Healthcare (UK) Ltd)	E45 Eczema Repair cream						1000
+12568441000033119	3.53372E+16	Ultraveen Intensive Balm (Dermatonics Ltd)	Ultraveen Intensive Balm						6
+12568541000033118	3.53376E+16	Ultraveen Moisturising cream (Dermatonics Ltd)	Ultraveen Moisturising cream						30
+12573341000033111	3.5562E+16	Flamigel RT gel (Flen Health UK Ltd)	Flamigel RT gel						3000
+12592341000033113	3.5623E+16	Epimax Paraffin-Free cream (Dermato Logical Ltd)	Epimax Paraffin-Free cream	Cream					700
+12592441000033119	3.56234E+16	Epimax paraffin-free ointment (Aspire Pharma Ltd)	Epimax paraffin-free ointment	Ointment					5000
+12624441000033112	3.56682E+16	Ultraveen Very Dry Skin cream (Dermatonics Ltd)	Ultraveen Very Dry Skin cream						4
+12664341000033114	3.58133E+16	Childs Farm unfragranced moisturising cream (Childs Farm)	Childs Farm unfragranced moisturising cream	Cream					200
+12678141000033110	3.58451E+16	Ovelle emulsifying ointment (Ennogen Healthcare Ltd)	Ovelle emulsifying ointment	Ointment		Emulsifying wax/ Liquid paraffin/ White soft paraffin	300.000mg/1.000gram + 200.000mg/1.000gram + 500.000mg/1.000gram		1000
+12696041000033119	3.6247E+16	Epaderm Junior cream (Molnlycke Health Care Ltd)	Epaderm Junior cream	Cream					4000
+12696841000033114	3.62474E+16	Epaderm Junior ointment (Molnlycke Health Care Ltd)	Epaderm Junior ointment	Ointment		Emulsifying wax/ Yellow soft paraffin	300.000mg/1.000gram + 300.000mg/1.000gram		2000
+12707041000033112	1.81612E+16	Propylene glycol 40% in Aqueous cream	Propylene glycol 40% in Aqueous cream	Not applicable	Route of administration not applicable	Propylene glycol	400.000ml/1.000litre	13020100	90
+12892741000033113	3.4156E+16	Aveeno Daily moisturising body cleansing oil (Johnson & Johnson Ltd)	Aveeno Daily moisturising body cleansing oil	Bath additive					8000
+12901841000033115	3.67375E+16	KreaMol A cream (Essential-Healthcare Ltd)	KreaMol A cream	Cream		Cetostearyl alcohol/ Chlorocresol/ Liquid paraffin/ Macrogol cetostearyl ether 22/ Purified water/ White soft paraffin	72.000mg/1.000gram + 1.000mg/1.000gram + 60.000mg/1.000gram + 18.000mg/1.000gram + 699.000mg/1.000gram + 150.000mg/1.000gram		40
+13142741000033118	3.74554E+16	Remedy moisturiser (Medline Industries Ltd)	Remedy moisturiser	Cream					2
+13282541000033115	3.75793E+16	Ovelle Cetomacrogol cream (Formula A) (Ennogen Healthcare Ltd)	Ovelle Cetomacrogol cream (Formula A)	Cream		Cetostearyl alcohol/ Chlorocresol/ Liquid paraffin/ Macrogol cetostearyl ether 22/ Purified water/ White soft paraffin	72.000mg/1.000gram + 1.000mg/1.000gram + 60.000mg/1.000gram + 18.000mg/1.000gram + 699.000mg/1.000gram + 150.000mg/1.000gram		100
+13284241000033114	3.75796E+16	EmulsifEss ointment (Essential-Healthcare Ltd)	EmulsifEss ointment	Ointment		Emulsifying wax/ Liquid paraffin/ White soft paraffin	300.000mg/1.000gram + 200.000mg/1.000gram + 500.000mg/1.000gram		50
+13333541000033110	3.79341E+16	MyriBase emollient shower gel (Galen Ltd)	MyriBase emollient shower gel	Gel		Isopropyl myristate/ Liquid paraffin	150.000mg/1.000gram + 150.000mg/1.000gram		20
+13416941000033114	3.80609E+16	Dermipar ointment (Galen Ltd)	Dermipar ointment	Ointment					2
+13426441000033114	3.49164E+16	Epimax excetra cream (Aspire Pharma Ltd)	Epimax excetra cream	Cream		Liquid paraffin light/ White soft paraffin	105.000mg/1.000gram + 132.000mg/1.000gram		200000
+13426541000033110	3.0907E+16	Epimax isomol gel (Aspire Pharma Ltd)	Epimax isomol gel	Gel		Isopropyl myristate/ Liquid paraffin	150.000mg/1.000gram + 150.000mg/1.000gram		100000
+13426641000033111	2.7967E+16	Epimax original cream (Aspire Pharma Ltd)	Epimax original cream	Cream					500000
+13447241000033113	2.98025E+16	MooGoo Sensitive skin balm (MooGoo EU Ltd)	MooGoo Sensitive skin balm	Cream					200
+13750641000033119	3.92981E+16	Eucerin UreaRepair Plus 10% urea lotion (Beiersdorf UK Ltd)	Eucerin UreaRepair Plus 10% urea lotion	Not applicable					2000
+13778541000033116		Dr Wolff's Vagisan  Moisturising Cream							100
+13844941000033117	3.96466E+16	Epimax moisturising cream (Aspire Pharma Ltd)	Epimax moisturising cream	Cream		Liquid paraffin/ White soft paraffin	126.000mg/1.000gram + 145.000mg/1.000gram		3000
+13909341000033117	3.99666E+16	Doublebase Once gel (Dermal Laboratories Ltd)	Doublebase Once gel						400
+13909441000033111	3.99713E+16	AproDerm emollient starter pack (Fontus Health Ltd)	AproDerm emollient starter pack						200
+14001341000033112	4.04432E+16	Diprobase Advanced Eczema cream (Bayer Plc)	Diprobase Advanced Eczema cream	Cream					3000
+14021941000033115	1.63278E+16	Balneum Intensiv cream (Almirall Ltd)	Balneum Intensiv cream	Cream					300

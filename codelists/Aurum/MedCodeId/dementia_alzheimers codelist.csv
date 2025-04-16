@@ -1,0 +1,50 @@
+MedCodeId,Observations,OriginalReadCode,CleansedReadCode,Term,SnomedCTConceptId,SnomedCTDescriptionId,Release,EmisCodeCategoryId
+45046017,800000,F110,F110.00,Alzheimer's disease,26929004,45046017,,32
+295668011,300000,Eu00,Eu00.00,[X]Dementia in Alzheimer's disease,26929004,45046017,,32
+295671015,100000,Eu002,Eu00200,"[X]Dementia in Alzheimer's dis, atypical or mixed type",26929004,45046017,,32
+295672010,20000,Eu00z,Eu00z00,"[X]Dementia in Alzheimer's disease, unspecified",26929004,45046017,,32
+299325013,500,Fyu30,Fyu3000,[X]Other Alzheimer's disease,26929004,45046017,,32
+499946014,20000,F1100,F110000,Alzheimer's disease with early onset,416780008,2957141019,,32
+500317011,20000,F1101,F110100,Alzheimer's disease with late onset,416975007,2957124016,,32
+363021000006113,50000,Eu00z-1,Eu00z11,[X]Alzheimer's dementia unspec,26929004,45046017,,32
+363031000006111,200,Eu001-1,Eu00111,[X]Alzheimer's disease type 1,416975007,2957137018,,32
+363041000006118,50,Eu000-3,Eu00013,[X]Alzheimer's disease type 2,416780008,2957119019,,32
+376531000006119,9000,Eu000,Eu00000,Dementia in Alzheimer's disease with early onset,416780008,2957119019,,32
+376541000006112,60000,Eu001,Eu00100,Dementia in Alzheimer's disease with late onset,416975007,2957137018,,32
+423351000006115,500,Eu000-1,Eu00011,"[X]Presenile dementia,Alzheimer's type",416780008,2957138011,,32
+423381000006111,200,Eu001-3,Eu00113,"[X]Primary degen dementia of Alzheimer's type, senile onset",416975007,2957137018,,32
+423391000006114,80,Eu000-2,Eu00012,"[X]Primary degen dementia, Alzheimer's type, presenile onset",416780008,2957119019,,32
+425901000006116,30000,Eu001-2,Eu00112,"[X]Senile dementia,Alzheimer's type",416975007,2957124016,,32
+905791000006115,500,HNG0062,,[RFC] Alzheimer's disease,905791000006104,905791000006115,,12
+914951000006114,10000,EMISNQDD3,,[D] Dementia in Alzheimer's disease,914951000006105,914951000006114,,32
+1971401000006111,30,EMISICD10|F0000,,"Dementia in Alzheimer's disease with early onset, without additional symptoms",1971401000006107,1971401000006111,,32
+1971541000006114,1,EMISICD10|F0001,,"Dementia in Alzheimer's disease with early onset, other symptoms, predominantly delusional",1971541000006105,1971541000006114,,32
+1971771000006112,2,EMISICD10|F0002,,"Dementia in Alzheimer's disease with early onset, other symptoms, predominantly hallucinatory",1971771000006108,1971771000006112,,32
+1972131000006115,7,EMISICD10|F0003,,"Dementia in Alzheimer's disease with early onset, other symptoms, predominantly depressive",1972131000006104,1972131000006115,,32
+1972141000006113,200,EMISICD10|F0004,,"Dementia in Alzheimer's disease with early onset, other mixed symptoms",1972141000006109,1972141000006113,,32
+1972171000006117,90,EMISICD10|F0010,,"Dementia in Alzheimer's disease with late onset, without additional symptoms",1972171000006101,1972171000006117,,32
+1972181000006119,9,EMISICD10|F0011,,"Dementia in Alzheimer's disease with late onset, other symptoms, predominantly delusional",1972181000006103,1972181000006119,,32
+1972191000006116,2,EMISICD10|F0012,,"Dementia in Alzheimer's disease with late onset, other symptoms, predominantly hallucinatory",1972191000006100,1972191000006116,,32
+1972201000006118,20,EMISICD10|F0013,,"Dementia in Alzheimer's disease with late onset, other symptoms, predominantly depressive",1972201000006102,1972201000006118,,32
+1972211000006115,300,EMISICD10|F0014,,"Dementia in Alzheimer's disease with late onset, other mixed symptoms",1972211000006104,1972211000006115,,32
+1972231000006114,900,EMISICD10|F0020,,"Dementia in Alzheimer's dis, atypical or mixed type, without additional symptoms",1972231000006105,1972231000006114,,32
+1972251000006119,50,EMISICD10|F0021,,"Dementia in Alzheimer's dis, atypical or mixed type, other symptoms, predominantly delusional",1972251000006103,1972251000006119,,32
+1972291000006113,70,EMISICD10|F0022,,"Dementia in Alzheimer's dis, atypical or mixed type, other symptoms, predominantly hallucinatory",1972291000006109,1972291000006113,,32
+1972311000006112,40,EMISICD10|F0023,,"Dementia in Alzheimer's dis, atypical or mixed type, other symptoms, predominantly depressive",1972311000006108,1972311000006112,,32
+1972341000006111,4000,EMISICD10|F0024,,"Dementia in Alzheimer's dis, atypical or mixed type, other mixed symptoms",1972341000006107,1972341000006111,,32
+1972371000006115,100,EMISICD10|F0090,,"Dementia in Alzheimer's disease, unspecified, without additional symptoms",1972371000006104,1972371000006115,,32
+1972401000006117,8,EMISICD10|F0091,,"Dementia in Alzheimer's disease, unspecified, other symptoms, predominantly delusional",1972401000006101,1972401000006117,,32
+1972451000006118,8,EMISICD10|F0093,,"Dementia in Alzheimer's disease, unspecified, other symptoms, predominantly depressive",1972451000006102,1972451000006118,,32
+1972471000006111,3000,EMISICD10|F0094,,"Dementia in Alzheimer's disease, unspecified, other mixed symptoms",1972471000006107,1972471000006111,,32
+2931231000006118,1,^ESCTAD293123,,AD - Alzheimer's disease,26929004,1225144019,,32
+2931241000006111,200,^ESCTAL293124,,Alzheimer disease,26929004,2839267017,,32
+2931251000006113,900,^ESCTAL293125,,Alzheimer dementia,26929004,3424952012,,32
+3802621000006119,1,^ESCTLE380262,,Lewy body variant of Alzheimer's disease,80098002,132894011,,32
+6897211000006117,200,^ESCTPR689721,,"Primary degenerative dementia of the Alzheimer type, presenile onset",416780008,2549310013,,32
+6897241000006118,8,^ESCTDE689724,,Dementia of the Alzheimers type with early onset,416780008,2957133019,,32
+6897251000006116,90,^ESCTPR689725,,"Presenile dementia, Alzheimer's type",416780008,2957138011,,32
+6897271000006114,200,^ESCTDE689727,,Dementia in Alzheimer's disease - type 2,416780008,2957156011,,32
+6900181000006114,800,^ESCTPR690018,,"Primary degenerative dementia of the Alzheimer type, senile onset",416975007,2549518019,,32
+6900201000006110,70,^ESCTDE690020,,"Dementia of the Alzheimers type, late onset",416975007,2957123010,,32
+6900221000006117,60,^ESCTSD690022,,"SDAT - Senile dementia, Alzheimer's type",416975007,2957134013,,32
+6900241000006112,60,^ESCTDE690024,,Dementia in Alzheimer's disease - type 1,416975007,2957155010,,32

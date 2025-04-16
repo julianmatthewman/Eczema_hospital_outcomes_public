@@ -1,0 +1,37 @@
+code,alt_code,description_lc
+S12,S12,fracture of neck
+S12.0,S120,fracture of first cervical vertebra
+S12.00,S1200,fracture of first cervical vertebra
+S12.01,S1201,fracture of first cervical vertebra
+S12.1,S121,fracture of second cervical vertebra
+S12.10,S1210,fracture of second cervical vertebra
+S12.11,S1211,fracture of second cervical vertebra
+S12.2,S122,fracture of other specified cervical vertebra
+S12.20,S1220,fracture of other specified cervical vertebra
+S12.21,S1221,fracture of other specified cervical vertebra
+S12.7,S127,multiple fractures of cervical spine
+S12.70,S1270,multiple fractures of cervical spine
+S12.71,S1271,multiple fractures of cervical spine
+S12.8,S128,fracture of other parts of neck
+S12.80,S1280,fracture of other parts of neck
+S12.81,S1281,fracture of other parts of neck
+S12.9,S129,"fracture of neck, part unspecified"
+S12.90,S1290,"fracture of neck, part unspecified"
+S12.91,S1291,"fracture of neck, part unspecified"
+S22,S22,"fracture of rib(s), sternum and thoracic spine"
+S22.0,S220,fracture of thoracic vertebra
+S22.00,S2200,fracture of thoracic vertebra
+S22.01,S2201,fracture of thoracic vertebra
+S22.1,S221,multiple fractures of thoracic spine
+S22.10,S2210,multiple fractures of thoracic spine
+S22.11,S2211,multiple fractures of thoracic spine
+S32,S32,fracture of lumbar spine and pelvis
+S32.0,S320,fracture of lumbar vertebra
+S32.00,S3200,fracture of lumbar vertebra
+S32.01,S3201,fracture of lumbar vertebra
+S32.7,S327,multiple fractures of lumbar spine and pelvis
+S32.70,S3270,multiple fractures of lumbar spine and pelvis
+S32.71,S3271,multiple fractures of lumbar spine and pelvis
+S32.8,S328,fracture of other and unspecified parts of lumbar spine and pelvis
+S32.80,S3280,fracture of other and unspecified parts of lumbar spine and pelvis
+S32.81,S3281,fracture of other and unspecified parts of lumbar spine and pelvis

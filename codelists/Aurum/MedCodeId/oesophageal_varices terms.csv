@@ -1,0 +1,10 @@
+"searchterms","exclusionterms","searched_in_column","searchmethod"
+"esophageal varices",,"Term","default stringr::str_detect() search method"
+"oesophageal varices",,,
+"varices of oesophagus",,,
+"esophageal varix",,,
+"oesophageal varix",,,
+"varix of oesophagus",,,
+"Oesophageal vessels ligated",,,
+"Tanner devascularisation",,,
+"(?=.*oesophagoscopy)(?=.*vari)",,,

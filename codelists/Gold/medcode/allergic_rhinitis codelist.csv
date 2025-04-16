@@ -1,0 +1,23 @@
+readcode,description,medcode
+H17..11,Perennial rhinitis,1468
+H17..12,Allergic rhinosinusitis,18572
+H17..00,Allergic rhinitis,175
+H17z.00,Allergic rhinitis NOS,964
+H172.11,Hay fever - unspecified allergen,3798
+H172.00,Allergic rhinitis due to unspecified allergen,775
+H171.11,Cat allergy,4861
+H171.12,Dander (animal) allergy,13377
+H171.13,Feather allergy,30375
+H171.14,Hay fever - other allergen,16134
+H171.15,House dust allergy,3162
+H171.16,House dust mite allergy,1930
+H171.00,Allergic rhinitis due to other allergens,2372
+H171100,Dog allergy,95938
+H171000,Allergy to animal,12382
+H170.11,Hay fever - pollens,121
+H170.12,Pollinosis,24163
+H170.00,Allergic rhinitis due to pollens,1838
+Hyu2100,[X]Other allergic rhinitis,47599
+Hyu2000,[X]Other seasonal allergic rhinitis,72490
+H330.13,Hay fever with asthma,15248
+H330011,Hay fever with asthma,5627

@@ -1,0 +1,4 @@
+code,description,coding_system,concept_id,concept_version_id,concept_name,phenotype_id,phenotype_version_id,phenotype_name,code_attributes
+K60.0,Acute anal fissure,ICD10 codes,C956,3051,Anal fissure - Secondary care - Diagnoses,PH97,194,Anal fissure,"{'Disease': 'Anal fissure', 'Category': 'Diagnosis of Anal fissure'}"
+K60.1,Chronic anal fissure,ICD10 codes,C956,3051,Anal fissure - Secondary care - Diagnoses,PH97,194,Anal fissure,"{'Disease': 'Anal fissure', 'Category': 'Diagnosis of Anal fissure'}"
+K60.2,"Anal fissure, unspecified",ICD10 codes,C956,3051,Anal fissure - Secondary care - Diagnoses,PH97,194,Anal fissure,"{'Disease': 'Anal fissure', 'Category': 'Diagnosis of Anal fissure'}"

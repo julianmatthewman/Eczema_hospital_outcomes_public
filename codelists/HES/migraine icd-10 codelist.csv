@@ -1,0 +1,2 @@
+code,description,coding_system,concept_id,concept_version_id,concept_name,phenotype_id,phenotype_version_id,phenotype_name,code_attributes
+G43,Migraine,ICD10 codes,C1288,3715,Migraine - Secondary care - Diagnoses,PH211,422,Migraine,"{'Disease': 'Migraine', 'Category': 'Diagnosis of Migraine'}"

@@ -1,0 +1,23 @@
+medcode,clinicalevents,referralevents,testevents,immunisationevents,readcode,readterm,databasebuild
+998,210995,12959,98,0,H3...11,Chronic obstructive airways disease,February 2009
+1001,401695,11499,139,0,H3...00,Chronic obstructive pulmonary disease,February 2009
+1446,256276,4536,5,0,H312200,Acute exacerbation of chronic obstructive airways disease,February 2009
+5710,62886,1084,2,0,H3z..00,Chronic obstructive airways disease NOS,February 2009
+5909,512,17,0,0,H312011,Chronic wheezy bronchitis,February 2009
+7884,64379,639,0,0,H3y1.00,"Chron obstruct pulmonary dis wth acute exacerbation, unspec",February 2009
+9876,29256,299,50,0,H38..00,Severe chronic obstructive pulmonary disease,February 2009
+10802,65988,237,119,0,H37..00,Moderate chronic obstructive pulmonary disease,February 2009
+10863,67240,196,68,0,H36..00,Mild chronic obstructive pulmonary disease,February 2009
+11019,16939,205,0,0,8H2R.00,Admit COPD emergency,February 2009
+12166,4628,18,2,0,H3y..00,Other specified chronic obstructive airways disease,February 2009
+19003,12032,11,1,0,66Ye.00,Emergency COPD admission since last appointment,February 2009
+19106,12687,2,0,0,66Yd.00,COPD accident and emergency attendance since last visit,February 2009
+21061,4752,33,0,0,H3y0.00,Chronic obstruct pulmonary dis with acute lower resp infectn,February 2009
+27819,1194,6,0,0,H312.00,Obstructive chronic bronchitis,February 2009
+37247,1096,13,0,0,H3z..11,Chronic obstructive pulmonary disease NOS,February 2009
+44525,79,0,0,0,H312z00,Obstructive chronic bronchitis NOS,February 2009
+65733,62,0,0,0,Hyu3100,[X]Other specified chronic obstructive pulmonary disease,February 2009
+67040,9,0,0,0,H3y..11,Other specified chronic obstructive pulmonary disease,February 2009
+93568,3336,57,10,0,H39..00,Very severe chronic obstructive pulmonary disease,February 2009
+104608,222,0,0,0,H3A..00,End stage chronic obstructive airways disease,July 2012
+109958,286,4,0,0,H3B..00,Asthma-chronic obstructive pulmonary disease overlap syndrom,July 2015

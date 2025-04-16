@@ -1,0 +1,1 @@
+Identified terms from MeSH for abdominal hernia (Unique ID: D046449; https://www.ncbi.nlm.nih.gov/mesh/68046449) and all descendants, excluding brith defects (Gastroschisis and Omphalocele).

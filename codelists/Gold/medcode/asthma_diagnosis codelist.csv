@@ -1,0 +1,44 @@
+readcode,description,medcode
+663V300,Severe asthma,3366
+663V200,Moderate asthma,13065
+663V100,Mild asthma,3018
+663V000,Occasional asthma,3458
+H33..00,Asthma,78
+H33..11,Bronchial asthma,1555
+H335.00,Chronic asthma with fixed airflow obstruction,106805
+H334.00,Brittle asthma,40823
+H333.00,Acute exacerbation of asthma,185
+H332.00,Mixed asthma,25796
+H331.00,Intrinsic asthma,5267
+H331.11,Late onset asthma,3665
+H331z00,Intrinsic asthma NOS,45073
+H331100,Intrinsic asthma with status asthmaticus,58196
+H331111,Intrinsic asthma with asthma attack,18323
+H331000,Intrinsic asthma without status asthmaticus,29325
+H330.11,Allergic asthma,2290
+H330.00,Extrinsic (atopic) asthma,7146
+H330.12,Childhood asthma,1208
+H330.13,Hay fever with asthma,15248
+H330.14,Pollen asthma,7731
+H330z00,Extrinsic asthma NOS,45782
+H330100,Extrinsic asthma with status asthmaticus,27926
+H330111,Extrinsic asthma with asthma attack,6707
+H330000,Extrinsic asthma without status asthmaticus,14777
+H330011,Hay fever with asthma,5627
+H33z.00,Asthma unspecified,4442
+H33z200,Late-onset asthma,12987
+H33z111,Asthma attack NOS,8335
+H33z100,Asthma attack,232
+H33zz11,Exercise induced asthma,4606
+H33zz00,Asthma NOS,16070
+H33zz12,Allergic asthma NEC,21232
+H33z000,Status asthmaticus NOS,4892
+H33z011,Severe asthma attack,233
+1780,Aspirin induced asthma,NA
+173d.00,Work aggravated asthma,73522
+173c.00,Occupational asthma,22752
+173A.00,Exercise induced asthma,5867
+H35y700,Wood asthma,39478
+H35y600,Sequoiosis (red-cedar asthma),93353
+G581.11,Asthma - cardiac,23481
+1O2..00,Asthma confirmed,11370

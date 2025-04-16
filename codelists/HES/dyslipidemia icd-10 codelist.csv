@@ -1,0 +1,5 @@
+"code","ALT_CODE","USAGE","USAGE_UK","DESCRIPTION","MODIFIER_4","MODIFIER_5","QUALIFIERS","GENDER_MASK","MIN_AGE","MAX_AGE","TREE_DESCRIPTION"
+"E78","E78","DEFAULT","3","Disorders of lipoprotein metabolism and other lipidaemias","","","",,,,""
+"E78.2","E782","DEFAULT","3","Mixed hyperlipidaemia","","","",,,,""
+"E78.4","E784","DEFAULT","3","Other hyperlipidaemia","","","",,,,""
+"E78.5","E785","DEFAULT","3","Hyperlipidaemia, unspecified","","","",,,,""

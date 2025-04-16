@@ -1,0 +1,206 @@
+﻿gbdcode,level_label,level,cause,icd10,minus,comment,level_1,level_2,level_3
+10,I.,1,"Communicable, maternal, perinatal and nutritional conditions","A00-A99, B00-B99, D50-D53, D64.9, E00-E02, E40-E46, E50-E64,G00-G04, G14, H65-H66, J00-J22, N70-N73, O00-O99, P00-P96, U04",,,"Communicable, maternal, perinatal and nutritional conditions",,
+20,A.,2,Infectious and parasitic diseases,"A00-A99, B00-B99, G00-G04, G14, N70-N73, P37.3, P37.4",,,"Communicable, maternal, perinatal and nutritional conditions",Infectious and parasitic diseases,
+30,1,3,Tuberculosis,"A15-A19, B90",,,"Communicable, maternal, perinatal and nutritional conditions",Infectious and parasitic diseases,
+40,2,3,STDs excluding HIV,"A50-A64, N70-N73",,,"Communicable, maternal, perinatal and nutritional conditions",Infectious and parasitic diseases,
+50,a.,4,Syphilis,A50-A53,,,"Communicable, maternal, perinatal and nutritional conditions",Infectious and parasitic diseases,STDs excluding HIV
+60,b.,4,Chlamydia,A55-A56,,,"Communicable, maternal, perinatal and nutritional conditions",Infectious and parasitic diseases,STDs excluding HIV
+70,c.,4,Gonorrhoea,A54,,,"Communicable, maternal, perinatal and nutritional conditions",Infectious and parasitic diseases,STDs excluding HIV
+80,d.,4,Trichomoniasis,A59,,,"Communicable, maternal, perinatal and nutritional conditions",Infectious and parasitic diseases,STDs excluding HIV
+85,e.,4,Genital herpes,A60,,,"Communicable, maternal, perinatal and nutritional conditions",Infectious and parasitic diseases,STDs excluding HIV
+90,f.,4,Other STDs,"A57-A58, A63-A64, N70-N73",,,"Communicable, maternal, perinatal and nutritional conditions",Infectious and parasitic diseases,STDs excluding HIV
+100,3,3,HIV/AIDS,B20-B24,,,"Communicable, maternal, perinatal and nutritional conditions",Infectious and parasitic diseases,
+101,a.,4,HIV resulting in TB,B20.0,,,"Communicable, maternal, perinatal and nutritional conditions",Infectious and parasitic diseases,HIV/AIDS
+102,b.,4,HIV resulting in other diseases,B20-B24,B20.0,,"Communicable, maternal, perinatal and nutritional conditions",Infectious and parasitic diseases,HIV/AIDS
+110,4,3,Diarrhoeal diseases,"A00, A01, A03, A04, A06-A09",,,"Communicable, maternal, perinatal and nutritional conditions",Infectious and parasitic diseases,
+120,5,3,Childhood-cluster diseases,"A33-A37, B05",,,"Communicable, maternal, perinatal and nutritional conditions",Infectious and parasitic diseases,
+130,a.,4,Whooping cough,A37,,,"Communicable, maternal, perinatal and nutritional conditions",Infectious and parasitic diseases,Childhood-cluster diseases
+140,b.,4,Diphtheria,A36,,,"Communicable, maternal, perinatal and nutritional conditions",Infectious and parasitic diseases,Childhood-cluster diseases
+150,c.,4,Measles,B05,,,"Communicable, maternal, perinatal and nutritional conditions",Infectious and parasitic diseases,Childhood-cluster diseases
+160,d.,4,Tetanus,A33-A35,,,"Communicable, maternal, perinatal and nutritional conditions",Infectious and parasitic diseases,Childhood-cluster diseases
+170,6,3,Meningitis,"A39, G00, G03",,,"Communicable, maternal, perinatal and nutritional conditions",Infectious and parasitic diseases,
+180,7,3,Encephalitis,"A83-A86, B94.1, G04",,,"Communicable, maternal, perinatal and nutritional conditions",Infectious and parasitic diseases,
+185,8,3,Hepatitis,B15-B19,B17.8,,"Communicable, maternal, perinatal and nutritional conditions",Infectious and parasitic diseases,
+186,a.,4,Acute hepatitis A,B15,,,"Communicable, maternal, perinatal and nutritional conditions",Infectious and parasitic diseases,Hepatitis
+190,b.,4,Acute hepatitis B,B16-B19,"B17.1, B17.2, B18.2, B18.8",,"Communicable, maternal, perinatal and nutritional conditions",Infectious and parasitic diseases,Hepatitis
+200,c.,4,Acute hepatitis C,"B17.1, B18.2",,,"Communicable, maternal, perinatal and nutritional conditions",Infectious and parasitic diseases,Hepatitis
+205,d.,4,Acute hepatitis E,"B17.2, B18.8",,,"Communicable, maternal, perinatal and nutritional conditions",Infectious and parasitic diseases,Hepatitis
+210,9,3,Parasitic and vector diseases,"A71, A82, A90-A91, A95, B50-B57, B65, B67, B69, B73, B74.0-B74.2, P37.3-P37.4",,,"Communicable, maternal, perinatal and nutritional conditions",Infectious and parasitic diseases,
+220,a.,4,Malaria,"B50-B54, P37.3, P37.4",,,"Communicable, maternal, perinatal and nutritional conditions",Infectious and parasitic diseases,Parasitic and vector diseases
+230,b.,4,Trypanosomiasis,B56,,,"Communicable, maternal, perinatal and nutritional conditions",Infectious and parasitic diseases,Parasitic and vector diseases
+240,c.,4,Chagas disease,B57,,,"Communicable, maternal, perinatal and nutritional conditions",Infectious and parasitic diseases,Parasitic and vector diseases
+250,d.,4,Schistosomiasis,B65,,,"Communicable, maternal, perinatal and nutritional conditions",Infectious and parasitic diseases,Parasitic and vector diseases
+260,e.,4,Leishmaniasis,B55,,,"Communicable, maternal, perinatal and nutritional conditions",Infectious and parasitic diseases,Parasitic and vector diseases
+270,f.,4,Lymphatic filariasis,B74.0-B74.2,,,"Communicable, maternal, perinatal and nutritional conditions",Infectious and parasitic diseases,Parasitic and vector diseases
+280,g.,4,Onchocerciasis,B73,,,"Communicable, maternal, perinatal and nutritional conditions",Infectious and parasitic diseases,Parasitic and vector diseases
+285,h.,4,Cysticercosis,B69,,,"Communicable, maternal, perinatal and nutritional conditions",Infectious and parasitic diseases,Parasitic and vector diseases
+295,i.,4,Echinococcosis,B67,,,"Communicable, maternal, perinatal and nutritional conditions",Infectious and parasitic diseases,Parasitic and vector diseases
+300,j.,4,Dengue,A90-A91,,,"Communicable, maternal, perinatal and nutritional conditions",Infectious and parasitic diseases,Parasitic and vector diseases
+310,k.,4,Trachoma,A71,,,"Communicable, maternal, perinatal and nutritional conditions",Infectious and parasitic diseases,Parasitic and vector diseases
+315,l.,4,Yellow fever,A95,,,"Communicable, maternal, perinatal and nutritional conditions",Infectious and parasitic diseases,Parasitic and vector diseases
+320,m.,4,Rabies,A82,,,"Communicable, maternal, perinatal and nutritional conditions",Infectious and parasitic diseases,Parasitic and vector diseases
+330,10,3,Intestinal nematode infections,B76-B81,,,"Communicable, maternal, perinatal and nutritional conditions",Infectious and parasitic diseases,
+340,a.,4,Ascariasis,B77,,,"Communicable, maternal, perinatal and nutritional conditions",Infectious and parasitic diseases,Intestinal nematode infections
+350,b.,4,Trichuriasis,B79,,,"Communicable, maternal, perinatal and nutritional conditions",Infectious and parasitic diseases,Intestinal nematode infections
+360,c.,4,Hookworm disease,B76,,,"Communicable, maternal, perinatal and nutritional conditions",Infectious and parasitic diseases,Intestinal nematode infections
+362,d.,4,Food-bourne trematodes,"B78, B80, B81",,,"Communicable, maternal, perinatal and nutritional conditions",Infectious and parasitic diseases,Intestinal nematode infections
+365,11,3,Leprosy,A30,,,"Communicable, maternal, perinatal and nutritional conditions",Infectious and parasitic diseases,
+370,12,3,Other infectious diseases,"A02, A05, A20-A28, A31, A32, A38, A40-A49, A65-A70, A74-A79, A80-A81, A87-A89, A92-A99, B00-B04, B06-B09, B17.8, A79, A80-A81, A87-A89, A92-A99, B00-B04, B06-B09, B17.8, B25-B49, B58-B60, B64, B66, B68, B70-B72, B74.3-B74.9, B75, B82-B89, B91-B99, G14",B94.1,,"Communicable, maternal, perinatal and nutritional conditions",Infectious and parasitic diseases,
+380,B.,2,Respiratory infectious,"H65-H66, J00-J22, P23, U04",,,"Communicable, maternal, perinatal and nutritional conditions",Respiratory infectious,
+390,1,3,Lower respiratory infections,"J09-J22, P23, U04",,,"Communicable, maternal, perinatal and nutritional conditions",Respiratory infectious,
+400,2,3,Upper respiratory infections,J00-J06,,,"Communicable, maternal, perinatal and nutritional conditions",Respiratory infectious,
+410,3,3,Otitis media,H65-H66,,,"Communicable, maternal, perinatal and nutritional conditions",Respiratory infectious,
+420,C.,2,Maternal conditions,O00-O99,,,"Communicable, maternal, perinatal and nutritional conditions",Maternal conditions,
+490,D.,2,Neonatal conditions,P00-P96 ,"P23, P37.3, P37.4",,"Communicable, maternal, perinatal and nutritional conditions",Neonatal conditions,
+500,1,3,Preterm birth complications,"P05, P07, P22, P27-P28",,,"Communicable, maternal, perinatal and nutritional conditions",Neonatal conditions,
+510,2,3,Birth asphyxia and birth trauma,"P03, P10-P15, P20-P21, P24-P26, P29",,,"Communicable, maternal, perinatal and nutritional conditions",Neonatal conditions,
+520,3,3,Neonatal sepsis and infections,P35-P39,"P37.3, P37.4",,"Communicable, maternal, perinatal and nutritional conditions",Neonatal conditions,
+530,4,3,Other neonatal conditions,"P00-P02, P04, P08, P50-P96",,,"Communicable, maternal, perinatal and nutritional conditions",Neonatal conditions,
+540,E.,2,Nutritional deficiencies,"D50-D53, D64.9, E00-E02, E40-E46, E50-E64",,,"Communicable, maternal, perinatal and nutritional conditions",Nutritional deficiencies,
+550,1,3,Protein-energy malnutrition,E40-E46,,,"Communicable, maternal, perinatal and nutritional conditions",Nutritional deficiencies,
+560,2,3,Iodine deficiency,E00-E02,,,"Communicable, maternal, perinatal and nutritional conditions",Nutritional deficiencies,
+570,3,3,Vitamin A deficiency,E50,,,"Communicable, maternal, perinatal and nutritional conditions",Nutritional deficiencies,
+580,4,3,Iron-deficiency anaemia,"D50, D64.9",,,"Communicable, maternal, perinatal and nutritional conditions",Nutritional deficiencies,
+590,5,3,Other nutritional deficiencies,"D51-D53, E51-E64",,,"Communicable, maternal, perinatal and nutritional conditions",Nutritional deficiencies,
+600,II.,1,Noncommunicable diseases,"C00-C97, D00-D48, D55-D64, D65-D89, E03-E07, E10-E34, E65-E88, F01-F99, G06-G98, H00-H61, H68-H93, I00-I99, J30-J98, K00-K92, L00-L98, M00-M99, N00-N64, N75-N98, Q00-Q99, X41-X42, X44, X45, R95","D64.9, G14",,Noncommunicable diseases,,
+610,A.,2,Malignant neoplasms,C00-C97,,,Noncommunicable diseases,Malignant neoplasms,
+620,1,3,Mouth and oropharynx cancers,C00-C14,,,Noncommunicable diseases,Malignant neoplasms,
+621,a.,4,Lip and oral cavity,C00-C08,,,Noncommunicable diseases,Malignant neoplasms,Mouth and oropharynx cancers
+622,b.,4,Nasopharynx,C11,,,Noncommunicable diseases,Malignant neoplasms,Mouth and oropharynx cancers
+623,c.,4,Other pharynx,"C09-C10, C12-C14",,,Noncommunicable diseases,Malignant neoplasms,Mouth and oropharynx cancers
+630,2,3,Oesophagus cancer,C15,,,Noncommunicable diseases,Malignant neoplasms,
+640,3,3,Stomach cancer,C16,,,Noncommunicable diseases,Malignant neoplasms,
+650,4,3,Colon and rectum cancers,C18-C21,,,Noncommunicable diseases,Malignant neoplasms,
+660,5,3,Liver cancer,C22,,,Noncommunicable diseases,Malignant neoplasms,
+670,6,3,Pancreas cancer,C25,,,Noncommunicable diseases,Malignant neoplasms,
+680,7,3,"Trachea, bronchus, lung cancers",C33-C34,,,Noncommunicable diseases,Malignant neoplasms,
+690,8,3,Melanoma and other skin cancers,C43-C44,,,Noncommunicable diseases,Malignant neoplasms,
+691,a.,4,Malignant skin melanoma,C43,,,Noncommunicable diseases,Malignant neoplasms,Melanoma and other skin cancers
+692,b.,4,Non-melanoma skin cancer,C44,,,Noncommunicable diseases,Malignant neoplasms,Melanoma and other skin cancers
+700,9,3,Breast cancer,C50,,,Noncommunicable diseases,Malignant neoplasms,
+710,10,3,Cervix uteri cancer,C53,,,Noncommunicable diseases,Malignant neoplasms,
+720,11,3,Corpus uteri cancer,C54,,,Noncommunicable diseases,Malignant neoplasms,
+730,12,3,Ovary cancer,C56,,,Noncommunicable diseases,Malignant neoplasms,
+740,13,3,Prostate cancer,C61,,,Noncommunicable diseases,Malignant neoplasms,
+742,14,3,Testicular cancer,C62,,,Noncommunicable diseases,Malignant neoplasms,
+745,15,3,"Kidney, renal pelvis and ureter cancer",C64-C66,,,Noncommunicable diseases,Malignant neoplasms,
+750,16,3,Bladder cancer,C67,,,Noncommunicable diseases,Malignant neoplasms,
+751,17,3,Brain and nervous system cancers,C70-C72,,,Noncommunicable diseases,Malignant neoplasms,
+752,18,3,Gallbladder and biliary tract cancer,C23-C24,,,Noncommunicable diseases,Malignant neoplasms,
+753,19,3,Larynx cancer,C32,,,Noncommunicable diseases,Malignant neoplasms,
+754,20,3,Thyroid cancer,C73,,,Noncommunicable diseases,Malignant neoplasms,
+755,21,3,Mesothelioma,C45,,,Noncommunicable diseases,Malignant neoplasms,
+760,22,3,"Lymphomas, multiple myeloma","C81-C90, C96",,,Noncommunicable diseases,Malignant neoplasms,
+761,a.,4,Hodgkin lymphoma,C81,,,Noncommunicable diseases,Malignant neoplasms,"Lymphomas, multiple myeloma"
+762,b.,4,Non-Hodgkin lymphoma,"C82-C86, C96",,,Noncommunicable diseases,Malignant neoplasms,"Lymphomas, multiple myeloma"
+763,c.,4,Multiple myeloma,"C88, C90",,,Noncommunicable diseases,Malignant neoplasms,"Lymphomas, multiple myeloma"
+770,23,3,Leukaemia,C91-C95,,,Noncommunicable diseases,Malignant neoplasms,
+780,24,3,Other malignant neoplasms,"C17, C26-C31, C37-C41, C46-C49, C51, C52, C57-C60, C63, C68, C69, C74-C75, C77-C79, E10-E14","E10.2, E11.2, E12.2, E13.2, E14.2",,Noncommunicable diseases,Malignant neoplasms,
+790,B.,2,Other neoplasms,D00-D48,,,Noncommunicable diseases,Other neoplasms,
+800,C.,2,Diabetes mellitus,E10-E14,"E10.2, E11.2, E12.2, E13.2, E14.2",,Noncommunicable diseases,Diabetes mellitus,
+810,D.,2,"Endocrine, blood, immune disorders","D55-D64, D65-D89, E03-E07, E15-E34, E65-E88",D64.9,,Noncommunicable diseases,"Endocrine, blood, immune disorders",
+811,1,3,Thalassaemias,D56,,,Noncommunicable diseases,"Endocrine, blood, immune disorders",
+812,2,3,Sickle cell disorders and trait,D57,,,Noncommunicable diseases,"Endocrine, blood, immune disorders",
+813,3,3,Other haemoglobinopathies and haemolytic anaemias,"D55, D58-D59",,,Noncommunicable diseases,"Endocrine, blood, immune disorders",
+814,4,3,"Other endocrine, blood and immune disorders","D60-D64, D65-D89, E03-E07, E15-E34, E65-E88",D64.9,,Noncommunicable diseases,"Endocrine, blood, immune disorders",
+820,E.,2,Mental and substance use disorders,"F04-F99, G72.1, Q86.0, X41-X42, X44, X45",,,Noncommunicable diseases,Mental and substance use disorders,
+830,1,3,Depressive disorders,"F32-F33, F34.1",,,Noncommunicable diseases,Mental and substance use disorders,
+831,a.,4,Major depressive disorder,F32-F33,,,Noncommunicable diseases,Mental and substance use disorders,Depressive disorders
+832,b.,4,Dysthymia,F34.1,,,Noncommunicable diseases,Mental and substance use disorders,Depressive disorders
+840,2,3,Bipolar disorder,F30-F31,,,Noncommunicable diseases,Mental and substance use disorders,
+850,3,3,Schizophrenia,F20-F29,,,Noncommunicable diseases,Mental and substance use disorders,
+860,4,3,Alcohol use disorders,"F10, G72.1, Q86.0, X45",,,Noncommunicable diseases,Mental and substance use disorders,
+870,5,3,Drug use disorders,"F11-F16, F18-F19d, X41-X42, X44d",,,Noncommunicable diseases,Mental and substance use disorders,
+871,a.,4,Opioid use disorders,"F11, X42",,,Noncommunicable diseases,Mental and substance use disorders,Drug use disorderse
+872,b.,4,Cocaine use disorders,F14,,,Noncommunicable diseases,Mental and substance use disorders,Drug use disorderse
+873,c.,4,Amphetamine use disorders,F15,,,Noncommunicable diseases,Mental and substance use disorders,Drug use disorderse
+874,d.,4,Cannabis use disorders,F12,,,Noncommunicable diseases,Mental and substance use disorders,Drug use disorderse
+875,e.,4,Other drug use disorders,"F13, F16, F18, X41",,,Noncommunicable diseases,Mental and substance use disorders,Drug use disorderse
+880,6,3,Anxiety disorders,F40-F44,,,Noncommunicable diseases,Mental and substance use disorders,
+890,7,3,Eating disorders,F50,,,Noncommunicable diseases,Mental and substance use disorders,
+900,8,3,Autism and Asperger syndrome,F84,,,Noncommunicable diseases,Mental and substance use disorders,
+910,9,3,Childhood behavioural disorders,F90-F92,,,Noncommunicable diseases,Mental and substance use disorders,
+911,a.,4,Attention deficit/hyperactivity syndrome,F90,,,Noncommunicable diseases,Mental and substance use disorders,Childhood behavioural disorders
+912,b.,4,Conduct disorder,F91-F92,,,Noncommunicable diseases,Mental and substance use disorders,Childhood behavioural disorders
+920,10,3,Idiopathic intellectual disability,F70-F79,,,Noncommunicable diseases,Mental and substance use disorders,
+930,11,3,Other mental and behavioural disorders,"F04-F09, F17, F34-F39, F45-F48, F51-F69, F80-F83, F88-F89, F93-F99",F34.1,,Noncommunicable diseases,Mental and substance use disorders,
+940,F.,2,Neurological conditions,"F01-F03, G06-G98","G14, G72.1",,Noncommunicable diseases,Neurological conditions,
+950,1,3,Alzheimer disease and other dementias,"F01-F03, G30-G31",,,Noncommunicable diseases,Neurological conditions,
+960,2,3,Parkinson disease,G20-G21,,,Noncommunicable diseases,Neurological conditions,
+970,3,3,Epilepsy,G40-G41,,,Noncommunicable diseases,Neurological conditions,
+980,4,3,Multiple sclerosis,G35,,,Noncommunicable diseases,Neurological conditions,
+990,5,3,Migraine,G43,,,Noncommunicable diseases,Neurological conditions,
+1000,6,3,Non-migraine headache,G44,,,Noncommunicable diseases,Neurological conditions,
+1010,7,3,Other neurological conditions,"G06-G12, G23-G25, G36-G37, G45-G98",G72.1,,Noncommunicable diseases,Neurological conditions,
+1020,G.,2,Sense organ diseases,"H00-H61, H68-H93",,,Noncommunicable diseases,Sense organ diseases,
+1030,1,3,Glaucoma,H40,,,Noncommunicable diseases,Sense organ diseases,
+1040,2,3,Cataracts,H25-H26,,,Noncommunicable diseases,Sense organ diseases,
+1050,3,3,Uncorrected refractive errors,H49-H52,,,Noncommunicable diseases,Sense organ diseases,
+1060,4,3,Macular degeneration,H35.3,,,Noncommunicable diseases,Sense organ diseases,
+1070,5,3,Other vision loss,"H30-H35, H53-H54",H35.3,,Noncommunicable diseases,Sense organ diseases,
+1080,6,3,Other hearing loss,H90-H91,,,Noncommunicable diseases,Sense organ diseases,
+1090,7,3,Other sense organ disorders,"H00-H21, H27, H43-H47, H55-H61, H68-H83, H92-H93",,,Noncommunicable diseases,Sense organ diseases,
+1100,H.,2,Cardiovascular diseases,I00-I99,,,Noncommunicable diseases,Cardiovascular diseases,
+1110,1,3,Rheumatic heart disease,I01-I09,,,Noncommunicable diseases,Cardiovascular diseases,
+1120,2,3,Hypertensive heart disease,I11-I15,,,Noncommunicable diseases,Cardiovascular diseases,
+1130,3,3,Ischaemic heart disease,I20-I25,,,Noncommunicable diseases,Cardiovascular diseases,
+1140,4,3,Stroke,I60-I69,,,Noncommunicable diseases,Cardiovascular diseases,
+1150,5,3,"Cardiomyopathy, myocarditis, endocarditis","I30-I33, I38, I40, I42",,,Noncommunicable diseases,Cardiovascular diseases,
+1160,6,3,Other circulatory diseases,"I00, I26-I28, I34-I37, I44-I51, I70-I99",,,Noncommunicable diseases,Cardiovascular diseases,
+1170,I.,2,Respiratory diseases,J30-J98,,,Noncommunicable diseases,Respiratory diseases,
+1180,1,3,Chronic obstructive pulmonary disease,J40-J44,,,Noncommunicable diseases,Respiratory diseases,
+1190,2,3,Asthma,J45-J46,,,Noncommunicable diseases,Respiratory diseases,
+1200,3,3,Other respiratory diseases,"J30-J39, J47-J98",,,Noncommunicable diseases,Respiratory diseases,
+1210,J.,2,Digestive diseases,K20-K92,,,Noncommunicable diseases,Digestive diseases,
+1220,1,3,Peptic ulcer disease,K25-K27,,,Noncommunicable diseases,Digestive diseases,
+1230,2,3,Cirrhosis of the liver,"K70, K74",,,Noncommunicable diseases,Digestive diseases,
+1240,3,3,Appendicitis,K35-K37,,,Noncommunicable diseases,Digestive diseases,
+1241,4,3,Gastritis and duodenitis,K29,,,Noncommunicable diseases,Digestive diseases,
+1242,5,3,Paralytic ileus and intestinal obstruction,K56,,,Noncommunicable diseases,Digestive diseases,
+1244,6,3,Inflammatory bowel disease,"K50-K52, K58.0",,,Noncommunicable diseases,Digestive diseases,
+1246,7,3,Gallbladder and biliary diseases,K80-K83,,,Noncommunicable diseases,Digestive diseases,
+1248,8,3,Pancreatitis,K85-K86,,,Noncommunicable diseases,Digestive diseases,
+1250,9,3,Other digestive diseases,"K20-K22, K28, K30-K31, K38, K40-K46, K55, K57, K58.9, K59-K66, K71-K73, K75-K76, K90-K92",,,Noncommunicable diseases,Digestive diseases,
+1260,K.,2,Genitourinary diseases,"E10.2-E10.29,E11.2-E11.29,E12.2,E13.2-E13.29,E14.2, N00-N64, N75-N76, N80-N98",,,Noncommunicable diseases,Genitourinary diseases,
+1270,1,3,Kidney diseases,"N00-N19, E10.2,E11.2,E12.2,E13.2,E14.2",,,Noncommunicable diseases,Genitourinary diseases,
+1271,a.,4,Acute glomerulonephritis,N00-N01,,,Noncommunicable diseases,Genitourinary diseases,Kidney diseases
+1272,b.,4,Chronic kidney disease due to diabetes,"E10.2, E11.2, E12.2, E13.2, E14.2",,,Noncommunicable diseases,Genitourinary diseases,Kidney diseases
+1273,c.,4,Other chronic kidney disease,N02-N19,,,Noncommunicable diseases,Genitourinary diseases,Kidney diseases
+1280,2,3,Benign prostatic hyperplasia,N40,,,Noncommunicable diseases,Genitourinary diseases,
+1290,3,3,Urolithiasis,N20-N23,,,Noncommunicable diseases,Genitourinary diseases,
+1300,4,3,Other urinary diseases,"N25-N39, N41-N45, N47-N51",,,Noncommunicable diseases,Genitourinary diseases,
+1310,5,3,Infertility,"N46, N97",,,Noncommunicable diseases,Genitourinary diseases,
+1320,6,3,Gynecological diseases,"N60-N64, N75-N76, N80-N96, N98",,,Noncommunicable diseases,Genitourinary diseases,
+1330,L.,2,Skin diseases,L00-L98,,,Noncommunicable diseases,Skin diseases,
+1340,M.,2,Musculoskeletal diseases,M00-M99,,,Noncommunicable diseases,Musculoskeletal diseases,
+1350,1,3,Rheumatoid arthritis,M05-M06,,,Noncommunicable diseases,Musculoskeletal diseases,
+1360,2,3,Osteoarthritis,M15-M19,,,Noncommunicable diseases,Musculoskeletal diseases,
+1370,3,3,Gout,M10,,,Noncommunicable diseases,Musculoskeletal diseases,
+1380,4,3,Back and neck pain,"M45-M48, M50-M54",,,Noncommunicable diseases,Musculoskeletal diseases,
+1390,5,3,Other musculoskeletal disorders,"M00, M02, M08, M11-M13, M20-M43, M60-M99",,,Noncommunicable diseases,Musculoskeletal diseases,
+1400,N.,2,Congenital anomalies,Q00-Q99,Q86.0,,Noncommunicable diseases,Congenital anomalies,
+1410,1,3,Neural tube defects,"Q00, Q05",,,Noncommunicable diseases,Congenital anomalies,
+1420,2,3,Cleft lip and cleft palate,Q35-Q37,,,Noncommunicable diseases,Congenital anomalies,
+1430,3,3,Down syndrome,Q90,,,Noncommunicable diseases,Congenital anomalies,
+1440,4,3,Congenital heart anomalies,Q20-Q28,,,Noncommunicable diseases,Congenital anomalies,
+1450,5,3,Other chromosomal anomalies,Q91-Q99,,,Noncommunicable diseases,Congenital anomalies,
+1460,6,3,Other congenital anomalies,"Q01-Q04, Q06-Q18, Q30-Q34, Q38-Q89",Q86.0,,Noncommunicable diseases,Congenital anomalies,
+1470,O.,2,Oral conditions,K00-K14,,,Noncommunicable diseases,Oral conditions,
+1480,1,3,Dental caries,K02,,,Noncommunicable diseases,Oral conditions,
+1490,2,3,Periodontal disease,K05,,,Noncommunicable diseases,Oral conditions,
+1502,4,3,Other oral disorders,"K00, K01, K03, K04, K06-K14",,,Noncommunicable diseases,Oral conditions,
+1505,P.,2,Sudden infant death syndrome,R95,,,Noncommunicable diseases,Sudden infant death syndrome,
+1510,III.,1,Injuries,"V01-V99, W00-W99, X00-X99, Y00-Y89","X41, X42, X44, X45",,Injuries,,
+1520,A.,2,Unintentional injuries,"V01-V99, W00-W99, X00-X40, X43, X46-X59, Y40-Y86, Y88, Y89",,,Injuries,Unintentional injuries,
+1530,1,3,Road injury,"V01-V99, W00-W99, X00-X40, X43, X46-X59, Y40-Y86, Y88, Y89",,,Injuries,Unintentional injuries,
+1540,2,3,Poisonings,"X40, X43, X46-X48, X49",,,Injuries,Unintentional injuries,
+1550,3,3,Falls,W00-W19,,,Injuries,Unintentional injuries,
+1560,4,3,"Fire, heat and hot substances",X00-X19,,,Injuries,Unintentional injuries,
+1570,5,3,Drowning,W65-W74,,,Injuries,Unintentional injuries,
+1575,6,3,Exposure to mechanical forces,"W20-W38, W40-W43, W45, W46, W49-W52, W75, W76",,,Injuries,Unintentional injuries,
+1580,7,3,Natural disasters,X33-X39,,,Injuries,Unintentional injuries,
+1590,8,3,Other unintentional injuries,"W39, W44, W53-W64, W77-W99, X20-X32, X50-X59, Y40-Y86, Y88, Y89",,"Removed ""Rest of V""",Injuries,Unintentional injuries,
+1600,B.,2,Intentional injuries,"X60-X99, Y00-Y09, Y35-Y36, Y870, Y871",,,Injuries,Intentional injuries,
+1610,1,3,Self-harm,"X60-X84, Y870",,,Injuries,Intentional injuries,
+1620,2,3,Interpersonal violence,"X85-X99, Y01-Y09, Y871",,,Injuries,Intentional injuries,
+1630,3,3,Collective violence and legal intervention,Y35-Y36,,,Injuries,Intentional injuries,

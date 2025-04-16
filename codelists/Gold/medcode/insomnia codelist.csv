@@ -1,0 +1,25 @@
+readcode,description,medcode
+E274200,Persistent insomnia,16115
+E274100,Transient insomnia,15515
+E274111,Insomnia NOS,4023
+E274D11,Restless sleep,19514
+R005.00,[D]Sleep disturbances,8084
+R005.12,[D]Sleep rhythm problems,31236
+R005.11,[D]Insomnia - symptom,10349
+R005200,[D]Insomnia NOS,750
+R005z00,[D]Sleep dysfunction NOS,15407
+R005800,[D]Sleep dysfunction with sleep stage disturbance,54458
+R005000,"[D]Sleep disturbance, unspecified",1244
+1B1Q.00,Poor sleep pattern,7725
+1B1B.11,C/O - insomnia,4537
+1B1B.00,Cannot sleep - insomnia,21305
+1B1B200,Late insomnia,4597
+1B1B100,Middle insomnia,5675
+1B1B000,Initial insomnia,3523
+Fy0..00,Sleep disorders,2329
+Fy02.00,Disorders of the sleep-wake schedule,8997
+Fy00.00,Disorders of initiating and maintaining sleep,5921
+38D1.00,Insomnia severity index,98268
+1BX0.00,Delayed onset of sleep,42847
+9Ngt.00,On melatonin for sleep disorder,107666
+Fyu5800,[X]Other sleep disorders,53912

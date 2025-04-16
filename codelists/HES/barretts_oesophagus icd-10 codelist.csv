@@ -1,0 +1,2 @@
+code,description,coding_system,concept_id,concept_version_id,concept_name,phenotype_id,phenotype_version_id,phenotype_name,code_attributes
+K22.7,Barrett's oesophagus,ICD10 codes,C1019,3177,Barrett's oesophagus - Secondary care - Diagnoses,PH118,236,Barrett's oesophagus,"{'Disease': ""Barrett's oesophagus"", 'Category': ""Diagnosis of Barrett's oesophagus""}"

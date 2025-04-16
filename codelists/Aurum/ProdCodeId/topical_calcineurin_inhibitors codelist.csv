@@ -1,0 +1,7 @@
+ProdCodeId,dmdid,termfromemis,productname,formulation,routeofadministration,drugsubstancename,substancestrength,bnfchapter,DrugIssues
+2737041000033118,3383011000001101,Protopic 0.03% ointment (LEO Pharma),Protopic 0.03% ointment,Ointment,Cutaneous,Tacrolimus monohydrate,300.000microgram/1.000gram,,70000
+2737141000033119,3384711000001102,Protopic 0.1% ointment (LEO Pharma),Protopic 0.1% ointment,Ointment,Cutaneous,Tacrolimus monohydrate,1.000mg/1.000gram,,100000
+2737241000033114,407889001,Tacrolimus 0.03% ointment,Tacrolimus 0.03% ointment,Ointment,Cutaneous,Tacrolimus monohydrate,300.000microgram/1.000gram,13050300,100000
+2737341000033116,407890005,Tacrolimus 0.1% ointment,Tacrolimus 0.1% ointment,Ointment,Cutaneous,Tacrolimus monohydrate,1.000mg/1.000gram,13050300,300000
+2838841000033112,14609711000001106,Pimecrolimus 1% cream,Pimecrolimus 1% cream,Cream,Cutaneous,Pimecrolimus,10.000mg/1.000gram,13050300,100000
+2838941000033116,3011411000001107,Elidel 1% cream (Viatris UK Healthcare Ltd),Elidel 1% cream,Cream,Cutaneous,Pimecrolimus,10.000mg/1.000gram,,60000

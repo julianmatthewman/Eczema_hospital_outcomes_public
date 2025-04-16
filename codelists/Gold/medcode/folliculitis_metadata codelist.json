@@ -1,0 +1,16 @@
+{
+  "includeTerms": [
+    "folliculitis"
+  ],
+  "excludeTerms": [
+    "sycosis",
+    "depilans",
+    "abscedens et suffodiens",
+    "ulerythematosa",
+    "decalvans"
+  ],
+  "terminology": "Readv2",
+  "version": "v20160401",
+  "createdOn": "2023-01-09T15:26:36.972Z",
+  "lastUpdated": "2023-01-09T15:26:36.972Z"
+}

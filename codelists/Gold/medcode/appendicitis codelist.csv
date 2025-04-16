@@ -1,0 +1,39 @@
+phenotype_name,medcode,ReadcodeDescr,Readcode
+Appendicitis,10119,Interval appendicectomy,7701000.0
+Appendicitis,104496,Acute appendicitis with generalised peritonitis,J203.00
+Appendicitis,104722,Acute appendicitis with localised peritonitis,J204.00
+Appendicitis,10830,Emergency excision of appendix,7700.00
+Appendicitis,15393,Recurrent appendicitis,J223.00
+Appendicitis,15490,Acute appendicitis NOS,J20z.00
+Appendicitis,16040,Acute appendicitis with appendix abscess,J201.00
+Appendicitis,16152,Chronic appendicitis,J221.00
+Appendicitis,16716,Abscess of appendix,J201.11
+Appendicitis,17014,Acute gangrenous appendicitis,J20z100
+Appendicitis,1999,Acute appendicitis with peritonitis,J200.00
+Appendicitis,23344,Emergency excision of abnormal appendix and drainage HFQ,7700000.0
+Appendicitis,2394,Drainage of abscess of appendix,7702000.0
+Appendicitis,24325,Subacute appendicitis,J220.00
+Appendicitis,25856,"Appendicitis, unqualified",J21..00
+Appendicitis,28587,Endoscopic appendicectomy NEC,7701400.0
+Appendicitis,29710,Other excision of appendix NOS,7701z00
+Appendicitis,29882,Acute appendicitis without peritonitis,J202.00
+Appendicitis,29890,Drainage of appendix NEC,7702100.0
+Appendicitis,3141,Emergency appendicectomy,7700.11
+Appendicitis,33538,Emergency excision of abnormal appendix NEC,7700100.0
+Appendicitis,33826,Emergency excision of appendix NOS,7700z00
+Appendicitis,3472,Relapsing appendicitis,J222.00
+Appendicitis,35406,Other appendicitis,J22..00
+Appendicitis,37817,Other appendicitis NOS,J22z.00
+Appendicitis,4130,Appendix abscess,J201.12
+Appendicitis,422,Appendicectomy NEC,7701z11
+Appendicitis,52383,[X]Other appendicitis,Jyu2000
+Appendicitis,5692,Planned delayed appendicectomy NEC,7701300.0
+Appendicitis,59158,Other specified other excision of appendix,7701y00
+Appendicitis,60360,Other specified emergency excision of appendix,7700y00
+Appendicitis,662,Non emergency appendicectomy,7701.11
+Appendicitis,698,Acute appendicitis,J20..00
+Appendicitis,7210,H/O: appendicitis,14C2.00
+Appendicitis,7832,Emergency appendicectomy NEC,7700300.0
+Appendicitis,9206,Endoscopic emergency appendicectomy,7700400.0
+Appendicitis,9388,Appendix mass,25J6.00
+Appendicitis,9699,Other excision of appendix,7701.00

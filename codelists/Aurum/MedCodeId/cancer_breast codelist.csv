@@ -1,0 +1,168 @@
+MedCodeId,Observations,OriginalReadCode,CleansedReadCode,Term,SnomedCTConceptId,SnomedCTDescriptionId,Release,EmisCodeCategoryId
+155089014,300,B3401,B340100,Malignant neoplasm of areola of female breast,93680004,155089014,,32
+155090017,50,B3501,B350100,Malignant neoplasm of areola of male breast,93681000,155090017,,32
+155364013,9000,B35,B35..00,Malignant neoplasm of male breast,372095001,1210673015,,32
+155417012,500,B3400,B340000,Malignant neoplasm of nipple of female breast,93924008,155417012,,32
+155418019,30,B3500,B350000,Malignant neoplasm of nipple of male breast,93925009,155418019,,32
+174576019,10000,B8300,B830000,Lobular carcinoma in situ of breast,109888004,174576019,,32
+174577011,20000,B8301,B830100,Intraductal carcinoma in situ of breast,109889007,174577011,,32
+289137018,10000,B340,B340.00,Malignant neoplasm of nipple and areola of female breast,188147009,289137018,,32
+289140018,200,B340z,B340z00,Malignant neoplasm of nipple or areola of female breast NOS,188147009,289137018,,32
+289141019,3000,B341,B341.00,Malignant neoplasm of central part of female breast,188151006,289141019,,32
+289142014,6000,B342,B342.00,Malignant neoplasm of upper-inner quadrant of female breast,188152004,289142014,,32
+289143016,3000,B343,B343.00,Malignant neoplasm of lower-inner quadrant of female breast,188153009,289143016,,32
+289144010,30000,B344,B344.00,Malignant neoplasm of upper-outer quadrant of female breast,188154003,289144010,,32
+289145011,6000,B345,B345.00,Malignant neoplasm of lower-outer quadrant of female breast,188155002,289145011,,32
+289146012,2000,B346,B346.00,Malignant neoplasm of axillary tail of female breast,188156001,289146012,,32
+289147015,100,B347,B347.00,"Malignant neoplasm, overlapping lesion of breast",188157005,289147015,,32
+289148013,1000,B34y,B34y.00,Malignant neoplasm of other site of female breast,372064008,1210642019,,32
+289149017,10,B34y0,B34y000,Malignant neoplasm of ectopic site of female breast,188159008,289149017,,32
+289150017,400,B34yz,B34yz00,Malignant neoplasm of other site of female breast NOS,372064008,1210642019,,32
+289151018,100000,B34z,B34z.00,Malignant neoplasm of female breast NOS,372064008,1210642019,,32
+289153015,80,B350,B350.00,Malignant neoplasm of nipple and areola of male breast,188163001,289153015,,32
+289156011,100,B350z,B350z00,Malignant neoplasm of nipple or areola of male breast NOS,188163001,289153015,,32
+289157019,90,B35z,B35z.00,Malignant neoplasm of other site of male breast,372095001,1210673015,,32
+289158012,4,B35z0,B35z000,Malignant neoplasm of ectopic site of male breast,188168005,289158012,,32
+289159016,900,B35zz,B35zz00,Malignant neoplasm of male breast NOS,372095001,1210673015,,32
+291536017,70,BB93,BB93.00,[M]Comedocarcinoma NOS,722237009,3331293018,,32
+291539012,2000,BB9E0,BB9E000,[M]Intraductal carcinoma and lobular carcinoma in situ,18680006,31495018,,32
+291540014,2000,BB9F,BB9F.00,Lobular carcinoma,89740008,148778015,,32
+292137017,40000,Byu6,Byu6.00,Malignant tumour of breast,254837009,379664012,,32
+459378019,3000,B36,B36..00,Local recurrence of malignant tumour of breast,314955001,459378019,,32
+460263019,6000,ZV103,ZV10300,History of malignant neoplasm of breast,429087003,2693667019,,32
+511250010,3000,B58y0,B58y000,Secondary malignant neoplasm of breast,94297009,511250010,,32
+1210642019,2000000,B34,B34..00,Malignant neoplasm of female breast,372064008,1210642019,,32
+1228259019,1000,BB911,BB91100,[M]Infiltrating duct and lobular carcinoma,35232005,1228260012,,32
+1231363012,2000,BB9K0,BB9K000,[M]Paget's disease and intraductal carcinoma of breast,54666007,1231364018,,32
+1232564019,900,BB910,BB91000,[M]Intraductal papillary adenocarcinoma with invasion,64524002,1232565018,,32
+3636264012,1,^ESCT1168909,,Pleomorphic lobular carcinoma in situ of breast,762260000,3636264012,,31
+307131000006115,20,BB92,BB92.00,"[M]Comedocarcinoma, noninfiltrating",78197004,1234227011,,32
+307441000006115,400,BBM9,BBM9.00,Malignant cystosarcoma phyllodes,189826001,291696013,,32
+307631000006111,10000,BB91-1,BB91.11,Duct carcinoma,82711006,137210015,,32
+310311000006110,10000,BB91,BB91.00,Infiltrating duct carcinoma,82711006,137203014,,32
+310321000006119,2000,BB9G,BB9G.00,Infiltrating ductular carcinoma,58477004,97180015,,32
+310341000006114,200,BB9H,BB9H.00,[M]Inflammatory carcinoma,32968003,55039019,,32
+310451000006116,1000,BB90,BB90.00,"[M]Intraductal carcinoma, non-infiltrating NOS",86616005,143630014,,32
+310741000006110,200,BB94,BB94.00,Juvenile carcinoma of the breast,41919003,69948016,,32
+311221000006116,500,BB9E,BB9E.00,Lobular carcinoma in situ,77284006,128274014,,32
+314091000006113,100,BB96,BB96.00,[M]Noninfiltrating intraductal papillary adenocarcinoma,30566004,1227274015,,32
+314671000006116,500,BB9K,BB9K.00,Paget's disease and infiltrating duct carcinoma of breast,82591005,137011013,,32
+314691000006115,2000,BB9J-1,BB9J.11,Paget's disease of breast,2985005,6068012,,32
+314711000006117,2000,BB9J,BB9J.00,Mammary Paget's disease,2985005,1226519014,,32
+316311000006112,400,BB94-1,BB94.11,[M]Secretory breast carcinoma,41919003,69948016,,32
+318231000006110,5,BBS2-1,BBS2.11,[M]Wolffian duct carcinoma,2221008,4830013,,32
+531851000006119,300000,B34-1,B34..11,Ca female breast,372064008,1210642019,,32
+808151000006111,20000,1424,1424.00,Personal history of primary malignant neoplasm of breast,415076002,2537677017,,32
+880261000006119,50000,B34-99,B34..99,Carcinoma breast,372064008,880261000006119,,32
+880271000006114,700,B340-99,B340.99,Ca breast - nipple/central,188147009,880271000006114,,32
+880281000006112,400,B342-99,B342.99,"Ca breast-upper,inner quadrant",188152004,880281000006112,,32
+880291000006110,200,B343-99,B343.99,"Ca breast-lower,inner quadrant",188153009,880291000006110,,32
+880301000006111,1000,B344-99,B344.99,"Ca breast-upper,outer quadrant",188154003,880301000006111,,32
+880311000006114,300,B345-99,B345.99,"Ca breast-lower,outer quadrant",188155002,880311000006114,,32
+880321000006118,200,B346-99,B346.99,Ca breast - axillary tail,188156001,880321000006118,,32
+880331000006115,5000,B34z-99,B34z.99,Ca breast - NOS,549521000000102,880331000006115,,32
+880341000006113,90,B35-99,B35..99,Ca breast - male,93884005,880341000006113,,32
+907341000006116,40000,HNG0190,,[RFC] Breast cancer,907341000006100,907341000006116,,12
+990571000006118,10,B34-98,B34..98,Ca breast - NOS,372064008,990571000006118,,32
+1803781000006110,2,EMISNQLO13,,Local recurrence of malignant tumour of breast,314955001,1803781000006110,,32
+1842171000006113,300,EMISNQBR35,,Breast cancer follow up - enhanced services administration,1842171000006109,1842171000006113,,37
+2534351000006110,7,^ESCTWO253435,,Wolffian duct carcinoma,2221008,4830013,,32
+2546721000006114,10,^ESCTPA254672,,"Paget's disease, mammary",2985005,6067019,,32
+2611381000000114,700,8Hgg0,,Discharge from secondary care breast cancer service,1034381000000107,2611381000000114,,40
+2614621000000117,300,G8615,,Lymphoedema following breast cancer,1035841000000108,2614621000000117,,32
+2796431000006114,30,^ESCTIN279643,,Intraductal carcinoma and lobular carcinoma in situ,18680006,31495018,,32
+2992261000006111,2,^ESCTNO299226,,Noninfiltrating intraductal papillary adenocarcinoma,30566004,51159013,,32
+2992281000006118,1,^ESCTIN299228,,Intraductal papillary adenocarcinoma,30566004,51163018,,32
+2992291000006115,40,^ESCTIN299229,,Intraductal papillary carcinoma,30566004,51164012,,32
+2992301000006119,1,^ESCTDU299230,,"Ductal carcinoma in situ, papillary",30566004,196799013,,32
+2992331000006110,2,^ESCTNO299233,,Non-infiltrating intraductal papillary carcinoma,30566004,1227275019,,32
+3030841000006117,2,^ESCTIN303084,,Inflammatory carcinoma,32968003,55039019,,32
+3067781000006111,80,^ESCTIN306778,,Infiltrating duct and lobular carcinoma,35232005,58790014,,32
+3067801000006110,9,^ESCTLO306780,,Lobular and ductal carcinoma,35232005,58792018,,32
+3067811000006113,2,^ESCTIN306781,,Intraductal and lobular carcinoma,35232005,58793011,,32
+3387071000006114,70,^ESCTPA338707,,Paget's disease and intraductal carcinoma of breast,54666007,90843010,,32
+3549251000006113,30,^ESCTIN354925,,Intraductal papillary adenocarcinoma with invasion,64524002,107241015,,32
+3756791000006118,6,^ESCTLC375679,,LCIS - Lobular carcinoma in situ,77284006,1234092019,,32
+3771831000006118,4,^ESCTCO377183,,"Comedocarcinoma, noninfiltrating",78197004,129767012,,32
+3845541000006112,1,^ESCTIN384554,,Infiltrating duct adenocarcinoma,82711006,137204015,,32
+3845551000006114,2,^ESCTDU384555,,Duct cell carcinoma,82711006,137207010,,32
+3845561000006111,800,^ESCTDU384556,,Ductal carcinoma,82711006,137208017,,32
+3845571000006116,4,^ESCTDU384557,,Duct adenocarcinoma,82711006,137209013,,32
+3908461000006119,50,^ESCTIN390846,,"Intraductal carcinoma, noninfiltrating",86616005,143630014,,32
+3908481000006112,1,^ESCTIN390848,,Intraductal carcinoma,86616005,143635016,,32
+3908501000006119,50,^ESCTDU390850,,Ductal carcinoma in situ,86616005,201290013,,32
+3958781000006114,1,^ESCTLO395878,,Lobular adenocarcinoma,89740008,148780014,,32
+3958791000006112,2,^ESCTIN395879,,Infiltrating lobular carcinoma,89740008,148781013,,32
+4024671000006119,10,^ESCTPR402467,,Primary malignant neoplasm of areola of female breast,93680004,510448014,,32
+4024691000006118,10,^ESCTPR402469,,Primary malignant neoplasm of areola of male breast,93681000,510449018,,32
+4025821000006115,20,^ESCTPR402582,,Primary malignant neoplasm of female breast,93796005,510640013,,32
+4027021000006119,10,^ESCTPR402702,,Primary malignant neoplasm of nipple of female breast,93924008,510852015,,32
+4032901000006112,20,^ESCTSE403290,,Secondary malignant neoplasm of female breast,94297009,156065013,,32
+4032911000006110,30,^ESCTME403291,,Metastatic malignant neoplasm to female breast,94297009,156068010,,32
+4032931000006116,30,^ESCTSE403293,,Secondary malignant deposit to breast,94297009,511251014,,32
+4032941000006114,400,^ESCTME403294,,Metastasis to breast,94297009,511252019,,32
+4035521000006115,1,^ESCTSE403552,,Secondary malignant neoplasm of male breast,94401004,156355012,,32
+4035531000006117,1,^ESCTME403553,,Metastatic malignant neoplasm to male breast,94401004,156358014,,32
+4036511000006118,1,^ESCTSE403651,,Secondary malignant neoplasm of nipple of female breast,94443006,156465019,,32
+4419131000006110,1,^ESCTDU441913,,"Ductal carcinoma in situ, solid type",128880009,207534014,,31
+5351501000006117,20,^ESCTMA535150,,Malignant tumor of breast,254837009,379661016,,32
+5351511000006119,2000,^ESCTBR535151,,Breast cancer,254837009,379662011,,32
+5351521000006110,30,^ESCTCA535152,,CA - Breast cancer,254837009,379663018,,32
+5351531000006113,300,^ESCTMA535153,,Malignant neoplasm of breast,254837009,3446624010,,32
+5351571000006111,10,^ESCTIN535157,,Inflammatory carcinoma of breast,254840009,379668010,,32
+5608061000006115,80,^ESCTIN560806,,Intraductal carcinoma of breast,278053004,2871985014,,31
+5608071000006110,200,^ESCTIN560807,,Infiltrating lobular carcinoma of breast,278054005,2872714013,,32
+5608081000006113,20,^ESCTLO560808,,Lobular carcinoma of breast,278054005,414829016,,32
+5703981000006113,8,^ESCTME570398,,Metastasis to breast of unknown primary,285634003,424690010,,32
+6051931000006117,6,^ESCTLO605193,,Local recurrence of malignant tumor of breast,314955001,459377012,,32
+6052731000006114,500,^ESCTME605273,,Metastasis from malignant tumour of breast,315004001,459458011,,32
+6052741000006116,3,^ESCTME605274,,Metastasis from malignant tumor of breast,315004001,459457018,,32
+6331231000006112,2,^ESCTDU633123,,"Ductal carcinoma in situ nuclear pleomorphism, grade 2: neither nuclear grade 1 nor nuclear grade 3",369782002,2972394014,,31
+6333781000006115,2,^ESCTTI633378,,"Tis: Carcinoma in situ, breast: Intraductal carcinoma, lobular carcinoma in situ, or Paget disease of the nipple with no tumor",369907000,2841476010,,31
+6363631000006118,10,^ESCTFE636363,,Female breast cancer,372064008,3036010011,,32
+6364661000006112,70,^ESCTPR636466,,Primary malignant neoplasm of breast,372137005,1210714011,,32
+6376181000006114,10,^ESCTMA637618,,Malignant neoplasm of breast lower inner quadrant,373080008,1211597012,,32
+6376191000006112,10,^ESCTMA637619,,Malignant neoplasm of breast lower outer quadrant,373081007,1211598019,,32
+6376201000006110,20,^ESCTMA637620,,Malignant neoplasm of breast upper inner quadrant,373082000,1211599010,,32
+6376211000006113,4,^ESCTMA637621,,Malignant neoplasm of breast upper outer quadrant,373083005,1211600013,,32
+6377441000006111,10,^ESCTDU637744,,Ductal carcinoma in situ (breast),373176000,3288622015,,31
+6581501000006113,1,^ESCTSA658150,,Salivary duct carcinoma,397082006,1776801017,,31
+6689891000006111,6,^ESCTEC668989,,Eccrine ductal carcinoma,403939009,1782943018,,32
+6690121000006113,20,^ESCTPA669012,,Paget's disease of nipple,403946000,1782950019,,31
+6690131000006111,3,^ESCTPA669013,,Paget disease of nipple,403946000,2840588017,,31
+6765091000006112,500,^ESCTIN676509,,Infiltrating duct carcinoma of breast,408643008,2160190012,,32
+6765101000006118,20,^ESCTIN676510,,Invasive duct carcinoma of breast,408643008,2164000010,,32
+6765111000006115,3,^ESCTIN676511,,Infiltrating ductal carcinoma of breast,408643008,2164001014,,32
+6765121000006111,200,^ESCTIN676512,,Invasive ductal carcinoma of breast,408643008,2164002019,,32
+6903201000006116,9,^ESCTHO690320,,Hormone receptor positive malignant neoplasm of breast,417181009,2549732019,,32
+7001961000006115,1,^ESCTIN700196,,"Infiltrating ductal carcinoma of breast, stage 3",423114009,2643563011,,31
+7295111000006113,80,^ESCTMI729511,,Mixed ductal and lobular carcinoma of breast,444604002,2872713019,,32
+7296491000006116,2,^ESCTAP729649,,Apocrine ductal carcinoma in situ,444689005,2870591013,,31
+7304011000006116,2,^ESCTBR730401,,Breast cancer genetic marker of susceptibility negative,445180002,2872655015,,31
+7362291000006114,200,^ESCTIN736229,,Infiltrating duct carcinoma of female breast,448952004,2902358016,,32
+7362301000006110,40,^ESCTIN736230,,Invasive ductal carcinoma of female breast,448952004,2902359012,,32
+7610911000006117,200,^ESCTTR761091,,Triple-negative breast cancer,706970001,3028054017,,32
+7610921000006113,1,^ESCTTR761092,,Triple negative malignant neoplasm of breast,706970001,3027973018,,32
+7832841000006112,90,^ESCTPR783284,,Primary invasive pleomorphic lobular carcinoma of breast,722524005,3332640013,,32
+7958341000006113,2,^ESCTCO795834,,Collecting duct carcinoma of kidney,733470002,3499504019,,32
+8017201000006114,20,^ESCTPR801720,,Primary invasive malignant neoplasm of female breast,45221000119105,3287797013,,32
+8290631000006114,4,^ESCTWI829063,,Wide excision of local recurrence of breast cancer,851221000000104,2205361000000115,,31
+8455581000006113,70,^ESCTIN845558,,Infiltrating ductal carcinoma of central portion of left female breast,1080111000119108,3331795012,,32
+8455631000006111,20,^ESCTIN845563,,Infiltrating ductal carcinoma of upper inner quadrant of left female breast,1080151000119109,3331912016,,32
+8455651000006116,90,^ESCTIN845565,,Infiltrating ductal carcinoma of upper outer quadrant of left female breast,1080161000119106,3332121018,,32
+8455691000006110,50,^ESCTIN845569,,Infiltrating ductal carcinoma of central portion of right female breast,1080191000119104,3331797016,,32
+8455751000006114,20,^ESCTIN845575,,Infiltrating ductal carcinoma of upper inner quadrant of right female breast,1080231000119108,3332122013,,32
+8455771000006116,50,^ESCTIN845577,,Infiltrating ductal carcinoma of upper outer quadrant of right female breast,1080241000119104,3331846019,,32
+8455801000006119,40,^ESCTIN845580,,Infiltrating lobular carcinoma of left female breast,1080261000119100,3331938016,,32
+8455901000006113,10,^ESCTIN845590,,Infiltrating lobular carcinoma of right female breast,1080341000119105,3331957013,,32
+12056291000006117,20,^ESCT1205629,,"Germline BRCA-mutated, HER2-negative metastatic breast cancer",767444009,3671349015,,32
+13686131000006119,2,^ESCT1368613,,Lobular carcinoma in situ of left breast,354341000119108,3755407019,,31
+13688471000006111,30,^ESCT1368847,,Infiltrating ductal carcinoma of axillary tail of left female breast,1080091000119100,3756416012,,32
+13688491000006112,20,^ESCT1368849,,Infiltrating ductal carcinoma of lower inner quadrant of left female breast,1080121000119101,3756413016,,32
+13688501000006116,20,^ESCT1368850,,Infiltrating ductal carcinoma of lower outer quadrant of left female breast,1080131000119103,3756409011,,32
+13688511000006118,20,^ESCT1368851,,Infiltrating ductal carcinoma of axillary tail of right female breast,1080171000119100,3756417015,,32
+13688531000006112,10,^ESCT1368853,,Infiltrating ductal carcinoma of lower inner quadrant of right female breast,1080201000119101,3756412014,,32
+13688541000006119,20,^ESCT1368854,,Infiltrating ductal carcinoma of lower outer quadrant of right female breast,1080211000119103,3756408015,,32
+13995431000006115,100,^ESCT1399543,,Locally advanced breast cancer,1082701000112100,3873459013,,32
+13995451000006110,10,^ESCT1399545,,Primary malignant neoplasm of breast with axillary lymph node invasion,1082901000112103,3881317011,,32
+13995461000006112,1,^ESCT1399546,,Lymph node positive breast cancer,1082901000112103,3881311012,,32

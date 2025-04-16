@@ -1,0 +1,2 @@
+code,description,coding_system,concept_id,concept_version_id,concept_name,phenotype_id,phenotype_version_id,phenotype_name,code_attributes
+K70,Alcoholic liver disease,ICD10 codes,C1267,3673,Alcoholic liver disease - Secondary care - Diagnoses,PH202,404,Alcoholic liver disease,"{'Disease': 'Alcoholic liver disease', 'Category': 'Diagnosis of Alcoholic liver disease'}"

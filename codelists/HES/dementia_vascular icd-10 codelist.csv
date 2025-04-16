@@ -1,0 +1,8 @@
+"code","ALT_CODE","USAGE","USAGE_UK","DESCRIPTION","MODIFIER_4","MODIFIER_5","QUALIFIERS","GENDER_MASK","MIN_AGE","MAX_AGE","TREE_DESCRIPTION"
+"F01","F01","DEFAULT","3","Vascular dementia","","","",,,,""
+"F01.0","F010","DEFAULT","3","Vascular dementia of acute onset","","","",,,,""
+"F01.1","F011","DEFAULT","3","Multi-infarct dementia","","","",,,,""
+"F01.2","F012","DEFAULT","3","Subcortical vascular dementia","","","",,,,""
+"F01.3","F013","DEFAULT","3","Mixed cortical and subcortical vascular dementia","","","",,,,""
+"F01.8","F018","DEFAULT","3","Other vascular dementia","","","",,,,""
+"F01.9","F019","DEFAULT","3","Vascular dementia, unspecified","","","",,,,""

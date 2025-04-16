@@ -1,0 +1,8 @@
+MedCodeId,Observations,OriginalReadCode,CleansedReadCode,Term,SnomedCTConceptId,SnomedCTDescriptionId,Release,EmisCodeCategoryId
+136302010,80,Q442,Q442.00,Neonatal myasthenia gravis,82178003,136302010,,32
+151829017,100000,F380,F380.00,Myasthenia gravis,91637004,151829017,,32
+297580012,3,F3800,F380000,Persistent neonatal myasthenia gravis,193206003,297580012,,32
+297581011,200,F3801,F380100,Juvenile or adult myasthenia gravis,193207007,297581011,,32
+297582016,4000,F380z,F380z00,Myasthenia gravis NOS,91637004,151829017,,32
+3988991000006115,3,^ESCTMG398899,,MG - Myasthenia gravis,91637004,1235698011,,32
+5010921000006118,2,^ESCTMY501092,,Myasthenia gravis associated with thymoma,230685009,345628012,,31

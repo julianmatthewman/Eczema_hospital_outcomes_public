@@ -1,0 +1,311 @@
+MedCodeId,Observations,OriginalReadCode,CleansedReadCode,Term,SnomedCTConceptId,SnomedCTDescriptionId,Release,EmisCodeCategoryId
+48573010,100,S241,S241.00,Open fracture of carpal bone,29014003,48573010,,32
+133435011,4000,S2351,S235100,Open Colles' fracture,80411001,133435011,,32
+136121013,10000,S24,S24..00,Fracture of carpal bone,82065001,136121013,,32
+151267013,30,ESCTOP6,,Open fracture of forearm,91296001,1955701000006117,,32
+151450016,300,ESCTCL6,,Closed fracture of forearm,91419009,1955631000006116,,32
+277198013,1000,7K1LK,7K1LK00,Closed reduction of fracture of metacarpus,179171004,277198013,,32
+277200019,30000,7K1LM,7K1LM00,Closed reduction of fracture of wrist,179173001,277200019,,32
+318814012,400,S2300,S230000,Closed fracture of upper end of forearm,2295008,4947010,,32
+318820013,400,S230z,S230z00,Closed fracture of proximal forearm not otherwise specified,19259001,32476011,,32
+318821012,50,S2310,S231000,"Open fracture of proximal forearm, unspecified",65775005,109271015,,32
+318828018,40,S231z,S231z00,"Open fracture of forearm, upper end, NOS",65775005,109271015,,32
+318838011,5000,S2340,S234000,"Closed fracture of forearm, lower end, unspecified",33192001,55392016,,32
+318846012,9000,S2345,S234500,Closed fracture of distal end of ulna,50397009,83962012,,32
+318848013,3000,S2341-1,S234111,Smith's fracture - closed,208321007,318848013,,32
+318849017,8000,S2347,S234700,Closed Smith's fracture,208321007,318848013,,32
+318851018,2000,S2349,S234900,Closed volar Barton's fracture,208323005,318851018,,32
+318857019,40000,S234B,S234B00,Closed fracture radial styloid,208325003,318857019,,32
+318858012,600,S234C,S234C00,"Closed fracture distal radius, intra-articular, die-punch",208326002,318858012,,32
+318859016,4000,S234D,S234D00,Closed extraarticular fracture of distal radius,448838000,2902340010,,32
+318862018,5000,S234E,S234E00,"Closed fracture distal radius, intra-articular, other type",17222009,29115016,,32
+318864017,3000,S234z,S234z00,Closed fracture of lower end of forearm,35442005,59130011,,32
+318868019,200,S2350,S235000,"Open fracture of forearm, lower end, unspecified",65966004,109556018,,32
+318877014,400,S2355,S235500,Open fracture of distal end of ulna,649002,2150010,,32
+318880010,100,S2351-1,S235111,Smith's fracture - open,208340001,318880010,,32
+318882019,200,S2359,S235900,Open volar Barton's fracture,208342009,318882019,,32
+318887013,20,S235A,S235A00,Open dorsal Barton's fracture,208343004,318887013,,32
+318888015,900,S235B,S235B00,Open fracture radial styloid,208344005,318888015,,32
+318889011,40,S235C,S235C00,"Open fracture distal radius, intra-articular, die-punch",208345006,318889011,,32
+318890019,200,S235D,S235D00,Open extra-articular fracture of distal radius,849671000000101,2201831000000117,,32
+318891015,500,S235E,S235E00,Open intra-articular fracture of distal radius,849681000000104,2201851000000112,,32
+318893017,60,S235z,S235z00,Open fracture of lower end of forearm,78980006,131054012,,32
+318902015,3000,S23x0,S23x000,Closed fracture of forearm,91419009,151450016,,32
+318911015,400,S23y0,S23y000,Open fracture of forearm,91296001,151267013,,32
+318916013,300,S2400,S240000,"Closed fracture of carpal bone, unspecified",9468002,511384012,,32
+318917016,500,S2409,S240900,"Closed fracture hamate, hook",208369005,318917016,,32
+318918014,1000,S240A,S240A00,"Closed fracture scaphoid, proximal pole",208370006,318918014,,32
+318919018,2000,S240B,S240B00,"Closed fracture scaphoid, waist, transverse",208371005,318919018,,32
+318920012,300,S240C,S240C00,"Closed fracture scaphoid, waist, oblique",208372003,318920012,,32
+318921011,300,S240D,S240D00,"Closed fracture scaphoid, waist, comminuted",208373008,318921011,,32
+318922016,2000,S240E,S240E00,"Closed fracture scaphoid, tuberosity",208374002,318922016,,32
+318923014,800,S240F,S240F00,"Closed fracture carpal bones, multiple",208375001,318923014,,32
+318924015,60,S240y,S240y00,Closed fracture of other carpal bone,9468002,511384012,,32
+318925019,300,S240z,S240z00,Closed fracture of carpal bone NOS,9468002,511384012,,32
+318926018,10,S2410,S241000,"Open fracture of carpal bone, unspecified",29014003,48573010,,32
+318927010,9,S2419,S241900,"Open fracture hamate, hook",208379007,318927010,,32
+318928017,60,S241A,S241A00,"Open fracture scaphoid, proximal pole",208380005,318928017,,32
+318929013,40,S241B,S241B00,"Open fracture scaphoid, waist, transverse",208381009,318929013,,32
+318930015,30,S241C,S241C00,"Open fracture scaphoid, waist, oblique",208382002,318930015,,32
+318931016,30,S241D,S241D00,"Open fracture scaphoid, waist, comminuted",208383007,318931016,,32
+318932011,70,S241E,S241E00,"Open fracture scaphoid, tuberosity",208384001,318932011,,32
+318933018,20,S241F,S241F00,"Open fracture carpal bones, multiple",208385000,318933018,,32
+318934012,5,S241y,S241y00,Open fracture of other carpal bone,29014003,48573010,,32
+318935013,10,S241z,S241z00,Open fracture of carpal bone NOS,29014003,48573010,,32
+318936014,50000,S242,S242.00,Fracture at wrist and hand level,208388003,318936014,,32
+318938010,6000,S2421,S242100,Fracture of first metacarpal bone,208390002,318938010,,32
+318939019,60000,S2422,S242200,Fracture of other metacarpal bone,208393000,318941018,,32
+318940017,2000,S24z,S24z.00,Fracture of carpal bone NOS,82065001,136121013,,32
+318941018,600000,S25,S25..00,Fracture of metacarpal bone,208393000,318941018,,32
+318943015,70000,S25-1,S25..11,Hand fracture - metacarpal bone,208393000,318943015,,32
+318944014,80000,S250,S250.00,Closed fracture of metacarpal bone(s),208394006,318944014,,32
+318945010,3000,S2500,S250000,"Closed fracture of metacarpal bone (s), site unspecified",208394006,2837251018,,32
+318947019,20000,S2502,S250200,Closed fracture finger metacarpal base,208397004,318947019,,32
+318949016,30000,S2504,S250400,Closed fracture finger metacarpal neck,208399001,318949016,,32
+318950016,6000,S2505,S250500,Closed fracture finger metacarpal head,208400008,318950016,,32
+318951017,70000,S2506,S250600,Closed fracture finger metacarpal,208401007,318951017,,32
+318952012,1000,S2507,S250700,"Closed fracture finger metacarpal, multiple",208402000,318952012,,32
+318953019,10000,S2508,S250800,Closed fracture of thumb metacarpal,208403005,318953019,,32
+318955014,300,S250A,S250A00,Closed fracture thumb metacarpal shaft,208405003,318955014,,32
+318956010,200,S250B,S250B00,Closed fracture thumb metacarpal neck,208406002,318956010,,32
+318959015,300,S250C,S250C00,Closed fracture thumb metacarpal head,208408001,318959015,,32
+318961012,200,S250x,S250x00,Closed fractures of multiple sites of unspecified metacarpus,208394006,2837251018,,32
+318962017,20000,S250z,S250z00,Closed fracture of metacarpal bone,208394006,2837251018,,32
+318964016,60,S2510,S251000,"Open fracture of metacarpal bone(s), site unspecified",1370007,3391014,,32
+318966019,200,S2512,S251200,Open fracture finger metacarpal base,208414008,318966019,,32
+318968018,400,S2514,S251400,Open fracture finger metacarpal neck,208416005,318968018,,32
+318969014,300,S2515,S251500,Open fracture finger metacarpal head,208417001,318969014,,32
+318970010,4000,S2516,S251600,Open fracture finger metacarpal,208418006,318970010,,32
+318971014,100,S2517,S251700,"Open fracture finger metacarpal, multiple",208419003,318971014,,32
+318972019,900,S2518,S251800,Open fracture of thumb metacarpal,208420009,318972019,,32
+318974018,30,S251A,S251A00,Open fracture thumb metacarpal shaft,208422001,318974018,,32
+318975017,20,S251B,S251B00,Open fracture thumb metacarpal neck,208423006,318975017,,32
+318976016,30,S251C,S251C00,Open fracture thumb metacarpal head,208424000,318976016,,32
+318977013,10,S251x,S251x00,Open fractures of multiple sites of unspecified metacarpus,1370007,3391014,,32
+318978015,100,S251z,S251z00,Open fracture of metacarpal bone(s) NOS,1370007,3391014,,32
+318979011,700,S252,S252.00,Closed fracture sesamoid bone of hand,208427007,318979011,,32
+318980014,30,S253,S253.00,Open fracture sesamoid bone of hand,208428002,318980014,,32
+319074013,2000,S293,S293.00,Multiple fractures of forearm,208513000,319074013,,32
+319961016,5000,S4C0,S4C0.00,Closed fracture dislocation of wrist,209264008,319961016,,32
+319970018,400,S4C1,S4C1.00,Open fracture dislocation wrist,209273000,319970018,,32
+322029018,4000,SC3C0,SC3C000,Sequelae of fracture at wrist and hand level,210958007,322029018,,32
+325399012,70,Syu53,Syu5300,[X]Fracture of other parts of forearm,65966004,109556018,,32
+325400017,2000,Syu54,Syu5400,"[X]Fracture of forearm, unspecified",65966004,109556018,,32
+325417012,500,Syu63,Syu6300,[X]Fracture of other carpal bone(s),82065001,136121013,,32
+325418019,1000,Syu64,Syu6400,[X]Fracture of other metacarpal bone,208393000,318941018,,32
+402859019,300000,S2341,S234100,Closed Colles' fracture,269083002,402859019,,32
+402860012,500000,S2342,S234200,Closed fracture of distal end of radius,17222009,29115016,,32
+402862016,4000,S2352,S235200,Open fracture of distal end of radius,25529004,42804019,,32
+451060018,100,S235F,S235F00,Open Barton's fracture,307712005,451060018,,32
+451061019,2000,S234F,S234F00,Closed Barton's fracture,307713000,451061019,,32
+500272010,30000,S23-1,S23..11,Fracture of forearm,65966004,109556018,,32
+510090013,9000,S2423,S242300,Multiple fractures of metacarpal bones,9275003,510090013,,32
+511384012,10000,S240,S240.00,Closed fracture of carpal bone,9468002,511384012,,32
+1221007014,1000,S251,S251.00,Open fracture of metacarpal bone(s),1370007,1221007014,,32
+1227288016,10000,S2403,S240300,Closed fracture triquetral,30632004,1227288016,,32
+1228196017,100,S2418,S241800,Open fracture hamate,34656006,1228196017,,32
+1228300012,800,S2406,S240600,Closed fracture trapezoid,357009,1228300012,,32
+1229092011,7000,S2408,S240800,Closed fracture hamate,37174005,1229092011,,32
+1229331011,2000,S2402,S240200,Closed fracture lunate,37633006,1229331011,,32
+1229890019,20,S2416,S241600,Open fracture trapezoid,42591009,1229890019,,32
+1229933018,200000,S2401,S240100,Closed fracture of the scaphoid,42818005,1229933018,,32
+1230026018,2000,S2404,S240400,Closed fracture pisiform,43767005,1230026018,,32
+1230102017,30,S2417,S241700,Open fracture capitate,44504005,1230102017,,32
+1231198017,30,S2412,S241200,Open fracture lunate,53256003,1231198017,,32
+1231685010,4000,S2405,S240500,Closed fracture trapezium,57114005,1231685010,,32
+1232881017,100,S2415,S241500,Open fracture trapezium,67130000,1232881017,,32
+1233006016,1000,S2411,S241100,Open fracture of the scaphoid,68076002,1233006016,,32
+1233578010,500,S3532,S353200,Open fracture navicular,73015009,1233578010,,32
+1233864019,20000,S3522,S352200,Closed fracture navicular,75308009,1233864019,,32
+1234315010,100,S2413,S241300,Open fracture triquetral,7913001,1234315010,,32
+1234676011,6000,S24-1,S24..11,Hand fracture - carpal bone,82065001,1234676011,,32
+1235429018,30,S2414,S241400,Open fracture pisiform,89161006,1235429018,,32
+1235538018,2000,S2407,S240700,Closed fracture capitate,90114000,1235538018,,32
+1490703015,40000,S2346,S234600,"Closed fracture radius and ulna, distal",33192001,1490703015,,32
+1495502013,6000,S235-1,S235.11,Wrist fracture - open,88116004,1495502013,,32
+1495503015,2000,S2356,S235600,"Open fracture radius and ulna, distal",88116004,1495503015,,32
+44351000006113,300,S2511,S251100,"Open fracture thumb metacarpal base, intra-articular, Bennett",208413002,318965015,,32
+44361000006110,30,S2519,S251900,"Open fracture thumb metacarpal base, intra-articular, Rolando",208421008,318973012,,32
+49851000006119,7,S2359-1,S235911,Open volar Barton fracture-dislocation,208342009,318884018,,32
+49861000006117,1,S2359-2,S235912,Open volar Barton fracture-subluxation,208342009,318883012,,32
+52291000006115,400,S2357,S235700,Open Smith's fracture,208340001,318880010,,32
+54541000006116,400000,S234-1,S234.11,Closed fracture of wrist,9468002,16583010,,32
+255571000006116,1,S4C36,S4C3600,Open fracture-subluxation peri-lunate trans-scaphoid,209299007,319997013,,32
+255581000006118,10,S4C31,S4C3100,Open fracture-subluxation radiocarpal joint,209294002,319992019,,32
+255651000006110,1,S4C33,S4C3300,"Open fracture-subluxation, carpometacarpal joint",209296000,319994018,,32
+255671000006117,30,S4C30,S4C3000,"Open fracture-subluxation, distal radio-ulnar joint",209293008,319991014,,32
+255971000006112,1,S4C1y,S4C1y00,Open fracture-dislocation other carpal,209273000,319970018,,32
+255981000006110,5,S4C15,S4C1500,Open fracture-dislocation peri-lunate (dorsal),209280003,319978013,,32
+255991000006113,10,S4C16,S4C1600,Open fracture-dislocation peri-lunate trans-scaphoid,209281004,319979017,,32
+256001000006114,100,S4C11,S4C1100,Open fracture-dislocation radiocarpal joint,209276008,319974010,,32
+256081000006117,100,S4C10,S4C1000,"Open fracture-dislocation, distal radio-ulnar joint",209274006,319971019,,32
+256341000006113,70,S4C3,S4C3.00,Open fracture-subluxation of the wrist,209292003,319990010,,32
+256351000006110,1,S4C3y,S4C3y00,Open fracture-subluxation other carpal,263102004,391219013,,32
+256671000006111,20,S4C13,S4C1300,Open fracture-dislocation carpometacarpal joint,209278009,319976012,,32
+256731000006116,6,S4C14,S4C1400,Open fracture-dislocation lunate (volar),209279001,319977015,,32
+256741000006114,1,S4C12,S4C1200,Open fracture-dislocation mid carpal,209277004,319975011,,32
+259321000006112,200,S2513,S251300,Open fracture of shaft of metacarpal bone,72224003,120008015,,32
+261541000006119,2,S235A-1,S235A11,Open dorsal Barton's fracture-dislocation,208343004,318885017,,32
+387591000006110,10000,Syu65,Syu6500,Fracture at wrist and/or hand level,208388003,1489807015,,32
+557971000006111,200,7K1J0-2,7K1J012,Closed reduction of intracapsular fracture of neck of femur and fixation using Smith-Petersen nail,239290005,358606019,,32
+559791000006116,200,S234A,S234A00,Closed dorsal Barton's fracture,208324004,318856011,,32
+561311000006117,9,S234A-2,S234A12,Closed dorsal Barton fracture-subluxation,208324004,318854014,,32
+561321000006113,20,S234A-1,S234A11,Closed dorsal Barton's fracture-dislocation,208324004,318855010,,32
+562171000006118,10000,S2503,S250300,Closed fracture of shaft of metacarpal bone,46422008,77387018,,32
+565251000006112,1000,S4C00,S4C0000,Closed fracture dislocation distal radioulnar joint,209265009,319962011,,32
+565301000006117,90,S4C04,S4C0400,Closed fracture-dislocation lunate (volar),209269003,319966014,,32
+565311000006119,10,S4C02,S4C0200,Closed fracture-dislocation mid carpal,209267001,319964012,,32
+565351000006118,40,S4C0y,S4C0y00,Closed fracture-dislocation other carpal,209264008,319961016,,32
+565361000006116,50,S4C05,S4C0500,Closed fracture-dislocation peri-lunate (dorsal),209270002,319967017,,32
+565371000006111,100,S4C06,S4C0600,Closed fracture-dislocation peri-lunate trans-scaphoid,209271003,319968010,,32
+565381000006114,300,S4C01,S4C0100,Closed fracture-dislocation radiocarpal joint,209266005,319963018,,32
+565431000006118,500,S4C03,S4C0300,"Closed fracture dislocation, carpometacarpal joint",209268006,319965013,,32
+565621000006118,10,S4C24,S4C2400,Closed fracture-subluxation lunate (volar),209288005,319986013,,32
+565631000006115,7,S4C22,S4C2200,Closed fracture-subluxation mid carpal,209286009,319984011,,32
+565671000006117,2000,S4C2,S4C2.00,Closed fracture subluxation of the wrist,209283001,319981015,,32
+565681000006119,40,S4C2y,S4C2y00,Closed fracture-subluxation other carpal,263102004,391219013,,32
+565691000006116,4,S4C25,S4C2500,Closed fracture-subluxation peri-lunate (dorsal),209289002,319987016,,32
+565701000006116,10,S4C26,S4C2600,Closed fracture-subluxation peri-lunate trans-scaphoid,209290006,319988014,,32
+565711000006118,10,S4C21,S4C2100,Closed fracture-subluxation radiocarpal joint,209285008,319983017,,32
+565761000006115,90,S4C23,S4C2300,"Closed fracture-subluxation, carpometacarpal joint",209287000,319985012,,32
+565781000006113,200,S4C20,S4C2000,"Closed fracture-subluxation, distal radio-ulnar jt",209284007,319982010,,32
+569501000006112,30,S2349-2,S234912,Closed volar Barton fracture-subluxation,208323005,318852013,,32
+569521000006119,70,S2349-1,S234911,Closed volar Barton's fracture-dislocation,208323005,318853015,,32
+570581000006118,10000,S2501,S250100,"Closed fracture thumb metacarpal base, intra-articular, Bennett",208396008,318946011,,32
+570591000006115,400,S2509,S250900,"Closed fracture thumb metacarpal base, intra-articular, Rolando",208404004,318954013,,32
+793411000006114,300000,S2420,S242000,Fracture of scaphoid bone of wrist,31975004,53424011,,32
+793921000006113,3000,S4C,S4C..00,Fracture dislocation or subluxation of wrist,209263002,319960015,,32
+895561000006112,10000,S2341-99,S234199,Colles fracture,269083002,895561000006112,,32
+895571000006117,400,S2345-99,S234599,Fracture of distal end of ulna,674461000000100,895571000006117,,32
+1730651000000118,60000,S234G,S234G00,Greenstick fracture of distal radius,448355005,2900823018,,32
+2504221000006116,10,^ESCTCL250422,,Closed fracture of trapezoidal bone of wrist,357009,1686010,,32
+2520281000006116,30,^ESCTOP252028,,Open fracture of metacarpal bone,1370007,3391014,,32
+2530741000006117,10,^ESCTFR253074,,Fracture of lunate bone of wrist,2012002,4471012,,31
+2530761000006118,1,^ESCTFR253076,,Fracture of lunate,2012002,1222411012,,31
+2620161000006114,1,^ESCTCL262016,,Closed fracture of neck of metacarpal bone,7551007,13462010,,31
+2620681000006114,100,^ESCTFR262068,,Fracture of triquetral bone of wrist,7585008,13539010,,31
+2620701000006112,30,^ESCTFR262070,,Fracture of triquetral,7585008,1233922018,,31
+2620711000006110,7,^ESCTFR262071,,Fracture of triquetrum,7585008,2841095013,,31
+2626111000006113,4,^ESCTOP262611,,Open fracture of triquetral bone of wrist,7913001,14091013,,32
+2648041000006112,100,^ESCTFR264804,,Fracture of multiple sites of metacarpus,9275003,16291017,,32
+2650961000006112,6,^ESCTCL265096,,Closed fracture of carpal bone of wrist,9468002,3298057018,,32
+2707071000006118,2,^ESCTOP270707,,Open fracture of base of metacarpal bone other than first metacarpal,13047001,22336013,,31
+2736481000006119,3,^ESCTFR273648,,Fracture of trapezoidal bone of wrist,14916000,25332016,,31
+2736501000006112,2,^ESCTFR273650,,Fracture of trapezoid,14916000,1221145012,,31
+2950731000006116,50,^ESCTCL295073,,Closed fracture of shaft of bone of forearm,28078000,47014016,,32
+2993591000006110,100,^ESCTCL299359,,Closed fracture of triquetral bone of wrist,30632004,51270013,,32
+3014891000006114,4000,^ESCTFR301489,,Fracture of navicular bone of wrist,31975004,53423017,,32
+3014911000006111,300,^ESCTFR301491,,Fracture of scaphoid bone,31975004,1227891011,,32
+3020541000006117,3,^ESCTCL302054,,Closed fracture of first metacarpal,32311009,53976016,,31
+3020551000006115,5,^ESCTCL302055,,Closed fracture of base of first metacarpal,32311009,2884431010,,31
+3070931000006119,2,^ESCTCL307093,,Closed fracture of distal end of forearm,35442005,59133013,,32
+3098691000006118,90,^ESCTCL309869,,Closed fracture of hamate bone of wrist,37174005,62011010,,32
+3106031000006116,20,^ESCTCL310603,,Closed fracture of lunate bone of wrist,37633006,62773014,,32
+3190321000006117,2000,^ESCTCL319032,,Closed fracture of scaphoid bone of wrist,42818005,71453019,,32
+3204741000006116,20,^ESCTCL320474,,Closed fracture of pisiform bone of wrist,43767005,72987016,,32
+3217001000006114,2,^ESCTOP321700,,Open fracture of capitate bone of wrist,44504005,74215010,,32
+3386691000006119,10,^ESCTCL338669,,Closed fracture of base of metacarpal bone other than first metacarpal,54641008,90804011,,31
+3386781000006111,6,^ESCTBA338678,,Barton's fracture,54645004,90811010,,31
+3405101000006117,40,^ESCTFR340510,,Fracture of base of metacarpal bone other than first metacarpal,55716004,92645011,,31
+3407641000006119,40,^ESCTFR340764,,Fracture of neck of metacarpal bone,55874001,92915010,,31
+3428151000006115,30,^ESCTCL342815,,Closed fracture of trapezium bone of wrist,57114005,94984016,,32
+3572751000006110,30,^ESCTFO357275,,Forearm fracture,65966004,500272010,,32
+3591391000006119,2,^ESCTOP359139,,Open fracture of trapezium of wrist,67130000,111499018,,32
+3607291000006111,20,^ESCTOP360729,,Open fracture of navicular bone of wrist,68076002,113078017,,32
+3636881000006115,10,^ESCTFR363688,,Fracture of first metacarpal,69916004,116118018,,31
+3687721000006119,4,^ESCTOP368772,,Open fracture of navicular bone of foot,73015009,121277012,,32
+3692241000006119,20,^ESCTFR369224,,Fracture of capitate bone of wrist,73316002,121750019,,31
+3692261000006115,2,^ESCTFR369226,,Fracture of capitate,73316002,1233615012,,31
+3710331000006111,40,^ESCTFR371033,,Fracture of trapezium of wrist,74465000,123673011,,31
+3710351000006116,8,^ESCTFR371035,,Fracture of trapezium,74465000,1233750011,,31
+3724521000006118,300,^ESCTCL372452,,Closed fracture of navicular bone of foot,75308009,125075018,,32
+3724531000006115,2,^ESCTCL372453,,Closed fracture of scaphoid bone of foot,75308009,125076017,,32
+3773571000006119,20,^ESCTFR377357,,Fracture of shaft of metacarpal bone,78292000,129915019,,31
+3834511000006113,9,^ESCTFR383451,,Fracture of carpus,82065001,1234675010,,32
+3854851000006110,2,^ESCTCL385485,,Closed reduction of fracture of carpals and metacarpals,83258007,138077017,,31
+3867051000006117,9,^ESCTFR386705,,Fracture of pisiform bone of wrist,84030002,139340014,,31
+3867061000006115,1,^ESCTFR386706,,Fracture of pisiform,84030002,1234891010,,31
+3896491000006116,70,^ESCTFR389649,,Fracture of hamate bone of wrist,85922006,142447010,,31
+3896511000006110,20,^ESCTFR389651,,Fracture of hamate,85922006,1235079013,,31
+3964861000006110,20,^ESCTCL396486,,Closed fracture of capitate bone of wrist,90114000,149369015,,32
+4214001000006116,1,^ESCTAR421400,,Arthroscopy of wrist with internal fixation for fracture,112752007,183809015,,31
+4353801000006114,60,^ESCTCL435380,,Closed reverse Colles' fracture,123618009,192107010,,32
+4353811000006112,2,^ESCTOP435381,,Open reverse Colles' fracture,123619001,192108017,,32
+4358241000006117,500,^ESCTCO435824,,Colles' fracture,123971006,192460015,,31
+4358251000006115,30,^ESCTRE435825,,Reversed Colles' fracture,123972004,192461016,,31
+4358261000006118,3,^ESCTSM435826,,Smith's fracture,123972004,203444012,,31
+4842291000006112,1,^ESCTCL484229,,Closed dorsal Barton fracture,208324004,2839862017,,32
+4842661000006118,7,^ESCTFR484266,,Fracture of metacarpus,208393000,318942013,,32
+4842941000006114,50,^ESCTCL484294,,Closed fracture of sesamoid bone of hand,208427007,2692423016,,32
+4842961000006113,7,^ESCTOP484296,,Open fracture of sesamoid bone of hand,208428002,2692430010,,32
+4848921000006116,5,^ESCTCL484892,,Closed fracture dislocation radiocarpal joint,209266005,319963018,,32
+4848931000006118,2,^ESCTCL484893,,Closed fracture dislocation midcarpal,209267001,319964012,,32
+4848941000006111,100,^ESCTCL484894,,Closed fracture dislocation of carpometacarpal joint,209268006,3028375017,,32
+4848961000006110,20,^ESCTCL484896,,Closed fracture dislocation lunate (volar),209269003,319966014,,32
+4848971000006115,20,^ESCTCL484897,,Closed fracture dislocation perilunate (dorsal),209270002,319967017,,32
+4848981000006117,10,^ESCTCL484898,,Closed fracture dislocation perilunate transscaphoid,209271003,319968010,,32
+4849021000006112,3,^ESCTOP484902,,Open fracture dislocation radiocarpal joint,209276008,319974010,,32
+4849041000006117,6,^ESCTOP484904,,Open fracture dislocation carpometacarpal joint,209278009,319976012,,32
+4849051000006115,4,^ESCTOP484905,,Open fracture dislocation lunate (volar),209279001,319977015,,32
+4849061000006118,8,^ESCTOP484906,,Open fracture dislocation perilunate (dorsal),209280003,319978013,,32
+4849071000006113,3,^ESCTOP484907,,Open fracture dislocation perilunate transscaphoid,209281004,319979017,,32
+4849091000006114,8,^ESCTCL484909,,Closed fracture subluxation of distal radioulnar joint,209284007,3028557017,,32
+4849101000006115,1,^ESCTCL484910,,Closed fracture subluxation radiocarpal joint,209285008,319983017,,32
+4849121000006113,3,^ESCTCL484912,,Closed fracture subluxation of carpometacarpal joint,209287000,3028559019,,32
+4849151000006116,1,^ESCTCL484915,,Closed fracture subluxation perilunate transscaphoid,209290006,319988014,,32
+4849161000006119,20,^ESCTOP484916,,Open fracture subluxation of the wrist,209292003,319990010,,32
+5460591000006116,70,^ESCTFR546059,,Fracture dislocation of wrist joint,263079005,391196013,,31
+5460601000006112,2,^ESCTFR546060,,Fracture dislocation of radiocarpal joint,263080008,391197016,,32
+5460621000006119,1,^ESCTFR546062,,Fracture dislocation of lunate,263082000,391199018,,31
+5460821000006115,100,^ESCTFR546082,,Fracture subluxation of wrist,263102004,391219013,,32
+5460881000006116,1,^ESCTFR546088,,Fracture subluxation of lunate,263108000,391226013,,31
+5461991000006116,20000,^ESCTFR546199,,Fracture of distal end of radius,263199001,391353010,,32
+5462011000006116,10,^ESCTVO546201,,Volar Barton's fracture,263200003,391355015,,31
+5462021000006112,8,^ESCTVO546202,,Volar Barton fracture,263200003,2839985015,,31
+5462031000006110,1,^ESCTDO546203,,Dorsal Barton's fracture,263201004,391356019,,31
+5462041000006117,2,^ESCTDO546204,,Dorsal Barton fracture,263201004,2839986019,,31
+5462081000006111,100,^ESCTFR546208,,Fracture of distal end of ulna,263205008,391361017,,31
+5462121000006113,2000,^ESCTFR546212,,Fracture of distal end of radius and ulna,263208005,391364013,,32
+5462141000006118,400,^ESCTFR546214,,Fracture of base of fifth metacarpal,263209002,391367018,,31
+5462151000006116,700,^ESCTFR546215,,Fracture of neck of fifth metacarpal,263210007,391368011,,31
+5462161000006119,2,^ESCTFR546216,,Fracture of sesamoid bone of hand,263211006,2695356013,,31
+5462631000006115,200,^ESCTFR546263,,Fracture of navicular,263248002,391417012,,31
+5590951000006113,1,^ESCTCL559095,,Closed reduction of fracture of carpals and metacarpals with internal fixation,276813006,413125015,,31
+5652541000006116,1,^ESCTTR565254,,Transscaphoid-capitate-hamate-triquetral-perilunate fracture dislocation,281515000,419544013,,31
+5652561000006117,2,^ESCTTR565256,,Transstyloid-scaphoid-perilunate fracture dislocation,281517008,419546010,,31
+5652681000006114,300,^ESCTFR565268,,Fracture of radial styloid,281527002,419558010,,31
+5722161000006117,30,^ESCTFR572216,,Fracture malunion - forearm,287074009,426586016,,31
+5965291000006111,8,^ESCTFR596529,,Fracture dislocation of carpometacarpal joint,307171000,450367018,,31
+5965301000006112,10,^ESCTFR596530,,Fracture dislocation distal radioulnar joint,307172007,450368011,,31
+5971981000006111,1,^ESCTCL597198,,Closed Barton fracture,307713000,2841979011,,32
+7230561000006119,1,^ESCTCL723056,,Closed reduction of fracture of shaft of radius with closed reduction of dislocation of distal radioulnar joint,439994007,2792565011,,31
+7250731000006117,3,^ESCTST725073,,Stress fracture of navicular bone of foot,441490006,2816559018,,31
+7309751000006118,1,^ESCTPA730975,,Pathological fracture of distal radius,445537004,2871006011,,31
+7503941000006117,6,^ESCTCL750394,,Closed fracture of base of fifth metacarpal,698056009,2970010019,,31
+7503951000006115,2,^ESCTCL750395,,Closed fracture of base of fourth metacarpal,698057000,2969946015,,31
+7503961000006118,2,^ESCTCL750396,,Closed fracture of base of third metacarpal,698058005,2969980017,,31
+7503971000006113,2,^ESCTCL750397,,Closed fracture of base of second metacarpal,698059002,2969923017,,31
+7517711000006111,1,^ESCTIN751771,,Internal fixation of metacarpal without fracture reduction,699146003,2982839018,,31
+7517881000006114,1,^ESCTOP751788,,Open reduction of fracture of metacarpal without internal fixation,699161002,2982868017,,31
+7585201000006114,50,^ESCTCL758520,,Closed fracture of fifth metacarpal,704003003,3012341010,,31
+7585211000006112,10,^ESCTCL758521,,Closed fracture of fourth metacarpal,704004009,3011392016,,31
+7585391000006113,4,^ESCTCL758539,,Closed fracture of shaft of fifth metacarpal bone,704021000,3011986018,,31
+7585401000006110,4,^ESCTCL758540,,Closed fracture of shaft of fourth metacarpal bone,704022007,3011273015,,31
+7585421000006117,2,^ESCTCL758542,,Closed fracture of shaft of third metacarpal bone,704024008,3011013017,,31
+7586121000006116,3,^ESCTCL758612,,Closed fracture of neck of fifth metacarpal bone,704080002,3011299010,,31
+7586291000006111,1,^ESCTOP758629,,Open fracture of shaft of fourth metacarpal bone,704091009,3010415010,,31
+7587361000006110,4,^ESCTCL758736,,Closed fracture of third metacarpal,704176005,3012058014,,31
+7587371000006115,2,^ESCTCL758737,,Closed fracture of second metacarpal,704177001,3012282012,,31
+7587441000006115,3,^ESCTCL758744,,Closed fracture of neck of fourth metacarpal,704181001,3011008016,,31
+7587861000006118,3,^ESCTCL758786,,Closed fracture of distal epiphysis of radius,704212006,3010856018,,31
+7587951000006112,1,^ESCTOP758795,,Open fracture of neck of fifth metacarpal bone,704220008,3010755013,,31
+7642261000006115,6,^ESCTCL764226,,Closed reduction of fracture of distal radius and percutaneous fixation using Kirschner wire,708965002,3036745012,,31
+7642271000006110,9,^ESCTCL764227,,Closed reduction and percutaneous K-wire fixation of fracture of distal radius,708965002,3037696010,,31
+7663151000006114,6,^ESCTPA766315,,Pathological fracture of distal radius and distal ulna,710052000,3043001010,,31
+12217201000006111,7,^ESCT1221720,,Smith fracture,123619001,3670864017,,32
+13702931000006112,4,^ESCT1370293,,Closed fracture of neck of metacarpal bone of right hand,10928001000119103,3776755013,,31
+13702941000006119,3,^ESCT1370294,,Closed fracture of neck of metacarpal bone of left hand,10928041000119101,682501000124111,,31
+13716941000006116,8,^ESCT1371694,,Closed fracture of metaphysis of distal end of left radius,16542861000119107,3775271016,,31
+13716951000006119,5,^ESCT1371695,,Closed fracture of metaphysis of distal end of right radius,16542901000119101,3775268012,,31
+13790511000006114,30,^ESCT1379051,,Disorder due to and following fracture at wrist and/or hand level,210958007,3763647019,,32
+14196721000006117,20,^ESCT1419672,,Closed Smith's fracture,123618009,4168365014,,32

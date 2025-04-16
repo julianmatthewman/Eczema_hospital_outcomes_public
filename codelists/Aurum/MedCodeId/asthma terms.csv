@@ -1,0 +1,15 @@
+"searchterms","exclusionterms","searched_in_column","searchmethod"
+"asthma","fh:","Term","termsearch <- function(lookup, terms) {stringr::str_detect(lookup, stringr::regex(paste(terms, collapse = '|'), ignore_case = TRUE))}; initial <- dplyr::filter(DATA, termsearch(COLUMN, SEARCHTERMS)); excluded <- dplyr::filter(initial, termsearch(COLUMN, EXCLUSIONTERMS); final <- dplyr::setdiff(inital, excluded)"
+,"society member",,
+,"at risk of asthma",,
+,"suspected asthma",,
+,"family history",,
+,"Exception reporting",,
+,"Seen in asthma clinic",,
+,"Seen in school asthma clinic",,
+,"resolved",,
+,"cardiac",,
+,"screening",,
+,"leaflet given",,
+,"Poisoning",,
+,"Adverse reaction to",,

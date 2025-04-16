@@ -1,0 +1,8 @@
+MedCodeId,Observations,OriginalReadCode,CleansedReadCode,Term,SnomedCTConceptId,SnomedCTDescriptionId,Release,EmisCodeCategoryId
+113392018,70000,F282,F282.00,Benign intracranial hypertension,68267002,113392018,,32
+500972019,200,F282-1,F282.11,Pseudotumour cerebri,68267002,1233031015,,32
+883081000006112,700,F282-99,F282.99,Benign intracranial hyperten.,68267002,883081000006112,,32
+3610791000006116,2,^ESCTPS361079,,Pseudotumour cerebri,68267002,500972019,,32
+3610801000006115,5,^ESCTBI361080,,BIH - Benign intracranial hypertension,68267002,1233029012,,32
+3610811000006117,100,^ESCTII361081,,IIH - Idiopathic intracranial hypertension,68267002,1233030019,,32
+3610821000006113,800,^ESCTID361082,,Idiopathic intracranial hypertension,68267002,1233031015,,32

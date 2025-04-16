@@ -1,0 +1,16 @@
+phenotype_name,medcode,ReadcodeDescr,Readcode
+Cholangitis,10431,Cholangitis,J661.00
+Cholangitis,15425,Primary sclerosing cholangitis,J661700
+Cholangitis,15678,Recurrent cholangitis,J661200
+Cholangitis,24866,Calculus of bile duct with cholangitis,J646.00
+Cholangitis,25341,Liver abscess due to cholangitis,J620100
+Cholangitis,33339,Other cholangitis,J661y00
+Cholangitis,34753,Ascending cholangitis,J661400
+Cholangitis,35667,Secondary sclerosing cholangitis,J661800
+Cholangitis,40416,Acute cholangitis,J661000
+Cholangitis,41470,Suppurative cholangitis,J661300
+Cholangitis,44791,Sclerosing cholangitis unspecified,J661900
+Cholangitis,51530,Chronic cholangitis,J661100
+Cholangitis,64412,Cholangitis NOS,J661z00
+Cholangitis,66226,Cholangitis lenta,J661500
+Cholangitis,97670,Obliterative cholangitis,J661600

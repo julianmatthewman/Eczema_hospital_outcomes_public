@@ -1,0 +1,114 @@
+MedCodeId,Observations,OriginalReadCode,CleansedReadCode,Term,SnomedCTConceptId,SnomedCTDescriptionId,Release,EmisCodeCategoryId
+89332015,2000,G3-2,G3...12,Atherosclerotic heart disease,443502000,2842265012,,32
+299723016,500,G31y,G31y.00,Other acute and subacute ischaemic heart disease,414545008,2534663012,,32
+299742017,300,G312,G312.00,Coronary thrombosis not resulting in myocardial infarction,194821006,299742017,,32
+299750014,200,G31yz,G31yz00,Other acute and subacute ischaemic heart disease NOS,414545008,2534663012,,32
+299776014,20000,G34,G34..00,Chronic ischaemic heart disease,413838009,2534672016,,32
+299796018,20000,G343,G343.00,Ischaemic cardiomyopathy,194849004,299796018,,32
+299800012,300,G34y,G34y.00,Other specified chronic ischaemic heart disease,413838009,2534671011,,32
+299804015,300,G34yz,G34yz00,Other specified chronic ischaemic heart disease NOS,413838009,2534671011,,32
+299805019,2000,G34z,G34z.00,Other chronic ischaemic heart disease NOS,413838009,2534672016,,32
+299834013,4000,G3y,G3y..00,Other specified ischaemic heart disease,414545008,2534664018,,32
+299835014,200000,G3z,G3z..00,Ischaemic heart disease NOS,414545008,2534664018,,32
+300876010,60,Gyu32,Gyu3200,[X]Other forms of acute ischaemic heart disease,414545008,2534663012,,32
+300879015,80,Gyu33,Gyu3300,[X]Other forms of chronic ischaemic heart disease,413838009,2534671011,,32
+350354017,2000,G344,G344.00,Silent myocardial ischaemia,233823002,350354017,,32
+411904010,100000,8B63-1,8B63.11,Aspirin prophylaxis for ischaemic heart disease,275931000,2770029010,,32
+412682010,100,Q494,Q494.00,Transient myocardial ischaemia of newborn,276517000,412682010,,32
+447325017,100,ESCTDU1,,Duke's coronary artery disease score,304915008,447325017,,3
+451372015,6000,14AL,14AL.00,H/O: Treatment for ischaemic heart disease,308068007,451372015,,32
+459483011,3000,8I37,8I37.00,Coronary heart disease monitoring refused,315021005,459483011,,37
+459488019,1000,G31y3,G31y300,Transient myocardial ischaemia,315026000,459488019,,32
+459503011,50000,3887,3887.00,Framingham Coronary Heart Disease 5 year risk score,1089081000000103,2728761000000113,,3
+459504017,3000000,3888,3888.00,Framingham coronary heart disease 10 year risk score,450759008,2916764016,,3
+459796013,300000,388A,388A.00,Coronary heart disease risk,315290008,459796013,,3
+459859010,7000,G34z0,G34z000,Asymptomatic coronary heart disease,315348000,459859010,,32
+460129012,400000,6C0,6C0..00,Primary prevention of ischaemic heart disease,315610002,460129012,,1
+460133017,2000000,6A2,6A2..00,Coronary heart disease annual review,315614006,460133017,,1
+460687010,1000,ZV458,ZV45800,History of placement of stent for coronary artery disease,428375006,2692299011,,32
+494438016,400,G31y2,G31y200,Subendocardial ischaemia,46109009,494438016,,32
+1484833014,100000,6A4,6A4..00,Coronary heart disease review,390799004,1484833014,,1
+1484939014,90000,9Ob,9Ob..00,Coronary heart disease monitoring administration,390907003,1484939014,,37
+1488440011,200000,8B3k,8B3k.00,Coronary heart disease medication review,394724007,1488440011,,32
+1780442013,20000,9Ob0,9Ob0.00,Attends coronary heart disease monitoring,401248001,1780442013,,37
+1780444014,2000000,9Ob3,9Ob3.00,Coronary heart disease monitoring 1st letter,401250009,1780444014,,37
+1780445010,400000,9Ob4,9Ob4.00,Coronary heart disease monitoring 2nd letter,401251008,1780445010,,37
+1780446011,200000,9Ob5,9Ob5.00,Coronary heart disease monitoring 3rd letter,401252001,1780446011,,37
+1780447019,40000,9Ob6,9Ob6.00,Coronary heart disease monitoring verbal invitation,401253006,1780447019,,37
+1780448012,500,9Ob7,9Ob7.00,Coronary heart disease monitoring deleted,401254000,1780448012,,37
+1780517019,10000,9Ob2,9Ob2.00,Coronary heart disease monitoring default,401331007,1780517019,,37
+1780518012,60000,9Ob8,9Ob8.00,Coronary heart disease monitoring check done,401332000,1780518012,,37
+2474337014,40000,8CR6,8CR6.00,Coronary heart disease risk clinical management plan,737431007,3527819016,,32
+2534664018,6000000,G3,G3...00,Ischaemic heart disease,414545008,2534664018,,32
+2534674015,3000,G34y1,G34y100,Chronic myocardial ischaemia,413844008,2534674015,,32
+2536393012,1000,G3-1,G3...11,Arteriosclerotic heart disease,443502000,2842265012,,32
+2536395017,200000,G340-2,G340.12,Coronary artery disease,53741008,2536395017,,32
+2537480011,1000000,G3-3,G3...13,IHD - Ischaemic heart disease,414545008,2537480011,,32
+2537483013,900,G34y0,G34y000,Chronic coronary insufficiency,413844008,2537483013,,32
+2619484018,70,G3110-1,G311011,MI - Myocardial infarction aborted,194821006,2619484018,,32
+39111000006114,3000,G31,G31..00,Other acute and subacute ischaemic heart disease,414545008,2534663012,,32
+90731000000111,3000,9Ob1,9Ob1.00,Refuses coronary heart disease monitoring,315021005,1785183019,,37
+314321000000119,20000,1J61,1J61.00,Suspected ischaemic heart disease,205011000000103,314321000000119,,27
+394541000006112,2000,Gyu3,Gyu3.00,[X]Ischaemic heart diseases,414545008,2534664018,,32
+406961000000113,30000,9Ob9,9Ob9.00,Coronary heart disease monitoring telephone invite,248461000000107,406961000000113,,37
+495371000000110,100000,6A40,6A40.00,Review of patient at risk from coronary heart disease,286721000000101,495371000000110,,1
+585631000000113,100,8H2V,8H2V.00,Emergency hospital admission for ischaemic heart disease,699245006,3082941013,,40
+595731000006114,50000,G340,G340.00,Coronary atherosclerosis,443502000,2842265012,,32
+682481000006118,400,G3110,G311000,Myocardial infarction aborted,194821006,2619484018,,32
+908791000006113,20000,HNG0601,,[RFC] Coronary heart disease,908791000006109,908791000006113,,12
+929481000006119,80000,388R,388R.00,Framingham coronary heart disease 10 year adjusted risk score,407612004,2159213010,,3
+1142521000000115,7000,8CEJ,8CEJ.00,Coronary heart disease leaflet given,513841000000103,1142521000000115,,32
+1539331000006118,4000,EMISNOQFH3,,H/O: coronary heart disease,1539331000006102,1539331000006118,,32
+1774801000000114,10000,8CMP,8CMP.00,Coronary heart disease care plan,736368003,3517259010,,32
+1823891000006113,400,EMISNQCO148,,Coronary heart disease confirmed,1823891000006109,1823891000006113,,27
+1843221000006112,4000,38GX,38GX.00,Framingham Coronary Heart Disease or Cardiovascular Disease 10 year risk adjusted to JBS2 (Joint British Societies 2) guidelines score,1090061000000102,2730981000000119,,32
+1856391000006112,1000,EMISNQCO168,,Coronary heart disease monitoring in primary care,1856391000006108,1856391000006112,,37
+1856401000006114,50,EMISNQCO169,,Coronary heart disease monitoring in secondary care,1856401000006105,1856401000006114,,37
+1895641000006114,1000,EMISNQON8,,On coronary heart disease register,1895641000006105,1895641000006114,,37
+2609111000000119,800,G704,,Non-obstructive coronary atherosclerosis,719678003,3317409010,,32
+3371361000006117,30,^ESCTCO337136,,Coronary arteriosclerosis,53741008,89331010,,32
+3371381000006110,100,^ESCTCA337138,,CAD - Coronary artery disease,53741008,2536394018,,32
+3371411000006113,1000,^ESCTCH337141,,CHD - Coronary heart disease,53741008,2536397013,,32
+3371421000006117,2000,^ESCTCO337142,,Coronary heart disease,53741008,2536398015,,32
+4005601000006116,500,^ESCTCA400560,,Calcific coronary arteriosclerosis,92517006,153074019,,32
+4775931000006111,5,^ESCTAB477593,,Aborted myocardial infarction,194821006,2619483012,,32
+4776021000006118,1,^ESCTIS477602,,Ischemic heart disease - angina,194828000,299761018,,32
+4776031000006115,30,^ESCTIS477603,,Ischaemic heart disease - angina,194828000,299762013,,32
+4776051000006110,10,^ESCTSI477605,,Single vessel coronary artery disease,194842008,2535853014,,32
+4776081000006119,9,^ESCTDO477608,,Double vessel coronary artery disease,194843003,2535854015,,32
+4776121000006117,2000,^ESCTGE477612,,Generalised ischaemic myocardial dysfunction,194849004,299795019,,32
+4776141000006112,20,^ESCTIS477614,,Ischemic cardiomyopathy,194849004,299794015,,32
+5056201000006111,80,^ESCTTR505620,,Triple vessel coronary artery disease,233817007,2535923015,,32
+5056261000006112,2,^ESCTAS505626,,Asymptomatic ischaemia,233823002,350356015,,32
+5056471000006118,1,^ESCTAC505647,,Accelerated coronary artery disease in transplanted heart,233844002,350378010,,32
+5974561000006110,1,^ESCTHI597456,,History of treatment for ischaemic heart disease,308068007,2986970011,,32
+6052911000006117,100,^ESCTAT605291,,At risk of coronary heart disease,315016007,459477013,,31
+6060001000006112,1,^ESCTPR606000,,Primary prevention of ischemic heart disease,315610002,460128016,,1
+6360351000006112,200,^ESCTMU636035,,Multi vessel coronary artery disease,371803003,1210398011,,32
+6360361000006114,50,^ESCTLE636036,,Left main coronary artery disease,371804009,1210399015,,32
+6650571000006114,1,^ESCTCO665057,,Coronary heart disease monitoring status,401247006,1780441018,,31
+6841231000006113,20,^ESCTAC684123,,Acute ischaemic heart disease,413439005,2534668015,,32
+6847761000006118,2,^ESCTCH684776,,Chronic ischemic heart disease,413838009,2534671011,,32
+6860251000006115,100,^ESCTIS686025,,Ischemic heart disease,414545008,2534663012,,32
+6860261000006118,40,^ESCTIH686026,,IHD - Ischemic heart disease,414545008,2537479013,,32
+6946631000006113,1,^ESCTOB694663,,Obliterative coronary artery disease,420006002,2578015012,,32
+7080821000006111,1,^ESCTCO708082,,Coronary arteriosclerosis due to radiation,427919004,2694044011,,32
+7100421000006116,1,^ESCTRE710042,,Recurrent coronary arteriosclerosis after percutaneous transluminal coronary angioplasty,429245005,2693393017,,32
+7106991000006111,1,^ESCTCO710699,,Coronary arteriosclerosis of coronary artery bypass graft,429673002,2694939019,,32
+7278491000006111,2,^ESCTAT727849,,Atherosclerosis of coronary artery,443502000,2842574013,,32
+7475751000006117,20,^ESCTIS747575,,Ischaemic dilated cardiomyopathy due to coronary artery disease,472100003,2951007019,,32
+7518321000006118,30,^ESCTCO751832,,Coronary artery disease absent,699196002,2983022014,,27
+7573181000006118,30,^ESCTHE757318,,Heart failure with reduced ejection fraction due to coronary artery disease,703273002,3008136010,,32
+7703511000006110,5,^ESCTSU770351,,Subacute ischaemic heart disease,713405002,3289285016,,32
+7789771000006114,2,^ESCTNO778977,,Non-obstructive atherosclerosis of coronary artery,719678003,3317410017,,32
+8079871000006116,7000,^ESCTCO807987,,Coronary heart disease monitoring telephone invitation,248461000000107,1153801000000119,,37
+8259701000006112,4,^ESCTRE825970,,Referral to coronary heart disease clinic,809581000000109,2112861000000118,,31
+8459551000006115,5000,^ESCTCO845955,,Coronary heart disease monitoring invitation,1083121000000102,2714171000000118,,37
+8459561000006118,100,^ESCTCO845956,,Coronary heart disease monitoring invitation email,1083131000000100,2714191000000119,,37
+9868461000006110,10,^ESCTUN986846,,Unstable angina co-occurrent and due to coronary arteriosclerosis,15960061000119102,3323416014,,32
+11930511000006119,20,^ESCT1193051,,Framingham coronary heart disease 10 year risk score adjusted to Joint British Societies 2 guidelines,514891000000105,1144941000000112,,32
+12626301000006112,5000,^ESCT1262630,,QOF (Quality and Outcomes Framework) secondary prevention of coronary heart disease quality indicator-related care invitation,1110881000000106,2779741000000117,,37
+12734391000006116,300,^ESCT1273439,,QOF (Quality and Outcomes Framework) secondary prevention of coronary heart disease quality indicator-related care invitation using preferred method of communication,143451000000101,1628371000000114,,37
+13823711000006118,5000,^ESCT1382371,,Coronary heart disease monitoring first letter,401250009,3767916014,,37
+14015311000006110,2,^ESCT1401531,,Coronary artery disease due to type 2 diabetes mellitus,16891151000119103,3778765010,,32
+14194701000006115,3,^ESCT1419470,,Myocardial infarction due to atherothrombotic coronary artery disease,726499301000119105,4030229011,,32

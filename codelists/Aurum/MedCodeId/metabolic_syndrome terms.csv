@@ -1,0 +1,6 @@
+"searchterms","exclusionterms","searched_in_column","searchmethod"
+"Dysmetabolic syndrome",,"Term","default stringr::str_detect() search method"
+"Insulin resistance syndrome",,,
+"Metabolic syndrome",,,
+"Syndrome X",,,
+"Reaven's syndrome",,,

@@ -1,0 +1,8 @@
+"searchterms","exclusionterms","searched_in_column","searchmethod"
+"(?=.*fract)(?=.*hip)","family history","Term","termsearch <- function(lookup, terms) {stringr::str_detect(lookup, stringr::regex(paste(terms, collapse = '|'), ignore_case = TRUE))}; initial <- dplyr::filter(DATA, termsearch(COLUMN, SEARCHTERMS)); excluded <- dplyr::filter(initial, termsearch(COLUMN, EXCLUSIONTERMS); final <- dplyr::setdiff(inital, excluded)"
+"(?=.*fract)(?=.*trochant)","score",,
+"(?=.*fract)(?=.*neck)(?=.*fem)","FH:",,
+"(?=.*fract)(?=.*troch)(?=.*fem)","risk assessment",,
+"(?=.*fract)(?=.*prox)(?=.*fem)","frax",,
+"(?=.*fract)(?=.*head)(?=.*fem)",,,
+"(?=.*fract)(?=.*subcap)(?=.*fem)",,,

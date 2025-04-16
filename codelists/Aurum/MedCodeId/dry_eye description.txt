@@ -1,0 +1,9 @@
+# -----------------------------------------------------------------------------
+Clinical codelist for dry eye
+
+Author: Julian Matthewman
+Created on 1 April 2025
+Created by searching the 2023_03 CPRD Aurum Medical code browser
+Terminologies: CPRD MedCode, SNOMED-CT, Read	
+Short description: Codes for dry eye; does not include sicca or sjögren syndrome
+# -----------------------------------------------------------------------------

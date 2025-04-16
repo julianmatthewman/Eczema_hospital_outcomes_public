@@ -1,0 +1,210 @@
+MedCodeId,Observations,OriginalReadCode,CleansedReadCode,Term,SnomedCTConceptId,SnomedCTDescriptionId,Release,EmisCodeCategoryId
+302011,3000,G73y0,G73y000,Diabetic peripheral angiopathy,127014009,302011,,32
+41903014,6000,G73y2,G73y200,Acrocyanosis,25003006,41903014,,32
+61977017,6000,G73y8,G73y800,Erythromelalgia,37151006,61977017,,32
+61979019,20,G73y8-1,G73y811,Erythralgia,37151006,61979019,,32
+87210015,4000,G7310,G731000,Buerger's disease,52403007,87210015,,32
+105536013,500000,G73z0,G73z000,Intermittent claudication,63491006,105536013,,32
+115848011,50,G7020,G702000,Monckeberg's medial sclerosis,69742007,115848011,,32
+124092018,900,G73y7,G73y700,Erythrocyanosis,74725000,124092018,,32
+262265016,2000,5593,5593.00,Femoral arteriogram abnormal,168953002,262265016,,41
+271416011,800,7A103,7A10300,Axillo-unifemoral PTFE bypass graft,175279003,271416011,,32
+271430018,40,7A11z,7A11z00,Replacement of aneurysmal bifurcation of aorta NOS,175282008,271419016,,32
+271444012,40,7A12y,7A12y00,Other specified other bypass of bifurcation of aorta,233373009,349683014,,32
+271445013,200,7A12z,7A12z00,Other bypass of bifurcation of aorta NOS,233373009,349683014,,32
+271865013,3,7A41E,7A41E00,Emergency bypass of iliac artery by unspecified anastomosis,405477007,2157280014,,32
+271867017,30,7A41y,7A41y00,Other specified other bypass of iliac artery,116360008,183983017,,32
+271868010,200,7A41z,7A41z00,Other bypass of iliac artery NOS,116360008,183983017,,32
+271880019,20,7A42y,7A42y00,Other specified reconstruction of iliac artery,265516003,394326010,,32
+271881015,40,7A42z,7A42z00,Reconstruction of iliac artery NOS,265516003,394326010,,32
+271891014,400,7A432,7A43200,Operation on aneurysm of iliac artery NEC,265516003,394326010,,32
+271895017,20,7A43y,7A43y00,Other specified other open operation on iliac artery,265511008,394321017,,32
+271896016,30,7A43z,7A43z00,Other open operation on iliac artery NOS,265511008,394321017,,32
+271900018,20000,7A440,7A44000,Percutaneous transluminal angioplasty of iliac artery,175612005,271900018,,32
+271905011,6000,7A443,7A44300,Insertion of iliac artery stent,175615007,271905011,,32
+271907015,30,7A44y,7A44y00,Other specified transluminal operation on iliac artery,265522007,394333010,,32
+271908013,30,7A44z,7A44z00,Transluminal operation on iliac artery NOS,265522007,394333010,,32
+272003016,3000,7A48z,7A48z00,Other bypass of femoral artery or popliteal artery NOS,405469008,2157272019,,32
+272013012,10000,7A492,7A49200,Femoral endarterectomy,16589005,28064017,,32
+272014018,200,7A493,7A49300,Endarterectomy of popliteal artery,233310004,349583017,,32
+272017013,700,7A496,7A49600,Profundoplasty of femoral artery NEC,405376002,2157187018,,32
+272018015,30,7A497,7A49700,Profundoplasty of popliteal artery NEC,405376002,2157187018,,32
+272019011,200,7A498,7A49800,Reconstruction of femoral artery with vein graft,175697003,272019011,,32
+272020017,200,7A499,7A49900,Reconstruction of popliteal artery with vein graft,175698008,272020017,,32
+272022013,100,7A49z,7A49z00,Reconstruction of femoral or popliteal artery NOS,265528006,394340011,,32
+272029016,700,7A4A0,7A4A000,Repair of femoral artery NEC,265528006,394340011,,32
+272030014,500,7A4A1,7A4A100,Repair of popliteal artery,405375003,2157186010,,32
+272031013,3000,7A4A2,7A4A200,Open embolectomy of femoral artery,175704008,272031013,,32
+272032018,900,7A4A2-1,7A4A211,Open thrombectomy of femoral artery,175704008,272032018,,32
+272033011,2000,7A4A2-2,7A4A212,Open femoral embolectomy,175704008,272033011,,32
+272034017,400,7A4A3-1,7A4A311,Open thrombectomy of popliteal artery,175705009,272034017,,32
+272035016,1000,7A4A3,7A4A300,Open embolectomy popliteal artery,175705009,272035016,,32
+272036015,400,7A4A4,7A4A400,Ligation of aneurysm of popliteal artery,175706005,272036015,,32
+272037012,1000,7A4A5,7A4A500,Operation on aneurysm of femoral artery NEC,265528006,394340011,,32
+272038019,500,7A4A6,7A4A600,Operation on popliteal artery NEC,118805000,183489012,,32
+272041011,10,7A4A7,7A4A700,Repair of femoral artery with temporary silastic shunt,175710008,272041011,,32
+272042016,4,7A4A8,7A4A800,Repair of popliteal artery with temporary silastic shunt,175711007,272042016,,32
+272052017,40000,7A4B0,7A4B000,Percutaneous transluminal angioplasty of femoral artery,175715003,272052017,,32
+272059014,70,7A4B4,7A4B400,Percutaneous transluminal embolisation of femoral artery,175719009,272059014,,32
+272061017,10,7A4B5,7A4B500,Percutaneous transluminal embolisation of popliteal artery,175720003,272061017,,32
+272076013,4,7A501,7A50100,Revision of reconstruction involving iliac artery,175731006,272076013,,32
+272077016,200,7A502,7A50200,Revision of reconstruction involving femoral artery,175732004,272077016,,32
+272078014,40,7A503,7A50300,Revision of reconstruction of popliteal artery,175733009,272078014,,32
+286570019,100,A3A0F,A3A0F00,Gas gangrene-foot,186423003,286570019,,32
+292523015,700,C107z,C107z00,Diabetes mellitus NOS with peripheral circulatory disorder,421895002,2618203015,,32
+300434013,300,G702z,G702z00,Extremity artery atheroma NOS,195254008,300433019,,32
+300496013,60000,G7300,G730000,Raynaud's disease,195295006,300496013,,32
+300500010,7000,G730z,G730z00,Raynaud's syndrome NOS,195295006,300496013,,32
+300502019,10,G7311,G731100,Presenile gangrene,195299000,300502019,,32
+300503012,90,G731z,G731z00,Thromboangiitis obliterans NOS,52403007,87208017,,32
+300505017,20000,G7320,G732000,Gangrene of toe,195302000,300505017,,32
+300506016,5000,G7321,G732100,Gangrene of foot,195303005,300506016,,32
+300507013,1000,G7322,G732200,Gangrene of finger,195304004,300507013,,32
+300508015,70,G7323,G732300,Gangrene of thumb,195305003,300508015,,32
+300509011,200,G7324,G732400,Gangrene of hand,195306002,300509011,,32
+300511019,70,G73y1,G73y100,Peripheral angiopathic disease EC NOS,400047006,1779317016,,32
+300512014,700,G73y6,G73y600,Acroparaesthesia - unspecified,79256006,131501015,,32
+300514010,6000,G73yz,G73yz00,Other specified peripheral vascular disease NOS,400047006,1779317016,,32
+300515011,100000,G73zz,G73zz00,Peripheral vascular disease NOS,400047006,1779317016,,32
+300550015,5000,G742z,G742z00,Peripheral arterial embolism and thrombosis NOS,195318006,300534011,,32
+300963017,300,Gyu74,Gyu7400,[X]Other specified peripheral vascular diseases,400047006,1779317016,,32
+300970017,30,Gyu7A,Gyu7A00,[X]Peripheral angiopathy in diseases classified elsewhere,400047006,1779317016,,32
+309177010,20000,M2710,M271000,Ischaemic ulcer diabetic foot,201250006,309177010,,32
+309180011,20000,M2712,M271200,Mixed diabetic ulcer - foot,201252003,309180011,,32
+317347010,1000,R0542,R054200,[D]Gangrene of toe in diabetic,195302000,300505017,,32
+317348017,200,R0543,R054300,[D]Widespread diabetic foot gangrene,195303005,300506016,,32
+317351012,2000,R0550,R055000,Shock,27942005,46780018,,32
+349652010,20,7A42-1,7A42.11,Reconstruction of common iliac artery,233345007,349652010,,32
+349661010,200,7A48-6,7A48.16,Other bypass of superficial femoral artery,405463009,2157266019,,32
+349662015,3000,7A48-5,7A48.15,Popliteal-distal bypass,233384002,349710011,,32
+349663013,6000,7A48-4,7A48.14,Femoral artery bypass,405463009,2157266019,,32
+349664019,50,7A48-3,7A48.13,Other bypass of deep femoral artery,405463009,2157266019,,32
+349665018,200,7A48-2,7A48.12,Other bypass of common femoral artery,405463009,2157266019,,32
+349666017,200,7A48-1,7A48.11,Other bypass of femoral or popliteal artery by anastomosis,405516005,2157318011,,32
+349667014,600,7A47-6,7A47.16,Other emergency bypass of femoral artery,405463009,2157266019,,32
+349668016,20,7A47-5,7A47.15,Other emergency bypass of superficial femoral artery,116360008,183983017,,32
+349669012,200,7A47-4,7A47.14,Other emergency bypass of popliteal artery,116360008,183983017,,32
+349670013,4,7A47-3,7A47.13,Other emergency bypass of deep femoral artery,116360008,183983017,,32
+349671012,20,7A47-2,7A47.12,Other emergency bypass of common femoral artery,116360008,183983017,,32
+349677011,10,7A41-1,7A41.11,Other bypass of iliac artery by anastomosis,405477007,2157280014,,32
+349689013,200,7A112-1,7A11211,Y graft of abdominal aortic aneurysm - emergency,233374003,2669093011,,32
+350533013,9000,G73-3,G73..13,Peripheral ischaemia,233958001,350533013,,32
+350535018,10000,G73-1,G73..11,Peripheral ischaemic vascular disease,233958001,350535018,,32
+350655010,4000,G7301-1,G730111,Vibratory white finger,234034005,350655010,,32
+350656011,900,G735-1,G735.11,Vibration white finger,234034005,350656011,,32
+394328011,90,7A420-2,7A42012,Iliac endarterectomy and patch,265517007,394328011,,32
+394329015,500,7A421,7A42100,Endarterectomy of iliac artery,307800001,451173017,,32
+394331012,200,7A430,7A43000,Repair of iliac artery,450703003,2916807015,,32
+394332017,200,7A431,7A43100,Open embolectomy of iliac artery,265521000,394332017,,32
+395792010,200000,G7301,G730100,Raynaud's phenomenon,266261006,395792010,,32
+410960011,400,7A113-1,7A11311,Y graft abdominal Aortic aneurysm,275037003,410960011,,32
+410961010,400,7A121-2,7A12112,Dacron aortofemoral Y graft,275038008,410961010,,32
+410962015,100,7A123-2,7A12312,Dacron aortoiliac Y graft,275039000,410962015,,32
+410964019,70,7A420-1,7A42011,Endarterectomy and patch repair of common iliac artery,275041004,410964019,,32
+410965018,200,7A421-1,7A42111,Endarterectomy of common iliac artery,233304004,349571019,,32
+410966017,60,7A43-1,7A43.11,Other open operations on common iliac artery,265511008,394321017,,32
+410967014,200,7A430-1,7A43011,Repair of common iliac artery,450704009,2916913013,,32
+410974016,200,7A49-4,7A49.14,Reconstruction of popliteal artery,275051003,410974016,,32
+410975015,3,7A49-2,7A49.12,Reconstruction of deep femoral artery,275052005,410975015,,32
+410976019,200,7A49-1,7A49.11,Reconstruction of common femoral artery,275053000,410976019,,32
+410977011,400,7A49-3,7A49.13,Reconstruction of femoral artery,275054006,410977011,,32
+410978018,100,7A4A-4,7A4A.14,Other open operations on superficial femoral artery,118805000,183489012,,32
+410979014,200,7A4A-3,7A4A.13,Other open operations on popliteal artery,118805000,183489012,,32
+410980012,2,7A4A-2,7A4A.12,Other open operations on deep femoral artery,118805000,183489012,,32
+410981011,70,7A4A-1,7A4A.11,Other open operations on common femoral artery,118805000,183489012,,32
+411078012,60,7A49-5,7A49.15,Reconstruction of superficial femoral artery,275145005,411078012,,32
+411214011,200,7A431-1,7A43111,Open embolectomy of common iliac artery,275254000,411214011,,32
+411512011,70000,G73z0-1,G73z011,Claudication,63491006,3559347018,,32
+455900010,300,7A433,7A43300,Open insertion of iliac artery stent,312226000,455900010,,32
+503681010,3,G73y5-1,G73y511,Nothnagel's vasomotor acroparaesthesia,77788005,503681010,,32
+1216757012,5,G73y4-1,G73y411,Schultze's simple acroparaesthesia,57105000,1216757012,,32
+1222508013,300,R0550-1,R055011,[D]Peripheral circulatory failure,27942005,46780018,,32
+13791000006111,30,C107y,C107y00,Other specified diabetes mellitus with periph circ comps,421895002,2618203015,,32
+24561000006118,80,7A4Az,7A4Az00,Other open operation on femoral or popliteal artery NOS,118805000,183489012,,32
+24571000006113,200,7A4Ay,7A4Ay00,Other open operation on femoral or popliteal artery OS,118805000,183489012,,32
+31351000006112,40,7A47z,7A47z00,Other emergency bypass of femoral or popliteal artery NOS,116360008,183983017,,32
+31361000006114,30,7A47y,7A47y00,Other emergency bypass of femoral or popliteal artery OS,405516005,2157318011,,32
+32181000006113,40,7A47-1,7A47.11,Other emerg bypass femoral or popliteal art by anastomosis,116360008,183983017,,32
+36061000006118,700,7A48y,7A48y00,Other bypass of femoral artery or popliteal artery OS,405469008,2157272019,,32
+132581000006113,600,G73z1,G73z100,Spasm of peripheral artery,195313002,300519017,,32
+173461000006110,20,7A111,7A11100,Replacement of aneurysmal bifurcation of aorta by anastomosis of aorta to femoral artery,175284009,271422019,,32
+173471000006115,200,7A113,7A11300,Replacement of aneurysmal bifurcation of aorta by anastomosis of aorta to iliac artery,265493005,394303015,,32
+173711000006118,20,7A11y,7A11y00,Replacement of aneurysmal bifurcation of aorta OS,175282008,271419016,,32
+187331000006112,50,7A49y,7A49y00,Reconstruction of femoral or popliteal artery OS,265528006,394340011,,32
+201761000006112,50,7A495,7A49500,Profundoplasty of popliteal artery and patch repair of popliteal artery,175694005,272016016,,32
+201771000006117,200,7A494,7A49400,Profundoplasty of femoral artery and patch repair of deep femoral artery,175693004,272015017,,32
+223991000000116,3000,G700-1,G700.11,Aortoiliac disease,233956002,350529018,,32
+224121000000118,6000,7A121-1,7A12111,Aortic bifurcation bypass graft,233373009,349688017,,32
+239491000006117,9000,7A4B1,7A4B100,Percutaneous angioplasty of popliteal artery,175716002,272053010,,32
+454891000006117,5,G73y5,G73y500,Acroparaesthesia - Nothnagel's type,77788005,503681010,,32
+454901000006118,60,G73y4,G73y400,Acroparaesthesia - Schultze's type,57105000,1216757012,,32
+488631000006116,700,7A123-1,7A12311,Aorto biiliac graft,265495003,394305010,,32
+530051000006117,300,7A101,7A10100,Bypass aorta by anastomosis axillary to femoral artery NEC,233379008,349697018,,32
+530061000006115,2000,7A121,7A12100,Bypass of bifurcation of aorta by anastomosis of aorta to femoral artery,448171003,2900875010,,32
+530071000006110,200,7A123,7A12300,Bypass of bifurcation of aorta by anastomosis of aorta to iliac artery,265495003,394305010,,32
+530091000006111,90,7A419,7A41900,Bypass common iliac artery by aorta/com iliac art anast NEC,116360008,183983017,,32
+530111000006119,400,7A488,7A48800,Bypass femoral artery by fem/peron a anast c prosthesis NEC,233383008,349706013,,32
+530121000006110,500,7A48A,7A48A00,Bypass of femoral artery by anastomosis of femoral artery to peroneal artery using vein graft,448323005,2901040016,,32
+530131000006113,4000,7A480,7A48000,Bypass of femoral artery by anastomosis of femoral artery to popliteal artery using prosthesis,312688006,1780381000000111,,32
+530141000006115,5000,7A482,7A48200,Bypass of femoral artery by anastomosis of femoral artery to popliteal artery using vein graft,50807007,1780371000000114,,32
+530151000006118,400,7A484,7A48400,Bypass femoral artery by fem/tib art anast c prosthesis NEC,233383008,349706013,,32
+530161000006116,900,7A486,7A48600,Bypass of femoral artery by anastomosis of femoral artery to tibial artery using vein graft,448529008,2899845012,,32
+530171000006111,800,7A48C,7A48C00,Femoral-femoral artery vascular bypass,44662004,74498014,,32
+530181000006114,50,7A41A,7A41A00,Bypass iliac artery by aorta/ext iliac art anastomosis NEC,116360008,183983017,,32
+530191000006112,300,7A413,7A41300,Bypass iliac artery by femoral/femoral art anastomosis NEC,233380006,349698011,,32
+530201000006110,500,7A411,7A41100,Bypass of iliac artery by anastomosis of iliac artery to femoral artery,51018000,1780391000000113,,32
+530211000006113,50,7A41D,7A41D00,Bypass iliac artery by iliac/iliac artery anastomosis NEC,116360008,183983017,,32
+530221000006117,200,7A41B,7A41B00,Bypass leg artery by aorta/com femoral art anastomosis NEC,116360008,183983017,,32
+530231000006119,60,7A41C,7A41C00,Bypass leg artery by aorta/deep femoral art anastomosis NEC,405482000,2157285016,,32
+530781000006110,100,7A48B,7A48B00,Bypass popliteal art by pop/peron art anast c vein graft NEC,233384002,349710011,,32
+530791000006113,600,7A48D,7A48D00,Bypass popliteal artery by pop/fem artery anastomosis NEC,112828007,184069011,,32
+530801000006114,20,7A489,7A48900,Bypass popliteal artery by pop/peron art anast c prosth NEC,233384002,349710011,,32
+530811000006112,90,7A481,7A48100,Bypass popliteal artery by pop/pop a anast c prosthesis NEC,233384002,349710011,,32
+530821000006116,200,7A483,7A48300,Bypass popliteal artery by pop/pop a anast c vein graft NEC,233384002,349710011,,32
+530831000006118,50,7A485,7A48500,Bypass popliteal artery by pop/tib a anast c prosthesis NEC,233384002,349710011,,32
+530841000006111,100,7A487,7A48700,Bypass popliteal artery by pop/tib a anast c vein graft NEC,233384002,349710011,,32
+616561000006113,200,C1072,C107200,"Diabetes mellitus, adult with gangrene",421631007,2618206011,,32
+616581000006115,600,C1071,C107100,"Diabetes mellitus, adult, + peripheral circulatory disorder",422166005,2618204014,,32
+616591000006117,30,C1070,C107000,"Diabetes mellitus, juvenile +peripheral circulatory disorder",421365002,2618205010,,32
+639341000006115,60,7A100,7A10000,Emergency bypass of aorta by anastomosis of axillary artery to femoral artery,175276005,271413015,,32
+639371000006111,30,7A120,7A12000,Emergency bypass of bifurcation of aorta by anastomosis of aorta to femoral artery,175290008,271432014,,32
+639381000006114,10,7A122,7A12200,Emergency bypass of bifurcation of aorta by anastomosis of aorta to iliac artery,175292000,271438013,,32
+639391000006112,2,7A414,7A41400,Emerg bypass comm iliac art by aorta/com iliac art anast NEC,116360008,183983017,,32
+639401000006114,10,7A47A,7A47A00,Emerg bypass fem art by fem/peron a anast c vein graft NEC,233383008,349706013,,32
+639411000006112,7,7A478,7A47800,Emerg bypass femoral art by fem/peron art anast c prosth NEC,233383008,349706013,,32
+639421000006116,300,7A472,7A47200,Emerg bypass femoral art by fem/pop a anast c vein graft NEC,112828007,184069011,,32
+639431000006118,300,7A470,7A47000,Emerg bypass femoral art by fem/pop art anast c prosth NEC,112828007,184069011,,32
+639441000006111,50,7A476,7A47600,Emerg bypass femoral art by fem/tib a anast c vein graft NEC,233383008,349706013,,32
+639451000006113,100,7A474,7A47400,Emerg bypass femoral art by fem/tib art anast c prosth NEC,233383008,349706013,,32
+639461000006110,60,7A47C,7A47C00,Emerg bypass femoral artery by fem/fem art anastomosis NEC,116360008,183983017,,32
+639471000006115,40,7A410,7A41000,Emerg bypass iliac art by iliac/femoral art anastomosis NEC,51018000,85012019,,32
+639481000006117,1,7A415,7A41500,Emerg bypass iliac artery by aorta/ext iliac art anast NEC,116360008,183983017,,32
+639491000006119,30,7A412,7A41200,Emerg bypass iliac artery by femoral/femoral art anast NEC,233380006,349698011,,32
+639501000006110,4,7A418,7A41800,Emerg bypass iliac artery by iliac/iliac art anastomosis NEC,447920002,2900285015,,32
+639521000006117,8,7A416,7A41600,Emerg bypass leg artery by aorta/com fem art anastomosis NEC,116360008,183983017,,32
+639531000006119,1,7A417,7A41700,Emerg bypass leg artery by aorta/deep fem anastomosis NEC,405482000,2157285016,,32
+639541000006112,3,7A47B,7A47B00,Emerg bypass pop art by pop/peron art anast c vein graft NEC,233384002,349710011,,32
+639551000006114,30,7A473,7A47300,Emerg bypass pop art by pop/pop art anast c vein graft NEC,233384002,349710011,,32
+639561000006111,30,7A477,7A47700,Emerg bypass pop art by pop/tib art anast c vein graft NEC,233384002,349710011,,32
+639571000006116,2,7A479,7A47900,Emerg bypass popliteal art by pop/peron a anast c prosth NEC,233384002,349710011,,32
+639581000006118,20,7A471,7A47100,Emerg bypass popliteal art by pop/pop art anast c prosth NEC,233384002,349710011,,32
+639591000006115,20,7A475,7A47500,Emerg bypass popliteal art by pop/tib art anast c prosth NEC,233384002,349710011,,32
+639601000006111,60,7A47D,7A47D00,Emerg bypass popliteal artery by pop/fem art anastomosis NEC,116360008,183983017,,32
+639641000006113,8,7A110,7A11000,Emergency replacement of aneurysmal bifurcation of aorta by anastomosis of aorta to femoral artery,175283003,271421014,,32
+639651000006110,30,7A112,7A11200,Emergency replacement of aneurysmal bifurcation of aorta by anastomosis of aorta to iliac artery,265492000,394302013,,32
+640081000006119,200,7A412-1,7A41211,Emergency femoro-femoral prosthetic cross over graft,275040003,410963013,,32
+641681000006116,3000,7A490,7A49000,Endarterectomy of femoral artery and patch repair of femoral artery,175689005,272011014,,32
+641691000006118,200,7A420,7A42000,Endarterectomy of iliac artery and patch repair of iliac artery,265517007,394327018,,32
+641701000006118,90,7A491,7A49100,Endarterectomy of popliteal artery and patch repair of popliteal artery,175690001,272012019,,32
+668731000006114,700,7A413-1,7A41311,Femoro-femoral prosthetic cross over graft,175685004,272001019,,32
+668741000006116,2000,7A48E,7A48E00,Femorofemoral prosthetic crossover graft,175685004,272001019,,32
+674961000006118,400,C1074,C107400,Peripheral circulatory disorder associated with type 2 diabetes mellitus,422166005,2623039019,,32
+742481000006118,30000,G73-2,G73..12,Ischaemic leg,233961000,350546015,,32
+785611000006113,500,7A41F,7A41F00,Ilio-femoral prosthetic cross over graft,175594003,271866014,,32
+787101000006114,100,C1073,C107300,IDDM with peripheral circulatory disorder,421895002,2618203015,,32
+884571000006119,200,G702-99,G702.99,Atherosclerosis of extremities,195254008,884571000006119,,32
+884611000006112,8000,G73z-99,G73z.99,Peripheral vasc. disease NOS,646351000000103,884611000006112,,32
+884621000006116,4000,G73zz-99,G73zz99,Peripheral vasc. disease NOS,646351000000103,884621000006116,,32
+884661000006110,700,G742z-99,G742z99,Peripheral arterial embolism,583731000000103,884661000006110,,32
+931881000006115,200,7A4B0-99,7A4B099,Angioplasty of femoral artery,175715003,931881000006115,,32
+1715241000006112,1000,G73z0-2,G73z012,Vascular claudication,63491006,105536013,,32

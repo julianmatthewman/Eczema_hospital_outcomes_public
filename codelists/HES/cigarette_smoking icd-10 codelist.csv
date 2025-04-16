@@ -1,0 +1,15 @@
+code,icd_description,smokstatus
+F17,Mental and behavioural disorders due to use of tobacco,current smoker
+F17.0,Men & behav dis due use tobacco: acute intoxication,current smoker
+F17.1,Men & behav dis due use tobacco: harmful use,current smoker
+F17.2,Men & behav dis due use tobacco: dependence syndrome,current smoker
+F17.3,Men & behav dis due use tobacco: withdrawl state,current or ex-smoker
+F17.4,Men & behav dis due use tobacco: withdrawl state + delirium,current or ex-smoker
+F17.5,Men & behav dis due use tobacco: psychotic disorder,current smoker
+F17.6,Men & behav dis due use tobacco: amnesic syndrome,current smoker
+F17.7,Men & behav dis due use tobacco: res & late-ons psych dis,current smoker
+F17.8,Men & behav dis due use tobacco: oth men & behav dis,current smoker
+F17.9,Men & behav dis due use tobacco: unsp men & behav dis,current smoker
+T65.2,Toxic effect of tobacco and nicotine,current smoker
+Z71.6,Tobacco abuse counselling,current smoker
+Z72.0,Tobacco use,current smoker

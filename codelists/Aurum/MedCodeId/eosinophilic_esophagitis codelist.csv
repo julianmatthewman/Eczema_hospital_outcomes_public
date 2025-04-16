@@ -1,0 +1,3 @@
+MedCodeId,Observations,OriginalReadCode,CleansedReadCode,Term,SnomedCTConceptId,SnomedCTDescriptionId,Release,EmisCodeCategoryId
+353159016,10000,J1017,J101700,Eosinophilic oesophagitis,235599003,353159016,,32
+5082651000006117,7,^ESCTEO508265,,Eosinophilic esophagitis,235599003,353158012,,32

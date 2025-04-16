@@ -1,0 +1,2 @@
+code,description,coding_system,concept_id,concept_version_id,concept_name,phenotype_id,phenotype_version_id,phenotype_name,code_attributes
+K76.6,Portal hypertension,ICD10 codes,C1375,3889,Portal hypertension - Secondary care - Diagnoses,PH243,486,Portal hypertension,"{'Disease': 'Portal hypertension', 'Category': 'Diagnosis of Portal hypertension'}"
