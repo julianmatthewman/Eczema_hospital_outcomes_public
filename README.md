@@ -1,4 +1,6 @@
 # Code and codelists for "Mapping risks of hospital-recorded health conditions in people with eczema"
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17433429.svg)](https://doi.org/10.5281/zenodo.17433429)
+
 Pre-print available at: https://doi.org/10.1101/2025.03.24.25324470
 
 Dashboard available at: https://julianmatthewman.github.io/Eczema_hospital_outcomes_public/
